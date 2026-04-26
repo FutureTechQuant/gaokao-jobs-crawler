@@ -31,13 +31,14 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 5
     env:
       PLAN_YEARS: ${{ inputs.years }}
       SAMPLE_SCHOOLS: ${{ inputs.sample_schools }}
       PLAN_MAX_WORKERS: ${{ inputs.max_workers }}
       PLAN_RESUME: "1"
       PLAN_TIME_LIMIT_SECONDS: "17100"
+      PLAN_CHUNK_RECORD_LIMIT: "200000"
       GH_TOKEN: ${{ github.token }}
 
     steps:
@@ -55,11 +56,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run crawler
-        id: crawl
+      - name: Ensure release exists
         shell: bash
         run: |
-          mkdir -p data
+          gh release view plans-data >/dev/null 2>&1 || \
+          gh release create plans-data --title "plans-data" --notes "Chunked plans crawler output"
+
+      - name: Restore progress from release
+        shell: bash
+        run: |
+          mkdir -p data/chunks release-download
+
+          gh release download plans-data \
+            -p "plans_progress.json" \
+            -p "manifest.json" \
+            -D release-download || true
+
+          [ -f release-download/plans_progress.json ] && cp release-download/plans_progress.json data/plans_progress.json || true
+          [ -f release-download/manifest.json ] && cp release-download/manifest.json data/manifest.json || true
+
+      - name: Run crawler
+        shell: bash
+        run: |
+          mkdir -p data/chunks
           python -m crawlers.plans "${PLAN_YEARS}" | tee crawl.log
 
           python - <<'PY'
@@ -68,16 +87,19 @@ jobs:
 
           progress_path = Path("data/plans_progress.json")
           meta = {}
+          chunk_files = []
 
           if progress_path.exists():
               progress = json.loads(progress_path.read_text(encoding="utf-8"))
               meta = progress.get("meta", {})
+              chunk_files = progress.get("chunk_files", [])
 
           Path("resume.env").write_text(
               "\n".join([
                   f"RESUME_REQUIRED={str(meta.get('resume_required', False)).lower()}",
                   f"RESUME_YEARS={meta.get('years_arg', '')}",
                   f"REMAINING_TASKS={meta.get('remaining_tasks', 0)}",
+                  f"CHUNK_FILES={' '.join(chunk_files)}",
               ]) + "\n",
               encoding="utf-8"
           )
@@ -91,26 +113,38 @@ jobs:
         with:
           name: plans-${{ github.run_id }}-${{ github.run_attempt }}
           path: |
-            data/plans.json
             data/plans_progress.json
+            data/manifest.json
+            data/chunks
             crawl.log
           if-no-files-found: warn
 
-      - name: Commit progress data
+      - name: Upload chunks to release
+        if: always()
+        shell: bash
+        run: |
+          if compgen -G "data/chunks/*.jsonl.gz" > /dev/null; then
+            gh release upload plans-data data/chunks/*.jsonl.gz --clobber
+          fi
+
+          [ -f data/plans_progress.json ] && gh release upload plans-data data/plans_progress.json --clobber
+          [ -f data/manifest.json ] && gh release upload plans-data data/manifest.json --clobber
+
+      - name: Commit only metadata
         if: always()
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/plans.json data/plans_progress.json || true
+          git add data/plans_progress.json data/manifest.json || true
 
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update plans data (${PLAN_YEARS}) [skip ci]"
+            git commit -m "chore: update plans metadata (${PLAN_YEARS}) [skip ci]"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin HEAD:"${GITHUB_REF_NAME}"
           else
-            echo "No data changes to commit"
+            echo "No metadata changes to commit"
           fi
 
       - name: Trigger resume workflow
