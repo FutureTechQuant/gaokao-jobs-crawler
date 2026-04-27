@@ -217,8 +217,6 @@ class JobCrawler(BaseCrawler):
                 print(f"      province数量: {len(data.get('province') or [])}")
                 print(f"      attr数量: {len(data.get('attr') or {})}")
                 print(f"      company数量: {len(data.get('company') or {})}")
-                print('      ' + '─' * 50 + '
-')
                 self._first_logged = True
 
             payload = self.normalize_school_payload(school, data)
