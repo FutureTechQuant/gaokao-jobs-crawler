@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 15:57:44",
+  "school_id": "1352",
+  "school_name": "四川警察学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "84.09"
+    },
+    "postgraduate": {
+      "1": "0.96"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [
+    {
+      "id": "25167",
+      "school_id": "1352",
+      "province": "川西北地区",
+      "rate": "4.98",
+      "num": "60",
+      "sort": "60",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:19:12",
+      "year": "2023",
+      "province_name": "川西北地区"
+    },
+    {
+      "id": "25168",
+      "school_id": "1352",
+      "province": "省外",
+      "rate": "7.05",
+      "num": "85",
+      "sort": "85",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:19:12",
+      "year": "2023",
+      "province_name": "省外"
+    },
+    {
+      "id": "25166",
+      "school_id": "1352",
+      "province": "攀西地区",
+      "rate": "7.39",
+      "num": "89",
+      "sort": "89",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:19:12",
+      "year": "2023",
+      "province_name": "攀西地区"
+    },
+    {
+      "id": "25165",
+      "school_id": "1352",
+      "province": "川东北地区",
+      "rate": "15.44",
+      "num": "186",
+      "sort": "186",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:19:12",
+      "year": "2023",
+      "province_name": "川东北地区"
+    },
+    {
+      "id": "25164",
+      "school_id": "1352",
+      "province": "川南地区",
+      "rate": "19.17",
+      "num": "231",
+      "sort": "231",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:19:12",
+      "year": "2023",
+      "province_name": "川南地区"
+    },
+    {
+      "id": "25163",
+      "school_id": "1352",
+      "province": "成都平原地区",
+      "rate": "45.98",
+      "num": "554",
+      "sort": "554",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:19:12",
+      "year": "2023",
+      "province_name": "成都平原地区"
+    }
+  ],
+  "attr": {
+    "机关": "85.52",
+    "其他": "4.43",
+    "其他企业": "4.08",
+    "其他事业单位": "3.65",
+    "国有企业": "1.22",
+    "三资企业": "0.78",
+    "高等教育单位": "0.17",
+    "农村建制村": "0.09",
+    "城镇社区": "0.09"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2181",
+      "school_id": "1352",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "71.76",
+      "female_rate": "28.24",
+      "update_id": "1211",
+      "update_time": "2025-01-07 17:07:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

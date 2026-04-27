@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 15:45:17",
+  "school_id": "82",
+  "school_name": "天津科技大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.02"
+    },
+    "postgraduate": {
+      "1": "18.87"
+    },
+    "abroad": {
+      "1": "2.74"
+    }
+  },
+  "province": [
+    {
+      "id": "7231",
+      "school_id": "82",
+      "province": "其他省市",
+      "rate": "10.64",
+      "num": "511",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "7228",
+      "school_id": "82",
+      "province": "中部地区",
+      "rate": "5.13",
+      "num": "246",
+      "sort": "246",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "7229",
+      "school_id": "82",
+      "province": "西部地区",
+      "rate": "5.93",
+      "num": "285",
+      "sort": "285",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "7232",
+      "school_id": "82",
+      "province": "东部地区",
+      "rate": "17.57",
+      "num": "844",
+      "sort": "844",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "7230",
+      "school_id": "82",
+      "province": "天津市",
+      "rate": "60.73",
+      "num": "2918",
+      "sort": "2918",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "天津市"
+    }
+  ],
+  "attr": {
+    "企业单位": "49.29",
+    "自由职业": "22.69",
+    "升学(含出国、出境)": "20.96",
+    "机关、事业单位": "5.87",
+    "部队": "0.82",
+    "自主创业": "0.29",
+    "其他": "0.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1596",
+      "school_id": "82",
+      "female_num": "3366",
+      "men_num": "3429",
+      "men_rate": "50.46",
+      "female_rate": "49.54",
+      "update_id": "1639",
+      "update_time": "2024-06-10 09:57:35",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

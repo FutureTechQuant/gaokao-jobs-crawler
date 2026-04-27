@@ -1,0 +1,167 @@
+{
+  "update_time": "2026-04-27 16:07:03",
+  "school_id": "2313",
+  "school_name": "长春光华学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "75.83"
+    },
+    "postgraduate": {
+      "1": "4.49"
+    },
+    "abroad": {
+      "1": "0.33"
+    }
+  },
+  "province": [
+    {
+      "id": "24139",
+      "school_id": "2313",
+      "province": "天津市",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "天津市"
+    },
+    {
+      "id": "24138",
+      "school_id": "2313",
+      "province": "广东省",
+      "rate": "2.62",
+      "num": "0",
+      "sort": "262",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "24137",
+      "school_id": "2313",
+      "province": "上海市",
+      "rate": "3.04",
+      "num": "0",
+      "sort": "304",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "上海市"
+    },
+    {
+      "id": "24136",
+      "school_id": "2313",
+      "province": "北京市",
+      "rate": "4.63",
+      "num": "0",
+      "sort": "463",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "北京市"
+    },
+    {
+      "id": "24135",
+      "school_id": "2313",
+      "province": "江苏省",
+      "rate": "5.90",
+      "num": "0",
+      "sort": "590",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "24134",
+      "school_id": "2313",
+      "province": "山东省",
+      "rate": "6.04",
+      "num": "0",
+      "sort": "604",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "山东省"
+    },
+    {
+      "id": "24133",
+      "school_id": "2313",
+      "province": "辽宁省",
+      "rate": "6.79",
+      "num": "0",
+      "sort": "679",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "24132",
+      "school_id": "2313",
+      "province": "浙江省",
+      "rate": "11.00",
+      "num": "0",
+      "sort": "1100",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "24140",
+      "school_id": "2313",
+      "province": "其他地区",
+      "rate": "15.46",
+      "num": "0",
+      "sort": "1546",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "24131",
+      "school_id": "2313",
+      "province": "吉林省",
+      "rate": "42.32",
+      "num": "0",
+      "sort": "4232",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:41:46",
+      "year": "2022",
+      "province_name": "吉林省"
+    }
+  ],
+  "attr": {
+    "其他企业": "45.17",
+    "其他": "41.25",
+    "国有企业": "6.07",
+    "三资企业": "3.83",
+    "其他事业单位": "0.97",
+    "城镇社区": "0.97",
+    "机关": "0.87",
+    "中初教育单位": "0.87"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2114",
+      "school_id": "2313",
+      "female_num": "2065",
+      "men_num": "984",
+      "men_rate": "32.27",
+      "female_rate": "67.73",
+      "update_id": "2094",
+      "update_time": "2024-12-30 14:31:03",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

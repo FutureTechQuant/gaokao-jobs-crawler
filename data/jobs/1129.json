@@ -1,0 +1,93 @@
+{
+  "update_time": "2026-04-27 15:55:53",
+  "school_id": "1129",
+  "school_name": "中国矿业大学徐海学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.81"
+    },
+    "postgraduate": {
+      "1": "12.35"
+    },
+    "abroad": {
+      "1": "0.59"
+    }
+  },
+  "province": [
+    {
+      "id": "9451",
+      "school_id": "1129",
+      "province": "其他省市",
+      "rate": "15.40",
+      "num": "288",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "9450",
+      "school_id": "1129",
+      "province": "西部地区",
+      "rate": "2.89",
+      "num": "54",
+      "sort": "54",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "9449",
+      "school_id": "1129",
+      "province": "中部地区",
+      "rate": "5.45",
+      "num": "102",
+      "sort": "102",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "9452",
+      "school_id": "1129",
+      "province": "东部地区",
+      "rate": "76.26",
+      "num": "1426",
+      "sort": "1426",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "企业单位": "81.70",
+    "升学": "12.35",
+    "事业单位": "1.39",
+    "机关": "0.80",
+    "出国": "0.69",
+    "其他": "3.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "251",
+      "school_id": "1129",
+      "female_num": "695",
+      "men_num": "1175",
+      "men_rate": "62.83",
+      "female_rate": "37.17",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 15:53:32",
+  "school_id": "874",
+  "school_name": "江西警察学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.29"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32454",
+      "school_id": "874",
+      "province": "青海省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "373",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "青海省"
+    },
+    {
+      "id": "32453",
+      "school_id": "874",
+      "province": "云南省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "374",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "32452",
+      "school_id": "874",
+      "province": "安徽省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "375",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "32451",
+      "school_id": "874",
+      "province": "河北省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "376",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "32450",
+      "school_id": "874",
+      "province": "陕西省",
+      "rate": "0.22",
+      "num": "2",
+      "sort": "377",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "32449",
+      "school_id": "874",
+      "province": "海南省",
+      "rate": "0.22",
+      "num": "2",
+      "sort": "378",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "海南省"
+    },
+    {
+      "id": "32448",
+      "school_id": "874",
+      "province": "广东省",
+      "rate": "0.22",
+      "num": "2",
+      "sort": "379",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "32447",
+      "school_id": "874",
+      "province": "上海市",
+      "rate": "0.44",
+      "num": "4",
+      "sort": "380",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "32446",
+      "school_id": "874",
+      "province": "辽宁省",
+      "rate": "0.87",
+      "num": "8",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "32445",
+      "school_id": "874",
+      "province": "北京市",
+      "rate": "0.87",
+      "num": "8",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "32444",
+      "school_id": "874",
+      "province": "西藏自治区",
+      "rate": "3.17",
+      "num": "29",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "西藏自治区"
+    },
+    {
+      "id": "32443",
+      "school_id": "874",
+      "province": "浙江省",
+      "rate": "93.55",
+      "num": "856",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:43:15",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {
+    "公务员": "99.78",
+    "办事人员和有关人员": "0.22"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2789",
+      "school_id": "874",
+      "female_num": "145",
+      "men_num": "791",
+      "men_rate": "84.51",
+      "female_rate": "15.49",
+      "update_id": "2156",
+      "update_time": "2025-12-01 16:42:02",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10600"
+  }
+}

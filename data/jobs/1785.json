@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 16:01:25",
+  "school_id": "1785",
+  "school_name": "浙江纺织服装职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.51"
+    },
+    "postgraduate": {
+      "1": "14.75"
+    },
+    "abroad": {
+      "1": "0.50"
+    }
+  },
+  "province": [
+    {
+      "id": "31703",
+      "school_id": "1785",
+      "province": "河南省",
+      "rate": "0.49",
+      "num": "0",
+      "sort": "49",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:07:01",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "31702",
+      "school_id": "1785",
+      "province": "安徽省",
+      "rate": "0.64",
+      "num": "0",
+      "sort": "64",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:07:01",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "31699",
+      "school_id": "1785",
+      "province": "上海市",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:07:01",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "31700",
+      "school_id": "1785",
+      "province": "广东省",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:07:01",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31701",
+      "school_id": "1785",
+      "province": "江苏省",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:07:01",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31698",
+      "school_id": "1785",
+      "province": "浙江省",
+      "rate": "94.27",
+      "num": "0",
+      "sort": "9427",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:07:01",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {
+    "其他民营企业": "84.11",
+    "个体工商户": "7.38",
+    "外商投资企业": "4.53",
+    "国有企业": "3.00",
+    "其他事业单位": "0.55",
+    "机关": "0.18",
+    "中初教育单位": "0.12",
+    "城镇社区": "0.06",
+    "农村建制村": "0.03",
+    "医疗卫生单位": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2719",
+      "school_id": "1785",
+      "female_num": "2473",
+      "men_num": "1499",
+      "men_rate": "37.74",
+      "female_rate": "62.26",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:03:36",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

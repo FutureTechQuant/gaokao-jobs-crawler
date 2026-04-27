@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-04-27 16:12:45",
+  "school_id": "3151",
+  "school_name": "上海科技大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.70"
+    },
+    "postgraduate": {
+      "1": "26.10"
+    },
+    "abroad": {
+      "1": "14.10"
+    }
+  },
+  "province": [
+    {
+      "id": "25639",
+      "school_id": "3151",
+      "province": "北京市",
+      "rate": "0.00",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:17:49",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "25640",
+      "school_id": "3151",
+      "province": "湖南省",
+      "rate": "0.00",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:18:02",
+      "year": "2024",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "25641",
+      "school_id": "3151",
+      "province": "广东省",
+      "rate": "0.00",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:18:12",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "25642",
+      "school_id": "3151",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.00",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:18:32",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "25638",
+      "school_id": "3151",
+      "province": "浙江省",
+      "rate": "0.00",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:17:31",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "25637",
+      "school_id": "3151",
+      "province": "上海市",
+      "rate": "0.00",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:17:17",
+      "year": "2024",
+      "province_name": "上海市"
+    }
+  ],
+  "attr": {
+    "民营、外资、合资企业": "0.00",
+    "事业单位": "0.00",
+    "党政机关": "0.00",
+    "国有企业": "0.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2213",
+      "school_id": "3151",
+      "female_num": "338",
+      "men_num": "809",
+      "men_rate": "70.50",
+      "female_rate": "29.50",
+      "update_id": "1211",
+      "update_time": "2025-01-08 16:13:04",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

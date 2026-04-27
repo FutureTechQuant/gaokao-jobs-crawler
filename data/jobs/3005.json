@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 16:11:58",
+  "school_id": "3005",
+  "school_name": "山东农业工程学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.53"
+    },
+    "postgraduate": {
+      "1": "13.50"
+    },
+    "abroad": {
+      "1": "1.29"
+    }
+  },
+  "province": [
+    {
+      "id": "5965",
+      "school_id": "3005",
+      "province": "北上广",
+      "rate": "11.57",
+      "num": "90",
+      "sort": "90",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "北上广"
+    },
+    {
+      "id": "5964",
+      "school_id": "3005",
+      "province": "山东省",
+      "rate": "17.87",
+      "num": "139",
+      "sort": "139",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    },
+    {
+      "id": "5963",
+      "school_id": "3005",
+      "province": "地区不明确",
+      "rate": "23.39",
+      "num": "180",
+      "sort": "180",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "地区不明确"
+    },
+    {
+      "id": "5962",
+      "school_id": "3005",
+      "province": "回家乡工作",
+      "rate": "47.17",
+      "num": "367",
+      "sort": "367",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "回家乡工作"
+    }
+  ],
+  "attr": {
+    "国有企业、事业单位": "51.54",
+    "国内民营企业": "26.86",
+    "三资企业": "14.14",
+    "自主创业": "7.20",
+    "其他": "0.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "817",
+      "school_id": "3005",
+      "female_num": "471",
+      "men_num": "352",
+      "men_rate": "42.77",
+      "female_rate": "57.23",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6600"
+  }
+}

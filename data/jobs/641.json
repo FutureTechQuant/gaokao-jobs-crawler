@@ -1,0 +1,27 @@
+{
+  "update_time": "2026-04-27 15:51:22",
+  "school_id": "641",
+  "school_name": "罗定职业技术学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2850",
+      "school_id": "641",
+      "female_num": "2304",
+      "men_num": "3204",
+      "men_rate": "58.17",
+      "female_rate": "41.83",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:51:32",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

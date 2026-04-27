@@ -1,0 +1,301 @@
+{
+  "update_time": "2026-04-27 15:53:30",
+  "school_id": "872",
+  "school_name": "豫章师范学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "82.67"
+    },
+    "postgraduate": {
+      "1": "27.08"
+    },
+    "abroad": {
+      "1": "0.12"
+    }
+  },
+  "province": [
+    {
+      "id": "22476",
+      "school_id": "872",
+      "province": "国外",
+      "rate": "0.14",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "国外"
+    },
+    {
+      "id": "22474",
+      "school_id": "872",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.17",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "22475",
+      "school_id": "872",
+      "province": "甘肃省",
+      "rate": "0.17",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "22472",
+      "school_id": "872",
+      "province": "广西壮族自治区",
+      "rate": "0.20",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "22473",
+      "school_id": "872",
+      "province": "北京市",
+      "rate": "0.20",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "22471",
+      "school_id": "872",
+      "province": "天津市",
+      "rate": "0.23",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "天津市"
+    },
+    {
+      "id": "22469",
+      "school_id": "872",
+      "province": "重庆市",
+      "rate": "0.26",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "22470",
+      "school_id": "872",
+      "province": "山东省",
+      "rate": "0.26",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "山东省"
+    },
+    {
+      "id": "22468",
+      "school_id": "872",
+      "province": "贵州省",
+      "rate": "0.40",
+      "num": "14",
+      "sort": "14",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "22467",
+      "school_id": "872",
+      "province": "河南省",
+      "rate": "0.43",
+      "num": "15",
+      "sort": "15",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "22466",
+      "school_id": "872",
+      "province": "安徽省",
+      "rate": "0.46",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "22465",
+      "school_id": "872",
+      "province": "海南省",
+      "rate": "0.46",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "海南省"
+    },
+    {
+      "id": "22464",
+      "school_id": "872",
+      "province": "湖南省",
+      "rate": "0.54",
+      "num": "19",
+      "sort": "19",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "22463",
+      "school_id": "872",
+      "province": "湖北省",
+      "rate": "0.57",
+      "num": "20",
+      "sort": "20",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "22462",
+      "school_id": "872",
+      "province": "四川省",
+      "rate": "0.63",
+      "num": "22",
+      "sort": "22",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "22461",
+      "school_id": "872",
+      "province": "上海市",
+      "rate": "0.77",
+      "num": "27",
+      "sort": "27",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "22460",
+      "school_id": "872",
+      "province": "江苏省",
+      "rate": "0.91",
+      "num": "32",
+      "sort": "32",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "22459",
+      "school_id": "872",
+      "province": "福建省",
+      "rate": "1.57",
+      "num": "55",
+      "sort": "55",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "福建省"
+    },
+    {
+      "id": "22458",
+      "school_id": "872",
+      "province": "浙江省",
+      "rate": "4.40",
+      "num": "154",
+      "sort": "154",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "22457",
+      "school_id": "872",
+      "province": "广东省",
+      "rate": "5.00",
+      "num": "175",
+      "sort": "175",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "22456",
+      "school_id": "872",
+      "province": "江西省",
+      "rate": "81.61",
+      "num": "2857",
+      "sort": "2857",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:38:24",
+      "year": "2023",
+      "province_name": "江西省"
+    }
+  ],
+  "attr": {
+    "其他企业": "42.39",
+    "中初教育单位": "39.97",
+    "其他事业单位": "1.63",
+    "国有企业": "1.67",
+    "机关": "1.62",
+    "其他": "1.18",
+    "三资企业": "0.88",
+    "高等教育单位": "0.48",
+    "医疗卫生单位": "0.09",
+    "城镇社区": "0.09"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1976",
+      "school_id": "872",
+      "female_num": "3330",
+      "men_num": "905",
+      "men_rate": "21.37",
+      "female_rate": "78.63",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:37:01",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

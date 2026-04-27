@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 15:48:34",
+  "school_id": "374",
+  "school_name": "北华大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "84.93"
+    },
+    "postgraduate": {
+      "1": "10.70"
+    },
+    "abroad": {
+      "1": "0.64"
+    }
+  },
+  "province": [
+    {
+      "id": "23262",
+      "school_id": "374",
+      "province": "东北其他地区",
+      "rate": "3.78",
+      "num": "0",
+      "sort": "95",
+      "update_id": "1988",
+      "update_time": "2024-10-17 17:50:59",
+      "year": "2023",
+      "province_name": "东北其他地区"
+    },
+    {
+      "id": "23260",
+      "school_id": "374",
+      "province": "中部地区",
+      "rate": "6.18",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2024-10-17 17:50:12",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "23261",
+      "school_id": "374",
+      "province": "西部地区",
+      "rate": "8.83",
+      "num": "0",
+      "sort": "98",
+      "update_id": "1988",
+      "update_time": "2024-10-17 17:50:43",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "23259",
+      "school_id": "374",
+      "province": "东部地区",
+      "rate": "32.16",
+      "num": "0",
+      "sort": "99",
+      "update_id": "1988",
+      "update_time": "2024-10-17 17:49:46",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "23258",
+      "school_id": "374",
+      "province": "吉林省",
+      "rate": "49.05",
+      "num": "0",
+      "sort": "100",
+      "update_id": "1988",
+      "update_time": "2024-10-17 17:49:16",
+      "year": "2023",
+      "province_name": "吉林省"
+    }
+  ],
+  "attr": {
+    "事业单位": "34.80",
+    "民营企业": "25.38",
+    "国有企业 ": "14.45",
+    "其他": "13.44",
+    "党政机关": "8.04",
+    "三资企业 ": "3.89"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2040",
+      "school_id": "374",
+      "female_num": "4313",
+      "men_num": "2873",
+      "men_rate": "39.98",
+      "female_rate": "60.02",
+      "update_id": "1988",
+      "update_time": "2024-10-17 17:46:31",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

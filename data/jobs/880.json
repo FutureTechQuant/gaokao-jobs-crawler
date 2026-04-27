@@ -1,0 +1,69 @@
+{
+  "update_time": "2026-04-27 15:53:35",
+  "school_id": "880",
+  "school_name": "平顶山学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.07"
+    },
+    "postgraduate": {
+      "1": "6.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "5533",
+      "school_id": "880",
+      "province": "其他省市",
+      "rate": "47.70",
+      "num": "1958",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5534",
+      "school_id": "880",
+      "province": "河南省",
+      "rate": "52.30",
+      "num": "2147",
+      "sort": "2147",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "河南省"
+    }
+  ],
+  "attr": {
+    "民营企业": "37.99",
+    "国有企业": "4.99",
+    "三资企业": "3.00",
+    "部队单位": "1.00",
+    "党政机关、事业单位": "34.00",
+    "其他": "19.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "426",
+      "school_id": "880",
+      "female_num": "2789",
+      "men_num": "1576",
+      "men_rate": "36.10",
+      "female_rate": "63.90",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

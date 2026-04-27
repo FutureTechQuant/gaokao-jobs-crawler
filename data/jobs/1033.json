@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:55:07",
+  "school_id": "1033",
+  "school_name": "右江民族医学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.41"
+    },
+    "postgraduate": {
+      "1": "4.99"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "8630",
+      "school_id": "1033",
+      "province": "广西壮族自治区外",
+      "rate": "10.04",
+      "num": "170",
+      "sort": "170",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "广西壮族自治区外"
+    },
+    {
+      "id": "8631",
+      "school_id": "1033",
+      "province": "广西壮族自治区",
+      "rate": "89.96",
+      "num": "1533",
+      "sort": "1533",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    }
+  ],
+  "attr": {
+    "市区卫生事业单位": "38.97",
+    "县级卫生事业单位": "33.98",
+    "民营医疗机构": "11.97",
+    "乡镇社区医疗机构": "2.00",
+    "其他": "13.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "581",
+      "school_id": "1033",
+      "female_num": "1375",
+      "men_num": "411",
+      "men_rate": "23.01",
+      "female_rate": "76.99",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

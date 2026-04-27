@@ -1,0 +1,141 @@
+{
+  "update_time": "2026-04-27 16:04:25",
+  "school_id": "2056",
+  "school_name": "广州华立学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "83.23"
+    },
+    "postgraduate": {
+      "1": "1.06"
+    },
+    "abroad": {
+      "1": "1.11"
+    }
+  },
+  "province": [
+    {
+      "id": "24677",
+      "school_id": "2056",
+      "province": "江门",
+      "rate": "1.46",
+      "num": "37",
+      "sort": "37",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "江门"
+    },
+    {
+      "id": "24678",
+      "school_id": "2056",
+      "province": "珠海",
+      "rate": "2.17",
+      "num": "55",
+      "sort": "55",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "珠海"
+    },
+    {
+      "id": "24679",
+      "school_id": "2056",
+      "province": "中山",
+      "rate": "2.41",
+      "num": "61",
+      "sort": "61",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "中山"
+    },
+    {
+      "id": "24680",
+      "school_id": "2056",
+      "province": "惠州",
+      "rate": "4.50",
+      "num": "114",
+      "sort": "114",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "惠州"
+    },
+    {
+      "id": "24681",
+      "school_id": "2056",
+      "province": "东莞",
+      "rate": "6.47",
+      "num": "164",
+      "sort": "164",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "东莞"
+    },
+    {
+      "id": "24676",
+      "school_id": "2056",
+      "province": "佛山",
+      "rate": "10.03",
+      "num": "254",
+      "sort": "254",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "佛山"
+    },
+    {
+      "id": "24675",
+      "school_id": "2056",
+      "province": "深圳市",
+      "rate": "20.13",
+      "num": "510",
+      "sort": "510",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "24674",
+      "school_id": "2056",
+      "province": "广州",
+      "rate": "52.80",
+      "num": "1338",
+      "sort": "1338",
+      "update_id": "1988",
+      "update_time": "2025-01-06 15:00:26",
+      "year": "2020",
+      "province_name": "广州"
+    }
+  ],
+  "attr": {
+    "企业单位": "90.19",
+    "自由职业": "2.41",
+    "事业单位": "1.99",
+    "国家机构": "1.83",
+    "三支一扶": "1.11",
+    "自主创业": "0.49"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1283",
+      "school_id": "2056",
+      "female_num": "2331",
+      "men_num": "2478",
+      "men_rate": "51.53",
+      "female_rate": "48.47",
+      "update_id": "825",
+      "update_time": "2022-06-21 17:45:33",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

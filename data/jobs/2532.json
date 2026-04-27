@@ -1,0 +1,199 @@
+{
+  "update_time": "2026-04-27 16:09:22",
+  "school_id": "2532",
+  "school_name": "黑龙江工商学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.59"
+    },
+    "postgraduate": {
+      "1": "1.20"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31145",
+      "school_id": "2532",
+      "province": "其他",
+      "rate": "1.71",
+      "num": "0",
+      "sort": "171",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "31143",
+      "school_id": "2532",
+      "province": "天津",
+      "rate": "2.36",
+      "num": "0",
+      "sort": "236",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "天津"
+    },
+    {
+      "id": "31142",
+      "school_id": "2532",
+      "province": "河北",
+      "rate": "2.46",
+      "num": "0",
+      "sort": "246",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "河北"
+    },
+    {
+      "id": "31141",
+      "school_id": "2532",
+      "province": "河南",
+      "rate": "2.91",
+      "num": "0",
+      "sort": "291",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "河南"
+    },
+    {
+      "id": "31140",
+      "school_id": "2532",
+      "province": "四川",
+      "rate": "3.36",
+      "num": "0",
+      "sort": "336",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "四川"
+    },
+    {
+      "id": "31139",
+      "school_id": "2532",
+      "province": "辽宁",
+      "rate": "3.53",
+      "num": "0",
+      "sort": "353",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "31138",
+      "school_id": "2532",
+      "province": "浙江",
+      "rate": "3.63",
+      "num": "0",
+      "sort": "363",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "31137",
+      "school_id": "2532",
+      "province": "广东",
+      "rate": "4.07",
+      "num": "0",
+      "sort": "407",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "31136",
+      "school_id": "2532",
+      "province": "北京",
+      "rate": "4.28",
+      "num": "0",
+      "sort": "428",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "31135",
+      "school_id": "2532",
+      "province": "江苏",
+      "rate": "4.45",
+      "num": "0",
+      "sort": "445",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "31144",
+      "school_id": "2532",
+      "province": "其他省份",
+      "rate": "17.67",
+      "num": "0",
+      "sort": "1767",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "31134",
+      "school_id": "2532",
+      "province": "黑龙江",
+      "rate": "49.57",
+      "num": "0",
+      "sort": "4957",
+      "update_id": "2314",
+      "update_time": "2025-11-27 12:02:18",
+      "year": "2024",
+      "province_name": "黑龙江"
+    }
+  ],
+  "attr": {
+    "其他企业": "68.76",
+    "国有企业": "5.76",
+    "个体工商户": "4.98",
+    "外商投资企业": "1.92",
+    "中等初等教育": "1.44",
+    "升学": "1.20",
+    "党政机关": "1.05",
+    "其他事业单位": "0.57",
+    "自由职业": "0.48",
+    "医疗卫生单位": "0.30",
+    "应征入伍": "0.30",
+    "自主创业": "0.30",
+    "高等教育单位": "0.24",
+    "国家地方基层项目": "0.15",
+    "城镇社区": "0.09",
+    "农村建制村": "0.06"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2671",
+      "school_id": "2532",
+      "female_num": "1937",
+      "men_num": "1398",
+      "men_rate": "41.92",
+      "female_rate": "58.08",
+      "update_id": "2314",
+      "update_time": "2025-11-27 11:50:06",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

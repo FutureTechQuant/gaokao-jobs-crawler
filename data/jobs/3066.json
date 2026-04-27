@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:12:13",
+  "school_id": "3066",
+  "school_name": "合肥科技职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.03"
+    },
+    "postgraduate": {
+      "1": "7.57"
+    },
+    "abroad": {
+      "1": "0.02"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2539",
+      "school_id": "3066",
+      "female_num": "1290",
+      "men_num": "3269",
+      "men_rate": "72.00",
+      "female_rate": "28.00",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:00:15",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

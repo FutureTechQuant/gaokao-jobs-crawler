@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:04:00",
+  "school_id": "2017",
+  "school_name": "长沙职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "89.64"
+    },
+    "postgraduate": {
+      "1": "6.39"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "33226",
+      "school_id": "2017",
+      "province": "浙江省",
+      "rate": "1.04",
+      "num": "33",
+      "sort": "104",
+      "update_id": "2234",
+      "update_time": "2025-12-03 15:10:56",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "33227",
+      "school_id": "2017",
+      "province": "其他地区",
+      "rate": "6.07",
+      "num": "193",
+      "sort": "607",
+      "update_id": "2234",
+      "update_time": "2025-12-03 15:10:56",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "33225",
+      "school_id": "2017",
+      "province": "广东省",
+      "rate": "14.18",
+      "num": "452",
+      "sort": "1418",
+      "update_id": "2234",
+      "update_time": "2025-12-03 15:10:56",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "33224",
+      "school_id": "2017",
+      "province": "湖南省",
+      "rate": "78.71",
+      "num": "2506",
+      "sort": "7871",
+      "update_id": "2234",
+      "update_time": "2025-12-03 15:10:56",
+      "year": "2024",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "66.90",
+    "其他（含社会组织等）": "12.28",
+    "其他事业单位": "11.19",
+    "其他单位性质": "9.63"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2841",
+      "school_id": "2017",
+      "female_num": "1531",
+      "men_num": "1653",
+      "men_rate": "51.92",
+      "female_rate": "48.08",
+      "update_id": "2234",
+      "update_time": "2025-12-03 15:05:40",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

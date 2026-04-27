@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 16:07:41",
+  "school_id": "2376",
+  "school_name": "广西经济职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.60"
+    },
+    "postgraduate": {
+      "1": "11.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30318",
+      "school_id": "2376",
+      "province": "江苏省",
+      "rate": "2.02",
+      "num": "0",
+      "sort": "202",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:51:52",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "30317",
+      "school_id": "2376",
+      "province": "上海市",
+      "rate": "2.18",
+      "num": "0",
+      "sort": "218",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:51:52",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30316",
+      "school_id": "2376",
+      "province": "浙江省",
+      "rate": "4.05",
+      "num": "0",
+      "sort": "405",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:51:52",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30319",
+      "school_id": "2376",
+      "province": "其他",
+      "rate": "5.68",
+      "num": "0",
+      "sort": "568",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:51:52",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "30315",
+      "school_id": "2376",
+      "province": "广东省",
+      "rate": "32.37",
+      "num": "0",
+      "sort": "3237",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:51:52",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30314",
+      "school_id": "2376",
+      "province": "广西",
+      "rate": "53.70",
+      "num": "0",
+      "sort": "5370",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:51:52",
+      "year": "2024",
+      "province_name": "广西"
+    }
+  ],
+  "attr": {
+    "私营企业": "60.29",
+    "其他": "19.07",
+    "党政机关": "6.79",
+    "个体工商户": "4.90",
+    "其他事业单位": "3.40",
+    "三资企业": "1.83",
+    "城镇社区": "1.44",
+    "国有企业": "1.31",
+    "教育单位": "0.98"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2607",
+      "school_id": "2376",
+      "female_num": "568",
+      "men_num": "1375",
+      "men_rate": "71.00",
+      "female_rate": "29.00",
+      "update_id": "2314",
+      "update_time": "2025-11-25 17:45:36",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6700"
+  }
+}

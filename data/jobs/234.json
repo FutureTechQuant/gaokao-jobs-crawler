@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:46:58",
+  "school_id": "234",
+  "school_name": "新疆医科大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.68"
+    },
+    "postgraduate": {
+      "1": "24.91"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1115",
+      "school_id": "234",
+      "female_num": "1570",
+      "men_num": "702",
+      "men_rate": "30.90",
+      "female_rate": "69.10",
+      "update_id": "929",
+      "update_time": "2021-04-01 11:56:30",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

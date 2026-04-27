@@ -1,0 +1,78 @@
+{
+  "update_time": "2026-04-27 15:52:39",
+  "school_id": "778",
+  "school_name": "绵阳职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.60"
+    },
+    "postgraduate": {
+      "1": "10.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10196",
+      "school_id": "778",
+      "province": "四川",
+      "rate": "80.00",
+      "num": "2926",
+      "sort": "1",
+      "update_id": "825",
+      "update_time": "2020-02-19 21:20:37",
+      "year": "2019",
+      "province_name": "四川"
+    },
+    {
+      "id": "10197",
+      "school_id": "778",
+      "province": "成都",
+      "rate": "46.40",
+      "num": "1697",
+      "sort": "2",
+      "update_id": "825",
+      "update_time": "2020-02-19 21:20:37",
+      "year": "2019",
+      "province_name": "成都"
+    },
+    {
+      "id": "10198",
+      "school_id": "778",
+      "province": "绵阳",
+      "rate": "18.00",
+      "num": "658",
+      "sort": "3",
+      "update_id": "825",
+      "update_time": "2020-02-19 21:20:37",
+      "year": "2019",
+      "province_name": "绵阳"
+    }
+  ],
+  "attr": {
+    "外资企业": "6.00",
+    "国有企业": "16.00",
+    "民营企业/个体": "74.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "897",
+      "school_id": "778",
+      "female_num": "1547",
+      "men_num": "2111",
+      "men_rate": "57.70",
+      "female_rate": "42.30",
+      "update_id": "825",
+      "update_time": "2020-02-19 21:00:45",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

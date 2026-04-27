@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:01:03",
+  "school_id": "1751",
+  "school_name": "广西工商职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.09"
+    },
+    "postgraduate": {
+      "1": "18.07"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30312",
+      "school_id": "1751",
+      "province": "“一带一路”地区",
+      "rate": "98.07",
+      "num": "0",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-25 17:29:56",
+      "year": "2024",
+      "province_name": "“一带一路”地区"
+    },
+    {
+      "id": "30313",
+      "school_id": "1751",
+      "province": "粤港澳大湾区",
+      "rate": "31.50",
+      "num": "0",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-25 17:30:12",
+      "year": "2024",
+      "province_name": "粤港澳大湾区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2606",
+      "school_id": "1751",
+      "female_num": "4680",
+      "men_num": "1910",
+      "men_rate": "28.98",
+      "female_rate": "71.02",
+      "update_id": "2156",
+      "update_time": "2025-11-25 17:20:53",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6800"
+  }
+}

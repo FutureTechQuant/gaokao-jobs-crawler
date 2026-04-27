@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-04-27 16:10:48",
+  "school_id": "2819",
+  "school_name": "重庆经贸职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.16"
+    },
+    "postgraduate": {
+      "1": "4.02"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28947",
+      "school_id": "2819",
+      "province": "东北",
+      "rate": "0.16",
+      "num": "0",
+      "sort": "16",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "东北"
+    },
+    {
+      "id": "28946",
+      "school_id": "2819",
+      "province": "西北",
+      "rate": "1.27",
+      "num": "0",
+      "sort": "127",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "西北"
+    },
+    {
+      "id": "28945",
+      "school_id": "2819",
+      "province": "华北",
+      "rate": "1.39",
+      "num": "0",
+      "sort": "139",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "华北"
+    },
+    {
+      "id": "28944",
+      "school_id": "2819",
+      "province": "华中",
+      "rate": "2.71",
+      "num": "0",
+      "sort": "271",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "华中"
+    },
+    {
+      "id": "28943",
+      "school_id": "2819",
+      "province": "华南",
+      "rate": "4.68",
+      "num": "0",
+      "sort": "468",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "华南"
+    },
+    {
+      "id": "28942",
+      "school_id": "2819",
+      "province": "华东",
+      "rate": "9.27",
+      "num": "0",
+      "sort": "927",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "华东"
+    },
+    {
+      "id": "28941",
+      "school_id": "2819",
+      "province": "西南",
+      "rate": "80.52",
+      "num": "0",
+      "sort": "8052",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:20:18",
+      "year": "2024",
+      "province_name": "西南"
+    }
+  ],
+  "attr": {
+    "其他企业": "69.61",
+    "灵活就业": "9.43",
+    "升学": "4.46",
+    "个体工商户": "4.18",
+    "其他事业单位": "3.52",
+    "国有企业": "3.17",
+    "部队": "2.39",
+    "外资投资企业": "0.86",
+    "机关": "0.70",
+    "医疗卫生单位": "0.66",
+    "农村建制村": "0.35",
+    "中初教育单位": "0.31",
+    "城镇社区": "0.27",
+    "高等教育单位": "0.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2497",
+      "school_id": "2819",
+      "female_num": "999",
+      "men_num": "1837",
+      "men_rate": "64.77",
+      "female_rate": "35.23",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:17:38",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7100"
+  }
+}

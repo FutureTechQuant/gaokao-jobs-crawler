@@ -1,0 +1,94 @@
+{
+  "update_time": "2026-04-27 16:09:37",
+  "school_id": "2554",
+  "school_name": "江苏科技大学苏州理工学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "75.51"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "4286",
+      "school_id": "2554",
+      "province": "其他省市",
+      "rate": "6.31",
+      "num": "88",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "4288",
+      "school_id": "2554",
+      "province": "广西壮族自治区",
+      "rate": "0.93",
+      "num": "13",
+      "sort": "13",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "4285",
+      "school_id": "2554",
+      "province": "浙江省",
+      "rate": "1.02",
+      "num": "14",
+      "sort": "14",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "4287",
+      "school_id": "2554",
+      "province": "江苏省",
+      "rate": "91.74",
+      "num": "1280",
+      "sort": "1280",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {
+    "国有企业": "4.94",
+    "三资企业": "3.89",
+    "中、初教育单位": "1.22",
+    "科研单位": "0.32",
+    "农村建制村": "0.16",
+    "机关": "0.16",
+    "其他": "89.31"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "262",
+      "school_id": "2554",
+      "female_num": "371",
+      "men_num": "1144",
+      "men_rate": "75.51",
+      "female_rate": "24.49",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

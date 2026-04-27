@@ -1,0 +1,114 @@
+{
+  "update_time": "2026-04-27 16:12:35",
+  "school_id": "3118",
+  "school_name": "广西职业师范学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.38"
+    },
+    "postgraduate": {
+      "1": "16.65"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30703",
+      "school_id": "3118",
+      "province": "四川省",
+      "rate": "0.44",
+      "num": "0",
+      "sort": "44",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:51:23",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "30702",
+      "school_id": "3118",
+      "province": "福建省",
+      "rate": "0.47",
+      "num": "0",
+      "sort": "47",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:51:23",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "30701",
+      "school_id": "3118",
+      "province": "上海市",
+      "rate": "0.58",
+      "num": "0",
+      "sort": "58",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:51:23",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30700",
+      "school_id": "3118",
+      "province": "浙江省",
+      "rate": "0.60",
+      "num": "0",
+      "sort": "60",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:51:23",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30699",
+      "school_id": "3118",
+      "province": "广东省",
+      "rate": "21.44",
+      "num": "0",
+      "sort": "2144",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:51:23",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30698",
+      "school_id": "3118",
+      "province": "广西壮族自治区",
+      "rate": "73.83",
+      "num": "0",
+      "sort": "7383",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:51:23",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "60.90",
+    "政府机构/科研或其他事业单位": "24.10",
+    "国有企业": "10.90",
+    "中外合资/外资/独资": "2.80",
+    "民非组织": "1.30"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2642",
+      "school_id": "3118",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "28.96",
+      "female_rate": "71.04",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:32:14",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

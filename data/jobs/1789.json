@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:01:28",
+  "school_id": "1789",
+  "school_name": "浙江国际海运职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.10"
+    },
+    "postgraduate": {
+      "1": "8.25"
+    },
+    "abroad": {
+      "1": "1.06"
+    }
+  },
+  "province": [
+    {
+      "id": "28526",
+      "school_id": "1789",
+      "province": "台州市",
+      "rate": "4.88",
+      "num": "0",
+      "sort": "488",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:43:53",
+      "year": "2024",
+      "province_name": "台州市"
+    },
+    {
+      "id": "28525",
+      "school_id": "1789",
+      "province": "金华市",
+      "rate": "5.33",
+      "num": "0",
+      "sort": "533",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:43:53",
+      "year": "2024",
+      "province_name": "金华市"
+    },
+    {
+      "id": "28524",
+      "school_id": "1789",
+      "province": "绍兴市",
+      "rate": "5.38",
+      "num": "0",
+      "sort": "538",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:43:53",
+      "year": "2024",
+      "province_name": "绍兴市"
+    },
+    {
+      "id": "28523",
+      "school_id": "1789",
+      "province": "杭州市",
+      "rate": "8.83",
+      "num": "0",
+      "sort": "883",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:43:53",
+      "year": "2024",
+      "province_name": "杭州市"
+    },
+    {
+      "id": "28522",
+      "school_id": "1789",
+      "province": "宁波市",
+      "rate": "20.92",
+      "num": "0",
+      "sort": "2092",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:43:53",
+      "year": "2024",
+      "province_name": "宁波市"
+    },
+    {
+      "id": "28521",
+      "school_id": "1789",
+      "province": "舟山市",
+      "rate": "36.25",
+      "num": "0",
+      "sort": "3625",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:43:53",
+      "year": "2024",
+      "province_name": "舟山市"
+    }
+  ],
+  "attr": {
+    "其他企业": "84.90",
+    "国有企业": "7.50",
+    "个体工商户": "5.42",
+    "外商投资企业": "0.90",
+    "机关": "0.85"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2457",
+      "school_id": "1789",
+      "female_num": "915",
+      "men_num": "1716",
+      "men_rate": "65.22",
+      "female_rate": "34.78",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:42:36",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

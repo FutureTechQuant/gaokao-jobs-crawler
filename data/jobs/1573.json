@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 15:59:19",
+  "school_id": "1573",
+  "school_name": "内蒙古鸿德文理学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.45"
+    },
+    "postgraduate": {
+      "1": "4.04"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32428",
+      "school_id": "1573",
+      "province": "区外",
+      "rate": "12.82",
+      "num": "636",
+      "sort": "1282",
+      "update_id": "2096",
+      "update_time": "2025-12-01 16:32:54",
+      "year": "2024",
+      "province_name": "区外"
+    },
+    {
+      "id": "32427",
+      "school_id": "1573",
+      "province": "区内",
+      "rate": "87.18",
+      "num": "4325",
+      "sort": "8718",
+      "update_id": "2096",
+      "update_time": "2025-12-01 16:32:37",
+      "year": "2024",
+      "province_name": "区内"
+    }
+  ],
+  "attr": {
+    "民营企业": "66.90",
+    "国有企事业单位（包含教育单位）": "20.29",
+    "个体工商户": "6.78",
+    "其他性质单位": "6.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2786",
+      "school_id": "1573",
+      "female_num": "4300",
+      "men_num": "1760",
+      "men_rate": "29.04",
+      "female_rate": "70.96",
+      "update_id": "2096",
+      "update_time": "2025-12-01 16:30:50",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

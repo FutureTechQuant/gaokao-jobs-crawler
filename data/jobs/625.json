@@ -1,0 +1,158 @@
+{
+  "update_time": "2026-04-27 15:51:13",
+  "school_id": "625",
+  "school_name": "廊坊师范学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "83.94"
+    },
+    "postgraduate": {
+      "1": "11.70"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "4711",
+      "school_id": "625",
+      "province": "青藏地区",
+      "rate": "0.06",
+      "num": "2",
+      "sort": "2",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "青藏地区"
+    },
+    {
+      "id": "4708",
+      "school_id": "625",
+      "province": "西南地区",
+      "rate": "0.60",
+      "num": "20",
+      "sort": "20",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "4713",
+      "school_id": "625",
+      "province": "华南地区",
+      "rate": "0.69",
+      "num": "23",
+      "sort": "23",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "4709",
+      "school_id": "625",
+      "province": "西北地区",
+      "rate": "0.78",
+      "num": "26",
+      "sort": "26",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "4716",
+      "school_id": "625",
+      "province": "东北地区",
+      "rate": "0.91",
+      "num": "30",
+      "sort": "30",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "4712",
+      "school_id": "625",
+      "province": "华中地区",
+      "rate": "1.18",
+      "num": "39",
+      "sort": "39",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "4710",
+      "school_id": "625",
+      "province": "天津市",
+      "rate": "1.87",
+      "num": "62",
+      "sort": "62",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "天津市"
+    },
+    {
+      "id": "4714",
+      "school_id": "625",
+      "province": "华东地区",
+      "rate": "2.81",
+      "num": "93",
+      "sort": "93",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "4717",
+      "school_id": "625",
+      "province": "北京市",
+      "rate": "13.13",
+      "num": "435",
+      "sort": "435",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "4715",
+      "school_id": "625",
+      "province": "华北地区",
+      "rate": "77.97",
+      "num": "2584",
+      "sort": "2584",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "华北地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1931",
+      "school_id": "625",
+      "female_num": "3956",
+      "men_num": "1624",
+      "men_rate": "29.10",
+      "female_rate": "70.90",
+      "update_id": "2094",
+      "update_time": "2024-09-19 10:41:08",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

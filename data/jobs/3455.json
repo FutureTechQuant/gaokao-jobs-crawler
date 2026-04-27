@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:15:12",
+  "school_id": "3455",
+  "school_name": "铁门关职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.74"
+    },
+    "postgraduate": {
+      "1": "3.56"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

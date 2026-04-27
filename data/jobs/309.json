@@ -1,0 +1,209 @@
+{
+  "update_time": "2026-04-27 15:47:50",
+  "school_id": "309",
+  "school_name": "上海海洋大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.52"
+    },
+    "postgraduate": {
+      "1": "21.75"
+    },
+    "abroad": {
+      "1": "13.44"
+    }
+  },
+  "province": [
+    {
+      "id": "31384",
+      "school_id": "309",
+      "province": "福建省",
+      "rate": "0.76",
+      "num": "0",
+      "sort": "76",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "31383",
+      "school_id": "309",
+      "province": "云南省",
+      "rate": "0.82",
+      "num": "0",
+      "sort": "82",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "31382",
+      "school_id": "309",
+      "province": "山东省",
+      "rate": "1.11",
+      "num": "0",
+      "sort": "111",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "31381",
+      "school_id": "309",
+      "province": "四川省",
+      "rate": "1.34",
+      "num": "0",
+      "sort": "134",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "31380",
+      "school_id": "309",
+      "province": "北京市",
+      "rate": "1.46",
+      "num": "0",
+      "sort": "146",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "31379",
+      "school_id": "309",
+      "province": "河南省",
+      "rate": "1.52",
+      "num": "0",
+      "sort": "152",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "31378",
+      "school_id": "309",
+      "province": "广西壮族自治区",
+      "rate": "1.57",
+      "num": "0",
+      "sort": "157",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "31377",
+      "school_id": "309",
+      "province": "新疆维吾尔自治区",
+      "rate": "1.75",
+      "num": "0",
+      "sort": "175",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "31376",
+      "school_id": "309",
+      "province": "贵州省",
+      "rate": "2.27",
+      "num": "0",
+      "sort": "227",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "31375",
+      "school_id": "309",
+      "province": "安徽省",
+      "rate": "2.51",
+      "num": "0",
+      "sort": "251",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "31374",
+      "school_id": "309",
+      "province": "广东省",
+      "rate": "3.91",
+      "num": "0",
+      "sort": "391",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31373",
+      "school_id": "309",
+      "province": "浙江省",
+      "rate": "3.97",
+      "num": "0",
+      "sort": "397",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31385",
+      "school_id": "309",
+      "province": "其他地区",
+      "rate": "5.23",
+      "num": "0",
+      "sort": "523",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "31372",
+      "school_id": "309",
+      "province": "江苏省",
+      "rate": "5.42",
+      "num": "0",
+      "sort": "542",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31371",
+      "school_id": "309",
+      "province": "上海市",
+      "rate": "66.36",
+      "num": "0",
+      "sort": "6636",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:17:32",
+      "year": "2024",
+      "province_name": "上海市"
+    }
+  ],
+  "attr": {
+    "企业": "91.35",
+    "其他": "8.65"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "11700"
+  }
+}

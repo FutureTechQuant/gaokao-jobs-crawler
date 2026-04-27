@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 15:49:30",
+  "school_id": "454",
+  "school_name": "齐齐哈尔医学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "75.69"
+    },
+    "postgraduate": {
+      "1": "16.88"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "16977",
+      "school_id": "454",
+      "province": "成都",
+      "rate": "2.80",
+      "num": "0",
+      "sort": "28",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "成都"
+    },
+    {
+      "id": "16976",
+      "school_id": "454",
+      "province": "上海",
+      "rate": "3.50",
+      "num": "0",
+      "sort": "35",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "16975",
+      "school_id": "454",
+      "province": "哈尔滨",
+      "rate": "3.50",
+      "num": "0",
+      "sort": "35",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "哈尔滨"
+    },
+    {
+      "id": "16974",
+      "school_id": "454",
+      "province": "盐城",
+      "rate": "5.30",
+      "num": "0",
+      "sort": "53",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "盐城"
+    },
+    {
+      "id": "16973",
+      "school_id": "454",
+      "province": "北京",
+      "rate": "5.80",
+      "num": "0",
+      "sort": "58",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "16972",
+      "school_id": "454",
+      "province": "齐齐哈尔",
+      "rate": "6.90",
+      "num": "0",
+      "sort": "69",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "齐齐哈尔"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "56.00",
+    "民营企业/个体": "23.00",
+    "国有企业": "19.00",
+    "非政府或非营利组织（NGO等）": "1.00",
+    "中外合资/外资/独资": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1590",
+      "school_id": "454",
+      "female_num": "1539",
+      "men_num": "925",
+      "men_rate": "37.54",
+      "female_rate": "62.46",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:32:05",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

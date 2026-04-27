@@ -1,0 +1,171 @@
+{
+  "update_time": "2026-04-27 16:04:36",
+  "school_id": "2076",
+  "school_name": "新疆石河子职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.04"
+    },
+    "postgraduate": {
+      "1": "14.09"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29428",
+      "school_id": "2076",
+      "province": "重庆市",
+      "rate": "0.25",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "29427",
+      "school_id": "2076",
+      "province": "浙江省",
+      "rate": "0.25",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "29426",
+      "school_id": "2076",
+      "province": "山东省",
+      "rate": "0.25",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "29425",
+      "school_id": "2076",
+      "province": "河北省",
+      "rate": "0.36",
+      "num": "0",
+      "sort": "4",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "29424",
+      "school_id": "2076",
+      "province": "广东省",
+      "rate": "0.36",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "29423",
+      "school_id": "2076",
+      "province": "江苏省",
+      "rate": "0.42",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "29422",
+      "school_id": "2076",
+      "province": "四川省",
+      "rate": "0.47",
+      "num": "0",
+      "sort": "7",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "29421",
+      "school_id": "2076",
+      "province": "河南省",
+      "rate": "0.64",
+      "num": "0",
+      "sort": "8",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "29420",
+      "school_id": "2076",
+      "province": "甘肃省",
+      "rate": "0.86",
+      "num": "0",
+      "sort": "9",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "29419",
+      "school_id": "2076",
+      "province": "新疆维吾尔自治区",
+      "rate": "94.27",
+      "num": "0",
+      "sort": "10",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:39:23",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "66.15",
+    "个体工商户": "13.63",
+    "国有企业": "7.66",
+    "农村建制村": "4.83",
+    "其他事业单位": "3.45",
+    "机关": "2.24",
+    "中初教育单位": "0.72",
+    "城镇社区": "0.48",
+    "医疗卫生单位": "0.28",
+    "外商投资企业": "0.14",
+    "高等教育单位": "0.07",
+    "其他（含社会组织等）": "0.35"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2547",
+      "school_id": "2076",
+      "female_num": "1836",
+      "men_num": "1926",
+      "men_rate": "51.20",
+      "female_rate": "48.80",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:34:52",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

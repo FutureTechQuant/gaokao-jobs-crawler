@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 15:47:01",
+  "school_id": "238",
+  "school_name": "新疆艺术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.98"
+    },
+    "postgraduate": {
+      "1": "1.68"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "8394",
+      "school_id": "238",
+      "province": "其他省市",
+      "rate": "12.47",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "8393",
+      "school_id": "238",
+      "province": "东部沿海地区",
+      "rate": "5.04",
+      "num": "36",
+      "sort": "36",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "东部沿海地区"
+    },
+    {
+      "id": "8391",
+      "school_id": "238",
+      "province": "中部地区",
+      "rate": "6.59",
+      "num": "50",
+      "sort": "50",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "8392",
+      "school_id": "238",
+      "province": "新疆维吾尔自治区",
+      "rate": "75.90",
+      "num": "547",
+      "sort": "547",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "新疆维吾尔自治区"
+    }
+  ],
+  "attr": {
+    "国有企业": "0.67",
+    "基层单位": "0.56",
+    "自主创业": "0.56",
+    "其他": "98.21"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "772",
+      "school_id": "238",
+      "female_num": "480",
+      "men_num": "350",
+      "men_rate": "42.17",
+      "female_rate": "57.83",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

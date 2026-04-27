@@ -1,0 +1,294 @@
+{
+  "update_time": "2026-04-27 16:10:52",
+  "school_id": "2835",
+  "school_name": "广东科技学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "99.73"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28204",
+      "school_id": "2835",
+      "province": "云浮市",
+      "rate": "0.37",
+      "num": "0",
+      "sort": "37",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "云浮市"
+    },
+    {
+      "id": "28203",
+      "school_id": "2835",
+      "province": "阳江市",
+      "rate": "0.82",
+      "num": "0",
+      "sort": "82",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "阳江市"
+    },
+    {
+      "id": "28202",
+      "school_id": "2835",
+      "province": "梅州市",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "107",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "梅州市"
+    },
+    {
+      "id": "28201",
+      "school_id": "2835",
+      "province": "河源市",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "110",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "河源市"
+    },
+    {
+      "id": "28200",
+      "school_id": "2835",
+      "province": "汕尾市",
+      "rate": "1.16",
+      "num": "0",
+      "sort": "116",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "汕尾市"
+    },
+    {
+      "id": "28199",
+      "school_id": "2835",
+      "province": "潮州市",
+      "rate": "1.17",
+      "num": "0",
+      "sort": "117",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "潮州市"
+    },
+    {
+      "id": "28198",
+      "school_id": "2835",
+      "province": "韶关市",
+      "rate": "1.22",
+      "num": "0",
+      "sort": "122",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "韶关市"
+    },
+    {
+      "id": "28197",
+      "school_id": "2835",
+      "province": "肇庆市",
+      "rate": "1.30",
+      "num": "0",
+      "sort": "130",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "肇庆市"
+    },
+    {
+      "id": "28196",
+      "school_id": "2835",
+      "province": "清远市",
+      "rate": "1.33",
+      "num": "0",
+      "sort": "133",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "清远市"
+    },
+    {
+      "id": "28195",
+      "school_id": "2835",
+      "province": "揭阳市",
+      "rate": "1.53",
+      "num": "0",
+      "sort": "153",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "揭阳市"
+    },
+    {
+      "id": "28194",
+      "school_id": "2835",
+      "province": "茂名市",
+      "rate": "1.79",
+      "num": "0",
+      "sort": "179",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "茂名市"
+    },
+    {
+      "id": "28193",
+      "school_id": "2835",
+      "province": "汕头市",
+      "rate": "1.99",
+      "num": "0",
+      "sort": "199",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "汕头市"
+    },
+    {
+      "id": "28192",
+      "school_id": "2835",
+      "province": "中山市",
+      "rate": "2.10",
+      "num": "0",
+      "sort": "210",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "中山市"
+    },
+    {
+      "id": "28191",
+      "school_id": "2835",
+      "province": "江门市",
+      "rate": "2.15",
+      "num": "0",
+      "sort": "215",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "江门市"
+    },
+    {
+      "id": "28190",
+      "school_id": "2835",
+      "province": "湛江市",
+      "rate": "2.15",
+      "num": "0",
+      "sort": "215",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "湛江市"
+    },
+    {
+      "id": "28189",
+      "school_id": "2835",
+      "province": "珠海市",
+      "rate": "2.22",
+      "num": "0",
+      "sort": "222",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "珠海市"
+    },
+    {
+      "id": "28188",
+      "school_id": "2835",
+      "province": "惠州市",
+      "rate": "5.17",
+      "num": "0",
+      "sort": "517",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "惠州市"
+    },
+    {
+      "id": "28187",
+      "school_id": "2835",
+      "province": "佛山市",
+      "rate": "6.44",
+      "num": "0",
+      "sort": "644",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "佛山市"
+    },
+    {
+      "id": "28186",
+      "school_id": "2835",
+      "province": "深圳市",
+      "rate": "19.15",
+      "num": "0",
+      "sort": "1915",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "28185",
+      "school_id": "2835",
+      "province": "广州市",
+      "rate": "19.44",
+      "num": "0",
+      "sort": "1944",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "广州市"
+    },
+    {
+      "id": "28184",
+      "school_id": "2835",
+      "province": "东莞市",
+      "rate": "26.33",
+      "num": "0",
+      "sort": "2633",
+      "update_id": "2234",
+      "update_time": "2025-11-11 16:08:00",
+      "year": "2024",
+      "province_name": "东莞市"
+    }
+  ],
+  "attr": {
+    "民营企业": "76.15",
+    "其他": "11.75",
+    "高等教育单位": "3.84"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2409",
+      "school_id": "2835",
+      "female_num": "5405",
+      "men_num": "5568",
+      "men_rate": "50.74",
+      "female_rate": "49.26",
+      "update_id": "2234",
+      "update_time": "2025-11-11 14:12:20",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

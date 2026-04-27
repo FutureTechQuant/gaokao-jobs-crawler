@@ -1,0 +1,94 @@
+{
+  "update_time": "2026-04-27 15:46:49",
+  "school_id": "220",
+  "school_name": "大连交通大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "84.22"
+    },
+    "postgraduate": {
+      "1": "24.10"
+    },
+    "abroad": {
+      "1": "2.50"
+    }
+  },
+  "province": [
+    {
+      "id": "16317",
+      "school_id": "220",
+      "province": "中部地区",
+      "rate": "7.04",
+      "num": "230",
+      "sort": "230",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "16318",
+      "school_id": "220",
+      "province": "西部地区",
+      "rate": "9.79",
+      "num": "320",
+      "sort": "320",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "16316",
+      "school_id": "220",
+      "province": "东部地区",
+      "rate": "18.33",
+      "num": "599",
+      "sort": "599",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "16315",
+      "school_id": "220",
+      "province": "东北地区",
+      "rate": "64.84",
+      "num": "2119",
+      "sort": "2119",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2023",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "国有企业": "54.46",
+    "其他企业": "32.91",
+    "三资企业": "5.95",
+    "高等教育单位": "2.75",
+    "其他": "1.69",
+    "机关": "1.56",
+    "其他事业单位": "0.69"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1534",
+      "school_id": "220",
+      "female_num": "1106",
+      "men_num": "2778",
+      "men_rate": "71.52",
+      "female_rate": "28.48",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:40",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 16:04:40",
+  "school_id": "2082",
+  "school_name": "四川中医药高等专科学校",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "93.02"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27131",
+      "school_id": "2082",
+      "province": "四川省外",
+      "rate": "8.80",
+      "num": "0",
+      "sort": "880",
+      "update_id": "2094",
+      "update_time": "2025-02-10 14:02:16",
+      "year": "2022",
+      "province_name": "四川省外"
+    },
+    {
+      "id": "27130",
+      "school_id": "2082",
+      "province": "四川省内",
+      "rate": "91.20",
+      "num": "0",
+      "sort": "9120",
+      "update_id": "2094",
+      "update_time": "2025-02-10 14:01:57",
+      "year": "2022",
+      "province_name": "四川省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

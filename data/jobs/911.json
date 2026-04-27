@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 15:53:53",
+  "school_id": "911",
+  "school_name": "北京戏曲艺术职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.10"
+    },
+    "postgraduate": {
+      "1": "12.99"
+    },
+    "abroad": {
+      "1": "1.95"
+    }
+  },
+  "province": [
+    {
+      "id": "31045",
+      "school_id": "911",
+      "province": "东北地区",
+      "rate": "4.20",
+      "num": "6",
+      "sort": "6",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:14:50",
+      "year": "2024",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "31043",
+      "school_id": "911",
+      "province": "中部地区",
+      "rate": "7.69",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:14:50",
+      "year": "2024",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "31044",
+      "school_id": "911",
+      "province": "西部地区",
+      "rate": "7.69",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:14:50",
+      "year": "2024",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "31042",
+      "school_id": "911",
+      "province": "东部地区",
+      "rate": "20.98",
+      "num": "30",
+      "sort": "30",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:14:50",
+      "year": "2024",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "31041",
+      "school_id": "911",
+      "province": "北京",
+      "rate": "59.44",
+      "num": "85",
+      "sort": "85",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:14:50",
+      "year": "2024",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "民营企业/ 个体": "78.65",
+    "国有企业": "10.11",
+    "政府机构/ 科研或其他事业单位": "8.99",
+    "民非组织": "1.12",
+    "中外合资/ 外资/独资": "1.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2665",
+      "school_id": "911",
+      "female_num": "90",
+      "men_num": "64",
+      "men_rate": "41.56",
+      "female_rate": "58.44",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:12:38",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

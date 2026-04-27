@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:01:38",
+  "school_id": "1804",
+  "school_name": "安庆医药高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.48"
+    },
+    "postgraduate": {
+      "1": "18.39"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30743",
+      "school_id": "1804",
+      "province": "安徽省外",
+      "rate": "26.80",
+      "num": "0",
+      "sort": "268",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:03:23",
+      "year": "2024",
+      "province_name": "安徽省外"
+    },
+    {
+      "id": "30742",
+      "school_id": "1804",
+      "province": "安徽省内",
+      "rate": "73.20",
+      "num": "0",
+      "sort": "732",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:02:55",
+      "year": "2024",
+      "province_name": "安徽省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2645",
+      "school_id": "1804",
+      "female_num": "2846",
+      "men_num": "867",
+      "men_rate": "23.35",
+      "female_rate": "76.65",
+      "update_id": "1988",
+      "update_time": "2025-11-26 16:55:24",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

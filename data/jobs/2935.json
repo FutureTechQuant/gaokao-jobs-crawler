@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:11:33",
+  "school_id": "2935",
+  "school_name": "内蒙古能源职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "92.41"
+    },
+    "postgraduate": {
+      "1": "5.06"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2368",
+      "school_id": "2935",
+      "female_num": "152",
+      "men_num": "480",
+      "men_rate": "75.94",
+      "female_rate": "24.05",
+      "update_id": "2096",
+      "update_time": "2025-07-08 18:17:00",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

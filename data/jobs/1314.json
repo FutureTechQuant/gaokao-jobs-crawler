@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 15:57:30",
+  "school_id": "1314",
+  "school_name": "长春电子科技学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.40"
+    },
+    "postgraduate": {
+      "1": "4.13"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "8855",
+      "school_id": "1314",
+      "province": "其他省市",
+      "rate": "22.76",
+      "num": "490",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "8856",
+      "school_id": "1314",
+      "province": "华南地区",
+      "rate": "6.92",
+      "num": "149",
+      "sort": "149",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "8857",
+      "school_id": "1314",
+      "province": "华东地区",
+      "rate": "14.68",
+      "num": "316",
+      "sort": "316",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "8858",
+      "school_id": "1314",
+      "province": "华北地区",
+      "rate": "15.33",
+      "num": "330",
+      "sort": "330",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "8859",
+      "school_id": "1314",
+      "province": "东北三省",
+      "rate": "40.31",
+      "num": "966",
+      "sort": "966",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "东北三省"
+    }
+  ],
+  "attr": {
+    "国有企业": "7.52",
+    "三资企业": "6.54",
+    "党政机关": "1.58",
+    "中、初教育单位": "1.58",
+    "城镇社区": "0.33",
+    "高等教育单位": "0.14",
+    "科研单位": "0.14",
+    "其他": "82.17"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "301",
+      "school_id": "1314",
+      "female_num": "789",
+      "men_num": "1703",
+      "men_rate": "68.34",
+      "female_rate": "31.66",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

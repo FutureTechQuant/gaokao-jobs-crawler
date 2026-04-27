@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:12:35",
+  "school_id": "3117",
+  "school_name": "贵州工商职业大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.22"
+    },
+    "postgraduate": {
+      "1": "9.40"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

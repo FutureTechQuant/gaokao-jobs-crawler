@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:51:25",
+  "school_id": "646",
+  "school_name": "深圳职业技术大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.10"
+    },
+    "postgraduate": {
+      "1": "8.60"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

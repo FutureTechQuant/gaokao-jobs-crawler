@@ -1,0 +1,191 @@
+{
+  "update_time": "2026-04-27 15:48:45",
+  "school_id": "391",
+  "school_name": "南华大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.54"
+    },
+    "postgraduate": {
+      "1": "24.06"
+    },
+    "abroad": {
+      "1": "0.44"
+    }
+  },
+  "province": [
+    {
+      "id": "13870",
+      "school_id": "391",
+      "province": "江西",
+      "rate": "1.48",
+      "num": "0",
+      "sort": "29",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "江西"
+    },
+    {
+      "id": "13869",
+      "school_id": "391",
+      "province": "四川",
+      "rate": "1.59",
+      "num": "0",
+      "sort": "30",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "四川"
+    },
+    {
+      "id": "13868",
+      "school_id": "391",
+      "province": "北京",
+      "rate": "1.83",
+      "num": "0",
+      "sort": "31",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "13867",
+      "school_id": "391",
+      "province": "山东",
+      "rate": "2.06",
+      "num": "0",
+      "sort": "32",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "山东"
+    },
+    {
+      "id": "13866",
+      "school_id": "391",
+      "province": "福建",
+      "rate": "2.23",
+      "num": "0",
+      "sort": "33",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "福建"
+    },
+    {
+      "id": "13865",
+      "school_id": "391",
+      "province": "湖北",
+      "rate": "2.49",
+      "num": "0",
+      "sort": "34",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "湖北"
+    },
+    {
+      "id": "13864",
+      "school_id": "391",
+      "province": "上海",
+      "rate": "2.91",
+      "num": "0",
+      "sort": "35",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "13863",
+      "school_id": "391",
+      "province": "江苏",
+      "rate": "3.26",
+      "num": "0",
+      "sort": "36",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "13862",
+      "school_id": "391",
+      "province": "浙江",
+      "rate": "3.98",
+      "num": "0",
+      "sort": "37",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "13861",
+      "school_id": "391",
+      "province": "广东",
+      "rate": "25.76",
+      "num": "0",
+      "sort": "38",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "13860",
+      "school_id": "391",
+      "province": "湖南",
+      "rate": "39.08",
+      "num": "0",
+      "sort": "39",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:59:00",
+      "year": "2023",
+      "province_name": "湖南"
+    }
+  ],
+  "attr": {
+    "民营企业": "57.52",
+    "国有企业": "22.96",
+    "医疗卫生单位": "11.03",
+    "三资企业": "2.51",
+    "机关": "1.53",
+    "其他事业单位": "1.07",
+    "部队": "0.99",
+    "地方基层项目": "0.78",
+    "其他教学单位": "0.64",
+    "国家基层项目": "0.39",
+    "自主创业": "0.19",
+    "高等学校": "0.10",
+    "农村建制村": "0.10",
+    "自由职业": "0.08",
+    "城镇社区": "0.04",
+    "科研助理": "0.04",
+    "科研设计单位": "0.02"
+  },
+  "company": {
+    "国内500强": "975",
+    "世界500强": "871"
+  },
+  "gradute": [
+    {
+      "id": "1351",
+      "school_id": "391",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "56.15",
+      "female_rate": "43.85",
+      "update_id": "1183",
+      "update_time": "2024-05-12 18:50:33",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11300"
+  }
+}

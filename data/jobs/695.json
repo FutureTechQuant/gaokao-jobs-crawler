@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:51:51",
+  "school_id": "695",
+  "school_name": "河北能源职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.43"
+    },
+    "postgraduate": {
+      "1": "3.37"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

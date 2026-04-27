@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:15:16",
+  "school_id": "3465",
+  "school_name": "青岛工程职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.00"
+    },
+    "postgraduate": {
+      "1": "25.58"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

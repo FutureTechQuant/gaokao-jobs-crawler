@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 16:09:03",
+  "school_id": "2501",
+  "school_name": "四川大学锦江学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "92.48"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "26364",
+      "school_id": "2501",
+      "province": "贵阳市",
+      "rate": "0.43",
+      "num": "0",
+      "sort": "43",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "贵阳市"
+    },
+    {
+      "id": "26363",
+      "school_id": "2501",
+      "province": "德阳市",
+      "rate": "1.65",
+      "num": "0",
+      "sort": "165",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "德阳市"
+    },
+    {
+      "id": "26362",
+      "school_id": "2501",
+      "province": "泸州市",
+      "rate": "1.94",
+      "num": "0",
+      "sort": "194",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "泸州市"
+    },
+    {
+      "id": "26361",
+      "school_id": "2501",
+      "province": "绵阳市",
+      "rate": "2.16",
+      "num": "0",
+      "sort": "216",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "绵阳市"
+    },
+    {
+      "id": "26360",
+      "school_id": "2501",
+      "province": "深圳市",
+      "rate": "2.30",
+      "num": "0",
+      "sort": "230",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "26359",
+      "school_id": "2501",
+      "province": "重庆市",
+      "rate": "2.80",
+      "num": "0",
+      "sort": "280",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "26358",
+      "school_id": "2501",
+      "province": "眉山市",
+      "rate": "3.88",
+      "num": "0",
+      "sort": "388",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "眉山市"
+    },
+    {
+      "id": "26357",
+      "school_id": "2501",
+      "province": "成都市",
+      "rate": "59.70",
+      "num": "0",
+      "sort": "5970",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "成都市"
+    }
+  ],
+  "attr": {
+    "民营企业": "67.89",
+    "国有企业": "17.74",
+    "政府机构/科研或其他事业单位": "8.69",
+    "中外合资/外资/独资": "4.89",
+    "非政府或非营利组织（NGO等）": "0.79"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

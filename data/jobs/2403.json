@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 16:07:57",
+  "school_id": "2403",
+  "school_name": "浙江汽车职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.73"
+    },
+    "postgraduate": {
+      "1": "2.53"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31941",
+      "school_id": "2403",
+      "province": "广东省",
+      "rate": "0.65",
+      "num": "13",
+      "sort": "65",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:48:03",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31940",
+      "school_id": "2403",
+      "province": "安徽省",
+      "rate": "0.81",
+      "num": "16",
+      "sort": "81",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:48:03",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "31939",
+      "school_id": "2403",
+      "province": "江苏省",
+      "rate": "1.85",
+      "num": "37",
+      "sort": "185",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:48:03",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31938",
+      "school_id": "2403",
+      "province": "上海市",
+      "rate": "2.17",
+      "num": "44",
+      "sort": "217",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:48:03",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "31942",
+      "school_id": "2403",
+      "province": "其他省份",
+      "rate": "2.54",
+      "num": "51",
+      "sort": "254",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:48:03",
+      "year": "2024",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "31937",
+      "school_id": "2403",
+      "province": "浙江省",
+      "rate": "91.88",
+      "num": "1852",
+      "sort": "9188",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:48:03",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2742",
+      "school_id": "2403",
+      "female_num": "368",
+      "men_num": "1648",
+      "men_rate": "81.75",
+      "female_rate": "18.25",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:38:55",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

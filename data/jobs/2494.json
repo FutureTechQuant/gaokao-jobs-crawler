@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:08:58",
+  "school_id": "2494",
+  "school_name": "四川传媒学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.99"
+    },
+    "postgraduate": {
+      "1": "0.99"
+    },
+    "abroad": {
+      "1": "1.87"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1108",
+      "school_id": "2494",
+      "female_num": "4255",
+      "men_num": "2731",
+      "men_rate": "39.09",
+      "female_rate": "60.91",
+      "update_id": "929",
+      "update_time": "2021-04-01 11:45:08",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10700"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:13:20",
+  "school_id": "3251",
+  "school_name": "深圳北理莫斯科大学",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "896",
+      "school_id": "3251",
+      "female_num": "5028",
+      "men_num": "4972",
+      "men_rate": "49.72",
+      "female_rate": "50.28",
+      "update_id": "377",
+      "update_time": "2020-02-12 19:00:05",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:11:24",
+  "school_id": "2917",
+  "school_name": "四川电影电视学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.15"
+    },
+    "postgraduate": {
+      "1": "5.26"
+    },
+    "abroad": {
+      "1": "0.76"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1113",
+      "school_id": "2917",
+      "female_num": "2457",
+      "men_num": "1383",
+      "men_rate": "36.02",
+      "female_rate": "63.98",
+      "update_id": "929",
+      "update_time": "2021-04-01 11:52:57",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

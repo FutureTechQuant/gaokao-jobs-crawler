@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:57:15",
+  "school_id": "1277",
+  "school_name": "昆明医科大学海源学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.01"
+    },
+    "postgraduate": {
+      "1": "1.51"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "693",
+      "school_id": "1277",
+      "female_num": "1321",
+      "men_num": "593",
+      "men_rate": "31.00",
+      "female_rate": "69.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

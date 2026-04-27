@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:51:29",
+  "school_id": "652",
+  "school_name": "沧州医学高等专科学校",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.90"
+    },
+    "postgraduate": {
+      "1": "5.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1227",
+      "school_id": "652",
+      "female_num": "2481",
+      "men_num": "663",
+      "men_rate": "21.10",
+      "female_rate": "78.90",
+      "update_id": "929",
+      "update_time": "2021-04-02 14:48:40",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

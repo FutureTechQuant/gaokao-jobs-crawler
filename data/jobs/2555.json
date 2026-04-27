@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:09:37",
+  "school_id": "2555",
+  "school_name": "南通大学杏林学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "74.21"
+    },
+    "postgraduate": {
+      "1": "10.74"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "264",
+      "school_id": "2555",
+      "female_num": "1075",
+      "men_num": "736",
+      "men_rate": "40.64",
+      "female_rate": "59.36",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

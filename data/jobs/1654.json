@@ -1,0 +1,179 @@
+{
+  "update_time": "2026-04-27 16:00:06",
+  "school_id": "1654",
+  "school_name": "山西体育职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.18"
+    },
+    "postgraduate": {
+      "1": "12.36"
+    },
+    "abroad": {
+      "1": "0.09"
+    }
+  },
+  "province": [
+    {
+      "id": "27067",
+      "school_id": "1654",
+      "province": "朔州市",
+      "rate": "0.70",
+      "num": "0",
+      "sort": "70",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "朔州市"
+    },
+    {
+      "id": "27066",
+      "school_id": "1654",
+      "province": "阳泉市",
+      "rate": "1.41",
+      "num": "0",
+      "sort": "141",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "阳泉市"
+    },
+    {
+      "id": "27065",
+      "school_id": "1654",
+      "province": "晋城市",
+      "rate": "1.55",
+      "num": "0",
+      "sort": "155",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "晋城市"
+    },
+    {
+      "id": "27064",
+      "school_id": "1654",
+      "province": "大同市",
+      "rate": "3.09",
+      "num": "0",
+      "sort": "309",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "大同市"
+    },
+    {
+      "id": "27063",
+      "school_id": "1654",
+      "province": "运城市",
+      "rate": "4.22",
+      "num": "0",
+      "sort": "422",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "运城市"
+    },
+    {
+      "id": "27062",
+      "school_id": "1654",
+      "province": "忻州市",
+      "rate": "6.33",
+      "num": "0",
+      "sort": "633",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "忻州市"
+    },
+    {
+      "id": "27061",
+      "school_id": "1654",
+      "province": "吕梁市",
+      "rate": "6.47",
+      "num": "0",
+      "sort": "647",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "吕梁市"
+    },
+    {
+      "id": "27060",
+      "school_id": "1654",
+      "province": "晋中市",
+      "rate": "7.31",
+      "num": "0",
+      "sort": "731",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "晋中市"
+    },
+    {
+      "id": "27059",
+      "school_id": "1654",
+      "province": "临汾市",
+      "rate": "8.44",
+      "num": "0",
+      "sort": "844",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "临汾市"
+    },
+    {
+      "id": "27058",
+      "school_id": "1654",
+      "province": "长治市",
+      "rate": "9.70",
+      "num": "0",
+      "sort": "970",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "长治市"
+    },
+    {
+      "id": "27057",
+      "school_id": "1654",
+      "province": "太原市",
+      "rate": "50.77",
+      "num": "0",
+      "sort": "5077",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:18:54",
+      "year": "2023",
+      "province_name": "太原市"
+    }
+  ],
+  "attr": {
+    "民营企业": "67.16",
+    "其他事业单位": "14.93",
+    "中初教育单位": "7.46",
+    "高等教育单位": "2.99",
+    "国有企业": "2.99",
+    "党政机关": "1.49",
+    "部队": "1.49",
+    "城镇社区": "1.49"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2293",
+      "school_id": "1654",
+      "female_num": "215",
+      "men_num": "885",
+      "men_rate": "80.45",
+      "female_rate": "19.55",
+      "update_id": "2094",
+      "update_time": "2025-02-08 14:08:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

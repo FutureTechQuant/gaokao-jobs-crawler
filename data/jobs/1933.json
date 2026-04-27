@@ -1,0 +1,174 @@
+{
+  "update_time": "2026-04-27 16:03:03",
+  "school_id": "1933",
+  "school_name": "信阳职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.22"
+    },
+    "postgraduate": {
+      "1": "21.38"
+    },
+    "abroad": {
+      "1": "0.01"
+    }
+  },
+  "province": [
+    {
+      "id": "28319",
+      "school_id": "1933",
+      "province": "福建省",
+      "rate": "0.41",
+      "num": "0",
+      "sort": "41",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "28318",
+      "school_id": "1933",
+      "province": "四川省",
+      "rate": "0.58",
+      "num": "0",
+      "sort": "58",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "28317",
+      "school_id": "1933",
+      "province": "安徽省",
+      "rate": "1.38",
+      "num": "0",
+      "sort": "138",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "28316",
+      "school_id": "1933",
+      "province": "湖北省",
+      "rate": "1.39",
+      "num": "0",
+      "sort": "139",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "28315",
+      "school_id": "1933",
+      "province": "北京市",
+      "rate": "1.57",
+      "num": "0",
+      "sort": "157",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "28314",
+      "school_id": "1933",
+      "province": "上海市",
+      "rate": "2.32",
+      "num": "0",
+      "sort": "232",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "28313",
+      "school_id": "1933",
+      "province": "广东省",
+      "rate": "3.05",
+      "num": "0",
+      "sort": "305",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28312",
+      "school_id": "1933",
+      "province": "江苏省",
+      "rate": "4.23",
+      "num": "0",
+      "sort": "423",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28311",
+      "school_id": "1933",
+      "province": "浙江省",
+      "rate": "4.42",
+      "num": "0",
+      "sort": "442",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28310",
+      "school_id": "1933",
+      "province": "河南省",
+      "rate": "77.97",
+      "num": "0",
+      "sort": "7797",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:23:02",
+      "year": "2024",
+      "province_name": "河南省"
+    }
+  ],
+  "attr": {
+    "其他企业": "54.07",
+    "升学": "26.32",
+    "医疗卫生单位": "8.45",
+    "部队": "3.95",
+    "其他事业单位": "3.81",
+    "中初教育单位": "2.32",
+    "自由职业": "0.32",
+    "自主创业": "0.31",
+    "科研助理": "0.13",
+    "国有企业": "0.10",
+    "机关": "0.08",
+    "国家基层项目": "0.05",
+    "艰苦行业企业": "0.05",
+    "农村建制村": "0.03",
+    "出国、出境": "0.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2428",
+      "school_id": "1933",
+      "female_num": "4905",
+      "men_num": "2696",
+      "men_rate": "35.74",
+      "female_rate": "64.53",
+      "update_id": "2234",
+      "update_time": "2025-11-11 17:04:54",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "update_time": "2026-04-27 15:46:15",
+  "school_id": "168",
+  "school_name": "南京医科大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.52"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "5173",
+      "school_id": "168",
+      "province": "其他省市",
+      "rate": "8.30",
+      "num": "111",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5176",
+      "school_id": "168",
+      "province": "广东省",
+      "rate": "0.34",
+      "num": "5",
+      "sort": "5",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "5175",
+      "school_id": "168",
+      "province": "湖南省",
+      "rate": "0.68",
+      "num": "9",
+      "sort": "9",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "5177",
+      "school_id": "168",
+      "province": "福建省",
+      "rate": "0.79",
+      "num": "11",
+      "sort": "11",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "5178",
+      "school_id": "168",
+      "province": "安徽省",
+      "rate": "0.91",
+      "num": "12",
+      "sort": "12",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "5171",
+      "school_id": "168",
+      "province": "浙江省",
+      "rate": "2.04",
+      "num": "27",
+      "sort": "27",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "5172",
+      "school_id": "168",
+      "province": "上海市",
+      "rate": "3.97",
+      "num": "53",
+      "sort": "53",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "5174",
+      "school_id": "168",
+      "province": "江苏省",
+      "rate": "82.97",
+      "num": "1106",
+      "sort": "1106",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {},
+  "company": {
+    "第一附属医院": "28",
+    "附属苏州医院": "18",
+    "南京军区南京总医院": "16",
+    "泰州市人民医院": "15",
+    "附属无锡人民医院": "8",
+    "连云港市第一人民医院": "8",
+    "附属肿瘤医院": "7",
+    "徐州医科大学附属医院": "7",
+    "南通市第一人民医院": "7",
+    "江阴市人民医院": "6",
+    "附属南京医院": "6"
+  },
+  "gradute": [
+    {
+      "id": "1017",
+      "school_id": "168",
+      "female_num": "1848",
+      "men_num": "1032",
+      "men_rate": "35.83",
+      "female_rate": "64.17",
+      "update_id": "929",
+      "update_time": "2021-03-31 17:43:13",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10600"
+  }
+}

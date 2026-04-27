@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:09:26",
+  "school_id": "2536",
+  "school_name": "黑龙江工程学院昆仑旅游学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.20"
+    },
+    "postgraduate": {
+      "1": "0.65"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1201",
+      "school_id": "2536",
+      "female_num": "193",
+      "men_num": "116",
+      "men_rate": "37.54",
+      "female_rate": "62.46",
+      "update_id": "929",
+      "update_time": "2021-04-02 11:25:00",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

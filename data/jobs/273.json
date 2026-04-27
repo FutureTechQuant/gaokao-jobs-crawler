@@ -1,0 +1,170 @@
+{
+  "update_time": "2026-04-27 15:47:23",
+  "school_id": "273",
+  "school_name": "四川轻化工大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "88.30"
+    },
+    "postgraduate": {
+      "1": "12.92"
+    },
+    "abroad": {
+      "1": "0.29"
+    }
+  },
+  "province": [
+    {
+      "id": "14651",
+      "school_id": "273",
+      "province": "凉山彝族自治州",
+      "rate": "2.27",
+      "num": "0",
+      "sort": "227",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "凉山彝族自治州"
+    },
+    {
+      "id": "14648",
+      "school_id": "273",
+      "province": "重庆",
+      "rate": "2.82",
+      "num": "0",
+      "sort": "282",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "重庆"
+    },
+    {
+      "id": "14650",
+      "school_id": "273",
+      "province": "眉山",
+      "rate": "2.95",
+      "num": "0",
+      "sort": "295",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "眉山"
+    },
+    {
+      "id": "14645",
+      "school_id": "273",
+      "province": "自贡",
+      "rate": "2.95",
+      "num": "0",
+      "sort": "295",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "自贡"
+    },
+    {
+      "id": "14649",
+      "school_id": "273",
+      "province": "德阳",
+      "rate": "2.99",
+      "num": "0",
+      "sort": "299",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "德阳"
+    },
+    {
+      "id": "14647",
+      "school_id": "273",
+      "province": "乐山",
+      "rate": "2.99",
+      "num": "0",
+      "sort": "299",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "乐山"
+    },
+    {
+      "id": "14646",
+      "school_id": "273",
+      "province": "泸州",
+      "rate": "3.41",
+      "num": "0",
+      "sort": "341",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "泸州"
+    },
+    {
+      "id": "14644",
+      "school_id": "273",
+      "province": "绵阳",
+      "rate": "3.58",
+      "num": "0",
+      "sort": "358",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "绵阳"
+    },
+    {
+      "id": "14642",
+      "school_id": "273",
+      "province": "成都",
+      "rate": "36.70",
+      "num": "0",
+      "sort": "367",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "成都"
+    },
+    {
+      "id": "14643",
+      "school_id": "273",
+      "province": "宜宾",
+      "rate": "8.71",
+      "num": "0",
+      "sort": "871",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2023",
+      "province_name": "宜宾"
+    }
+  ],
+  "attr": {
+    "其他企业": "76.98",
+    "国有企业": "12.88",
+    "其他": "4.06",
+    "三资企业": "1.97",
+    "机关": "1.34",
+    "中初教育单位": "1.32",
+    "其他事业单位": "0.73",
+    "高等教育单位": "0.22",
+    "城镇社区": "0.21",
+    "医疗卫生单位": "0.20",
+    "农村建制村": "0.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1407",
+      "school_id": "273",
+      "female_num": "5153",
+      "men_num": "6112",
+      "men_rate": "54.26",
+      "female_rate": "45.74",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:22:35",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

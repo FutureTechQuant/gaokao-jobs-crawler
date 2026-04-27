@@ -1,0 +1,182 @@
+{
+  "update_time": "2026-04-27 15:46:21",
+  "school_id": "177",
+  "school_name": "南昌航空大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "85.33"
+    },
+    "postgraduate": {
+      "1": "35.75"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "15020",
+      "school_id": "177",
+      "province": "萍乡市",
+      "rate": "0.26",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "萍乡市"
+    },
+    {
+      "id": "15019",
+      "school_id": "177",
+      "province": "鹰潭市",
+      "rate": "0.62",
+      "num": "12",
+      "sort": "12",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "鹰潭市"
+    },
+    {
+      "id": "15018",
+      "school_id": "177",
+      "province": "抚州市",
+      "rate": "0.72",
+      "num": "14",
+      "sort": "14",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "抚州市"
+    },
+    {
+      "id": "15015",
+      "school_id": "177",
+      "province": "新余市",
+      "rate": "1.13",
+      "num": "22",
+      "sort": "22",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "新余市"
+    },
+    {
+      "id": "15017",
+      "school_id": "177",
+      "province": "宜春市",
+      "rate": "1.13",
+      "num": "22",
+      "sort": "22",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "宜春市"
+    },
+    {
+      "id": "15016",
+      "school_id": "177",
+      "province": "吉安市",
+      "rate": "1.28",
+      "num": "25",
+      "sort": "25",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "吉安市"
+    },
+    {
+      "id": "15014",
+      "school_id": "177",
+      "province": "上饶市",
+      "rate": "1.80",
+      "num": "35",
+      "sort": "35",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "上饶市"
+    },
+    {
+      "id": "15011",
+      "school_id": "177",
+      "province": "九江市",
+      "rate": "2.21",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "九江市"
+    },
+    {
+      "id": "15013",
+      "school_id": "177",
+      "province": "赣州市",
+      "rate": "2.21",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "赣州市"
+    },
+    {
+      "id": "15012",
+      "school_id": "177",
+      "province": "景德镇市",
+      "rate": "2.51",
+      "num": "49",
+      "sort": "49",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "景德镇市"
+    },
+    {
+      "id": "15010",
+      "school_id": "177",
+      "province": "南昌市",
+      "rate": "86.15",
+      "num": "1679",
+      "sort": "1679",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "南昌市"
+    }
+  ],
+  "attr": {
+    "国有企业": "32.98",
+    "其他": "8.02",
+    "三资企业": "7.94",
+    "其他企业": "43.80",
+    "部队": "2.92",
+    "科研设计单位": "1.01",
+    "其他事业单位": "0.97",
+    "中初教育单位": "0.32",
+    "机关": "1.90",
+    "高等教育单位": "0.08",
+    "医疗卫生单位": "0.04"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1459",
+      "school_id": "177",
+      "female_num": "1838",
+      "men_num": "3644",
+      "men_rate": "66.47",
+      "female_rate": "33.53",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:51",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11000"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:15:20",
+  "school_id": "3470",
+  "school_name": "广西自然资源职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.80"
+    },
+    "postgraduate": {
+      "1": "15.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28368",
+      "school_id": "3470",
+      "province": "其他省份",
+      "rate": "30.20",
+      "num": "0",
+      "sort": "302",
+      "update_id": "1988",
+      "update_time": "2025-11-11 17:47:08",
+      "year": "2024",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "28367",
+      "school_id": "3470",
+      "province": "广西",
+      "rate": "69.80",
+      "num": "2154",
+      "sort": "2154",
+      "update_id": "1988",
+      "update_time": "2025-11-11 17:46:35",
+      "year": "2024",
+      "province_name": "广西"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "77.00",
+    "国有企业": "12.00",
+    "政府机构/科研或其他事业单位": "7.00",
+    "中外合资/外资/独资": "3.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2434",
+      "school_id": "3470",
+      "female_num": "1043",
+      "men_num": "2661",
+      "men_rate": "71.80",
+      "female_rate": "28.20",
+      "update_id": "1988",
+      "update_time": "2025-11-11 17:36:11",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

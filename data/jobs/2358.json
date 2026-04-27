@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:07:28",
+  "school_id": "2358",
+  "school_name": "甘肃民族师范学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "74.60"
+    },
+    "postgraduate": {
+      "1": "5.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "1588",
+      "school_id": "2358",
+      "province": "其他省市",
+      "rate": "13.60",
+      "num": "341",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "1587",
+      "school_id": "2358",
+      "province": "新疆维吾尔自治区",
+      "rate": "25.90",
+      "num": "649",
+      "sort": "649",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "1589",
+      "school_id": "2358",
+      "province": "甘肃省",
+      "rate": "60.50",
+      "num": "1517",
+      "sort": "1517",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "甘肃省"
+    }
+  ],
+  "attr": {
+    "民营企业、个体经营": "22.00",
+    "国有企业": "8.00",
+    "非营利组织": "2.00",
+    "中外合资/外资/独资": "1.00",
+    "党政机关、事业单位": "67.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "748",
+      "school_id": "2358",
+      "female_num": "1327",
+      "men_num": "1432",
+      "men_rate": "51.90",
+      "female_rate": "48.10",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6400"
+  }
+}

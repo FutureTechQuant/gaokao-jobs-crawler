@@ -1,0 +1,93 @@
+{
+  "update_time": "2026-04-27 15:57:59",
+  "school_id": "1394",
+  "school_name": "内蒙古机电职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.72"
+    },
+    "postgraduate": {
+      "1": "21.91"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28501",
+      "school_id": "1394",
+      "province": "山西",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "300",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:30:16",
+      "year": "2024",
+      "province_name": "山西"
+    },
+    {
+      "id": "28502",
+      "school_id": "1394",
+      "province": "北京",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "300",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:30:16",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "28503",
+      "school_id": "1394",
+      "province": "天津",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "300",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:30:16",
+      "year": "2024",
+      "province_name": "天津"
+    },
+    {
+      "id": "28500",
+      "school_id": "1394",
+      "province": "内蒙古",
+      "rate": "78.00",
+      "num": "0",
+      "sort": "7800",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:30:16",
+      "year": "2024",
+      "province_name": "内蒙古"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "70.00",
+    "国有企业": "13.00",
+    "个体工商户": "10.00",
+    "外商投资企业": "6.00",
+    "机关": "1.00",
+    "其他事业单位": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2451",
+      "school_id": "1394",
+      "female_num": "352",
+      "men_num": "2761",
+      "men_rate": "89.00",
+      "female_rate": "11.00",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:23:49",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

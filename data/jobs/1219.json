@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 15:56:43",
+  "school_id": "1219",
+  "school_name": "山东大学（威海）",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "94.22"
+    },
+    "postgraduate": {
+      "1": "40.99"
+    },
+    "abroad": {
+      "1": "7.13"
+    }
+  },
+  "province": [
+    {
+      "id": "24736",
+      "school_id": "1219",
+      "province": "粤港澳大湾区",
+      "rate": "5.41",
+      "num": "246",
+      "sort": "246",
+      "update_id": "2096",
+      "update_time": "2025-01-06 16:06:01",
+      "year": "2021",
+      "province_name": "粤港澳大湾区"
+    },
+    {
+      "id": "24734",
+      "school_id": "1219",
+      "province": "京津冀地区",
+      "rate": "6.80",
+      "num": "309",
+      "sort": "309",
+      "update_id": "2096",
+      "update_time": "2025-01-06 16:06:01",
+      "year": "2021",
+      "province_name": "京津冀地区"
+    },
+    {
+      "id": "24735",
+      "school_id": "1219",
+      "province": "西部地区",
+      "rate": "8.23",
+      "num": "374",
+      "sort": "374",
+      "update_id": "2096",
+      "update_time": "2025-01-06 16:06:01",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "24733",
+      "school_id": "1219",
+      "province": "长江经济带地区",
+      "rate": "18.18",
+      "num": "826",
+      "sort": "826",
+      "update_id": "2096",
+      "update_time": "2025-01-06 16:06:01",
+      "year": "2021",
+      "province_name": "长江经济带地区"
+    },
+    {
+      "id": "24732",
+      "school_id": "1219",
+      "province": "“一带一路”沿线地区",
+      "rate": "20.49",
+      "num": "931",
+      "sort": "931",
+      "update_id": "2096",
+      "update_time": "2025-01-06 16:06:01",
+      "year": "2021",
+      "province_name": "“一带一路”沿线地区"
+    },
+    {
+      "id": "24731",
+      "school_id": "1219",
+      "province": "黄河流域地区",
+      "rate": "65.67",
+      "num": "2984",
+      "sort": "2984",
+      "update_id": "2096",
+      "update_time": "2025-01-06 16:06:01",
+      "year": "2021",
+      "province_name": "黄河流域地区"
+    }
+  ],
+  "attr": {},
+  "company": {
+    "中国五百强": "959",
+    "世界五百强": "612",
+    "中央企业单位": "388"
+  },
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

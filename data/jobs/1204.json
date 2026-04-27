@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 15:56:37",
+  "school_id": "1204",
+  "school_name": "山东警察学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "91.51"
+    },
+    "postgraduate": {
+      "1": "4.38"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "5923",
+      "school_id": "1204",
+      "province": "其他省市",
+      "rate": "3.20",
+      "num": "31",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5921",
+      "school_id": "1204",
+      "province": "省直",
+      "rate": "5.30",
+      "num": "52",
+      "sort": "52",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "省直"
+    },
+    {
+      "id": "5922",
+      "school_id": "1204",
+      "province": "山东省",
+      "rate": "6.20",
+      "num": "61",
+      "sort": "61",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    },
+    {
+      "id": "5924",
+      "school_id": "1204",
+      "province": "地市",
+      "rate": "85.30",
+      "num": "839",
+      "sort": "839",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "地市"
+    }
+  ],
+  "attr": {
+    "公安系统": "90.50",
+    "企事业单位": "4.40",
+    "高等教育单位": "3.20",
+    "部队单位": "0.80",
+    "其他": "1.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1165",
+      "school_id": "1204",
+      "female_num": "128",
+      "men_num": "732",
+      "men_rate": "85.12",
+      "female_rate": "14.88",
+      "update_id": "929",
+      "update_time": "2021-04-01 17:56:32",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

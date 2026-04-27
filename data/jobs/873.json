@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 15:53:31",
+  "school_id": "873",
+  "school_name": "河南中医药大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "90.40"
+    },
+    "postgraduate": {
+      "1": "40.20"
+    },
+    "abroad": {
+      "1": "0.17"
+    }
+  },
+  "province": [
+    {
+      "id": "22888",
+      "school_id": "873",
+      "province": "长江经济带",
+      "rate": "19.64",
+      "num": "0",
+      "sort": "98",
+      "update_id": "1988",
+      "update_time": "2024-09-24 18:09:37",
+      "year": "2022",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "22887",
+      "school_id": "873",
+      "province": "一带一路",
+      "rate": "24.55",
+      "num": "0",
+      "sort": "99",
+      "update_id": "1988",
+      "update_time": "2024-09-24 18:09:37",
+      "year": "2022",
+      "province_name": "一带一路"
+    },
+    {
+      "id": "22886",
+      "school_id": "873",
+      "province": "新一线城市",
+      "rate": "40.05",
+      "num": "0",
+      "sort": "100",
+      "update_id": "1988",
+      "update_time": "2024-09-24 18:09:37",
+      "year": "2022",
+      "province_name": "新一线城市"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "43.26",
+    "民营企业/个体": "36.79",
+    "国有企业": "13.47",
+    "中外合资/外资/独资": "4.40",
+    "民办非企业单位（组织）": "2.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2003",
+      "school_id": "873",
+      "female_num": "2349",
+      "men_num": "1111",
+      "men_rate": "32.11",
+      "female_rate": "67.89",
+      "update_id": "1988",
+      "update_time": "2024-09-24 18:05:11",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

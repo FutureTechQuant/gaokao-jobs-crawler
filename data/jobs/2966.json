@@ -1,0 +1,43 @@
+{
+  "update_time": "2026-04-27 16:11:48",
+  "school_id": "2966",
+  "school_name": "山东财经大学燕山学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "80.96"
+    },
+    "postgraduate": {
+      "1": "1.40"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {
+    "国有企业": "0.18",
+    "三资企业": "0.09",
+    "人事代理单位": "0.09",
+    "事业单位": "0.09",
+    "其他": "99.55"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "399",
+      "school_id": "2966",
+      "female_num": "1294",
+      "men_num": "578",
+      "men_rate": "30.87",
+      "female_rate": "69.13",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "update_time": "2026-04-27 16:09:29",
+  "school_id": "2542",
+  "school_name": "南京航空航天大学金城学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.97"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "5073",
+      "school_id": "2542",
+      "province": "其他省市",
+      "rate": "16.34",
+      "num": "536",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5087",
+      "school_id": "2542",
+      "province": "安徽省",
+      "rate": "0.73",
+      "num": "24",
+      "sort": "24",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "5080",
+      "school_id": "2542",
+      "province": "泰州市",
+      "rate": "0.82",
+      "num": "27",
+      "sort": "27",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "泰州市"
+    },
+    {
+      "id": "5084",
+      "school_id": "2542",
+      "province": "连云港市",
+      "rate": "0.91",
+      "num": "30",
+      "sort": "30",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "连云港市"
+    },
+    {
+      "id": "5078",
+      "school_id": "2542",
+      "province": "宿迁市",
+      "rate": "0.94",
+      "num": "31",
+      "sort": "31",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "宿迁市"
+    },
+    {
+      "id": "5085",
+      "school_id": "2542",
+      "province": "淮安市",
+      "rate": "1.22",
+      "num": "40",
+      "sort": "40",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "淮安市"
+    },
+    {
+      "id": "5076",
+      "school_id": "2542",
+      "province": "盐城市",
+      "rate": "2.07",
+      "num": "68",
+      "sort": "68",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "盐城市"
+    },
+    {
+      "id": "5077",
+      "school_id": "2542",
+      "province": "徐州市",
+      "rate": "2.32",
+      "num": "76",
+      "sort": "76",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "徐州市"
+    },
+    {
+      "id": "5075",
+      "school_id": "2542",
+      "province": "扬州市",
+      "rate": "2.53",
+      "num": "83",
+      "sort": "83",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "扬州市"
+    },
+    {
+      "id": "5074",
+      "school_id": "2542",
+      "province": "镇江市",
+      "rate": "2.86",
+      "num": "94",
+      "sort": "94",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "镇江市"
+    },
+    {
+      "id": "5086",
+      "school_id": "2542",
+      "province": "常州市",
+      "rate": "3.93",
+      "num": "129",
+      "sort": "129",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "常州市"
+    },
+    {
+      "id": "5079",
+      "school_id": "2542",
+      "province": "无锡市",
+      "rate": "4.85",
+      "num": "159",
+      "sort": "159",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "无锡市"
+    },
+    {
+      "id": "5071",
+      "school_id": "2542",
+      "province": "浙江省",
+      "rate": "5.12",
+      "num": "168",
+      "sort": "168",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "5082",
+      "school_id": "2542",
+      "province": "南通市",
+      "rate": "6.49",
+      "num": "213",
+      "sort": "213",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "南通市"
+    },
+    {
+      "id": "5072",
+      "school_id": "2542",
+      "province": "上海市",
+      "rate": "7.31",
+      "num": "240",
+      "sort": "240",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "5081",
+      "school_id": "2542",
+      "province": "苏州市",
+      "rate": "7.34",
+      "num": "241",
+      "sort": "241",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "苏州市"
+    },
+    {
+      "id": "5083",
+      "school_id": "2542",
+      "province": "南京市",
+      "rate": "34.22",
+      "num": "1123",
+      "sort": "1123",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "南京市"
+    }
+  ],
+  "attr": {
+    "企业单位": "87.36",
+    "升学、出国": "6.92",
+    "事业单位": "2.29",
+    "机关": "1.16",
+    "自主创业": "0.12",
+    "其他": "2.15"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "250",
+      "school_id": "2542",
+      "female_num": "1479",
+      "men_num": "1837",
+      "men_rate": "55.00",
+      "female_rate": "45.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

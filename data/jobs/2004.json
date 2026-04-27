@@ -1,0 +1,184 @@
+{
+  "update_time": "2026-04-27 16:03:51",
+  "school_id": "2004",
+  "school_name": "湖南外贸职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "89.59"
+    },
+    "postgraduate": {
+      "1": "10.26"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "33195",
+      "school_id": "2004",
+      "province": "贵州省",
+      "rate": "0.58",
+      "num": "15",
+      "sort": "58",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "33194",
+      "school_id": "2004",
+      "province": "江西省",
+      "rate": "0.63",
+      "num": "16",
+      "sort": "63",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "江西省"
+    },
+    {
+      "id": "33193",
+      "school_id": "2004",
+      "province": "湖北省",
+      "rate": "0.64",
+      "num": "16",
+      "sort": "64",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "33192",
+      "school_id": "2004",
+      "province": "北京市",
+      "rate": "0.74",
+      "num": "19",
+      "sort": "74",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "33191",
+      "school_id": "2004",
+      "province": "福建省",
+      "rate": "0.78",
+      "num": "20",
+      "sort": "78",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "33190",
+      "school_id": "2004",
+      "province": "江苏省",
+      "rate": "0.89",
+      "num": "23",
+      "sort": "89",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "33189",
+      "school_id": "2004",
+      "province": "上海市",
+      "rate": "1.01",
+      "num": "26",
+      "sort": "101",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "33188",
+      "school_id": "2004",
+      "province": "浙江省",
+      "rate": "3.58",
+      "num": "92",
+      "sort": "358",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "33187",
+      "school_id": "2004",
+      "province": "广东省",
+      "rate": "5.75",
+      "num": "148",
+      "sort": "575",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "33196",
+      "school_id": "2004",
+      "province": "其他省份",
+      "rate": "19.41",
+      "num": "500",
+      "sort": "1941",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "33186",
+      "school_id": "2004",
+      "province": "湖南省内 (合计)",
+      "rate": "66.02",
+      "num": "1700",
+      "sort": "6602",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:38:37",
+      "year": "2024",
+      "province_name": "湖南省内 (合计)"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "77.48",
+    "个体工商户": "9.13",
+    "其他（含社会组织、国际组织等）": "6.29",
+    "外商投资企业": "2.56",
+    "其他事业单位": "2.37",
+    "国有企业": "1.17",
+    "机关": "0.35",
+    "医疗卫生单位": "0.16",
+    "城镇社区": "0.16",
+    "农村建制村": "0.12",
+    "高等教育单位": "0.12",
+    "中初教育单位": "0.12",
+    "科研设计单位": "0.04"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2839",
+      "school_id": "2004",
+      "female_num": "2470",
+      "men_num": "883",
+      "men_rate": "26.33",
+      "female_rate": "73.67",
+      "update_id": "2234",
+      "update_time": "2025-12-03 14:27:35",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

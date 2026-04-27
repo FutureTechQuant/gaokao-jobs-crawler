@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:49:22",
+  "school_id": "442",
+  "school_name": "牡丹江师范学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.76"
+    },
+    "postgraduate": {
+      "1": "9.89"
+    },
+    "abroad": {
+      "1": "0.51"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

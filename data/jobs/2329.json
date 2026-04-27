@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:07:13",
+  "school_id": "2329",
+  "school_name": "山西科技学院",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "51.30"
+    },
+    "postgraduate": {
+      "1": "2.51"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "25609",
+      "school_id": "2329",
+      "province": "东北",
+      "rate": "0.26",
+      "num": "0",
+      "sort": "26",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "东北"
+    },
+    {
+      "id": "25608",
+      "school_id": "2329",
+      "province": "西南",
+      "rate": "0.43",
+      "num": "0",
+      "sort": "43",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "西南"
+    },
+    {
+      "id": "25605",
+      "school_id": "2329",
+      "province": "华南",
+      "rate": "1.13",
+      "num": "0",
+      "sort": "113",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "华南"
+    },
+    {
+      "id": "25607",
+      "school_id": "2329",
+      "province": "西北",
+      "rate": "2.17",
+      "num": "0",
+      "sort": "217",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "西北"
+    },
+    {
+      "id": "25606",
+      "school_id": "2329",
+      "province": "华中",
+      "rate": "2.77",
+      "num": "0",
+      "sort": "277",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "华中"
+    },
+    {
+      "id": "25603",
+      "school_id": "2329",
+      "province": "华东",
+      "rate": "6.50",
+      "num": "0",
+      "sort": "650",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "华东"
+    },
+    {
+      "id": "25604",
+      "school_id": "2329",
+      "province": "华北",
+      "rate": "30.07",
+      "num": "0",
+      "sort": "3007",
+      "update_id": "2096",
+      "update_time": "2025-01-08 14:01:28",
+      "year": "2020",
+      "province_name": "华北"
+    }
+  ],
+  "attr": {
+    "其他就业": "32.50",
+    "协议就业": "14.73",
+    "项目就业": "1.56"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2204",
+      "school_id": "2329",
+      "female_num": "559",
+      "men_num": "595",
+      "men_rate": "51.56",
+      "female_rate": "48.44",
+      "update_id": "2096",
+      "update_time": "2025-01-08 13:48:46",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

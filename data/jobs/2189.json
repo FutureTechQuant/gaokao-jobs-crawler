@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:05:48",
+  "school_id": "2189",
+  "school_name": "哈尔滨体育学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "71.00"
+    },
+    "postgraduate": {
+      "1": "5.86"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1169",
+      "school_id": "2189",
+      "female_num": "348",
+      "men_num": "914",
+      "men_rate": "72.42",
+      "female_rate": "27.58",
+      "update_id": "929",
+      "update_time": "2021-04-01 18:00:41",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

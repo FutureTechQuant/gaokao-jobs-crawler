@@ -1,0 +1,48 @@
+{
+  "update_time": "2026-04-27 16:15:23",
+  "school_id": "3475",
+  "school_name": "克孜勒苏职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.47"
+    },
+    "postgraduate": {
+      "1": "0.92"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27862",
+      "school_id": "3475",
+      "province": "新疆自治区外",
+      "rate": "8.00",
+      "num": "89",
+      "sort": "89",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:06:38",
+      "year": "2024",
+      "province_name": "新疆自治区外"
+    },
+    {
+      "id": "27861",
+      "school_id": "3475",
+      "province": "新疆",
+      "rate": "91.90",
+      "num": "1017",
+      "sort": "1017",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:05:11",
+      "year": "2024",
+      "province_name": "新疆"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

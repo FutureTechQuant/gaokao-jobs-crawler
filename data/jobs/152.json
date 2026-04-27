@@ -1,0 +1,56 @@
+{
+  "update_time": "2026-04-27 15:46:04",
+  "school_id": "152",
+  "school_name": "淮安大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "96.33"
+    },
+    "postgraduate": {
+      "1": "14.17"
+    },
+    "abroad": {
+      "1": "0.44"
+    }
+  },
+  "province": [
+    {
+      "id": "14789",
+      "school_id": "152",
+      "province": "江苏",
+      "rate": "81.79",
+      "num": "0",
+      "sort": "82",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2022",
+      "province_name": "江苏"
+    }
+  ],
+  "attr": {
+    "民营、三资等企业": "60.26",
+    "国有企业": "11.97",
+    "机关事业单位": "1.70",
+    "基层项目": "0.78",
+    "应征入伍": "0.49"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1424",
+      "school_id": "152",
+      "female_num": "2394",
+      "men_num": "3484",
+      "men_rate": "59.27",
+      "female_rate": "40.73",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:27:56",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

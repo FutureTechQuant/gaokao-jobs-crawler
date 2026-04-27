@@ -1,0 +1,112 @@
+{
+  "update_time": "2026-04-27 16:15:30",
+  "school_id": "3492",
+  "school_name": "长沙幼儿师范高等专科学校",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "92.49"
+    },
+    "postgraduate": {
+      "1": "9.22"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27478",
+      "school_id": "3492",
+      "province": "广西省",
+      "rate": "0.41",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-07-07 15:05:33",
+      "year": "2023",
+      "province_name": "广西省"
+    },
+    {
+      "id": "27479",
+      "school_id": "3492",
+      "province": "江苏省",
+      "rate": "0.41",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-07-07 15:05:54",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "27480",
+      "school_id": "3492",
+      "province": "湖北省",
+      "rate": "0.41",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-07-07 15:06:18",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "27481",
+      "school_id": "3492",
+      "province": "云南省",
+      "rate": "0.41",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-07-07 15:06:28",
+      "year": "2023",
+      "province_name": "云南省"
+    },
+    {
+      "id": "27477",
+      "school_id": "3492",
+      "province": "广东省",
+      "rate": "2.06",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2094",
+      "update_time": "2025-07-07 15:05:12",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "27476",
+      "school_id": "3492",
+      "province": "湖南省",
+      "rate": "96.30",
+      "num": "234",
+      "sort": "234",
+      "update_id": "2094",
+      "update_time": "2025-07-07 15:04:54",
+      "year": "2023",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他事业单位": "50.62",
+    "其他企业": "34.57",
+    "其他": "14.81"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2328",
+      "school_id": "3492",
+      "female_num": "283",
+      "men_num": "10",
+      "men_rate": "3.41",
+      "female_rate": "96.59",
+      "update_id": "2094",
+      "update_time": "2025-07-07 14:47:06",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 15:50:47",
+  "school_id": "576",
+  "school_name": "中国人民公安大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.34"
+    },
+    "postgraduate": {
+      "1": "6.43"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "9479",
+      "school_id": "576",
+      "province": "其他省市",
+      "rate": "3.95",
+      "num": "70",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "9477",
+      "school_id": "576",
+      "province": "中部地区",
+      "rate": "11.57",
+      "num": "205",
+      "sort": "205",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "9478",
+      "school_id": "576",
+      "province": "西部地区",
+      "rate": "26.52",
+      "num": "470",
+      "sort": "470",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "9480",
+      "school_id": "576",
+      "province": "东部地区（除北上广深）",
+      "rate": "27.71",
+      "num": "491",
+      "sort": "491",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "东部地区（除北上广深）"
+    },
+    {
+      "id": "9481",
+      "school_id": "576",
+      "province": "北上广深",
+      "rate": "30.25",
+      "num": "536",
+      "sort": "536",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "北上广深"
+    }
+  ],
+  "attr": {
+    "公安系统": "90.97",
+    "部队单位": "3.90",
+    "高等教育单位": "0.51",
+    "企事业单位": "0.39",
+    "其他": "4.23"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

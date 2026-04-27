@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 15:51:45",
+  "school_id": "685",
+  "school_name": "上海工商职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.65"
+    },
+    "postgraduate": {
+      "1": "15.99"
+    },
+    "abroad": {
+      "1": "0.93"
+    }
+  },
+  "province": [
+    {
+      "id": "27147",
+      "school_id": "685",
+      "province": "上海省外",
+      "rate": "11.26",
+      "num": "0",
+      "sort": "1126",
+      "update_id": "1988",
+      "update_time": "2025-02-11 09:37:11",
+      "year": "2024",
+      "province_name": "上海省外"
+    },
+    {
+      "id": "27146",
+      "school_id": "685",
+      "province": "上海省内",
+      "rate": "88.75",
+      "num": "0",
+      "sort": "8875",
+      "update_id": "1988",
+      "update_time": "2025-02-11 09:36:50",
+      "year": "2024",
+      "province_name": "上海省内"
+    }
+  ],
+  "attr": {
+    "中小企业": "83.88",
+    "国有企业": "8.23",
+    "外资企业": "5.45",
+    "事业单位": "2.43"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2305",
+      "school_id": "685",
+      "female_num": "999",
+      "men_num": "1370",
+      "men_rate": "57.85",
+      "female_rate": "42.15",
+      "update_id": "1988",
+      "update_time": "2025-02-11 09:26:31",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

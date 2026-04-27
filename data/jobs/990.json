@@ -1,0 +1,52 @@
+{
+  "update_time": "2026-04-27 15:54:41",
+  "school_id": "990",
+  "school_name": "广州华立科技职业学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "28074",
+      "school_id": "990",
+      "province": "广东省外",
+      "rate": "4.49",
+      "num": "0",
+      "sort": "449",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:41:54",
+      "year": "2024",
+      "province_name": "广东省外"
+    },
+    {
+      "id": "28073",
+      "school_id": "990",
+      "province": "广东省内",
+      "rate": "95.51",
+      "num": "0",
+      "sort": "9551",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:41:11",
+      "year": "2024",
+      "province_name": "广东省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2402",
+      "school_id": "990",
+      "female_num": "1720",
+      "men_num": "2952",
+      "men_rate": "63.18",
+      "female_rate": "36.82",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:25:09",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

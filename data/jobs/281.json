@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 15:47:30",
+  "school_id": "281",
+  "school_name": "山西大同大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.20"
+    },
+    "postgraduate": {
+      "1": "12.80"
+    },
+    "abroad": {
+      "1": "0.30"
+    }
+  },
+  "province": [
+    {
+      "id": "30741",
+      "school_id": "281",
+      "province": "安徽",
+      "rate": "1.90",
+      "num": "0",
+      "sort": "190",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "安徽"
+    },
+    {
+      "id": "30740",
+      "school_id": "281",
+      "province": "陕西",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "陕西"
+    },
+    {
+      "id": "30739",
+      "school_id": "281",
+      "province": "天津",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "天津"
+    },
+    {
+      "id": "30738",
+      "school_id": "281",
+      "province": "河北",
+      "rate": "2.30",
+      "num": "0",
+      "sort": "230",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "河北"
+    },
+    {
+      "id": "30737",
+      "school_id": "281",
+      "province": "广东",
+      "rate": "2.90",
+      "num": "0",
+      "sort": "290",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "30736",
+      "school_id": "281",
+      "province": "内蒙古",
+      "rate": "3.10",
+      "num": "0",
+      "sort": "310",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "30735",
+      "school_id": "281",
+      "province": "新疆",
+      "rate": "3.60",
+      "num": "0",
+      "sort": "360",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "新疆"
+    },
+    {
+      "id": "30734",
+      "school_id": "281",
+      "province": "北京",
+      "rate": "4.10",
+      "num": "0",
+      "sort": "410",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "30733",
+      "school_id": "281",
+      "province": "浙江",
+      "rate": "4.20",
+      "num": "0",
+      "sort": "420",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "30732",
+      "school_id": "281",
+      "province": "山西",
+      "rate": "60.20",
+      "num": "0",
+      "sort": "6020",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:54:38",
+      "year": "2024",
+      "province_name": "山西"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "48.00",
+    "国有企业": "26.00",
+    "政府机构/科研或其他事业单位": "24.00",
+    "中外合资/外资/独资": "1.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2644",
+      "school_id": "281",
+      "female_num": "5404",
+      "men_num": "3142",
+      "men_rate": "36.80",
+      "female_rate": "63.20",
+      "update_id": "2314",
+      "update_time": "2025-11-26 16:49:04",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

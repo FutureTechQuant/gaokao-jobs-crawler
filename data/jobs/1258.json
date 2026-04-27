@@ -1,0 +1,402 @@
+{
+  "update_time": "2026-04-27 15:57:04",
+  "school_id": "1258",
+  "school_name": "河北科技师范学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "89.37"
+    },
+    "postgraduate": {
+      "1": "15.91"
+    },
+    "abroad": {
+      "1": "0.38"
+    }
+  },
+  "province": [
+    {
+      "id": "22589",
+      "school_id": "1258",
+      "province": "其他",
+      "rate": "0.03",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "其他"
+    },
+    {
+      "id": "22584",
+      "school_id": "1258",
+      "province": "西藏自治区",
+      "rate": "0.08",
+      "num": "3",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "西藏自治区"
+    },
+    {
+      "id": "22587",
+      "school_id": "1258",
+      "province": "宁夏回族自治区",
+      "rate": "0.11",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "22586",
+      "school_id": "1258",
+      "province": "甘肃省",
+      "rate": "0.17",
+      "num": "6",
+      "sort": "6",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "22582",
+      "school_id": "1258",
+      "province": "贵州省",
+      "rate": "0.25",
+      "num": "9",
+      "sort": "9",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "22585",
+      "school_id": "1258",
+      "province": "陕西省",
+      "rate": "0.30",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "22580",
+      "school_id": "1258",
+      "province": "海南省",
+      "rate": "0.36",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "海南省"
+    },
+    {
+      "id": "22583",
+      "school_id": "1258",
+      "province": "云南省",
+      "rate": "0.42",
+      "num": "15",
+      "sort": "15",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "云南省"
+    },
+    {
+      "id": "22566",
+      "school_id": "1258",
+      "province": "吉林省",
+      "rate": "0.44",
+      "num": "16",
+      "sort": "16",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "22579",
+      "school_id": "1258",
+      "province": "广西壮族自治区",
+      "rate": "0.50",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "22588",
+      "school_id": "1258",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.50",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "22571",
+      "school_id": "1258",
+      "province": "安徽省",
+      "rate": "0.53",
+      "num": "19",
+      "sort": "19",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "22567",
+      "school_id": "1258",
+      "province": "黑龙江省",
+      "rate": "0.53",
+      "num": "19",
+      "sort": "19",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "黑龙江省"
+    },
+    {
+      "id": "22575",
+      "school_id": "1258",
+      "province": "河南省",
+      "rate": "0.55",
+      "num": "20",
+      "sort": "20",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "22576",
+      "school_id": "1258",
+      "province": "湖北省",
+      "rate": "0.64",
+      "num": "23",
+      "sort": "23",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "22573",
+      "school_id": "1258",
+      "province": "江西省",
+      "rate": "0.64",
+      "num": "23",
+      "sort": "23",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "江西省"
+    },
+    {
+      "id": "22577",
+      "school_id": "1258",
+      "province": "湖南省",
+      "rate": "0.72",
+      "num": "26",
+      "sort": "26",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "22563",
+      "school_id": "1258",
+      "province": "山西省",
+      "rate": "0.80",
+      "num": "29",
+      "sort": "29",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "山西省"
+    },
+    {
+      "id": "22581",
+      "school_id": "1258",
+      "province": "四川省",
+      "rate": "0.83",
+      "num": "30",
+      "sort": "30",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "22568",
+      "school_id": "1258",
+      "province": "上海市",
+      "rate": "0.83",
+      "num": "30",
+      "sort": "30",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "22572",
+      "school_id": "1258",
+      "province": "福建省",
+      "rate": "0.86",
+      "num": "31",
+      "sort": "31",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "福建省"
+    },
+    {
+      "id": "22564",
+      "school_id": "1258",
+      "province": "内蒙古自治区",
+      "rate": "0.91",
+      "num": "33",
+      "sort": "33",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "22570",
+      "school_id": "1258",
+      "province": "浙江省",
+      "rate": "1.05",
+      "num": "38",
+      "sort": "38",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "22565",
+      "school_id": "1258",
+      "province": "辽宁省",
+      "rate": "1.25",
+      "num": "45",
+      "sort": "45",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "22578",
+      "school_id": "1258",
+      "province": "广东省",
+      "rate": "1.25",
+      "num": "45",
+      "sort": "45",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "22569",
+      "school_id": "1258",
+      "province": "江苏省",
+      "rate": "1.94",
+      "num": "70",
+      "sort": "70",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "22574",
+      "school_id": "1258",
+      "province": "山东省",
+      "rate": "2.16",
+      "num": "78",
+      "sort": "78",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "山东省"
+    },
+    {
+      "id": "22562",
+      "school_id": "1258",
+      "province": "天津市",
+      "rate": "4.45",
+      "num": "161",
+      "sort": "161",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "天津市"
+    },
+    {
+      "id": "22561",
+      "school_id": "1258",
+      "province": "北京市",
+      "rate": "11.07",
+      "num": "400",
+      "sort": "400",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "22560",
+      "school_id": "1258",
+      "province": "河北省",
+      "rate": "65.86",
+      "num": "2380",
+      "sort": "2380",
+      "update_id": "1988",
+      "update_time": "2024-09-24 11:00:17",
+      "year": "2023",
+      "province_name": "河北省"
+    }
+  ],
+  "attr": {
+    "民营企业": "66.44",
+    "政府机关事业单位": "12.34",
+    "国有企业": "8.42"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1982",
+      "school_id": "1258",
+      "female_num": "3363",
+      "men_num": "1909",
+      "men_rate": "36.21",
+      "female_rate": "63.79",
+      "update_id": "1988",
+      "update_time": "2024-09-24 10:55:00",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "update_time": "2026-04-27 15:49:42",
+  "school_id": "474",
+  "school_name": "福建理工大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "8.50"
+    },
+    "abroad": {
+      "1": "0.80"
+    }
+  },
+  "province": [
+    {
+      "id": "15695",
+      "school_id": "474",
+      "province": "北京",
+      "rate": "1.90",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2004",
+      "update_time": "2024-06-04 17:19:20",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "15694",
+      "school_id": "474",
+      "province": "上海",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-04 17:19:20",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "15693",
+      "school_id": "474",
+      "province": "广东",
+      "rate": "5.00",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2004",
+      "update_time": "2024-06-04 17:19:20",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "15696",
+      "school_id": "474",
+      "province": "其他地区",
+      "rate": "17.50",
+      "num": "0",
+      "sort": "18",
+      "update_id": "2004",
+      "update_time": "2024-06-04 17:19:20",
+      "year": "2022",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "15692",
+      "school_id": "474",
+      "province": "福建",
+      "rate": "72.60",
+      "num": "0",
+      "sort": "73",
+      "update_id": "2004",
+      "update_time": "2024-06-04 17:19:20",
+      "year": "2022",
+      "province_name": "福建"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "51.00",
+    "大型企业": "46.00",
+    "中小型企业": "39.00",
+    "国有企业": "32.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1501",
+      "school_id": "474",
+      "female_num": "2397",
+      "men_num": "3080",
+      "men_rate": "56.20",
+      "female_rate": "43.80",
+      "update_id": "2004",
+      "update_time": "2024-06-04 17:19:49",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11700"
+  }
+}

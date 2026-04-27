@@ -1,0 +1,188 @@
+{
+  "update_time": "2026-04-27 16:13:24",
+  "school_id": "3256",
+  "school_name": "阜阳幼儿师范高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.26"
+    },
+    "postgraduate": {
+      "1": "21.76"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31644",
+      "school_id": "3256",
+      "province": "江西",
+      "rate": "0.11",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "江西"
+    },
+    {
+      "id": "31645",
+      "school_id": "3256",
+      "province": "湖北",
+      "rate": "0.11",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "湖北"
+    },
+    {
+      "id": "31646",
+      "school_id": "3256",
+      "province": "河南",
+      "rate": "0.11",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "河南"
+    },
+    {
+      "id": "31647",
+      "school_id": "3256",
+      "province": "河北",
+      "rate": "0.11",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "河北"
+    },
+    {
+      "id": "31643",
+      "school_id": "3256",
+      "province": "福建",
+      "rate": "0.21",
+      "num": "0",
+      "sort": "21",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "福建"
+    },
+    {
+      "id": "31641",
+      "school_id": "3256",
+      "province": "北京",
+      "rate": "0.32",
+      "num": "0",
+      "sort": "32",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "31642",
+      "school_id": "3256",
+      "province": "天津",
+      "rate": "0.32",
+      "num": "0",
+      "sort": "32",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "天津"
+    },
+    {
+      "id": "31640",
+      "school_id": "3256",
+      "province": "广东",
+      "rate": "0.53",
+      "num": "0",
+      "sort": "53",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "31639",
+      "school_id": "3256",
+      "province": "上海",
+      "rate": "2.78",
+      "num": "0",
+      "sort": "278",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "上海"
+    },
+    {
+      "id": "31638",
+      "school_id": "3256",
+      "province": "江苏",
+      "rate": "3.53",
+      "num": "0",
+      "sort": "353",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "31637",
+      "school_id": "3256",
+      "province": "浙江",
+      "rate": "4.49",
+      "num": "0",
+      "sort": "449",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "31636",
+      "school_id": "3256",
+      "province": "安徽",
+      "rate": "87.38",
+      "num": "0",
+      "sort": "8738",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:43:28",
+      "year": "2024",
+      "province_name": "安徽"
+    }
+  ],
+  "attr": {
+    "民营企业": "62.25",
+    "政府机构/科研或其他事业单位": "25.28",
+    "国有企业": "9.78",
+    "民非组织": "1.35",
+    "中外合资/外资/独资": "1.35"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2714",
+      "school_id": "3256",
+      "female_num": "3429",
+      "men_num": "436",
+      "men_rate": "11.28",
+      "female_rate": "88.72",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:33:59",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

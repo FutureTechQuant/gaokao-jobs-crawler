@@ -1,0 +1,93 @@
+{
+  "update_time": "2026-04-27 16:12:01",
+  "school_id": "3039",
+  "school_name": "上海纽约大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "20236",
+      "school_id": "3039",
+      "province": "北京",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "20237",
+      "school_id": "3039",
+      "province": "纽约",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "纽约"
+    },
+    {
+      "id": "20238",
+      "school_id": "3039",
+      "province": "香港",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "香港"
+    },
+    {
+      "id": "20235",
+      "school_id": "3039",
+      "province": "阿布扎比",
+      "rate": "10.00",
+      "num": "0",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "阿布扎比"
+    },
+    {
+      "id": "20234",
+      "school_id": "3039",
+      "province": "上海",
+      "rate": "81.00",
+      "num": "0",
+      "sort": "81",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "上海"
+    }
+  ],
+  "attr": {
+    "三资企业": "69.00",
+    "股份制企业民营企业": "19.00",
+    "高等教育单位": "9.00",
+    "非盈利组织": "3.00"
+  },
+  "company": {
+    "LinkME": "0",
+    "拼多多": "0",
+    "上海纽约大学": "0"
+  },
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

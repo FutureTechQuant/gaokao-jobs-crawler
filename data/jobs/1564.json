@@ -1,0 +1,171 @@
+{
+  "update_time": "2026-04-27 15:59:14",
+  "school_id": "1564",
+  "school_name": "贵州商学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.21"
+    },
+    "postgraduate": {
+      "1": "1.22"
+    },
+    "abroad": {
+      "1": "0.28"
+    }
+  },
+  "province": [
+    {
+      "id": "30495",
+      "school_id": "1564",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.78",
+      "num": "0",
+      "sort": "78",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "30494",
+      "school_id": "1564",
+      "province": "福建省",
+      "rate": "0.78",
+      "num": "0",
+      "sort": "78",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "30493",
+      "school_id": "1564",
+      "province": "山东省",
+      "rate": "0.78",
+      "num": "0",
+      "sort": "78",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "30492",
+      "school_id": "1564",
+      "province": "北京市",
+      "rate": "0.95",
+      "num": "0",
+      "sort": "95",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "30491",
+      "school_id": "1564",
+      "province": "重庆市",
+      "rate": "1.22",
+      "num": "0",
+      "sort": "122",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "30490",
+      "school_id": "1564",
+      "province": "上海市",
+      "rate": "1.43",
+      "num": "0",
+      "sort": "143",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30489",
+      "school_id": "1564",
+      "province": "浙江省",
+      "rate": "2.00",
+      "num": "0",
+      "sort": "200",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30488",
+      "school_id": "1564",
+      "province": "四川省",
+      "rate": "2.30",
+      "num": "0",
+      "sort": "230",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "30487",
+      "school_id": "1564",
+      "province": "广东省",
+      "rate": "6.03",
+      "num": "0",
+      "sort": "603",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30486",
+      "school_id": "1564",
+      "province": "贵州省",
+      "rate": "78.30",
+      "num": "0",
+      "sort": "7830",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:38:30",
+      "year": "2024",
+      "province_name": "贵州省"
+    }
+  ],
+  "attr": {
+    "其他企业": "58.03",
+    "其他": "34.21",
+    "机关": "2.15",
+    "国有企业": "2.11",
+    "个体工商户": "1.12",
+    "城镇社区": "0.84",
+    "其他事业单位": "0.61",
+    "外商投资企业": "0.47",
+    "医疗卫生单位": "0.23",
+    "农村建制村": "0.14",
+    "中初教育单位": "0.05",
+    "科研设计单位": "0.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2622",
+      "school_id": "1564",
+      "female_num": "1561",
+      "men_num": "982",
+      "men_rate": "38.62",
+      "female_rate": "61.38",
+      "update_id": "2314",
+      "update_time": "2025-11-26 11:36:59",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

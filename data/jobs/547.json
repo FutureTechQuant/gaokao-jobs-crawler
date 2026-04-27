@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:50:29",
+  "school_id": "547",
+  "school_name": "齐鲁工业大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.25"
+    },
+    "postgraduate": {
+      "1": "18.16"
+    },
+    "abroad": {
+      "1": "1.16"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1043",
+      "school_id": "547",
+      "female_num": "3003",
+      "men_num": "3824",
+      "men_rate": "56.01",
+      "female_rate": "43.99",
+      "update_id": "929",
+      "update_time": "2021-03-31 17:57:49",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

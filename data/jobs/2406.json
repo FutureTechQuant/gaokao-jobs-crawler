@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 16:07:59",
+  "school_id": "2406",
+  "school_name": "芜湖学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "91.08"
+    },
+    "postgraduate": {
+      "1": "5.00"
+    },
+    "abroad": {
+      "1": "0.20"
+    }
+  },
+  "province": [
+    {
+      "id": "20388",
+      "school_id": "2406",
+      "province": "北京",
+      "rate": "0.69",
+      "num": "22",
+      "sort": "22",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "20387",
+      "school_id": "2406",
+      "province": "广东",
+      "rate": "1.04",
+      "num": "33",
+      "sort": "33",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "20386",
+      "school_id": "2406",
+      "province": "上海",
+      "rate": "4.77",
+      "num": "152",
+      "sort": "152",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "20385",
+      "school_id": "2406",
+      "province": "浙江",
+      "rate": "5.52",
+      "num": "176",
+      "sort": "176",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "20389",
+      "school_id": "2406",
+      "province": "其他地区",
+      "rate": "6.00",
+      "num": "181",
+      "sort": "181",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "20384",
+      "school_id": "2406",
+      "province": "江苏",
+      "rate": "7.16",
+      "num": "228",
+      "sort": "228",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "20383",
+      "school_id": "2406",
+      "province": "安徽",
+      "rate": "75.14",
+      "num": "2394",
+      "sort": "2394",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "安徽"
+    }
+  ],
+  "attr": {
+    "中等、初等教育单位": "4.98",
+    "党政机关、事业单位": "2.69",
+    "国有企业": "2.07",
+    "自主创业": "0.56",
+    "三支一扶": "0.34",
+    "三资企业": "0.28",
+    "入伍服义务兵役": "0.22",
+    "西部志愿者": "0.17",
+    "医疔卫生单位": "0.11",
+    "其他": "88.58"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1846",
+      "school_id": "2406",
+      "female_num": "2185",
+      "men_num": "1313",
+      "men_rate": "37.54",
+      "female_rate": "62.46",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8600"
+  }
+}

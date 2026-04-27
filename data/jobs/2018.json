@@ -1,0 +1,173 @@
+{
+  "update_time": "2026-04-27 16:04:00",
+  "school_id": "2018",
+  "school_name": "怀化职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.09"
+    },
+    "postgraduate": {
+      "1": "2.68"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29418",
+      "school_id": "2018",
+      "province": "湖北省",
+      "rate": "1.12",
+      "num": "27",
+      "sort": "27",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "29417",
+      "school_id": "2018",
+      "province": "福建省",
+      "rate": "1.21",
+      "num": "29",
+      "sort": "29",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "29416",
+      "school_id": "2018",
+      "province": "江西省",
+      "rate": "1.25",
+      "num": "30",
+      "sort": "30",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "江西省"
+    },
+    {
+      "id": "29415",
+      "school_id": "2018",
+      "province": "上海市",
+      "rate": "1.62",
+      "num": "39",
+      "sort": "39",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "29414",
+      "school_id": "2018",
+      "province": "贵州省",
+      "rate": "3.08",
+      "num": "74",
+      "sort": "74",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "29413",
+      "school_id": "2018",
+      "province": "江苏省",
+      "rate": "3.37",
+      "num": "81",
+      "sort": "81",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "29412",
+      "school_id": "2018",
+      "province": "西藏自治区",
+      "rate": "4.29",
+      "num": "103",
+      "sort": "103",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "西藏自治区"
+    },
+    {
+      "id": "29411",
+      "school_id": "2018",
+      "province": "浙江省",
+      "rate": "5.66",
+      "num": "136",
+      "sort": "136",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "29410",
+      "school_id": "2018",
+      "province": "广东省",
+      "rate": "20.15",
+      "num": "484",
+      "sort": "484",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "29409",
+      "school_id": "2018",
+      "province": "湖南省",
+      "rate": "52.04",
+      "num": "1250",
+      "sort": "1250",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:28:04",
+      "year": "2024",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "76.52",
+    "个体工商户": "12.42",
+    "国有企业": "5.17",
+    "外商投资企业": "2.43",
+    "其他事业单位": "1.12",
+    "机关": "0.67",
+    "其他（含社会组织、国际组织等）": "0.40",
+    "农村建制村": "0.40",
+    "中初教育单位": "0.22",
+    "医疗卫生单位": "0.22",
+    "城镇社区": "0.18",
+    "科研设计单位": "0.13",
+    "高等教育单位": "0.04",
+    "部队": "0.04"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2543",
+      "school_id": "2018",
+      "female_num": "1224",
+      "men_num": "1690",
+      "men_rate": "58.00",
+      "female_rate": "42.00",
+      "update_id": "2314",
+      "update_time": "2025-11-13 17:11:31",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

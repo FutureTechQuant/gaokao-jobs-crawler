@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 16:08:06",
+  "school_id": "2415",
+  "school_name": "皖江工学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.37"
+    },
+    "postgraduate": {
+      "1": "5.60"
+    },
+    "abroad": {
+      "1": "0.13"
+    }
+  },
+  "province": [
+    {
+      "id": "30006",
+      "school_id": "2415",
+      "province": "上海",
+      "rate": "5.40",
+      "num": "0",
+      "sort": "540",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:11:19",
+      "year": "2024",
+      "province_name": "上海"
+    },
+    {
+      "id": "30005",
+      "school_id": "2415",
+      "province": "浙江",
+      "rate": "8.94",
+      "num": "0",
+      "sort": "894",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:11:19",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "30004",
+      "school_id": "2415",
+      "province": "江苏",
+      "rate": "17.45",
+      "num": "0",
+      "sort": "1745",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:11:19",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "30003",
+      "school_id": "2415",
+      "province": "安徽",
+      "rate": "60.37",
+      "num": "0",
+      "sort": "6037",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:11:19",
+      "year": "2024",
+      "province_name": "安徽"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "73.39",
+    "国有企业": "14.75",
+    "政府机构/科研或其他事业单位": "6.53",
+    "中外合资/外资/独资": "4.58",
+    "民营组织": "0.76"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2580",
+      "school_id": "2415",
+      "female_num": "1889",
+      "men_num": "2679",
+      "men_rate": "58.65",
+      "female_rate": "41.35",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:01:15",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

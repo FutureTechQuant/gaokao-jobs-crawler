@@ -1,0 +1,93 @@
+{
+  "update_time": "2026-04-27 15:57:54",
+  "school_id": "1378",
+  "school_name": "北京劳动保障职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "100.00"
+    },
+    "postgraduate": {
+      "1": "9.54"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10510",
+      "school_id": "1378",
+      "province": "西部地区",
+      "rate": "2.54",
+      "num": "17",
+      "sort": "3",
+      "update_id": "929",
+      "update_time": "2020-08-17 09:28:09",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "10509",
+      "school_id": "1378",
+      "province": "中部地区",
+      "rate": "2.39",
+      "num": "16",
+      "sort": "4",
+      "update_id": "929",
+      "update_time": "2020-08-17 09:28:09",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "10508",
+      "school_id": "1378",
+      "province": "东部地区",
+      "rate": "9.18",
+      "num": "28",
+      "sort": "5",
+      "update_id": "929",
+      "update_time": "2020-08-17 09:28:09",
+      "year": "2019",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "10507",
+      "school_id": "1378",
+      "province": "北京",
+      "rate": "90.90",
+      "num": "609",
+      "sort": "6",
+      "update_id": "929",
+      "update_time": "2020-08-17 09:28:09",
+      "year": "2019",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "机关": "0.60",
+    "事业单位": "1.79",
+    "国有企业": "30.36",
+    "三资企业": "0.45",
+    "其他企业": "32.44",
+    "其他": "34.38"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "932",
+      "school_id": "1378",
+      "female_num": "360",
+      "men_num": "384",
+      "men_rate": "52.00",
+      "female_rate": "48.00",
+      "update_id": "929",
+      "update_time": "2020-08-15 19:47:09",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

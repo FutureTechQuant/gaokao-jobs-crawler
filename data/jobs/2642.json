@@ -1,0 +1,117 @@
+{
+  "update_time": "2026-04-27 16:10:10",
+  "school_id": "2642",
+  "school_name": "承德护理职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.14"
+    },
+    "postgraduate": {
+      "1": "19.77"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31537",
+      "school_id": "2642",
+      "province": "陕西省",
+      "rate": "0.85",
+      "num": "0",
+      "sort": "85",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:39:44",
+      "year": "2024",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "31536",
+      "school_id": "2642",
+      "province": "重庆市",
+      "rate": "0.93",
+      "num": "0",
+      "sort": "93",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:39:44",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "31535",
+      "school_id": "2642",
+      "province": "河南省",
+      "rate": "1.27",
+      "num": "0",
+      "sort": "127",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:39:44",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "31534",
+      "school_id": "2642",
+      "province": "天津市",
+      "rate": "3.55",
+      "num": "0",
+      "sort": "355",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:39:44",
+      "year": "2024",
+      "province_name": "天津市"
+    },
+    {
+      "id": "31533",
+      "school_id": "2642",
+      "province": "北京市",
+      "rate": "13.11",
+      "num": "0",
+      "sort": "1311",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:39:44",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "31532",
+      "school_id": "2642",
+      "province": "河北省",
+      "rate": "72.42",
+      "num": "0",
+      "sort": "7242",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:39:44",
+      "year": "2024",
+      "province_name": "河北省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "49.32",
+    "医疗卫生单位": "23.38",
+    "其他（含社会组织等）": "12.67",
+    "其他事业单位": "7.14",
+    "个体工商户": "6.72",
+    "外商投资企业": "0.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2709",
+      "school_id": "2642",
+      "female_num": "1136",
+      "men_num": "488",
+      "men_rate": "30.05",
+      "female_rate": "69.95",
+      "update_id": "1988",
+      "update_time": "2025-11-28 09:33:51",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:01:12",
+  "school_id": "1765",
+  "school_name": "浙江药科职业大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.41"
+    },
+    "postgraduate": {
+      "1": "11.97"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29135",
+      "school_id": "1765",
+      "province": "浙江省外",
+      "rate": "8.94",
+      "num": "0",
+      "sort": "894",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:32:01",
+      "year": "2024",
+      "province_name": "浙江省外"
+    },
+    {
+      "id": "29134",
+      "school_id": "1765",
+      "province": "浙江省内",
+      "rate": "91.06",
+      "num": "0",
+      "sort": "9106",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:31:37",
+      "year": "2024",
+      "province_name": "浙江省内"
+    }
+  ],
+  "attr": {
+    "医药工商企业": "49.18",
+    "医院": "6.99",
+    "食品工商企业": "3.59",
+    "医疗器械企业": "3.27",
+    "检测单位": "1.39",
+    "化妆品企业": "0.19"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2515",
+      "school_id": "1765",
+      "female_num": "1265",
+      "men_num": "682",
+      "men_rate": "35.03",
+      "female_rate": "64.97",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:26:52",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

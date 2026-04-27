@@ -1,0 +1,54 @@
+{
+  "update_time": "2026-04-27 16:00:04",
+  "school_id": "1650",
+  "school_name": "山西工程技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.21"
+    },
+    "postgraduate": {
+      "1": "13.10"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "6106",
+      "school_id": "1650",
+      "province": "山西省外",
+      "rate": "18.90",
+      "num": "56",
+      "sort": "56",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山西省外"
+    },
+    {
+      "id": "6107",
+      "school_id": "1650",
+      "province": "山西省",
+      "rate": "81.10",
+      "num": "240",
+      "sort": "240",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山西省"
+    }
+  ],
+  "attr": {
+    "国有企业": "49.40",
+    "机关": "1.20",
+    "其他": "49.40"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

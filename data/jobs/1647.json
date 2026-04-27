@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:00:02",
+  "school_id": "1647",
+  "school_name": "山西机电职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.32"
+    },
+    "postgraduate": {
+      "1": "13.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32102",
+      "school_id": "1647",
+      "province": "山西省外",
+      "rate": "29.09",
+      "num": "1104",
+      "sort": "2909",
+      "update_id": "2234",
+      "update_time": "2025-12-01 14:22:51",
+      "year": "2024",
+      "province_name": "山西省外"
+    },
+    {
+      "id": "32101",
+      "school_id": "1647",
+      "province": "山西省内",
+      "rate": "70.91",
+      "num": "2693",
+      "sort": "7091",
+      "update_id": "2234",
+      "update_time": "2025-12-01 14:22:13",
+      "year": "2024",
+      "province_name": "山西省内"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "71.75",
+    "国有企业": "11.54",
+    "个体工商户": "9.98"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2758",
+      "school_id": "1647",
+      "female_num": "376",
+      "men_num": "3567",
+      "men_rate": "90.46",
+      "female_rate": "9.54",
+      "update_id": "2234",
+      "update_time": "2025-12-01 14:18:44",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

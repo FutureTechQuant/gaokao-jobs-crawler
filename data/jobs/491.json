@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:49:53",
+  "school_id": "491",
+  "school_name": "青岛农业大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.44"
+    },
+    "postgraduate": {
+      "1": "18.84"
+    },
+    "abroad": {
+      "1": "0.62"
+    }
+  },
+  "province": [
+    {
+      "id": "5678",
+      "school_id": "491",
+      "province": "其他省市",
+      "rate": "10.00",
+      "num": "328",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5679",
+      "school_id": "491",
+      "province": "山东省",
+      "rate": "90.00",
+      "num": "6303",
+      "sort": "6303",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "非国有企业": "79.26",
+    "国有企业": "5.81",
+    "事业单位": "3.23",
+    "党政机关": "1.85",
+    "其他": "9.85"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "391",
+      "school_id": "491",
+      "female_num": "4296",
+      "men_num": "3454",
+      "men_rate": "44.57",
+      "female_rate": "55.43",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

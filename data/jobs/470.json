@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:49:40",
+  "school_id": "470",
+  "school_name": "西藏民族大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.37"
+    },
+    "postgraduate": {
+      "1": "6.63"
+    },
+    "abroad": {
+      "1": "0.23"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

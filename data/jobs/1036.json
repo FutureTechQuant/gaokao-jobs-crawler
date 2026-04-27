@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:55:09",
+  "school_id": "1036",
+  "school_name": "伊犁师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.80"
+    },
+    "postgraduate": {
+      "1": "9.50"
+    },
+    "abroad": {
+      "1": "0.30"
+    }
+  },
+  "province": [
+    {
+      "id": "28948",
+      "school_id": "1036",
+      "province": "省内",
+      "rate": "70.00",
+      "num": "3877",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 16:23:30",
+      "year": "2024",
+      "province_name": "省内"
+    },
+    {
+      "id": "28949",
+      "school_id": "1036",
+      "province": "省外",
+      "rate": "30.00",
+      "num": "1661",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 16:23:47",
+      "year": "2024",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "42.00",
+    "政府机构/科研或其他事业单位": "38.00",
+    "国有企业": "18.00",
+    "中外合资/外资/独资": "1.00",
+    "非营利组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1968",
+      "school_id": "1036",
+      "female_num": "3373",
+      "men_num": "1579",
+      "men_rate": "31.90",
+      "female_rate": "68.10",
+      "update_id": "2096",
+      "update_time": "2024-09-23 16:39:33",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

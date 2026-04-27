@@ -1,0 +1,27 @@
+{
+  "update_time": "2026-04-27 15:59:52",
+  "school_id": "1629",
+  "school_name": "内蒙古警察学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2286",
+      "school_id": "1629",
+      "female_num": "214",
+      "men_num": "770",
+      "men_rate": "78.30",
+      "female_rate": "21.70",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:27:18",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

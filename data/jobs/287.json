@@ -1,0 +1,145 @@
+{
+  "update_time": "2026-04-27 15:47:34",
+  "school_id": "287",
+  "school_name": "华南农业大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.46"
+    },
+    "postgraduate": {
+      "1": "23.80"
+    },
+    "abroad": {
+      "1": "5.99"
+    }
+  },
+  "province": [
+    {
+      "id": "15381",
+      "school_id": "287",
+      "province": "江苏省",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "11",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "15382",
+      "school_id": "287",
+      "province": "浙江省",
+      "rate": "1.30",
+      "num": "0",
+      "sort": "13",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "15379",
+      "school_id": "287",
+      "province": "湖南省",
+      "rate": "0.84",
+      "num": "0",
+      "sort": "84",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "15380",
+      "school_id": "287",
+      "province": "广西壮族自治区",
+      "rate": "1.04",
+      "num": "0",
+      "sort": "104",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "15383",
+      "school_id": "287",
+      "province": "北京市",
+      "rate": "1.32",
+      "num": "0",
+      "sort": "132",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "15384",
+      "school_id": "287",
+      "province": "上海市",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "164",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "15385",
+      "school_id": "287",
+      "province": "其他地区",
+      "rate": "7.41",
+      "num": "0",
+      "sort": "741",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "15378",
+      "school_id": "287",
+      "province": "广东省",
+      "rate": "85.35",
+      "num": "0",
+      "sort": "8535",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:54:02",
+      "year": "2023",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {
+    "企业单位": "78.42",
+    "国家机关": "7.72",
+    "其他单位": "7.64",
+    "其他事业单位": "2.94",
+    "中初教育单位": "2.26",
+    "科研设计单位": "0.39",
+    "高等教育单位": "0.37",
+    "城镇社区": "0.16",
+    "医疗卫生单位": "0.08",
+    "部队": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1472",
+      "school_id": "287",
+      "female_num": "4988",
+      "men_num": "4540",
+      "men_rate": "47.65",
+      "female_rate": "52.35",
+      "update_id": "2004",
+      "update_time": "2024-06-03 16:53:09",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11000"
+  }
+}

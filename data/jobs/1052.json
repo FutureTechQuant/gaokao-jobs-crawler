@@ -1,0 +1,382 @@
+{
+  "update_time": "2026-04-27 15:55:18",
+  "school_id": "1052",
+  "school_name": "湖北经济学院法商学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "91.25"
+    },
+    "postgraduate": {
+      "1": "4.40"
+    },
+    "abroad": {
+      "1": "1.33"
+    }
+  },
+  "province": [
+    {
+      "id": "16798",
+      "school_id": "1052",
+      "province": "湖北省",
+      "rate": "66.86",
+      "num": "1287",
+      "sort": "11",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "16799",
+      "school_id": "1052",
+      "province": "广东省",
+      "rate": "6.86",
+      "num": "132",
+      "sort": "12",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "16800",
+      "school_id": "1052",
+      "province": "浙江省",
+      "rate": "4.99",
+      "num": "96",
+      "sort": "13",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "16801",
+      "school_id": "1052",
+      "province": "江苏省",
+      "rate": "2.65",
+      "num": "51",
+      "sort": "14",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "16802",
+      "school_id": "1052",
+      "province": "河南省",
+      "rate": "2.44",
+      "num": "47",
+      "sort": "15",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "河南省"
+    },
+    {
+      "id": "16803",
+      "school_id": "1052",
+      "province": "广西壮族自治区",
+      "rate": "2.23",
+      "num": "43",
+      "sort": "16",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "16804",
+      "school_id": "1052",
+      "province": "四川省",
+      "rate": "1.92",
+      "num": "37",
+      "sort": "17",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "16805",
+      "school_id": "1052",
+      "province": "上海市",
+      "rate": "1.66",
+      "num": "32",
+      "sort": "18",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "上海市"
+    },
+    {
+      "id": "16806",
+      "school_id": "1052",
+      "province": "福建省",
+      "rate": "1.40",
+      "num": "27",
+      "sort": "19",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "福建省"
+    },
+    {
+      "id": "16807",
+      "school_id": "1052",
+      "province": "贵州省",
+      "rate": "1.25",
+      "num": "24",
+      "sort": "20",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "16808",
+      "school_id": "1052",
+      "province": "安徽省",
+      "rate": "1.14",
+      "num": "22",
+      "sort": "21",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "16809",
+      "school_id": "1052",
+      "province": "北京市",
+      "rate": "1.04",
+      "num": "20",
+      "sort": "22",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "北京市"
+    },
+    {
+      "id": "16810",
+      "school_id": "1052",
+      "province": "山西省",
+      "rate": "1.14",
+      "num": "22",
+      "sort": "23",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "山西省"
+    },
+    {
+      "id": "16811",
+      "school_id": "1052",
+      "province": "湖南省",
+      "rate": "0.78",
+      "num": "15",
+      "sort": "24",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "16812",
+      "school_id": "1052",
+      "province": "江西省",
+      "rate": "0.73",
+      "num": "14",
+      "sort": "25",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "江西省"
+    },
+    {
+      "id": "16813",
+      "school_id": "1052",
+      "province": "山东省",
+      "rate": "0.73",
+      "num": "14",
+      "sort": "26",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "山东省"
+    },
+    {
+      "id": "16814",
+      "school_id": "1052",
+      "province": "海南省",
+      "rate": "0.31",
+      "num": "6",
+      "sort": "27",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "海南省"
+    },
+    {
+      "id": "16815",
+      "school_id": "1052",
+      "province": "天津市",
+      "rate": "0.42",
+      "num": "8",
+      "sort": "28",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "天津市"
+    },
+    {
+      "id": "16816",
+      "school_id": "1052",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.42",
+      "num": "8",
+      "sort": "29",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "16817",
+      "school_id": "1052",
+      "province": "重庆市",
+      "rate": "0.16",
+      "num": "3",
+      "sort": "30",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "16818",
+      "school_id": "1052",
+      "province": "陕西省",
+      "rate": "0.26",
+      "num": "5",
+      "sort": "31",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "16819",
+      "school_id": "1052",
+      "province": "河北省",
+      "rate": "0.21",
+      "num": "4",
+      "sort": "32",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "河北省"
+    },
+    {
+      "id": "16820",
+      "school_id": "1052",
+      "province": "云南省",
+      "rate": "0.16",
+      "num": "3",
+      "sort": "33",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "云南省"
+    },
+    {
+      "id": "16821",
+      "school_id": "1052",
+      "province": "辽宁省",
+      "rate": "0.10",
+      "num": "2",
+      "sort": "34",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "16822",
+      "school_id": "1052",
+      "province": "黑龙江省",
+      "rate": "0.10",
+      "num": "2",
+      "sort": "35",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "黑龙江省"
+    },
+    {
+      "id": "16823",
+      "school_id": "1052",
+      "province": "青海省",
+      "rate": "0.05",
+      "num": "1",
+      "sort": "36",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:26:01",
+      "year": "2022",
+      "province_name": "青海省"
+    }
+  ],
+  "attr": {
+    "科研设计单位": "0.00",
+    "地方基层项目": "0.16",
+    "自由职业": "0.26",
+    "医疗卫生单位": "0.26",
+    "中初教育单位": "0.83",
+    "自主创业": "0.88",
+    "三资企业": "1.25",
+    "国家基层项目": "1.25",
+    "部队": "1.92",
+    "其他事业单位": "2.23",
+    "机关": "2.49",
+    "国有企业": "10.23",
+    "其他企业": "78.23"
+  },
+  "company": {
+    "中国农业发展银行": "33",
+    "招商银行股份有限公司": "19",
+    "中国工商银行股份有限公司": "18",
+    "湖北晨发浩达农业科技有限公司": "15",
+    "湖北银行股份有限公司": "15",
+    "深圳市汇合发展有限公司": "15",
+    "安琪酵母股份有限公司": "14",
+    "上海聚力企业服务有限公司": "13",
+    "和乐门业有限公司": "13",
+    "上海商霖华通投资咨询有限公司": "11",
+    "武汉万科祥盈管理服务有限公司": "9",
+    "中国光大银行股份有限公司": "9",
+    "湖北京邦达供应链科技有限公司": "8",
+    "交通银行股份有限公司": "8",
+    "润加物业服务(武汉)有限公司": "7",
+    "上海交银信息数据有限公司": "7",
+    "武汉小盆景口味堂酒店管理有限公司": "7"
+  },
+  "gradute": [
+    {
+      "id": "1571",
+      "school_id": "1052",
+      "female_num": "1454",
+      "men_num": "798",
+      "men_rate": "35.44",
+      "female_rate": "64.56",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:24:04",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:00:43",
+  "school_id": "1719",
+  "school_name": "甘肃交通职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.53"
+    },
+    "postgraduate": {
+      "1": "40.02"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29609",
+      "school_id": "1719",
+      "province": "省外",
+      "rate": "51.43",
+      "num": "1028",
+      "sort": "39",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:32:41",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "29608",
+      "school_id": "1719",
+      "province": "甘肃省内",
+      "rate": "48.57",
+      "num": "971",
+      "sort": "40",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:32:41",
+      "year": "2024",
+      "province_name": "甘肃省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体/其他企业": "87.21",
+    "其他（含社会组织等）": "5.37",
+    "国有企业": "5.02",
+    "政府机构/科研/事业单位": "2.41"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2558",
+      "school_id": "1719",
+      "female_num": "920",
+      "men_num": "2793",
+      "men_rate": "75.22",
+      "female_rate": "24.78",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:28:04",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7000"
+  }
+}

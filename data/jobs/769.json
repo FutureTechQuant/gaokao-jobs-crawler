@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:52:33",
+  "school_id": "769",
+  "school_name": "成都工业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "94.28"
+    },
+    "postgraduate": {
+      "1": "10.50"
+    },
+    "abroad": {
+      "1": "0.06"
+    }
+  },
+  "province": [
+    {
+      "id": "23322",
+      "school_id": "769",
+      "province": "北京",
+      "rate": "2.24",
+      "num": "58",
+      "sort": "58",
+      "update_id": "1988",
+      "update_time": "2024-10-22 16:23:19",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "23321",
+      "school_id": "769",
+      "province": "深圳",
+      "rate": "2.28",
+      "num": "59",
+      "sort": "59",
+      "update_id": "1988",
+      "update_time": "2024-10-22 16:22:51",
+      "year": "2021",
+      "province_name": "深圳"
+    },
+    {
+      "id": "23320",
+      "school_id": "769",
+      "province": "重庆",
+      "rate": "3.13",
+      "num": "81",
+      "sort": "81",
+      "update_id": "1988",
+      "update_time": "2024-10-22 16:22:27",
+      "year": "2021",
+      "province_name": "重庆"
+    },
+    {
+      "id": "23319",
+      "school_id": "769",
+      "province": "绵阳",
+      "rate": "3.20",
+      "num": "83",
+      "sort": "83",
+      "update_id": "1988",
+      "update_time": "2024-10-22 16:22:10",
+      "year": "2021",
+      "province_name": "绵阳"
+    },
+    {
+      "id": "23318",
+      "school_id": "769",
+      "province": "成都",
+      "rate": "55.79",
+      "num": "1445",
+      "sort": "1445",
+      "update_id": "1988",
+      "update_time": "2024-10-22 16:21:48",
+      "year": "2021",
+      "province_name": "成都"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "67.05",
+    "国有企业": "18.57",
+    "中外合资/外资/独资": "8.18",
+    "政府机构/科研或其他事业单位": "5.46",
+    "非政府或非营利组织": "0.73"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2048",
+      "school_id": "769",
+      "female_num": "736",
+      "men_num": "2375",
+      "men_rate": "76.34",
+      "female_rate": "23.66",
+      "update_id": "1988",
+      "update_time": "2024-10-22 16:20:55",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10900"
+  }
+}

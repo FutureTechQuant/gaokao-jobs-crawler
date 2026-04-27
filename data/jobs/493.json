@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:49:54",
+  "school_id": "493",
+  "school_name": "许昌学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "67.05"
+    },
+    "postgraduate": {
+      "1": "13.07"
+    },
+    "abroad": {
+      "1": "0.24"
+    }
+  },
+  "province": [
+    {
+      "id": "29116",
+      "school_id": "493",
+      "province": "北京",
+      "rate": "3.40",
+      "num": "0",
+      "sort": "340",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:00:03",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "29115",
+      "school_id": "493",
+      "province": "江苏",
+      "rate": "3.74",
+      "num": "0",
+      "sort": "374",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:00:03",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "29114",
+      "school_id": "493",
+      "province": "广东",
+      "rate": "4.39",
+      "num": "0",
+      "sort": "439",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:00:03",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "29113",
+      "school_id": "493",
+      "province": "浙江",
+      "rate": "5.96",
+      "num": "0",
+      "sort": "596",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:00:03",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "29112",
+      "school_id": "493",
+      "province": "河南省",
+      "rate": "58.20",
+      "num": "0",
+      "sort": "5820",
+      "update_id": "2234",
+      "update_time": "2025-11-13 10:00:03",
+      "year": "2024",
+      "province_name": "河南省"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个体": "69.19",
+    "国有企业": "15.52",
+    "政府机构 / 科研或其他事业单位": "10.58",
+    "中外合资 / 外资 / 独资": "3.32",
+    "民非组织": "1.38"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1965",
+      "school_id": "493",
+      "female_num": "4132",
+      "men_num": "2453",
+      "men_rate": "37.25",
+      "female_rate": "62.75",
+      "update_id": "2096",
+      "update_time": "2024-09-23 16:07:36",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

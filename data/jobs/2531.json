@@ -1,0 +1,140 @@
+{
+  "update_time": "2026-04-27 16:09:22",
+  "school_id": "2531",
+  "school_name": "哈尔滨华德学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.65"
+    },
+    "postgraduate": {
+      "1": "1.07"
+    },
+    "abroad": {
+      "1": "0.58"
+    }
+  },
+  "province": [
+    {
+      "id": "24925",
+      "school_id": "2531",
+      "province": "西部生态经济区",
+      "rate": "0.78",
+      "num": "24",
+      "sort": "24",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:53:05",
+      "year": "2024",
+      "province_name": "西部生态经济区"
+    },
+    {
+      "id": "24920",
+      "school_id": "2531",
+      "province": "陕甘宁青区域经济体",
+      "rate": "1.36",
+      "num": "42",
+      "sort": "42",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:51:13",
+      "year": "2024",
+      "province_name": "陕甘宁青区域经济体"
+    },
+    {
+      "id": "24921",
+      "school_id": "2531",
+      "province": "中原区域经济体",
+      "rate": "1.95",
+      "num": "60",
+      "sort": "60",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:51:33",
+      "year": "2024",
+      "province_name": "中原区域经济体"
+    },
+    {
+      "id": "24924",
+      "school_id": "2531",
+      "province": "西南区域经济体",
+      "rate": "5.68",
+      "num": "175",
+      "sort": "175",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:52:53",
+      "year": "2024",
+      "province_name": "西南区域经济体"
+    },
+    {
+      "id": "24923",
+      "school_id": "2531",
+      "province": "泛珠江三角洲区域",
+      "rate": "5.71",
+      "num": "176",
+      "sort": "176",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:52:33",
+      "year": "2024",
+      "province_name": "泛珠江三角洲区域"
+    },
+    {
+      "id": "24919",
+      "school_id": "2531",
+      "province": "泛渤海湾区域经济体",
+      "rate": "13.96",
+      "num": "430",
+      "sort": "430",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:50:53",
+      "year": "2024",
+      "province_name": "泛渤海湾区域经济体"
+    },
+    {
+      "id": "24922",
+      "school_id": "2531",
+      "province": "泛长江三角洲区域",
+      "rate": "19.97",
+      "num": "615",
+      "sort": "615",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:52:10",
+      "year": "2024",
+      "province_name": "泛长江三角洲区域"
+    },
+    {
+      "id": "24918",
+      "school_id": "2531",
+      "province": "东北地区经济体",
+      "rate": "43.34",
+      "num": "1335",
+      "sort": "1335",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:50:28",
+      "year": "2024",
+      "province_name": "东北地区经济体"
+    }
+  ],
+  "attr": {
+    "世界500强企业": "10.32",
+    "上市公司": "7.92",
+    "考取公务员（含事业单位）": "4.84",
+    "入伍": "0.75",
+    "创业": "0.36"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2167",
+      "school_id": "2531",
+      "female_num": "1146",
+      "men_num": "1934",
+      "men_rate": "62.79",
+      "female_rate": "37.21",
+      "update_id": "1988",
+      "update_time": "2025-01-07 09:42:24",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

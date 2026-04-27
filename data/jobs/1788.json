@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:01:27",
+  "school_id": "1788",
+  "school_name": "台州科技职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.44"
+    },
+    "postgraduate": {
+      "1": "15.10"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30140",
+      "school_id": "1788",
+      "province": "省外",
+      "rate": "5.11",
+      "num": "0",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:05:45",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "30139",
+      "school_id": "1788",
+      "province": "省内",
+      "rate": "94.89",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:05:17",
+      "year": "2024",
+      "province_name": "省内"
+    }
+  ],
+  "attr": {
+    "民营企业": "66.15",
+    "个体户": "12.59",
+    "国有企业": "8.10",
+    "政府机构": "4.77"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2593",
+      "school_id": "1788",
+      "female_num": "1831",
+      "men_num": "1687",
+      "men_rate": "47.95",
+      "female_rate": "52.05",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:04:41",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

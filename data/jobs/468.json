@@ -1,0 +1,123 @@
+{
+  "update_time": "2026-04-27 15:49:39",
+  "school_id": "468",
+  "school_name": "福建农林大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "92.39"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "15990",
+      "school_id": "468",
+      "province": "一线城市",
+      "rate": "12.61",
+      "num": "0",
+      "sort": "9",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2022",
+      "province_name": "一线城市"
+    },
+    {
+      "id": "15991",
+      "school_id": "468",
+      "province": "二线城市",
+      "rate": "52.37",
+      "num": "0",
+      "sort": "10",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2022",
+      "province_name": "二线城市"
+    },
+    {
+      "id": "15992",
+      "school_id": "468",
+      "province": "三线城市",
+      "rate": "5.35",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2022",
+      "province_name": "三线城市"
+    },
+    {
+      "id": "15993",
+      "school_id": "468",
+      "province": "四线城市",
+      "rate": "1.77",
+      "num": "0",
+      "sort": "12",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2022",
+      "province_name": "四线城市"
+    },
+    {
+      "id": "15994",
+      "school_id": "468",
+      "province": "五线城市",
+      "rate": "5.46",
+      "num": "0",
+      "sort": "13",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2022",
+      "province_name": "五线城市"
+    },
+    {
+      "id": "15995",
+      "school_id": "468",
+      "province": "六线城市",
+      "rate": "22.44",
+      "num": "0",
+      "sort": "14",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2022",
+      "province_name": "六线城市"
+    }
+  ],
+  "attr": {
+    "部队": "0.03",
+    "城镇社区": "0.03",
+    "医疗卫生单位": "0.23",
+    "科研设计单位": "0.23",
+    "中初教育单位": "0.78",
+    "其他事业单位": "1.27",
+    "高等教育单位": "2.59",
+    "机关": "3.11",
+    "三资企业": "4.44",
+    "其他": "14.53",
+    "国有企业": "15.67",
+    "其他企业": "57.09"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "340",
+      "school_id": "468",
+      "female_num": "3228",
+      "men_num": "3262",
+      "men_rate": "50.00",
+      "female_rate": "50.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

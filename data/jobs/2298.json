@@ -1,0 +1,79 @@
+{
+  "update_time": "2026-04-27 16:06:54",
+  "school_id": "2298",
+  "school_name": "天津商业大学宝德学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "84.35"
+    },
+    "postgraduate": {
+      "1": "1.01"
+    },
+    "abroad": {
+      "1": "0.88"
+    }
+  },
+  "province": [
+    {
+      "id": "18869",
+      "school_id": "2298",
+      "province": "天津",
+      "rate": "15.65",
+      "num": "357",
+      "sort": "40",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "天津"
+    },
+    {
+      "id": "18870",
+      "school_id": "2298",
+      "province": "河北",
+      "rate": "8.55",
+      "num": "195",
+      "sort": "41",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "河北"
+    },
+    {
+      "id": "18871",
+      "school_id": "2298",
+      "province": "其他",
+      "rate": "75.80",
+      "num": "1729",
+      "sort": "42",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "其他"
+    }
+  ],
+  "attr": {
+    "中小型企业": "47.37",
+    "大型国企": "2.29",
+    "事业单位": "1.67",
+    "三资企业": "0.78"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1726",
+      "school_id": "2298",
+      "female_num": "1626",
+      "men_num": "655",
+      "men_rate": "28.72",
+      "female_rate": "71.28",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:24",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8600"
+  }
+}

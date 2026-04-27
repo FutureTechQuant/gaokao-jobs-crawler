@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 15:59:13",
+  "school_id": "1563",
+  "school_name": "六盘水职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "85.20"
+    },
+    "postgraduate": {
+      "1": "6.50"
+    },
+    "abroad": {
+      "1": "0.01"
+    }
+  },
+  "province": [
+    {
+      "id": "11006",
+      "school_id": "1563",
+      "province": "贵州",
+      "rate": "81.70",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-07 10:26:53",
+      "year": "2019",
+      "province_name": "贵州"
+    },
+    {
+      "id": "11007",
+      "school_id": "1563",
+      "province": "六盘水",
+      "rate": "29.30",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-07 10:26:53",
+      "year": "2019",
+      "province_name": "六盘水"
+    },
+    {
+      "id": "11008",
+      "school_id": "1563",
+      "province": "毕节",
+      "rate": "15.80",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-07 10:26:53",
+      "year": "2019",
+      "province_name": "毕节"
+    },
+    {
+      "id": "11009",
+      "school_id": "1563",
+      "province": "贵阳",
+      "rate": "13.90",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-07 10:26:53",
+      "year": "2019",
+      "province_name": "贵阳"
+    },
+    {
+      "id": "11010",
+      "school_id": "1563",
+      "province": "遵义",
+      "rate": "4.90",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-07 10:26:53",
+      "year": "2019",
+      "province_name": "遵义"
+    },
+    {
+      "id": "11011",
+      "school_id": "1563",
+      "province": "黔西南布依族苗族自治州",
+      "rate": "4.50",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-07 10:26:53",
+      "year": "2019",
+      "province_name": "黔西南布依族苗族自治州"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "73.00",
+    "国有企业": "13.00",
+    "政府机构/科研 或其他事业单位": "11.00",
+    "中外合资/外资/ 独资": "2.00",
+    "非政府或非营利 组织（NGO等）": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1248",
+      "school_id": "1563",
+      "female_num": "1991",
+      "men_num": "465",
+      "men_rate": "19.00",
+      "female_rate": "81.00",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:25:25",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

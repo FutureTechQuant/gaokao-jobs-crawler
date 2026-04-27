@@ -1,0 +1,35 @@
+{
+  "update_time": "2026-04-27 16:09:13",
+  "school_id": "2518",
+  "school_name": "潍坊理工学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "80.05"
+    },
+    "postgraduate": {
+      "1": "23.96"
+    },
+    "abroad": {
+      "1": "0.33"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "398",
+      "school_id": "2518",
+      "female_num": "839",
+      "men_num": "493",
+      "men_rate": "37.01",
+      "female_rate": "62.99",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

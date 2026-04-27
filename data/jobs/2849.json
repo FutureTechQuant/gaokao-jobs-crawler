@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:11:00",
+  "school_id": "2849",
+  "school_name": "齐齐哈尔理工职业学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "85.44"
+    },
+    "postgraduate": {
+      "1": "3.62"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2365",
+      "school_id": "2849",
+      "female_num": "159",
+      "men_num": "1249",
+      "men_rate": "88.70",
+      "female_rate": "11.30",
+      "update_id": "2096",
+      "update_time": "2025-07-08 16:39:03",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7100"
+  }
+}

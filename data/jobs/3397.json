@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:14:45",
+  "school_id": "3397",
+  "school_name": "江阳城建职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.74"
+    },
+    "postgraduate": {
+      "1": "8.38"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

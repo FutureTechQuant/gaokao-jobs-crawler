@@ -1,0 +1,163 @@
+{
+  "update_time": "2026-04-27 16:14:13",
+  "school_id": "3343",
+  "school_name": "苏州幼儿师范高等专科学校",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "94.70"
+    },
+    "postgraduate": {
+      "1": "19.66"
+    },
+    "abroad": {
+      "1": "0.31"
+    }
+  },
+  "province": [
+    {
+      "id": "27773",
+      "school_id": "3343",
+      "province": "南通市",
+      "rate": "0.85",
+      "num": "0",
+      "sort": "85",
+      "update_id": "1988",
+      "update_time": "2025-07-08 16:41:01",
+      "year": "2022",
+      "province_name": "南通市"
+    },
+    {
+      "id": "27572",
+      "school_id": "3343",
+      "province": "连云港",
+      "rate": "1.02",
+      "num": "0",
+      "sort": "102",
+      "update_id": "1988",
+      "update_time": "2025-07-08 16:40:34",
+      "year": "2022",
+      "province_name": "连云港"
+    },
+    {
+      "id": "27573",
+      "school_id": "3343",
+      "province": "宿迁市",
+      "rate": "1.02",
+      "num": "0",
+      "sort": "102",
+      "update_id": "1988",
+      "update_time": "2025-07-08 16:40:45",
+      "year": "2022",
+      "province_name": "宿迁市"
+    },
+    {
+      "id": "27571",
+      "school_id": "3343",
+      "province": "常州市",
+      "rate": "1.86",
+      "num": "0",
+      "sort": "186",
+      "update_id": "1988",
+      "update_time": "2025-07-08 16:40:22",
+      "year": "2022",
+      "province_name": "常州市"
+    },
+    {
+      "id": "27570",
+      "school_id": "3343",
+      "province": "无锡市",
+      "rate": "2.71",
+      "num": "0",
+      "sort": "271",
+      "update_id": "1988",
+      "update_time": "2025-07-08 16:40:08",
+      "year": "2022",
+      "province_name": "无锡市"
+    },
+    {
+      "id": "27569",
+      "school_id": "3343",
+      "province": "镇江市",
+      "rate": "3.39",
+      "num": "0",
+      "sort": "339",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:32:00",
+      "year": "2022",
+      "province_name": "镇江市"
+    },
+    {
+      "id": "27568",
+      "school_id": "3343",
+      "province": "淮安市",
+      "rate": "4.24",
+      "num": "0",
+      "sort": "424",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:32:00",
+      "year": "2022",
+      "province_name": "淮安市"
+    },
+    {
+      "id": "27567",
+      "school_id": "3343",
+      "province": "泰州市",
+      "rate": "5.08",
+      "num": "0",
+      "sort": "508",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:32:00",
+      "year": "2022",
+      "province_name": "泰州市"
+    },
+    {
+      "id": "27566",
+      "school_id": "3343",
+      "province": "南京市",
+      "rate": "20.17",
+      "num": "0",
+      "sort": "2017",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:32:00",
+      "year": "2022",
+      "province_name": "南京市"
+    },
+    {
+      "id": "27565",
+      "school_id": "3343",
+      "province": "苏州市",
+      "rate": "57.12",
+      "num": "0",
+      "sort": "5712",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:32:00",
+      "year": "2022",
+      "province_name": "苏州市"
+    }
+  ],
+  "attr": {
+    "中初教育单位": "71.31",
+    "其他企业": "19.62",
+    "其他": "5.49",
+    "部队": "1.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2336",
+      "school_id": "3343",
+      "female_num": "586",
+      "men_num": "55",
+      "men_rate": "8.58",
+      "female_rate": "91.42",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:29:09",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

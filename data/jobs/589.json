@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 15:50:53",
+  "school_id": "589",
+  "school_name": "首都师范大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "97.75"
+    },
+    "postgraduate": {
+      "1": "19.07"
+    },
+    "abroad": {
+      "1": "3.43"
+    }
+  },
+  "province": [
+    {
+      "id": "25889",
+      "school_id": "589",
+      "province": "河北省",
+      "rate": "0.00",
+      "num": "73",
+      "sort": "73",
+      "update_id": "1211",
+      "update_time": "2025-01-09 12:06:05",
+      "year": "2022",
+      "province_name": "河北省"
+    },
+    {
+      "id": "25893",
+      "school_id": "589",
+      "province": "广东省",
+      "rate": "0.00",
+      "num": "80",
+      "sort": "80",
+      "update_id": "1211",
+      "update_time": "2025-01-09 12:06:05",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "25890",
+      "school_id": "589",
+      "province": "山东省",
+      "rate": "0.00",
+      "num": "103",
+      "sort": "103",
+      "update_id": "1211",
+      "update_time": "2025-01-09 12:06:05",
+      "year": "2022",
+      "province_name": "山东省"
+    },
+    {
+      "id": "25891",
+      "school_id": "589",
+      "province": "西部地区",
+      "rate": "0.00",
+      "num": "231",
+      "sort": "231",
+      "update_id": "1211",
+      "update_time": "2025-01-09 12:06:05",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "25892",
+      "school_id": "589",
+      "province": "其他地区",
+      "rate": "0.00",
+      "num": "383",
+      "sort": "383",
+      "update_id": "1211",
+      "update_time": "2025-01-09 12:06:05",
+      "year": "2022",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "25888",
+      "school_id": "589",
+      "province": "北京市",
+      "rate": "0.00",
+      "num": "1909",
+      "sort": "1909",
+      "update_id": "1211",
+      "update_time": "2025-01-09 12:06:05",
+      "year": "2022",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {
+    "教育系统": "0.00",
+    "其他企业": "0.00",
+    "机关事业单位": "0.00",
+    "国有企业": "0.00",
+    "其他": "0.00",
+    "科研单位": "0.00",
+    "部队": "0.00",
+    "医疗卫生单位": "0.00",
+    "科研设计单位": "0.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1160",
+      "school_id": "589",
+      "female_num": "3900",
+      "men_num": "1245",
+      "men_rate": "24.00",
+      "female_rate": "76.00",
+      "update_id": "929",
+      "update_time": "2021-04-01 17:47:14",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12700"
+  }
+}

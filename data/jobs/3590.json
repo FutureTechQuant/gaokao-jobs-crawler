@@ -1,0 +1,127 @@
+{
+  "update_time": "2026-04-27 16:16:24",
+  "school_id": "3590",
+  "school_name": "防城港职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "79.29"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27551",
+      "school_id": "3590",
+      "province": "重庆市",
+      "rate": "0.88",
+      "num": "0",
+      "sort": "88",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "27550",
+      "school_id": "3590",
+      "province": "浙江省",
+      "rate": "0.88",
+      "num": "0",
+      "sort": "88",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "27549",
+      "school_id": "3590",
+      "province": "四川省",
+      "rate": "0.88",
+      "num": "0",
+      "sort": "88",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "27548",
+      "school_id": "3590",
+      "province": "江西省",
+      "rate": "1.75",
+      "num": "0",
+      "sort": "175",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "江西省"
+    },
+    {
+      "id": "27547",
+      "school_id": "3590",
+      "province": "湖南省",
+      "rate": "1.75",
+      "num": "0",
+      "sort": "175",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "27545",
+      "school_id": "3590",
+      "province": "广东省",
+      "rate": "33.33",
+      "num": "0",
+      "sort": "3333",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "27546",
+      "school_id": "3590",
+      "province": "广西壮族自治区",
+      "rate": "60.53",
+      "num": "69",
+      "sort": "6053",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:33:45",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "86.49",
+    "个体工商户": "5.41",
+    "教育": "5.41",
+    "机关": "0.90",
+    "城镇社区": "0.90",
+    "其他事业单位": "0.90"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2332",
+      "school_id": "3590",
+      "female_num": "99",
+      "men_num": "99",
+      "men_rate": "50.00",
+      "female_rate": "50.00",
+      "update_id": "1211",
+      "update_time": "2025-07-07 16:10:47",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

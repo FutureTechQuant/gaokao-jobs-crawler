@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:12:57",
+  "school_id": "3205",
+  "school_name": "贵州工程职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.62"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2576",
+      "school_id": "3205",
+      "female_num": "1481",
+      "men_num": "1596",
+      "men_rate": "51.87",
+      "female_rate": "48.13",
+      "update_id": "2234",
+      "update_time": "2025-11-17 09:26:12",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

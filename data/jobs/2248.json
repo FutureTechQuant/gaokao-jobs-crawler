@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:06:24",
+  "school_id": "2248",
+  "school_name": "渭南职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.25"
+    },
+    "postgraduate": {
+      "1": "15.98"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32391",
+      "school_id": "2248",
+      "province": "陕西省外",
+      "rate": "20.57",
+      "num": "807",
+      "sort": "2057",
+      "update_id": "2234",
+      "update_time": "2025-12-01 16:11:08",
+      "year": "2024",
+      "province_name": "陕西省外"
+    },
+    {
+      "id": "32390",
+      "school_id": "2248",
+      "province": "陕西省内",
+      "rate": "79.43",
+      "num": "3117",
+      "sort": "7943",
+      "update_id": "2234",
+      "update_time": "2025-12-01 16:09:22",
+      "year": "2024",
+      "province_name": "陕西省内"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个体 / 其他企业": "76.33",
+    "政府机构 / 科研 / 事业单位": "20.67",
+    "其他（含社会组织等）": "1.55",
+    "国有企业": "1.45"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2779",
+      "school_id": "2248",
+      "female_num": "3363",
+      "men_num": "1942",
+      "men_rate": "36.61",
+      "female_rate": "63.39",
+      "update_id": "2234",
+      "update_time": "2025-12-01 15:53:46",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

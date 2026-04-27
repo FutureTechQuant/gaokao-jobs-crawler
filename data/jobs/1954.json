@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:03:17",
+  "school_id": "1954",
+  "school_name": "湖北生物科技职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.51"
+    },
+    "postgraduate": {
+      "1": "13.88"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31649",
+      "school_id": "1954",
+      "province": "湖北省外",
+      "rate": "26.00",
+      "num": "0",
+      "sort": "2600",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:47:23",
+      "year": "2024",
+      "province_name": "湖北省外"
+    },
+    {
+      "id": "31648",
+      "school_id": "1954",
+      "province": "湖北省",
+      "rate": "74.00",
+      "num": "0",
+      "sort": "7400",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:46:49",
+      "year": "2024",
+      "province_name": "湖北省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2716",
+      "school_id": "1954",
+      "female_num": "1760",
+      "men_num": "2137",
+      "men_rate": "54.84",
+      "female_rate": "45.16",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:46:12",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

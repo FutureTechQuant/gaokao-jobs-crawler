@@ -1,0 +1,48 @@
+{
+  "update_time": "2026-04-27 16:15:17",
+  "school_id": "3466",
+  "school_name": "郑州亚欧交通职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "66.49"
+    },
+    "postgraduate": {
+      "1": "8.20"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "22985",
+      "school_id": "3466",
+      "province": "东部和东北地区",
+      "rate": "1.00",
+      "num": "1",
+      "sort": "0",
+      "update_id": "1988",
+      "update_time": "2024-09-25 18:03:56",
+      "year": "2023",
+      "province_name": "东部和东北地区"
+    },
+    {
+      "id": "22984",
+      "school_id": "3466",
+      "province": "郑州",
+      "rate": "77.00",
+      "num": "77",
+      "sort": "77",
+      "update_id": "1988",
+      "update_time": "2024-09-25 18:03:34",
+      "year": "2023",
+      "province_name": "郑州"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

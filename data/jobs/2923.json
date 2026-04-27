@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 16:11:28",
+  "school_id": "2923",
+  "school_name": "安徽扬子职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.68"
+    },
+    "postgraduate": {
+      "1": "2.23"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28938",
+      "school_id": "2923",
+      "province": "东北地区",
+      "rate": "0.13",
+      "num": "0",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "28937",
+      "school_id": "2923",
+      "province": "西北地区",
+      "rate": "0.25",
+      "num": "0",
+      "sort": "25",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "28936",
+      "school_id": "2923",
+      "province": "西南地区",
+      "rate": "0.50",
+      "num": "0",
+      "sort": "50",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "28935",
+      "school_id": "2923",
+      "province": "华中地区",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "107",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "28934",
+      "school_id": "2923",
+      "province": "华北地区",
+      "rate": "1.13",
+      "num": "0",
+      "sort": "113",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "28933",
+      "school_id": "2923",
+      "province": "华南地区",
+      "rate": "1.41",
+      "num": "0",
+      "sort": "141",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "28932",
+      "school_id": "2923",
+      "province": "华东地区",
+      "rate": "95.51",
+      "num": "0",
+      "sort": "9551",
+      "update_id": "1988",
+      "update_time": "2025-11-12 16:06:03",
+      "year": "2024",
+      "province_name": "华东地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

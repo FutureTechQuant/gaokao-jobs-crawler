@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:01:32",
+  "school_id": "1794",
+  "school_name": "浙江广厦建设职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.86"
+    },
+    "postgraduate": {
+      "1": "7.25"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29023",
+      "school_id": "1794",
+      "province": "省外",
+      "rate": "12.10",
+      "num": "706",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 16:59:33",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "29022",
+      "school_id": "1794",
+      "province": "省内",
+      "rate": "87.90",
+      "num": "5128",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 16:59:19",
+      "year": "2024",
+      "province_name": "省内"
+    }
+  ],
+  "attr": {
+    "营企业 / 个体": "83.00",
+    "国有企业": "9.00",
+    "政府机构 / 科研或其他事业单位": "5.00",
+    "中外合资 / 外资 / 独资": "2.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2499",
+      "school_id": "1794",
+      "female_num": "2040",
+      "men_num": "3804",
+      "men_rate": "65.00",
+      "female_rate": "35.00",
+      "update_id": "2156",
+      "update_time": "2025-11-12 16:33:48",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

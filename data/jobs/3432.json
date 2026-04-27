@@ -1,0 +1,108 @@
+{
+  "update_time": "2026-04-27 16:15:04",
+  "school_id": "3432",
+  "school_name": "赣州职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "100.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "12982",
+      "school_id": "3432",
+      "province": "赣州",
+      "rate": "50.00",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:39:35",
+      "year": "2019",
+      "province_name": "赣州"
+    },
+    {
+      "id": "12983",
+      "school_id": "3432",
+      "province": "浙江",
+      "rate": "13.63",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:39:35",
+      "year": "2019",
+      "province_name": "浙江"
+    },
+    {
+      "id": "12984",
+      "school_id": "3432",
+      "province": "广东",
+      "rate": "9.00",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:39:35",
+      "year": "2019",
+      "province_name": "广东"
+    },
+    {
+      "id": "12985",
+      "school_id": "3432",
+      "province": "湖南",
+      "rate": "4.54",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:39:35",
+      "year": "2019",
+      "province_name": "湖南"
+    },
+    {
+      "id": "12986",
+      "school_id": "3432",
+      "province": "吉安",
+      "rate": "4.54",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:39:35",
+      "year": "2019",
+      "province_name": "吉安"
+    },
+    {
+      "id": "12987",
+      "school_id": "3432",
+      "province": "上饶",
+      "rate": "4.54",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:39:35",
+      "year": "2019",
+      "province_name": "上饶"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1282",
+      "school_id": "3432",
+      "female_num": "0",
+      "men_num": "22",
+      "men_rate": "100.00",
+      "female_rate": "0.00",
+      "update_id": "825",
+      "update_time": "2022-06-17 16:29:41",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

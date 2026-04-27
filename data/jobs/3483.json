@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:15:25",
+  "school_id": "3483",
+  "school_name": "江苏海洋大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.13"
+    },
+    "postgraduate": {
+      "1": "12.89"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1219",
+      "school_id": "3483",
+      "female_num": "2215",
+      "men_num": "2849",
+      "men_rate": "56.26",
+      "female_rate": "43.74",
+      "update_id": "825",
+      "update_time": "2021-04-02 11:57:01",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

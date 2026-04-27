@@ -1,0 +1,140 @@
+{
+  "update_time": "2026-04-27 16:09:30",
+  "school_id": "2543",
+  "school_name": "南京传媒学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "99.01"
+    },
+    "postgraduate": {
+      "1": "1.78"
+    },
+    "abroad": {
+      "1": "3.12"
+    }
+  },
+  "province": [
+    {
+      "id": "9327",
+      "school_id": "2543",
+      "province": "其他省市",
+      "rate": "20.10",
+      "num": "625",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "9329",
+      "school_id": "2543",
+      "province": "河南省",
+      "rate": "2.60",
+      "num": "80",
+      "sort": "80",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "河南省"
+    },
+    {
+      "id": "9324",
+      "school_id": "2543",
+      "province": "浙江省",
+      "rate": "3.28",
+      "num": "102",
+      "sort": "102",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "9332",
+      "school_id": "2543",
+      "province": "安徽省",
+      "rate": "3.44",
+      "num": "106",
+      "sort": "106",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "9325",
+      "school_id": "2543",
+      "province": "上海市",
+      "rate": "3.73",
+      "num": "116",
+      "sort": "116",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "9330",
+      "school_id": "2543",
+      "province": "广东省",
+      "rate": "4.31",
+      "num": "134",
+      "sort": "134",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "9331",
+      "school_id": "2543",
+      "province": "北京市",
+      "rate": "4.95",
+      "num": "154",
+      "sort": "154",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "9326",
+      "school_id": "2543",
+      "province": "山东省",
+      "rate": "9.29",
+      "num": "289",
+      "sort": "289",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "山东省"
+    },
+    {
+      "id": "9328",
+      "school_id": "2543",
+      "province": "江苏省",
+      "rate": "48.30",
+      "num": "1502",
+      "sort": "1502",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {
+    "媒体单位": "41.57",
+    "国有企业、事业单位": "2.09",
+    "三资企业": "1.25",
+    "机关": "0.93",
+    "其他": "54.16"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "10800"
+  }
+}

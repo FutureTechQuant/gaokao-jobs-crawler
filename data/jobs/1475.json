@@ -1,0 +1,184 @@
+{
+  "update_time": "2026-04-27 15:58:32",
+  "school_id": "1475",
+  "school_name": "重庆财经学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "2.19"
+    },
+    "abroad": {
+      "1": "0.84"
+    }
+  },
+  "province": [
+    {
+      "id": "27857",
+      "school_id": "1475",
+      "province": "陕西省",
+      "rate": "0.97",
+      "num": "0",
+      "sort": "97",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "27856",
+      "school_id": "1475",
+      "province": "广西壮族自治区",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "100",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "27855",
+      "school_id": "1475",
+      "province": "上海市",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "100",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "27854",
+      "school_id": "1475",
+      "province": "江苏省",
+      "rate": "1.42",
+      "num": "0",
+      "sort": "142",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "27853",
+      "school_id": "1475",
+      "province": "云南省",
+      "rate": "1.68",
+      "num": "0",
+      "sort": "168",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "27852",
+      "school_id": "1475",
+      "province": "贵州省",
+      "rate": "1.74",
+      "num": "0",
+      "sort": "174",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "27851",
+      "school_id": "1475",
+      "province": "浙江省",
+      "rate": "2.21",
+      "num": "0",
+      "sort": "221",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "27850",
+      "school_id": "1475",
+      "province": "广东省",
+      "rate": "3.23",
+      "num": "0",
+      "sort": "323",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "27849",
+      "school_id": "1475",
+      "province": "四川省",
+      "rate": "6.28",
+      "num": "0",
+      "sort": "628",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "27858",
+      "school_id": "1475",
+      "province": "其他",
+      "rate": "8.92",
+      "num": "0",
+      "sort": "892",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "27848",
+      "school_id": "1475",
+      "province": "重庆市",
+      "rate": "71.58",
+      "num": "0",
+      "sort": "7158",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:36:34",
+      "year": "2024",
+      "province_name": "重庆市"
+    }
+  ],
+  "attr": {
+    "其他企业": "81.09",
+    "国有企业": "5.49",
+    "三资企业": "4.07",
+    "自由职业": "2.60",
+    "个体工商户": "2.51",
+    "机关": "1.20",
+    "国家基层项目": "1.09",
+    "其他事业单位": "0.66",
+    "自主创业（未注册）": "0.44",
+    "医疗卫生单位": "0.27",
+    "部队": "0.16",
+    "中初教育": "0.14",
+    "地方基层项目": "0.11",
+    "农村建制村": "0.08",
+    "城镇社区": "0.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2375",
+      "school_id": "1475",
+      "female_num": "2950",
+      "men_num": "1887",
+      "men_rate": "39.01",
+      "female_rate": "60.99",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:33:34",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

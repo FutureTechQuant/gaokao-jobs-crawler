@@ -1,0 +1,53 @@
+{
+  "update_time": "2026-04-27 15:59:56",
+  "school_id": "1636",
+  "school_name": "内蒙古北方职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "79.76"
+    },
+    "postgraduate": {
+      "1": "8.29"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32227",
+      "school_id": "1636",
+      "province": "区外",
+      "rate": "11.97",
+      "num": "62",
+      "sort": "1197",
+      "update_id": "2096",
+      "update_time": "2025-12-01 14:59:24",
+      "year": "2024",
+      "province_name": "区外"
+    },
+    {
+      "id": "32226",
+      "school_id": "1636",
+      "province": "区内",
+      "rate": "88.03",
+      "num": "456",
+      "sort": "8803",
+      "update_id": "2096",
+      "update_time": "2025-12-01 14:59:04",
+      "year": "2024",
+      "province_name": "区内"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "58.99",
+    "个体工商户": "24.76"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "6800"
+  }
+}

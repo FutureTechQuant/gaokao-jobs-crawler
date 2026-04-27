@@ -1,0 +1,172 @@
+{
+  "update_time": "2026-04-27 16:09:36",
+  "school_id": "2553",
+  "school_name": "南京邮电大学通达学院",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "84.88"
+    },
+    "postgraduate": {
+      "1": "12.42"
+    },
+    "abroad": {
+      "1": "1.04"
+    }
+  },
+  "province": [
+    {
+      "id": "26568",
+      "school_id": "2553",
+      "province": "广西",
+      "rate": "0.88",
+      "num": "0",
+      "sort": "88",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "广西"
+    },
+    {
+      "id": "26567",
+      "school_id": "2553",
+      "province": "山东",
+      "rate": "0.95",
+      "num": "0",
+      "sort": "95",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "山东"
+    },
+    {
+      "id": "26566",
+      "school_id": "2553",
+      "province": "山西",
+      "rate": "1.01",
+      "num": "0",
+      "sort": "101",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "山西"
+    },
+    {
+      "id": "26565",
+      "school_id": "2553",
+      "province": "四川",
+      "rate": "1.42",
+      "num": "0",
+      "sort": "142",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "四川"
+    },
+    {
+      "id": "26564",
+      "school_id": "2553",
+      "province": "安徽",
+      "rate": "1.49",
+      "num": "0",
+      "sort": "149",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "安徽"
+    },
+    {
+      "id": "26563",
+      "school_id": "2553",
+      "province": "北京",
+      "rate": "1.62",
+      "num": "0",
+      "sort": "162",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "北京"
+    },
+    {
+      "id": "26562",
+      "school_id": "2553",
+      "province": "广东",
+      "rate": "3.92",
+      "num": "0",
+      "sort": "392",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "广东"
+    },
+    {
+      "id": "26561",
+      "school_id": "2553",
+      "province": "浙江",
+      "rate": "5.01",
+      "num": "0",
+      "sort": "501",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "浙江"
+    },
+    {
+      "id": "26560",
+      "school_id": "2553",
+      "province": "上海",
+      "rate": "6.09",
+      "num": "0",
+      "sort": "609",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "上海"
+    },
+    {
+      "id": "26559",
+      "school_id": "2553",
+      "province": "江苏",
+      "rate": "70.43",
+      "num": "0",
+      "sort": "7043",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:53:53",
+      "year": "2020",
+      "province_name": "江苏"
+    }
+  ],
+  "attr": {
+    "其他企业": "83.74",
+    "国有企业": "8.56",
+    "三资企业": "2.99",
+    "部队": "0.73",
+    "中初教育单位": "0.60",
+    "机关": "0.53",
+    "自主创业": "0.33",
+    "其他事业单位": "0.33",
+    "城镇社区": "0.33",
+    "国家基层项目": "0.20",
+    "医疗卫生单位": "0.20",
+    "地方基层项目": "0.20",
+    "高等教育单位": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2260",
+      "school_id": "2553",
+      "female_num": "811",
+      "men_num": "1299",
+      "men_rate": "61.56",
+      "female_rate": "38.44",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:48:57",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:56:53",
+  "school_id": "1238",
+  "school_name": "济宁医学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.41"
+    },
+    "postgraduate": {
+      "1": "21.46"
+    },
+    "abroad": {
+      "1": "0.05"
+    }
+  },
+  "province": [
+    {
+      "id": "4195",
+      "school_id": "1238",
+      "province": "山东省外",
+      "rate": "32.00",
+      "num": "650",
+      "sort": "650",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "4196",
+      "school_id": "1238",
+      "province": "山东省",
+      "rate": "68.00",
+      "num": "2459",
+      "sort": "2459",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "事业单位": "42.88",
+    "非国有企业": "31.85",
+    "国有企业": "4.24",
+    "党政机关": "1.25",
+    "其他": "19.78"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "394",
+      "school_id": "1238",
+      "female_num": "2900",
+      "men_num": "1349",
+      "men_rate": "31.75",
+      "female_rate": "68.25",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

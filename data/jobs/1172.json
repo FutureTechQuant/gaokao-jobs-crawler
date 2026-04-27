@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 15:56:21",
+  "school_id": "1172",
+  "school_name": "濮阳职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.55"
+    },
+    "postgraduate": {
+      "1": "14.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28141",
+      "school_id": "1172",
+      "province": "省外",
+      "rate": "16.16",
+      "num": "0",
+      "sort": "1616",
+      "update_id": "1988",
+      "update_time": "2025-11-11 15:20:49",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "28140",
+      "school_id": "1172",
+      "province": "河南省内",
+      "rate": "83.84",
+      "num": "5278",
+      "sort": "5278",
+      "update_id": "1988",
+      "update_time": "2025-11-11 15:20:14",
+      "year": "2024",
+      "province_name": "河南省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

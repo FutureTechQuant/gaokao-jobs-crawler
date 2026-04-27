@@ -1,0 +1,132 @@
+{
+  "update_time": "2026-04-27 15:47:09",
+  "school_id": "250",
+  "school_name": "浙江中医药大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.92"
+    },
+    "postgraduate": {
+      "1": "38.85"
+    },
+    "abroad": {
+      "1": "0.63"
+    }
+  },
+  "province": [
+    {
+      "id": "16693",
+      "school_id": "250",
+      "province": "北京市",
+      "rate": "0.73",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "16692",
+      "school_id": "250",
+      "province": "河南省",
+      "rate": "0.87",
+      "num": "12",
+      "sort": "12",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "16691",
+      "school_id": "250",
+      "province": "贵州省",
+      "rate": "0.94",
+      "num": "13",
+      "sort": "13",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "16690",
+      "school_id": "250",
+      "province": "广东省",
+      "rate": "0.94",
+      "num": "13",
+      "sort": "13",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "16689",
+      "school_id": "250",
+      "province": "江苏省",
+      "rate": "2.18",
+      "num": "30",
+      "sort": "30",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "16688",
+      "school_id": "250",
+      "province": "上海市",
+      "rate": "2.83",
+      "num": "39",
+      "sort": "39",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "16687",
+      "school_id": "250",
+      "province": "浙江省",
+      "rate": "85.79",
+      "num": "1183",
+      "sort": "1183",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:30",
+      "year": "2023",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "46.05",
+    "其他企业": "42.71",
+    "其他": "5.66",
+    "国有企业": "2.32",
+    "三资企业": "1.16",
+    "机关": "1.02",
+    "中初教育单位": "0.65",
+    "其他事业单位": "0.29",
+    "高等教育单位": "0.15"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1565",
+      "school_id": "250",
+      "female_num": "1748",
+      "men_num": "785",
+      "men_rate": "30.99",
+      "female_rate": "69.01",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

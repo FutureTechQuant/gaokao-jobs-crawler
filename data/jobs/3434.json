@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:15:05",
+  "school_id": "3434",
+  "school_name": "内江卫生与健康职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.59"
+    },
+    "postgraduate": {
+      "1": "11.48"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

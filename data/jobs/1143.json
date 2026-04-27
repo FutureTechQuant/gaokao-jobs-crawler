@@ -1,0 +1,181 @@
+{
+  "update_time": "2026-04-27 15:55:59",
+  "school_id": "1143",
+  "school_name": "南京理工大学泰州科技学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "93.16"
+    },
+    "postgraduate": {
+      "1": "8.86"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "26856",
+      "school_id": "1143",
+      "province": "河南",
+      "rate": "0.86",
+      "num": "0",
+      "sort": "86",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "河南"
+    },
+    {
+      "id": "26855",
+      "school_id": "1143",
+      "province": "北京",
+      "rate": "0.86",
+      "num": "0",
+      "sort": "86",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "26854",
+      "school_id": "1143",
+      "province": "安徽",
+      "rate": "0.95",
+      "num": "0",
+      "sort": "95",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "安徽"
+    },
+    {
+      "id": "26853",
+      "school_id": "1143",
+      "province": "山东",
+      "rate": "1.11",
+      "num": "0",
+      "sort": "111",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "山东"
+    },
+    {
+      "id": "26852",
+      "school_id": "1143",
+      "province": "贵州",
+      "rate": "1.62",
+      "num": "0",
+      "sort": "162",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "贵州"
+    },
+    {
+      "id": "26851",
+      "school_id": "1143",
+      "province": "四川",
+      "rate": "1.67",
+      "num": "0",
+      "sort": "167",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "四川"
+    },
+    {
+      "id": "26850",
+      "school_id": "1143",
+      "province": "广东",
+      "rate": "3.24",
+      "num": "0",
+      "sort": "324",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "广东"
+    },
+    {
+      "id": "26849",
+      "school_id": "1143",
+      "province": "上海",
+      "rate": "6.14",
+      "num": "0",
+      "sort": "614",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "上海"
+    },
+    {
+      "id": "26848",
+      "school_id": "1143",
+      "province": "浙江",
+      "rate": "6.52",
+      "num": "0",
+      "sort": "652",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "浙江"
+    },
+    {
+      "id": "26857",
+      "school_id": "1143",
+      "province": "其他地区",
+      "rate": "6.63",
+      "num": "0",
+      "sort": "663",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "26847",
+      "school_id": "1143",
+      "province": "江苏",
+      "rate": "70.40",
+      "num": "0",
+      "sort": "7040",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:52:09",
+      "year": "2021",
+      "province_name": "江苏"
+    }
+  ],
+  "attr": {
+    "其他企业": "88.12",
+    "国有企业": "7.16",
+    "三资企业": "2.52",
+    "其他事业单位": "0.78",
+    "其他": "0.61",
+    "中初教育单位": "0.39",
+    "机关": "0.26",
+    "农村建制村": "0.08",
+    "城镇社区": "0.04",
+    "高等教育单位": "0.04"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2276",
+      "school_id": "1143",
+      "female_num": "1498",
+      "men_num": "1475",
+      "men_rate": "49.61",
+      "female_rate": "50.39",
+      "update_id": "2096",
+      "update_time": "2025-01-10 16:50:58",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

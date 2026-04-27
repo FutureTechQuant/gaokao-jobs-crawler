@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:16:26",
+  "school_id": "3593",
+  "school_name": "北海康养职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.58"
+    },
+    "postgraduate": {
+      "1": "8.87"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27620",
+      "school_id": "3593",
+      "province": "广西省",
+      "rate": "62.93",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1211",
+      "update_time": "2025-07-07 18:54:23",
+      "year": "2024",
+      "province_name": "广西省"
+    },
+    {
+      "id": "27621",
+      "school_id": "3593",
+      "province": "广东省",
+      "rate": "33.20",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1211",
+      "update_time": "2025-07-07 18:54:36",
+      "year": "2024",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "77.37",
+    "政府机构/科研或其他事业单位": "10.56",
+    "国有企业": "6.03",
+    "民非组织": "3.88",
+    "中外合资/外资/独资": "2.16"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2342",
+      "school_id": "3593",
+      "female_num": "1167",
+      "men_num": "659",
+      "men_rate": "36.09",
+      "female_rate": "63.91",
+      "update_id": "1211",
+      "update_time": "2025-07-07 18:40:15",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

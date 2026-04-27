@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:01:15",
+  "school_id": "1770",
+  "school_name": "金华职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.89"
+    },
+    "postgraduate": {
+      "1": "25.43"
+    },
+    "abroad": {
+      "1": "0.20"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

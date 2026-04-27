@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 15:52:58",
+  "school_id": "806",
+  "school_name": "襄阳职业技术大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.68"
+    },
+    "postgraduate": {
+      "1": "7.54"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10430",
+      "school_id": "806",
+      "province": "襄阳",
+      "rate": "50.60",
+      "num": "2535",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 17:04:54",
+      "year": "2019",
+      "province_name": "襄阳"
+    },
+    {
+      "id": "10431",
+      "school_id": "806",
+      "province": "武汉",
+      "rate": "13.00",
+      "num": "651",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 17:04:54",
+      "year": "2019",
+      "province_name": "武汉"
+    },
+    {
+      "id": "10432",
+      "school_id": "806",
+      "province": "重庆",
+      "rate": "4.80",
+      "num": "240",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 17:04:54",
+      "year": "2019",
+      "province_name": "重庆"
+    },
+    {
+      "id": "10433",
+      "school_id": "806",
+      "province": "深圳",
+      "rate": "3.40",
+      "num": "170",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 17:04:54",
+      "year": "2019",
+      "province_name": "深圳"
+    },
+    {
+      "id": "10434",
+      "school_id": "806",
+      "province": "上海",
+      "rate": "3.20",
+      "num": "160",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 17:04:54",
+      "year": "2019",
+      "province_name": "上海"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "924",
+      "school_id": "806",
+      "female_num": "2856",
+      "men_num": "2154",
+      "men_rate": "43.00",
+      "female_rate": "57.00",
+      "update_id": "825",
+      "update_time": "2020-06-29 16:55:07",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

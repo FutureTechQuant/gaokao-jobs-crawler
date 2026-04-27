@@ -1,0 +1,108 @@
+{
+  "update_time": "2026-04-27 15:51:37",
+  "school_id": "671",
+  "school_name": "上海工艺美术职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "99.05"
+    },
+    "postgraduate": {
+      "1": "10.14"
+    },
+    "abroad": {
+      "1": "1.58"
+    }
+  },
+  "province": [
+    {
+      "id": "10386",
+      "school_id": "671",
+      "province": "上海",
+      "rate": "78.82",
+      "num": "995",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-05 17:15:22",
+      "year": "2019",
+      "province_name": "上海"
+    },
+    {
+      "id": "10387",
+      "school_id": "671",
+      "province": "河南",
+      "rate": "2.76",
+      "num": "35",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-05 17:15:22",
+      "year": "2019",
+      "province_name": "河南"
+    },
+    {
+      "id": "10388",
+      "school_id": "671",
+      "province": "安徽",
+      "rate": "2.66",
+      "num": "34",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-05 17:15:22",
+      "year": "2019",
+      "province_name": "安徽"
+    },
+    {
+      "id": "10389",
+      "school_id": "671",
+      "province": "江苏",
+      "rate": "2.46",
+      "num": "31",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-05 17:15:22",
+      "year": "2019",
+      "province_name": "江苏"
+    },
+    {
+      "id": "10390",
+      "school_id": "671",
+      "province": "其他",
+      "rate": "13.30",
+      "num": "167",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-05 17:15:22",
+      "year": "2019",
+      "province_name": "其他"
+    }
+  ],
+  "attr": {
+    "中小企业（民营/私营/个体等）": "93.50",
+    "三资企业": "3.05",
+    "国有企业": "1.87",
+    "其他企业": "0.20",
+    "医疗卫生单位": "0.20",
+    "艰苦行业企业": "0.20",
+    "其他事业单位": "0.20",
+    "城镇社区": "0.10",
+    "县及县以下党政机关、事业单位 和社会团体组织": "0.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "919",
+      "school_id": "671",
+      "female_num": "729",
+      "men_num": "533",
+      "men_rate": "42.23",
+      "female_rate": "57.77",
+      "update_id": "929",
+      "update_time": "2020-06-05 17:10:18",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

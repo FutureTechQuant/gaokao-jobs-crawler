@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 15:55:12",
+  "school_id": "1043",
+  "school_name": "西安文理学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "83.17"
+    },
+    "postgraduate": {
+      "1": "6.11"
+    },
+    "abroad": {
+      "1": "0.63"
+    }
+  },
+  "province": [
+    {
+      "id": "32990",
+      "school_id": "1043",
+      "province": "上海市",
+      "rate": "1.40",
+      "num": "56",
+      "sort": "140",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "32989",
+      "school_id": "1043",
+      "province": "北京市",
+      "rate": "1.56",
+      "num": "63",
+      "sort": "156",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "32988",
+      "school_id": "1043",
+      "province": "广东省",
+      "rate": "1.62",
+      "num": "65",
+      "sort": "162",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "32987",
+      "school_id": "1043",
+      "province": "浙江省",
+      "rate": "1.75",
+      "num": "71",
+      "sort": "175",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "32991",
+      "school_id": "1043",
+      "province": "省外其他地区",
+      "rate": "12.81",
+      "num": "516",
+      "sort": "1281",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "省外其他地区"
+    },
+    {
+      "id": "32992",
+      "school_id": "1043",
+      "province": "省外合计",
+      "rate": "19.13",
+      "num": "771",
+      "sort": "1913",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "省外合计"
+    },
+    {
+      "id": "32986",
+      "school_id": "1043",
+      "province": "陕西省内",
+      "rate": "80.87",
+      "num": "3258",
+      "sort": "8087",
+      "update_id": "2234",
+      "update_time": "2025-12-02 18:26:24",
+      "year": "2024",
+      "province_name": "陕西省内"
+    }
+  ],
+  "attr": {
+    "其他企业（以民营企业为主）": "72.86",
+    "其他事业单位": "8.64",
+    "其他单位类型（合计）": "8.30",
+    "国有企业": "5.37",
+    "政府机关和事业单位（含部队、教育等）": "4.83"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 16:07:42",
+  "school_id": "2378",
+  "school_name": "杭州科技职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.07"
+    },
+    "postgraduate": {
+      "1": "22.73"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32356",
+      "school_id": "2378",
+      "province": "浙江省外",
+      "rate": "7.89",
+      "num": "258",
+      "sort": "789",
+      "update_id": "2096",
+      "update_time": "2025-12-01 15:43:02",
+      "year": "2024",
+      "province_name": "浙江省外"
+    },
+    {
+      "id": "32355",
+      "school_id": "2378",
+      "province": "浙江省内",
+      "rate": "92.11",
+      "num": "3011",
+      "sort": "9211",
+      "update_id": "2096",
+      "update_time": "2025-12-01 15:42:42",
+      "year": "2024",
+      "province_name": "浙江省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

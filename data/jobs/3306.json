@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:13:51",
+  "school_id": "3306",
+  "school_name": "毕节幼儿师范高等专科学校",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.71"
+    },
+    "postgraduate": {
+      "1": "22.91"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1244",
+      "school_id": "3306",
+      "female_num": "974",
+      "men_num": "123",
+      "men_rate": "11.21",
+      "female_rate": "88.79",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:16:33",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

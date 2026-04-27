@@ -1,0 +1,140 @@
+{
+  "update_time": "2026-04-27 15:48:10",
+  "school_id": "340",
+  "school_name": "铜陵学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.21"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29211",
+      "school_id": "340",
+      "province": "南京市",
+      "rate": "3.14",
+      "num": "0",
+      "sort": "314",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "南京市"
+    },
+    {
+      "id": "29210",
+      "school_id": "340",
+      "province": "六安市",
+      "rate": "3.20",
+      "num": "0",
+      "sort": "320",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "六安市"
+    },
+    {
+      "id": "29209",
+      "school_id": "340",
+      "province": "宣城市",
+      "rate": "3.60",
+      "num": "0",
+      "sort": "360",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "宣城市"
+    },
+    {
+      "id": "29208",
+      "school_id": "340",
+      "province": "安庆市",
+      "rate": "3.95",
+      "num": "0",
+      "sort": "395",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "安庆市"
+    },
+    {
+      "id": "29207",
+      "school_id": "340",
+      "province": "上海市",
+      "rate": "4.91",
+      "num": "0",
+      "sort": "491",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "29206",
+      "school_id": "340",
+      "province": "芜湖市",
+      "rate": "9.50",
+      "num": "0",
+      "sort": "950",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "芜湖市"
+    },
+    {
+      "id": "29205",
+      "school_id": "340",
+      "province": "铜陵市",
+      "rate": "13.85",
+      "num": "0",
+      "sort": "1385",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "铜陵市"
+    },
+    {
+      "id": "29204",
+      "school_id": "340",
+      "province": "合肥市",
+      "rate": "24.29",
+      "num": "0",
+      "sort": "2429",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:35:52",
+      "year": "2024",
+      "province_name": "合肥市"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "70.04",
+    "国有企业": "17.04",
+    "政府机构/科研或其他事业单位": "7.73",
+    "中外合资/外资/独资": "3.83",
+    "民非组织": "1.37"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2520",
+      "school_id": "340",
+      "female_num": "3180",
+      "men_num": "3023",
+      "men_rate": "48.73",
+      "female_rate": "51.27",
+      "update_id": "2314",
+      "update_time": "2025-11-13 11:25:16",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

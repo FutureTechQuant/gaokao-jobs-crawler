@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 15:52:08",
+  "school_id": "721",
+  "school_name": "河北工程技术学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "73.44"
+    },
+    "postgraduate": {
+      "1": "0.87"
+    },
+    "abroad": {
+      "1": "0.09"
+    }
+  },
+  "province": [
+    {
+      "id": "22511",
+      "school_id": "721",
+      "province": "长江经济带",
+      "rate": "3.64",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2024-09-24 09:55:55",
+      "year": "2021",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "22510",
+      "school_id": "721",
+      "province": "一带一路",
+      "rate": "4.13",
+      "num": "0",
+      "sort": "98",
+      "update_id": "1988",
+      "update_time": "2024-09-24 09:55:55",
+      "year": "2021",
+      "province_name": "一带一路"
+    },
+    {
+      "id": "22509",
+      "school_id": "721",
+      "province": "新一线城市",
+      "rate": "6.41",
+      "num": "0",
+      "sort": "99",
+      "update_id": "1988",
+      "update_time": "2024-09-24 09:55:55",
+      "year": "2021",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "22508",
+      "school_id": "721",
+      "province": "京津冀",
+      "rate": "91.45",
+      "num": "0",
+      "sort": "100",
+      "update_id": "1988",
+      "update_time": "2024-09-24 09:55:55",
+      "year": "2021",
+      "province_name": "京津冀"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "74.93",
+    "国有企业": "16.58",
+    "政府机构/科研或其他事业单位": "3.94",
+    "三资企业": "3.64",
+    "非政府或非盈利组织": "0.91"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1977",
+      "school_id": "721",
+      "female_num": "1239",
+      "men_num": "1069",
+      "men_rate": "46.32",
+      "female_rate": "53.68",
+      "update_id": "1988",
+      "update_time": "2024-09-24 09:53:51",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:04:47",
+  "school_id": "2093",
+  "school_name": "济宁学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.06"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:59:48",
+  "school_id": "1622",
+  "school_name": "长春东方职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.63"
+    },
+    "postgraduate": {
+      "1": "8.52"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2785",
+      "school_id": "1622",
+      "female_num": "939",
+      "men_num": "575",
+      "men_rate": "38.00",
+      "female_rate": "62.00",
+      "update_id": "2096",
+      "update_time": "2025-12-01 16:26:06",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "5500"
+  }
+}

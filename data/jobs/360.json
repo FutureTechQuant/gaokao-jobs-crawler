@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 15:48:24",
+  "school_id": "360",
+  "school_name": "云南艺术学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "85.20"
+    },
+    "postgraduate": {
+      "1": "5.40"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "22681",
+      "school_id": "360",
+      "province": "杭州",
+      "rate": "2.30",
+      "num": "0",
+      "sort": "230",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "杭州"
+    },
+    {
+      "id": "22678",
+      "school_id": "360",
+      "province": "成都",
+      "rate": "2.50",
+      "num": "0",
+      "sort": "250",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "成都"
+    },
+    {
+      "id": "22679",
+      "school_id": "360",
+      "province": "玉溪",
+      "rate": "2.50",
+      "num": "0",
+      "sort": "250",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "玉溪"
+    },
+    {
+      "id": "22680",
+      "school_id": "360",
+      "province": "红河哈尼族彝族自治州",
+      "rate": "2.50",
+      "num": "0",
+      "sort": "250",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "红河哈尼族彝族自治州"
+    },
+    {
+      "id": "22677",
+      "school_id": "360",
+      "province": "北京",
+      "rate": "2.70",
+      "num": "0",
+      "sort": "270",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "22676",
+      "school_id": "360",
+      "province": "长沙",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "300",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "长沙"
+    },
+    {
+      "id": "22675",
+      "school_id": "360",
+      "province": "昆明",
+      "rate": "47.20",
+      "num": "0",
+      "sort": "4720",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:22:27",
+      "year": "2021",
+      "province_name": "昆明"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "72.50",
+    "政府机构/科研或其他事业单位": "14.30",
+    "国有企业": "8.10",
+    "中外合资/外资/独资": "4.70",
+    "非政府或非营利组织（NGO等）": "0.40"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1990",
+      "school_id": "360",
+      "female_num": "1868",
+      "men_num": "1150",
+      "men_rate": "38.10",
+      "female_rate": "61.90",
+      "update_id": "2096",
+      "update_time": "2024-09-24 14:14:55",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:04:53",
+  "school_id": "2101",
+  "school_name": "莱芜职业技术学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "97.09"
+    },
+    "postgraduate": {
+      "1": "11.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

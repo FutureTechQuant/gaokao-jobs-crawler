@@ -1,0 +1,127 @@
+{
+  "update_time": "2026-04-27 15:44:51",
+  "school_id": "43",
+  "school_name": "北京林业大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "91.29"
+    },
+    "postgraduate": {
+      "1": "41.61"
+    },
+    "abroad": {
+      "1": "8.92"
+    }
+  },
+  "province": [
+    {
+      "id": "13541",
+      "school_id": "43",
+      "province": "东北地区",
+      "rate": "3.47",
+      "num": "48",
+      "sort": "48",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "13538",
+      "school_id": "43",
+      "province": "华中地区",
+      "rate": "5.56",
+      "num": "77",
+      "sort": "77",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "13539",
+      "school_id": "43",
+      "province": "西北地区",
+      "rate": "8.01",
+      "num": "111",
+      "sort": "111",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "13540",
+      "school_id": "43",
+      "province": "西南地区",
+      "rate": "8.38",
+      "num": "116",
+      "sort": "116",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "13537",
+      "school_id": "43",
+      "province": "华南地区",
+      "rate": "9.96",
+      "num": "138",
+      "sort": "138",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "13536",
+      "school_id": "43",
+      "province": "华东地区",
+      "rate": "17.91",
+      "num": "248",
+      "sort": "248",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "13535",
+      "school_id": "43",
+      "province": "华北地区",
+      "rate": "46.71",
+      "num": "647",
+      "sort": "647",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:28:51",
+      "year": "2022",
+      "province_name": "华北地区"
+    }
+  ],
+  "attr": {
+    "企业": "85.56",
+    "事业单位": "8.09",
+    "机关": "5.92",
+    "部队": "0.43"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1317",
+      "school_id": "43",
+      "female_num": "3469",
+      "men_num": "1863",
+      "men_rate": "34.94",
+      "female_rate": "65.06",
+      "update_id": "1579",
+      "update_time": "2023-11-01 17:20:10",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12400"
+  }
+}

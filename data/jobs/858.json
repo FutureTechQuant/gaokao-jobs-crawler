@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:53:23",
+  "school_id": "858",
+  "school_name": "天津中德应用技术大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "88.66"
+    },
+    "postgraduate": {
+      "1": "8.61"
+    },
+    "abroad": {
+      "1": "5.44"
+    }
+  },
+  "province": [
+    {
+      "id": "21162",
+      "school_id": "858",
+      "province": "新一线城市",
+      "rate": "59.45",
+      "num": "0",
+      "sort": "59",
+      "update_id": "2096",
+      "update_time": "2024-09-14 09:49:41",
+      "year": "2023",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "21161",
+      "school_id": "858",
+      "province": "京津冀",
+      "rate": "61.79",
+      "num": "0",
+      "sort": "62",
+      "update_id": "2096",
+      "update_time": "2024-09-14 09:49:19",
+      "year": "2023",
+      "province_name": "京津冀"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "65.72",
+    "国有企业": "22.66",
+    "中外合资/独资/外资": "7.08",
+    "政府机构/科研或其他事业单位": "4.11",
+    "民非组织": "0.42"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1898",
+      "school_id": "858",
+      "female_num": "1522",
+      "men_num": "2658",
+      "men_rate": "63.59",
+      "female_rate": "36.41",
+      "update_id": "2096",
+      "update_time": "2024-09-14 09:41:37",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

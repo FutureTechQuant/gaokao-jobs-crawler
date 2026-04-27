@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 16:14:53",
+  "school_id": "3411",
+  "school_name": "宁夏体育职业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "82.40"
+    },
+    "postgraduate": {
+      "1": "18.20"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27180",
+      "school_id": "3411",
+      "province": "吴忠",
+      "rate": "9.00",
+      "num": "0",
+      "sort": "9",
+      "update_id": "1988",
+      "update_time": "2025-02-13 10:19:56",
+      "year": "2021",
+      "province_name": "吴忠"
+    },
+    {
+      "id": "27181",
+      "school_id": "3411",
+      "province": "石嘴山",
+      "rate": "5.60",
+      "num": "0",
+      "sort": "56",
+      "update_id": "1988",
+      "update_time": "2025-02-13 10:20:12",
+      "year": "2021",
+      "province_name": "石嘴山"
+    },
+    {
+      "id": "27179",
+      "school_id": "3411",
+      "province": "固原",
+      "rate": "10.10",
+      "num": "0",
+      "sort": "101",
+      "update_id": "1988",
+      "update_time": "2025-02-13 10:19:43",
+      "year": "2021",
+      "province_name": "固原"
+    },
+    {
+      "id": "27178",
+      "school_id": "3411",
+      "province": "中卫",
+      "rate": "12.40",
+      "num": "0",
+      "sort": "124",
+      "update_id": "1988",
+      "update_time": "2025-02-13 10:19:30",
+      "year": "2021",
+      "province_name": "中卫"
+    },
+    {
+      "id": "27177",
+      "school_id": "3411",
+      "province": "银川",
+      "rate": "53.90",
+      "num": "0",
+      "sort": "539",
+      "update_id": "1988",
+      "update_time": "2025-02-13 10:19:09",
+      "year": "2021",
+      "province_name": "银川"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "41.00",
+    "民营企业/个体": "40.00",
+    "国有企业": "16.00",
+    "非政府或非营利组织（NGO等）": "2.00",
+    "中外合资/外资/独资": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2307",
+      "school_id": "3411",
+      "female_num": "61",
+      "men_num": "129",
+      "men_rate": "67.90",
+      "female_rate": "32.10",
+      "update_id": "1988",
+      "update_time": "2025-02-13 10:07:07",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

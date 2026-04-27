@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 15:54:45",
+  "school_id": "998",
+  "school_name": "汕尾职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "11.71"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29231",
+      "school_id": "998",
+      "province": "其他省份",
+      "rate": "2.00",
+      "num": "60",
+      "sort": "98",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:50:40",
+      "year": "2024",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "29230",
+      "school_id": "998",
+      "province": "其他粤东西北",
+      "rate": "17.00",
+      "num": "429",
+      "sort": "111",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:50:40",
+      "year": "2024",
+      "province_name": "其他粤东西北"
+    },
+    {
+      "id": "29228",
+      "school_id": "998",
+      "province": "其他珠三角地区",
+      "rate": "22.00",
+      "num": "555",
+      "sort": "154",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:50:40",
+      "year": "2024",
+      "province_name": "其他珠三角地区"
+    },
+    {
+      "id": "29229",
+      "school_id": "998",
+      "province": "深圳市",
+      "rate": "17.00",
+      "num": "434",
+      "sort": "160",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:50:40",
+      "year": "2024",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "29227",
+      "school_id": "998",
+      "province": "广州市",
+      "rate": "20.00",
+      "num": "495",
+      "sort": "191",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:50:40",
+      "year": "2024",
+      "province_name": "广州市"
+    },
+    {
+      "id": "29226",
+      "school_id": "998",
+      "province": "汕尾市",
+      "rate": "22.00",
+      "num": "553",
+      "sort": "246",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:50:40",
+      "year": "2024",
+      "province_name": "汕尾市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2525",
+      "school_id": "998",
+      "female_num": "1686",
+      "men_num": "1131",
+      "men_rate": "40.00",
+      "female_rate": "60.00",
+      "update_id": "2096",
+      "update_time": "2025-11-13 13:46:02",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

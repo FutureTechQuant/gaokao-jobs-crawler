@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 16:01:29",
+  "school_id": "1791",
+  "school_name": "浙江树人学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.24"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "33289",
+      "school_id": "1791",
+      "province": "山西省",
+      "rate": "0.62",
+      "num": "30",
+      "sort": "62",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "山西省"
+    },
+    {
+      "id": "33288",
+      "school_id": "1791",
+      "province": "福建省",
+      "rate": "0.75",
+      "num": "37",
+      "sort": "75",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "33287",
+      "school_id": "1791",
+      "province": "四川省",
+      "rate": "0.78",
+      "num": "38",
+      "sort": "78",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "33286",
+      "school_id": "1791",
+      "province": "贵州省",
+      "rate": "0.97",
+      "num": "48",
+      "sort": "97",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "33285",
+      "school_id": "1791",
+      "province": "河南省",
+      "rate": "0.99",
+      "num": "48",
+      "sort": "99",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "33284",
+      "school_id": "1791",
+      "province": "安徽省",
+      "rate": "1.07",
+      "num": "52",
+      "sort": "107",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "33283",
+      "school_id": "1791",
+      "province": "广东省",
+      "rate": "1.23",
+      "num": "60",
+      "sort": "123",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "33282",
+      "school_id": "1791",
+      "province": "上海市",
+      "rate": "2.82",
+      "num": "138",
+      "sort": "282",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "33290",
+      "school_id": "1791",
+      "province": "其他所有省份",
+      "rate": "3.24",
+      "num": "158",
+      "sort": "324",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "其他所有省份"
+    },
+    {
+      "id": "33281",
+      "school_id": "1791",
+      "province": "江苏省",
+      "rate": "5.82",
+      "num": "285",
+      "sort": "582",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "33280",
+      "school_id": "1791",
+      "province": "浙江省",
+      "rate": "81.11",
+      "num": "3972",
+      "sort": "8111",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:48:37",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {
+    "其他企业": "80.09",
+    "个体工商户": "6.25",
+    "国有企业": "5.77",
+    "医疗卫生单位": "2.71",
+    "其他": "2.01",
+    "城镇社区": "0.75",
+    "外商投资企业": "0.67",
+    "机关": "0.67",
+    "其他事业单位": "0.54",
+    "中初教育单位": "0.21",
+    "农村建制村": "0.11",
+    "高等教育单位": "0.11",
+    "科研设计单位": "0.08",
+    "部队": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2849",
+      "school_id": "1791",
+      "female_num": "2740",
+      "men_num": "2156",
+      "men_rate": "46.20",
+      "female_rate": "53.80",
+      "update_id": "2234",
+      "update_time": "2025-12-03 17:42:44",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

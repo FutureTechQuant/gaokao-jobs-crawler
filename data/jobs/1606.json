@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-04-27 15:59:36",
+  "school_id": "1606",
+  "school_name": "吉林警察学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "79.44"
+    },
+    "postgraduate": {
+      "1": "11.78"
+    },
+    "abroad": {
+      "1": "0.32"
+    }
+  },
+  "province": [
+    {
+      "id": "4129",
+      "school_id": "1606",
+      "province": "吉林省外",
+      "rate": "35.15",
+      "num": "587",
+      "sort": "587",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "吉林省外"
+    },
+    {
+      "id": "4130",
+      "school_id": "1606",
+      "province": "吉林省",
+      "rate": "64.85",
+      "num": "1083",
+      "sort": "1083",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "吉林省"
+    }
+  ],
+  "attr": {
+    "公共管理、社会保障和社会组织": "67.25",
+    "其他": "32.75"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2797",
+      "school_id": "1606",
+      "female_num": "1037",
+      "men_num": "1477",
+      "men_rate": "58.75",
+      "female_rate": "41.25",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:53:22",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

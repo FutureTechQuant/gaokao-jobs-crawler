@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 15:57:21",
+  "school_id": "1289",
+  "school_name": "广州城建职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "84.12"
+    },
+    "postgraduate": {
+      "1": "13.01"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28143",
+      "school_id": "1289",
+      "province": "省外",
+      "rate": "4.30",
+      "num": "188",
+      "sort": "188",
+      "update_id": "1988",
+      "update_time": "2025-11-11 15:31:53",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "28142",
+      "school_id": "1289",
+      "province": "广东",
+      "rate": "95.70",
+      "num": "4185",
+      "sort": "957",
+      "update_id": "1988",
+      "update_time": "2025-11-11 15:31:34",
+      "year": "2024",
+      "province_name": "广东"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

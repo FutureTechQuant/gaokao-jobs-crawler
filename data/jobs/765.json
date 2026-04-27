@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 15:52:31",
+  "school_id": "765",
+  "school_name": "黑龙江工业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.07"
+    },
+    "postgraduate": {
+      "1": "2.65"
+    },
+    "abroad": {
+      "1": "0.82"
+    }
+  },
+  "province": [
+    {
+      "id": "20903",
+      "school_id": "765",
+      "province": "北京市",
+      "rate": "4.15",
+      "num": "83",
+      "sort": "415",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:20:10",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "20901",
+      "school_id": "765",
+      "province": "江苏省",
+      "rate": "4.90",
+      "num": "98",
+      "sort": "490",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:20:10",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "20902",
+      "school_id": "765",
+      "province": "广东省",
+      "rate": "7.85",
+      "num": "97",
+      "sort": "785",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:20:10",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "20900",
+      "school_id": "765",
+      "province": "山东省",
+      "rate": "9.46",
+      "num": "189",
+      "sort": "946",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:20:10",
+      "year": "2023",
+      "province_name": "山东省"
+    },
+    {
+      "id": "20899",
+      "school_id": "765",
+      "province": "黑龙江省",
+      "rate": "28.53",
+      "num": "570",
+      "sort": "2853",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:20:10",
+      "year": "2023",
+      "province_name": "黑龙江省"
+    }
+  ],
+  "attr": {
+    "民营企业": "58.04",
+    "国有企业": "34.85",
+    "机关": "2.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1880",
+      "school_id": "765",
+      "female_num": "1039",
+      "men_num": "1406",
+      "men_rate": "57.51",
+      "female_rate": "42.49",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:14:14",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

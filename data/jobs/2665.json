@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:10:22",
+  "school_id": "2665",
+  "school_name": "桐城师范高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.19"
+    },
+    "postgraduate": {
+      "1": "38.81"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30181",
+      "school_id": "2665",
+      "province": "阜阳市",
+      "rate": "11.70",
+      "num": "0",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:27:03",
+      "year": "2024",
+      "province_name": "阜阳市"
+    },
+    {
+      "id": "30180",
+      "school_id": "2665",
+      "province": "六安市",
+      "rate": "11.96",
+      "num": "0",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:27:03",
+      "year": "2024",
+      "province_name": "六安市"
+    },
+    {
+      "id": "30179",
+      "school_id": "2665",
+      "province": "合肥市",
+      "rate": "18.58",
+      "num": "0",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:27:03",
+      "year": "2024",
+      "province_name": "合肥市"
+    },
+    {
+      "id": "30178",
+      "school_id": "2665",
+      "province": "安徽省",
+      "rate": "82.70",
+      "num": "0",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-11-25 14:27:03",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "61.90",
+    "政府机构/科研或其他事业单位": "24.87",
+    "国有企业": "10.85",
+    "民营组织": "1.32",
+    "其他": "1.06"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7100"
+  }
+}

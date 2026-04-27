@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:13:08",
+  "school_id": "3225",
+  "school_name": "贵阳幼儿师范高等专科学校",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "80.76"
+    },
+    "postgraduate": {
+      "1": "14.94"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1246",
+      "school_id": "3225",
+      "female_num": "1851",
+      "men_num": "77",
+      "men_rate": "3.99",
+      "female_rate": "96.01",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:21:35",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

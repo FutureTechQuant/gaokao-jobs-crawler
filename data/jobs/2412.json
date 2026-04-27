@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:08:03",
+  "school_id": "2412",
+  "school_name": "合肥城市学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.51"
+    },
+    "postgraduate": {
+      "1": "6.54"
+    },
+    "abroad": {
+      "1": "0.20"
+    }
+  },
+  "province": [
+    {
+      "id": "20464",
+      "school_id": "2412",
+      "province": "上海",
+      "rate": "5.10",
+      "num": "0",
+      "sort": "51",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "20463",
+      "school_id": "2412",
+      "province": "江苏",
+      "rate": "8.40",
+      "num": "0",
+      "sort": "84",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "20466",
+      "school_id": "2412",
+      "province": "广东",
+      "rate": "1.59",
+      "num": "0",
+      "sort": "159",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "20465",
+      "school_id": "2412",
+      "province": "浙江",
+      "rate": "4.76",
+      "num": "0",
+      "sort": "476",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "20462",
+      "school_id": "2412",
+      "province": "安徽",
+      "rate": "69.67",
+      "num": "0",
+      "sort": "6967",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "安徽"
+    }
+  ],
+  "attr": {
+    "民营企业": "74.00",
+    "其他": "14.00",
+    "国有企业": "11.00",
+    "三资企业": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1852",
+      "school_id": "2412",
+      "female_num": "1308",
+      "men_num": "2130",
+      "men_rate": "61.95",
+      "female_rate": "38.05",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

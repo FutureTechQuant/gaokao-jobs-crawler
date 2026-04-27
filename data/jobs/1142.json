@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:55:59",
+  "school_id": "1142",
+  "school_name": "山东中医药大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.71"
+    },
+    "postgraduate": {
+      "1": "18.57"
+    },
+    "abroad": {
+      "1": "0.51"
+    }
+  },
+  "province": [
+    {
+      "id": "6022",
+      "school_id": "1142",
+      "province": "其他省市",
+      "rate": "15.00",
+      "num": "520",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "6023",
+      "school_id": "1142",
+      "province": "山东省",
+      "rate": "85.00",
+      "num": "3298",
+      "sort": "3298",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "医疔卫生单位": "46.03",
+    "医药企业": "38.43",
+    "非医药企业": "2.43",
+    "党政机关": "0.99",
+    "其他": "12.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "393",
+      "school_id": "1142",
+      "female_num": "3405",
+      "men_num": "1313",
+      "men_rate": "27.83",
+      "female_rate": "72.17",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

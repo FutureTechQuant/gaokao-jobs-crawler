@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 15:57:17",
+  "school_id": "1280",
+  "school_name": "昆明城市学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "73.45"
+    },
+    "postgraduate": {
+      "1": "1.13"
+    },
+    "abroad": {
+      "1": "0.50"
+    }
+  },
+  "province": [
+    {
+      "id": "26870",
+      "school_id": "1280",
+      "province": "中部地区",
+      "rate": "2.54",
+      "num": "0",
+      "sort": "254",
+      "update_id": "1211",
+      "update_time": "2025-01-10 17:34:47",
+      "year": "2021",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "26869",
+      "school_id": "1280",
+      "province": "东部地区",
+      "rate": "9.86",
+      "num": "0",
+      "sort": "986",
+      "update_id": "1211",
+      "update_time": "2025-01-10 17:34:32",
+      "year": "2021",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "26868",
+      "school_id": "1280",
+      "province": "西部地区",
+      "rate": "87.60",
+      "num": "0",
+      "sort": "8760",
+      "update_id": "1211",
+      "update_time": "2025-01-10 17:34:15",
+      "year": "2021",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {
+    "其它企业": "82.35",
+    "其他事业单位": "4.32",
+    "国有企业": "3.86",
+    "中初教育单位": "2.44",
+    "党政机关": "2.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2281",
+      "school_id": "1280",
+      "female_num": "3587",
+      "men_num": "1825",
+      "men_rate": "33.72",
+      "female_rate": "66.28",
+      "update_id": "1211",
+      "update_time": "2025-01-10 17:30:59",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

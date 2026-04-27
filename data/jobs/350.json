@@ -1,0 +1,206 @@
+{
+  "update_time": "2026-04-27 15:48:17",
+  "school_id": "350",
+  "school_name": "玉溪师范学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "80.61"
+    },
+    "postgraduate": {
+      "1": "7.79"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "17878",
+      "school_id": "350",
+      "province": "德宏傣族景颇族自治州",
+      "rate": "2.03",
+      "num": "0",
+      "sort": "203",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "德宏傣族景颇族自治州"
+    },
+    {
+      "id": "17877",
+      "school_id": "350",
+      "province": "楚雄彝族自治州",
+      "rate": "2.03",
+      "num": "0",
+      "sort": "203",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "楚雄彝族自治州"
+    },
+    {
+      "id": "17876",
+      "school_id": "350",
+      "province": "西双版纳傣族自治州",
+      "rate": "2.42",
+      "num": "0",
+      "sort": "242",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "西双版纳傣族自治州"
+    },
+    {
+      "id": "17875",
+      "school_id": "350",
+      "province": "文山壮族苗族自治州",
+      "rate": "2.61",
+      "num": "0",
+      "sort": "261",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "文山壮族苗族自治州"
+    },
+    {
+      "id": "17874",
+      "school_id": "350",
+      "province": "大理白族自治州",
+      "rate": "2.95",
+      "num": "0",
+      "sort": "295",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "大理白族自治州"
+    },
+    {
+      "id": "17873",
+      "school_id": "350",
+      "province": "临沧市",
+      "rate": "3.05",
+      "num": "0",
+      "sort": "305",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "临沧市"
+    },
+    {
+      "id": "17872",
+      "school_id": "350",
+      "province": "红河哈尼族彝族自治州",
+      "rate": "3.63",
+      "num": "0",
+      "sort": "363",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "红河哈尼族彝族自治州"
+    },
+    {
+      "id": "17871",
+      "school_id": "350",
+      "province": "保山市",
+      "rate": "3.68",
+      "num": "0",
+      "sort": "368",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "保山市"
+    },
+    {
+      "id": "17870",
+      "school_id": "350",
+      "province": "曲靖市",
+      "rate": "4.16",
+      "num": "0",
+      "sort": "416",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "曲靖市"
+    },
+    {
+      "id": "17869",
+      "school_id": "350",
+      "province": "昭通市",
+      "rate": "4.26",
+      "num": "0",
+      "sort": "426",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "昭通市"
+    },
+    {
+      "id": "17868",
+      "school_id": "350",
+      "province": "普洱市",
+      "rate": "5.32",
+      "num": "0",
+      "sort": "532",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "普洱市"
+    },
+    {
+      "id": "17867",
+      "school_id": "350",
+      "province": "昆明市",
+      "rate": "21.53",
+      "num": "0",
+      "sort": "2153",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "昆明市"
+    },
+    {
+      "id": "17866",
+      "school_id": "350",
+      "province": "玉溪市",
+      "rate": "40.15",
+      "num": "0",
+      "sort": "4015",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "玉溪市"
+    }
+  ],
+  "attr": {
+    "其他": "26.04",
+    "中初教育单位": "17.08",
+    "其他企业": "48.10",
+    "国有企业": "2.97",
+    "其他事业单位": "2.32",
+    "三资企业": "0.87",
+    "高等教育单位": "0.26",
+    "农村建制村": "0.26",
+    "医疗卫生单位": "0.22",
+    "城镇社区": "0.17",
+    "机关": "1.70"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1651",
+      "school_id": "350",
+      "female_num": "2370",
+      "men_num": "1121",
+      "men_rate": "32.11",
+      "female_rate": "67.89",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:50",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

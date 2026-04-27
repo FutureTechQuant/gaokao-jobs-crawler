@@ -1,0 +1,169 @@
+{
+  "update_time": "2026-04-27 16:09:57",
+  "school_id": "2610",
+  "school_name": "广东第二师范学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.87"
+    },
+    "postgraduate": {
+      "1": "7.33"
+    },
+    "abroad": {
+      "1": "1.67"
+    }
+  },
+  "province": [
+    {
+      "id": "27838",
+      "school_id": "2610",
+      "province": "河北省",
+      "rate": "0.15",
+      "num": "0",
+      "sort": "15",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "河北省"
+    },
+    {
+      "id": "27839",
+      "school_id": "2610",
+      "province": "广西壮族自治区",
+      "rate": "0.15",
+      "num": "0",
+      "sort": "15",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "27840",
+      "school_id": "2610",
+      "province": "四川省",
+      "rate": "0.15",
+      "num": "0",
+      "sort": "15",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "27841",
+      "school_id": "2610",
+      "province": "天津市",
+      "rate": "0.19",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "天津市"
+    },
+    {
+      "id": "27842",
+      "school_id": "2610",
+      "province": "江西省",
+      "rate": "0.22",
+      "num": "0",
+      "sort": "22",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "江西省"
+    },
+    {
+      "id": "27843",
+      "school_id": "2610",
+      "province": "贵州省",
+      "rate": "0.28",
+      "num": "0",
+      "sort": "28",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "27844",
+      "school_id": "2610",
+      "province": "上海市",
+      "rate": "0.28",
+      "num": "0",
+      "sort": "28",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "27845",
+      "school_id": "2610",
+      "province": "河南省",
+      "rate": "0.31",
+      "num": "0",
+      "sort": "31",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "27846",
+      "school_id": "2610",
+      "province": "海南省",
+      "rate": "0.31",
+      "num": "0",
+      "sort": "31",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "海南省"
+    },
+    {
+      "id": "27847",
+      "school_id": "2610",
+      "province": "广东省",
+      "rate": "96.38",
+      "num": "0",
+      "sort": "9638",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:27:26",
+      "year": "2023",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {
+    "中初教育单位": "35.57",
+    "其他企业": "30.95",
+    "其他": "24.88",
+    "其他事业单位": "2.49",
+    "机关": "2.31",
+    "国有企业": "2.22",
+    "三资企业": "0.68",
+    "部队": "0.52",
+    "高等教育单位": "0.31",
+    "医疗卫生单位": "0.06"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2374",
+      "school_id": "2610",
+      "female_num": "2907",
+      "men_num": "1284",
+      "men_rate": "30.64",
+      "female_rate": "69.36",
+      "update_id": "2094",
+      "update_time": "2025-07-09 15:23:26",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

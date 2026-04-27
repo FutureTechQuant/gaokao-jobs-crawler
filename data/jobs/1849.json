@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:02:08",
+  "school_id": "1849",
+  "school_name": "民办万博科技职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.05"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

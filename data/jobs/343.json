@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:48:12",
+  "school_id": "343",
+  "school_name": "云南农业大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "86.20"
+    },
+    "postgraduate": {
+      "1": "14.00"
+    },
+    "abroad": {
+      "1": "0.88"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1031",
+      "school_id": "343",
+      "female_num": "2927",
+      "men_num": "3522",
+      "men_rate": "54.60",
+      "female_rate": "45.40",
+      "update_id": "825",
+      "update_time": "2021-03-31 17:50:13",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

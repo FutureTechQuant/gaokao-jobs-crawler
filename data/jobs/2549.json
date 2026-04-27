@@ -1,0 +1,278 @@
+{
+  "update_time": "2026-04-27 16:09:34",
+  "school_id": "2549",
+  "school_name": "苏州大学应用技术学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "94.46"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "18245",
+      "school_id": "2549",
+      "province": "江苏省",
+      "rate": "77.54",
+      "num": "0",
+      "sort": "89",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "18246",
+      "school_id": "2549",
+      "province": "上海",
+      "rate": "6.32",
+      "num": "0",
+      "sort": "90",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "18247",
+      "school_id": "2549",
+      "province": "浙江",
+      "rate": "3.20",
+      "num": "0",
+      "sort": "91",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "18248",
+      "school_id": "2549",
+      "province": "广东",
+      "rate": "2.26",
+      "num": "0",
+      "sort": "92",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "18249",
+      "school_id": "2549",
+      "province": "四川",
+      "rate": "1.96",
+      "num": "0",
+      "sort": "93",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "18250",
+      "school_id": "2549",
+      "province": "贵州",
+      "rate": "1.96",
+      "num": "0",
+      "sort": "94",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "贵州"
+    },
+    {
+      "id": "18251",
+      "school_id": "2549",
+      "province": "安徽",
+      "rate": "0.85",
+      "num": "0",
+      "sort": "95",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "安徽"
+    },
+    {
+      "id": "18252",
+      "school_id": "2549",
+      "province": "江西",
+      "rate": "0.85",
+      "num": "0",
+      "sort": "96",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "江西"
+    },
+    {
+      "id": "18253",
+      "school_id": "2549",
+      "province": "河南",
+      "rate": "0.85",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "河南"
+    },
+    {
+      "id": "18254",
+      "school_id": "2549",
+      "province": "其他地区",
+      "rate": "4.21",
+      "num": "0",
+      "sort": "98",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "18255",
+      "school_id": "2549",
+      "province": "苏州",
+      "rate": "64.75",
+      "num": "0",
+      "sort": "99",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "苏州"
+    },
+    {
+      "id": "18256",
+      "school_id": "2549",
+      "province": "无锡",
+      "rate": "6.87",
+      "num": "0",
+      "sort": "100",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "无锡"
+    },
+    {
+      "id": "18257",
+      "school_id": "2549",
+      "province": "南京",
+      "rate": "6.37",
+      "num": "0",
+      "sort": "101",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "南京"
+    },
+    {
+      "id": "18258",
+      "school_id": "2549",
+      "province": "南通",
+      "rate": "5.27",
+      "num": "0",
+      "sort": "102",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "南通"
+    },
+    {
+      "id": "18259",
+      "school_id": "2549",
+      "province": "常州",
+      "rate": "2.77",
+      "num": "0",
+      "sort": "103",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "常州"
+    },
+    {
+      "id": "18260",
+      "school_id": "2549",
+      "province": "盐城",
+      "rate": "2.61",
+      "num": "0",
+      "sort": "104",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "盐城"
+    },
+    {
+      "id": "18261",
+      "school_id": "2549",
+      "province": "泰州",
+      "rate": "2.05",
+      "num": "0",
+      "sort": "105",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "泰州"
+    },
+    {
+      "id": "18262",
+      "school_id": "2549",
+      "province": "徐州",
+      "rate": "1.94",
+      "num": "0",
+      "sort": "106",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "徐州"
+    },
+    {
+      "id": "18263",
+      "school_id": "2549",
+      "province": "宿迁",
+      "rate": "1.72",
+      "num": "0",
+      "sort": "107",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "宿迁"
+    }
+  ],
+  "attr": {
+    "其他": "0.31",
+    "医疗卫生单位": "0.04",
+    "高等教育单位": "0.04",
+    "农村建制村": "0.26",
+    "城镇社区": "0.36",
+    "机关": "0.62",
+    "中初教育单位": "0.66",
+    "其他事业单位": "0.79",
+    "国有企业": "5.62",
+    "三资企业": "11.34",
+    "其他企业": "79.96"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1681",
+      "school_id": "2549",
+      "female_num": "1372",
+      "men_num": "1338",
+      "men_rate": "49.37",
+      "female_rate": "50.63",
+      "update_id": "1639",
+      "update_time": "2024-06-14 14:10:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 15:48:31",
+  "school_id": "370",
+  "school_name": "青海师范大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "91.29"
+    },
+    "postgraduate": {
+      "1": "7.81"
+    },
+    "abroad": {
+      "1": "2.16"
+    }
+  },
+  "province": [
+    {
+      "id": "5694",
+      "school_id": "370",
+      "province": "其他省市",
+      "rate": "12.64",
+      "num": "5",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5690",
+      "school_id": "370",
+      "province": "中南地区",
+      "rate": "3.85",
+      "num": "71",
+      "sort": "71",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "中南地区"
+    },
+    {
+      "id": "5693",
+      "school_id": "370",
+      "province": "华东地区",
+      "rate": "4.28",
+      "num": "79",
+      "sort": "79",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "5691",
+      "school_id": "370",
+      "province": "西南地区",
+      "rate": "6.07",
+      "num": "112",
+      "sort": "112",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "5692",
+      "school_id": "370",
+      "province": "西北地区",
+      "rate": "73.16",
+      "num": "1349",
+      "sort": "1349",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "西北地区"
+    }
+  ],
+  "attr": {
+    "民营企业、个体经营": "42.64",
+    "事业单位": "33.64",
+    "国有企业": "5.73",
+    "部队单位": "0.38",
+    "自主创业": "0.42",
+    "其他": "17.19"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "753",
+      "school_id": "370",
+      "female_num": "1327",
+      "men_num": "693",
+      "men_rate": "34.31",
+      "female_rate": "65.69",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

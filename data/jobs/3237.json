@@ -1,0 +1,103 @@
+{
+  "update_time": "2026-04-27 16:13:15",
+  "school_id": "3237",
+  "school_name": "广东茂名健康职业学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "98.18"
+    },
+    "postgraduate": {
+      "1": "1.53"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "13118",
+      "school_id": "3237",
+      "province": "广东省外",
+      "rate": "1.73",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2024-12-30 15:51:03",
+      "year": "2022",
+      "province_name": "广东省外"
+    },
+    {
+      "id": "13116",
+      "school_id": "3237",
+      "province": "粤东",
+      "rate": "7.86",
+      "num": "0",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2024-12-30 15:50:45",
+      "year": "2022",
+      "province_name": "粤东"
+    },
+    {
+      "id": "13117",
+      "school_id": "3237",
+      "province": "粤北",
+      "rate": "11.21",
+      "num": "0",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2024-12-30 15:50:54",
+      "year": "2022",
+      "province_name": "粤北"
+    },
+    {
+      "id": "13115",
+      "school_id": "3237",
+      "province": "粤西",
+      "rate": "20.35",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2024-12-30 15:50:37",
+      "year": "2022",
+      "province_name": "粤西"
+    },
+    {
+      "id": "13114",
+      "school_id": "3237",
+      "province": "珠三角",
+      "rate": "58.84",
+      "num": "0",
+      "sort": "5",
+      "update_id": "1988",
+      "update_time": "2024-12-30 15:50:28",
+      "year": "2022",
+      "province_name": "珠三角"
+    }
+  ],
+  "attr": {
+    "企业单位": "44.84",
+    "事业单位": "40.69",
+    "其他就业形式": "10.44",
+    "机关、部队、党群及政法系统": "0.68"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1289",
+      "school_id": "3237",
+      "female_num": "1422",
+      "men_num": "340",
+      "men_rate": "19.30",
+      "female_rate": "80.70",
+      "update_id": "1183",
+      "update_time": "2023-03-29 10:48:23",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

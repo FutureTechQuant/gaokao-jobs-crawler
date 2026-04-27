@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 15:58:39",
+  "school_id": "1486",
+  "school_name": "重庆城市职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.77"
+    },
+    "postgraduate": {
+      "1": "24.54"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28477",
+      "school_id": "1486",
+      "province": "福建",
+      "rate": "0.73",
+      "num": "25",
+      "sort": "25",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "福建"
+    },
+    {
+      "id": "28476",
+      "school_id": "1486",
+      "province": "湖北",
+      "rate": "0.97",
+      "num": "33",
+      "sort": "33",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "湖北"
+    },
+    {
+      "id": "28475",
+      "school_id": "1486",
+      "province": "云南",
+      "rate": "1.00",
+      "num": "34",
+      "sort": "34",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "云南"
+    },
+    {
+      "id": "28474",
+      "school_id": "1486",
+      "province": "贵州",
+      "rate": "1.06",
+      "num": "36",
+      "sort": "36",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "贵州"
+    },
+    {
+      "id": "28473",
+      "school_id": "1486",
+      "province": "江苏",
+      "rate": "1.21",
+      "num": "41",
+      "sort": "41",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "28472",
+      "school_id": "1486",
+      "province": "上海",
+      "rate": "1.48",
+      "num": "50",
+      "sort": "50",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "上海"
+    },
+    {
+      "id": "28471",
+      "school_id": "1486",
+      "province": "浙江",
+      "rate": "2.57",
+      "num": "87",
+      "sort": "87",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "28470",
+      "school_id": "1486",
+      "province": "广东",
+      "rate": "4.08",
+      "num": "138",
+      "sort": "138",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "28478",
+      "school_id": "1486",
+      "province": "其他地区",
+      "rate": "4.51",
+      "num": "152",
+      "sort": "152",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "28469",
+      "school_id": "1486",
+      "province": "四川",
+      "rate": "5.93",
+      "num": "200",
+      "sort": "200",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "四川"
+    },
+    {
+      "id": "28468",
+      "school_id": "1486",
+      "province": "重庆",
+      "rate": "76.44",
+      "num": "2580",
+      "sort": "2580",
+      "update_id": "2156",
+      "update_time": "2025-11-12 10:02:49",
+      "year": "2024",
+      "province_name": "重庆"
+    }
+  ],
+  "attr": {
+    "其他企业": "78.90",
+    "自由职业": "4.51",
+    "国有企业": "4.43",
+    "个体工商户": "3.26",
+    "部队": "2.82",
+    "自主创业（未注册）": "2.17",
+    "其他事业单位": "2.05",
+    "三资企业": "0.81",
+    "机关": "0.32",
+    "农村建制村": "0.28",
+    "中初教育": "0.16",
+    "医疗卫生单位": "0.12",
+    "城镇社区": "0.08",
+    "高等教育": "0.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2447",
+      "school_id": "1486",
+      "female_num": "1792",
+      "men_num": "1847",
+      "men_rate": "50.76",
+      "female_rate": "49.24",
+      "update_id": "2156",
+      "update_time": "2025-11-12 09:59:50",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

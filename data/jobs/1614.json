@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 15:59:42",
+  "school_id": "1614",
+  "school_name": "吉林工业职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.57"
+    },
+    "postgraduate": {
+      "1": "9.16"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31792",
+      "school_id": "1614",
+      "province": "吉林",
+      "rate": "60.20",
+      "num": "0",
+      "sort": "602",
+      "update_id": "2096",
+      "update_time": "2025-11-28 14:51:48",
+      "year": "2024",
+      "province_name": "吉林"
+    },
+    {
+      "id": "31793",
+      "school_id": "1614",
+      "province": "省外",
+      "rate": "39.80",
+      "num": "0",
+      "sort": "3980",
+      "update_id": "2096",
+      "update_time": "2025-11-28 14:52:30",
+      "year": "2024",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2724",
+      "school_id": "1614",
+      "female_num": "744",
+      "men_num": "2172",
+      "men_rate": "74.49",
+      "female_rate": "25.51",
+      "update_id": "2096",
+      "update_time": "2025-11-28 13:59:11",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6600"
+  }
+}

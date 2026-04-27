@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 16:06:40",
+  "school_id": "2276",
+  "school_name": "贵阳信息科技学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.10"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "18025",
+      "school_id": "2276",
+      "province": "上海",
+      "rate": "2.10",
+      "num": "0",
+      "sort": "21",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "18024",
+      "school_id": "2276",
+      "province": "四川",
+      "rate": "2.80",
+      "num": "0",
+      "sort": "28",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "18023",
+      "school_id": "2276",
+      "province": "浙江",
+      "rate": "3.20",
+      "num": "0",
+      "sort": "32",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "18022",
+      "school_id": "2276",
+      "province": "广东",
+      "rate": "8.80",
+      "num": "0",
+      "sort": "88",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "18021",
+      "school_id": "2276",
+      "province": "贵州",
+      "rate": "70.40",
+      "num": "0",
+      "sort": "704",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "贵州"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "62.00",
+    "国有企业": "22.00",
+    "政府机构/科研或其他事业单位": "11.00",
+    "民办非企业单位（组织）": "3.00",
+    "中外合资/外资/独资": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1662",
+      "school_id": "2276",
+      "female_num": "1558",
+      "men_num": "1870",
+      "men_rate": "54.60",
+      "female_rate": "45.40",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:16",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

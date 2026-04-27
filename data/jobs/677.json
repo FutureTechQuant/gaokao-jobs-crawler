@@ -1,0 +1,64 @@
+{
+  "update_time": "2026-04-27 15:51:40",
+  "school_id": "677",
+  "school_name": "上海交通职业技术学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "95.36"
+    },
+    "postgraduate": {
+      "1": "9.39"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27056",
+      "school_id": "677",
+      "province": "其他地区",
+      "rate": "21.35",
+      "num": "360",
+      "sort": "360",
+      "update_id": "1988",
+      "update_time": "2025-02-08 13:58:53",
+      "year": "2023",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "27055",
+      "school_id": "677",
+      "province": "上海省内",
+      "rate": "78.23",
+      "num": "1319",
+      "sort": "1319",
+      "update_id": "1988",
+      "update_time": "2025-02-08 13:58:34",
+      "year": "2023",
+      "province_name": "上海省内"
+    }
+  ],
+  "attr": {
+    "中初教育单位": "0.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2292",
+      "school_id": "677",
+      "female_num": "407",
+      "men_num": "1361",
+      "men_rate": "76.98",
+      "female_rate": "23.02",
+      "update_id": "1988",
+      "update_time": "2025-02-08 13:55:12",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 15:52:31",
+  "school_id": "766",
+  "school_name": "牡丹江大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "77.07"
+    },
+    "postgraduate": {
+      "1": "20.96"
+    },
+    "abroad": {
+      "1": "0.16"
+    }
+  },
+  "province": [
+    {
+      "id": "29494",
+      "school_id": "766",
+      "province": "江苏",
+      "rate": "2.01",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:57:20",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "29493",
+      "school_id": "766",
+      "province": "广东",
+      "rate": "2.61",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:57:20",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "29492",
+      "school_id": "766",
+      "province": "山东",
+      "rate": "2.87",
+      "num": "0",
+      "sort": "7",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:57:20",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "29491",
+      "school_id": "766",
+      "province": "浙江",
+      "rate": "3.52",
+      "num": "0",
+      "sort": "8",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:57:20",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "29490",
+      "school_id": "766",
+      "province": "北京",
+      "rate": "3.92",
+      "num": "0",
+      "sort": "9",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:57:20",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "29489",
+      "school_id": "766",
+      "province": "黑龙江",
+      "rate": "65.46",
+      "num": "1302",
+      "sort": "10",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:57:20",
+      "year": "2024",
+      "province_name": "黑龙江"
+    }
+  ],
+  "attr": {
+    "大型私企": "58.25",
+    "中小微企业": "16.43",
+    "医疗卫生单位": "16.43",
+    "机关事业单位": "5.95",
+    "国有企业": "2.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2552",
+      "school_id": "766",
+      "female_num": "2108",
+      "men_num": "1577",
+      "men_rate": "42.80",
+      "female_rate": "57.20",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:55:16",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

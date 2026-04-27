@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 15:59:46",
+  "school_id": "1620",
+  "school_name": "吉林建筑科技学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.53"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32944",
+      "school_id": "1620",
+      "province": "西南地区",
+      "rate": "1.19",
+      "num": "0",
+      "sort": "119",
+      "update_id": "2234",
+      "update_time": "2025-12-02 17:22:57",
+      "year": "2024",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "32943",
+      "school_id": "1620",
+      "province": "华北地区",
+      "rate": "13.58",
+      "num": "0",
+      "sort": "1358",
+      "update_id": "2234",
+      "update_time": "2025-12-02 17:22:37",
+      "year": "2024",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "32942",
+      "school_id": "1620",
+      "province": "华东地区",
+      "rate": "23.45",
+      "num": "0",
+      "sort": "2345",
+      "update_id": "2234",
+      "update_time": "2025-12-02 17:22:18",
+      "year": "2024",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "32941",
+      "school_id": "1620",
+      "province": "东北地区",
+      "rate": "50.04",
+      "num": "0",
+      "sort": "5004",
+      "update_id": "2234",
+      "update_time": "2025-12-02 17:21:58",
+      "year": "2024",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "48.95",
+    "国有企业": "17.29",
+    "三资企业": "1.14"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2825",
+      "school_id": "1620",
+      "female_num": "1398",
+      "men_num": "2092",
+      "men_rate": "59.94",
+      "female_rate": "40.06",
+      "update_id": "2234",
+      "update_time": "2025-12-02 17:16:05",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

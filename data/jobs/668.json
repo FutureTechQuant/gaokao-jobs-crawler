@@ -1,0 +1,52 @@
+{
+  "update_time": "2026-04-27 15:51:36",
+  "school_id": "668",
+  "school_name": "上海震旦职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.29"
+    },
+    "postgraduate": {
+      "1": "18.63"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28691",
+      "school_id": "668",
+      "province": "华东地区",
+      "rate": "37.60",
+      "num": "651",
+      "sort": "0",
+      "update_id": "2156",
+      "update_time": "2025-11-12 14:03:52",
+      "year": "2024",
+      "province_name": "华东地区"
+    }
+  ],
+  "attr": {
+    "民营企业": "42.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2466",
+      "school_id": "668",
+      "female_num": "999",
+      "men_num": "733",
+      "men_rate": "42.30",
+      "female_rate": "57.70",
+      "update_id": "2156",
+      "update_time": "2025-11-12 11:59:25",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

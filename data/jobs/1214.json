@@ -1,0 +1,169 @@
+{
+  "update_time": "2026-04-27 15:56:40",
+  "school_id": "1214",
+  "school_name": "集美大学诚毅学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.11"
+    },
+    "postgraduate": {
+      "1": "1.81"
+    },
+    "abroad": {
+      "1": "0.98"
+    }
+  },
+  "province": [
+    {
+      "id": "21411",
+      "school_id": "1214",
+      "province": "河北省",
+      "rate": "0.75",
+      "num": "28",
+      "sort": "28",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "河北省"
+    },
+    {
+      "id": "21410",
+      "school_id": "1214",
+      "province": "云南省",
+      "rate": "0.80",
+      "num": "30",
+      "sort": "30",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "云南省"
+    },
+    {
+      "id": "21409",
+      "school_id": "1214",
+      "province": "四川省",
+      "rate": "1.07",
+      "num": "40",
+      "sort": "40",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "21408",
+      "school_id": "1214",
+      "province": "安微省",
+      "rate": "1.12",
+      "num": "42",
+      "sort": "42",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "安微省"
+    },
+    {
+      "id": "21407",
+      "school_id": "1214",
+      "province": "北京市",
+      "rate": "1.18",
+      "num": "44",
+      "sort": "44",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "北京市"
+    },
+    {
+      "id": "21406",
+      "school_id": "1214",
+      "province": "江苏省",
+      "rate": "1.87",
+      "num": "70",
+      "sort": "70",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "21405",
+      "school_id": "1214",
+      "province": "上海市",
+      "rate": "2.09",
+      "num": "78",
+      "sort": "78",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "上海市"
+    },
+    {
+      "id": "21404",
+      "school_id": "1214",
+      "province": "广东省",
+      "rate": "3.26",
+      "num": "122",
+      "sort": "122",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "21403",
+      "school_id": "1214",
+      "province": "浙江省",
+      "rate": "3.56",
+      "num": "133",
+      "sort": "133",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "21402",
+      "school_id": "1214",
+      "province": "福建省",
+      "rate": "75.01",
+      "num": "2804",
+      "sort": "2804",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:59:25",
+      "year": "2022",
+      "province_name": "福建省"
+    }
+  ],
+  "attr": {
+    "其他企业": "81.70",
+    "国有企业": "7.08",
+    "三资企业": "3.67",
+    "中初教育单位": "2.35",
+    "其他事业单位": "2.29",
+    "机关": "1.98",
+    "城镇社区": "0.54",
+    "医疗卫生单位": "0.17",
+    "农村建制村": "0.11",
+    "高等教育单位": "0.09"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1916",
+      "school_id": "1214",
+      "female_num": "2170",
+      "men_num": "1923",
+      "men_rate": "46.98",
+      "female_rate": "53.02",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:54:32",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:49:19",
+  "school_id": "438",
+  "school_name": "湖北医药学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "74.95"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "14629",
+      "school_id": "438",
+      "province": "中部经济带",
+      "rate": "69.94",
+      "num": "0",
+      "sort": "70",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "中部经济带"
+    },
+    {
+      "id": "14628",
+      "school_id": "438",
+      "province": "长江经济带",
+      "rate": "82.21",
+      "num": "0",
+      "sort": "82",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "政府机构／科研或其他事业单位": "55.76",
+    "国有企业": "20.61",
+    "民营企业／个体": "20.30",
+    "中外合资／外资／独资": "1.82",
+    "民办非企业单位（组织）": "1.52"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1404",
+      "school_id": "438",
+      "female_num": "1368",
+      "men_num": "771",
+      "men_rate": "36.04",
+      "female_rate": "63.96",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:32:05",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

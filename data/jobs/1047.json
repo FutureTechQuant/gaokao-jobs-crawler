@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 15:55:14",
+  "school_id": "1047",
+  "school_name": "吉林医药学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "81.40"
+    },
+    "postgraduate": {
+      "1": "10.77"
+    },
+    "abroad": {
+      "1": "0.13"
+    }
+  },
+  "province": [
+    {
+      "id": "21400",
+      "school_id": "1047",
+      "province": "省内",
+      "rate": "34.89",
+      "num": "0",
+      "sort": "3489",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:38:14",
+      "year": "2022",
+      "province_name": "省内"
+    },
+    {
+      "id": "21401",
+      "school_id": "1047",
+      "province": "省外",
+      "rate": "65.11",
+      "num": "0",
+      "sort": "6511",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:38:44",
+      "year": "2022",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "74.00",
+    "政府机构/科研或其他事业单位": "21.00",
+    "国有企业": "4.00",
+    "民办非企业单位（组织）": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1915",
+      "school_id": "1047",
+      "female_num": "1897",
+      "men_num": "731",
+      "men_rate": "27.82",
+      "female_rate": "72.18",
+      "update_id": "2094",
+      "update_time": "2024-09-18 11:17:22",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

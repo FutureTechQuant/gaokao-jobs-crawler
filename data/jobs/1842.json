@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:02:04",
+  "school_id": "1842",
+  "school_name": "安徽审计职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.33"
+    },
+    "postgraduate": {
+      "1": "32.52"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [
+    {
+      "id": "29852",
+      "school_id": "1842",
+      "province": "其他省份",
+      "rate": "34.68",
+      "num": "0",
+      "sort": "3468",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:19:51",
+      "year": "2024",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "29851",
+      "school_id": "1842",
+      "province": "安徽省",
+      "rate": "65.32",
+      "num": "0",
+      "sort": "6532",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:19:24",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "83.52",
+    "国有企业": "7.12",
+    "中外合资/外资/独资": "4.89",
+    "政府机构/科研或其他事业单位": "3.49",
+    "民非组织": "0.98"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2566",
+      "school_id": "1842",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "40.04",
+      "female_rate": "59.96",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:12:00",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

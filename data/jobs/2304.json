@@ -1,0 +1,95 @@
+{
+  "update_time": "2026-04-27 16:06:57",
+  "school_id": "2304",
+  "school_name": "天津天狮学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "89.30"
+    },
+    "postgraduate": {
+      "1": "3.90"
+    },
+    "abroad": {
+      "1": "0.40"
+    }
+  },
+  "province": [
+    {
+      "id": "18997",
+      "school_id": "2304",
+      "province": "京津冀地区",
+      "rate": "49.90",
+      "num": "0",
+      "sort": "39",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "京津冀地区"
+    },
+    {
+      "id": "18998",
+      "school_id": "2304",
+      "province": "一带一路地区",
+      "rate": "29.00",
+      "num": "0",
+      "sort": "40",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "一带一路地区"
+    },
+    {
+      "id": "18999",
+      "school_id": "2304",
+      "province": "西部地区",
+      "rate": "24.00",
+      "num": "0",
+      "sort": "41",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "19000",
+      "school_id": "2304",
+      "province": "长江经济带",
+      "rate": "19.10",
+      "num": "0",
+      "sort": "42",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "其他": "30.00",
+    "机关": "1.00",
+    "中初教育单位": "1.00",
+    "其他事业单位": "1.00",
+    "三资企业": "2.00",
+    "国有企业": "3.00",
+    "医疗卫生单位": "3.00",
+    "其他企业": "59.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1738",
+      "school_id": "2304",
+      "female_num": "1847",
+      "men_num": "956",
+      "men_rate": "34.10",
+      "female_rate": "65.90",
+      "update_id": "1639",
+      "update_time": "2024-06-17 14:13:18",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

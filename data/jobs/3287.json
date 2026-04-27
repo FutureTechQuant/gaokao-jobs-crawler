@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:13:39",
+  "school_id": "3287",
+  "school_name": "茅台学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "96.15"
+    },
+    "postgraduate": {
+      "1": "2.27"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "25633",
+      "school_id": "3287",
+      "province": "贵州省外",
+      "rate": "4.13",
+      "num": "18",
+      "sort": "18",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:30:57",
+      "year": "2021",
+      "province_name": "贵州省外"
+    },
+    {
+      "id": "25632",
+      "school_id": "3287",
+      "province": "贵州省",
+      "rate": "95.87",
+      "num": "418",
+      "sort": "418",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:30:39",
+      "year": "2021",
+      "province_name": "贵州省"
+    }
+  ],
+  "attr": {
+    "国有企业": "66.74",
+    "其他企业": "31.65",
+    "高等教育单位": "0.92",
+    "机关": "0.46",
+    "三资企业": "0.23"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2210",
+      "school_id": "3287",
+      "female_num": "232",
+      "men_num": "340",
+      "men_rate": "59.44",
+      "female_rate": "40.56",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:22:18",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

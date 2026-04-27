@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 16:01:54",
+  "school_id": "1826",
+  "school_name": "宣城职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.80"
+    },
+    "postgraduate": {
+      "1": "4.51"
+    },
+    "abroad": {
+      "1": "0.04"
+    }
+  },
+  "province": [
+    {
+      "id": "28659",
+      "school_id": "1826",
+      "province": "河南省",
+      "rate": "0.61",
+      "num": "24",
+      "sort": "24",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "28660",
+      "school_id": "1826",
+      "province": "青海省",
+      "rate": "0.61",
+      "num": "24",
+      "sort": "24",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "青海省"
+    },
+    {
+      "id": "28657",
+      "school_id": "1826",
+      "province": "河北省",
+      "rate": "0.71",
+      "num": "28",
+      "sort": "28",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "28658",
+      "school_id": "1826",
+      "province": "福建省",
+      "rate": "0.71",
+      "num": "28",
+      "sort": "28",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "28656",
+      "school_id": "1826",
+      "province": "广东省",
+      "rate": "1.07",
+      "num": "42",
+      "sort": "42",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28655",
+      "school_id": "1826",
+      "province": "江西省",
+      "rate": "3.00",
+      "num": "118",
+      "sort": "118",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "江西省"
+    },
+    {
+      "id": "28661",
+      "school_id": "1826",
+      "province": "其他合计",
+      "rate": "4.04",
+      "num": "159",
+      "sort": "159",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "其他合计"
+    },
+    {
+      "id": "28654",
+      "school_id": "1826",
+      "province": "上海市",
+      "rate": "4.68",
+      "num": "184",
+      "sort": "184",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "28653",
+      "school_id": "1826",
+      "province": "江苏省",
+      "rate": "5.44",
+      "num": "214",
+      "sort": "214",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28652",
+      "school_id": "1826",
+      "province": "浙江省",
+      "rate": "6.49",
+      "num": "255",
+      "sort": "255",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28651",
+      "school_id": "1826",
+      "province": "安徽省",
+      "rate": "72.63",
+      "num": "2855",
+      "sort": "2855",
+      "update_id": "2096",
+      "update_time": "2025-11-12 13:51:23",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "68.56",
+    "中初教育单位": "13.69",
+    "个体工商户": "7.07",
+    "医疗卫生单位": "5.04",
+    "其他事业单位": "2.47",
+    "国有企业": "0.94",
+    "农村建制村": "0.60",
+    "外商投资企业": "0.39",
+    "其他（含社会组织等）": "0.36",
+    "城镇社区": "0.34",
+    "部队": "0.23",
+    "机关": "0.21",
+    "高等教育单位": "0.05",
+    "科研设计单位": "0.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2458",
+      "school_id": "1826",
+      "female_num": "2889",
+      "men_num": "1591",
+      "men_rate": "35.51",
+      "female_rate": "64.49",
+      "update_id": "2096",
+      "update_time": "2025-11-12 10:46:40",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

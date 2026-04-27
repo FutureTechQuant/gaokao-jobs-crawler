@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:56:38",
+  "school_id": "1210",
+  "school_name": "山东航空学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.18"
+    },
+    "postgraduate": {
+      "1": "27.86"
+    },
+    "abroad": {
+      "1": "0.22"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1166",
+      "school_id": "1210",
+      "female_num": "3148",
+      "men_num": "2236",
+      "men_rate": "41.53",
+      "female_rate": "58.47",
+      "update_id": "929",
+      "update_time": "2021-04-01 17:57:15",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

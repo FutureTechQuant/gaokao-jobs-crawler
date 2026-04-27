@@ -1,0 +1,78 @@
+{
+  "update_time": "2026-04-27 15:50:50",
+  "school_id": "581",
+  "school_name": "外交学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "90.61"
+    },
+    "postgraduate": {
+      "1": "31.77"
+    },
+    "abroad": {
+      "1": "17.40"
+    }
+  },
+  "province": [
+    {
+      "id": "24730",
+      "school_id": "581",
+      "province": "中部地区",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "400",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:46:20",
+      "year": "2022",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "24729",
+      "school_id": "581",
+      "province": "西部地区",
+      "rate": "5.33",
+      "num": "0",
+      "sort": "533",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:46:04",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "24728",
+      "school_id": "581",
+      "province": "东部地区",
+      "rate": "90.67",
+      "num": "0",
+      "sort": "9067",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:45:46",
+      "year": "2022",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "机关": "44.00",
+    "其他企业": "21.33",
+    "国有企业": "16.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2154",
+      "school_id": "581",
+      "female_num": "256",
+      "men_num": "106",
+      "men_rate": "29.28",
+      "female_rate": "70.72",
+      "update_id": "1211",
+      "update_time": "2025-01-06 15:37:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "16200"
+  }
+}

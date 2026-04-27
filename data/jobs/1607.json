@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:59:37",
+  "school_id": "1607",
+  "school_name": "长春医学高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.51"
+    },
+    "postgraduate": {
+      "1": "23.30"
+    },
+    "abroad": {
+      "1": "0.08"
+    }
+  },
+  "province": [
+    {
+      "id": "31016",
+      "school_id": "1607",
+      "province": "吉林省外",
+      "rate": "32.53",
+      "num": "0",
+      "sort": "3253",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:23:32",
+      "year": "2024",
+      "province_name": "吉林省外"
+    },
+    {
+      "id": "31015",
+      "school_id": "1607",
+      "province": "吉林省内",
+      "rate": "67.47",
+      "num": "0",
+      "sort": "6747",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:22:54",
+      "year": "2024",
+      "province_name": "吉林省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "78.04",
+    "国有企业": "10.59",
+    "政府机构/科研或其他事业单位": "7.48",
+    "中外合资/外资/独资": "2.49",
+    "民非组织": "1.40"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2662",
+      "school_id": "1607",
+      "female_num": "1770",
+      "men_num": "852",
+      "men_rate": "32.49",
+      "female_rate": "67.51",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:22:20",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

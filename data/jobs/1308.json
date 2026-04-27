@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 15:57:26",
+  "school_id": "1308",
+  "school_name": "广州软件学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "1.30"
+    },
+    "abroad": {
+      "1": "0.70"
+    }
+  },
+  "province": [
+    {
+      "id": "18599",
+      "school_id": "1308",
+      "province": "新一线城市",
+      "rate": "6.00",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "18597",
+      "school_id": "1308",
+      "province": "珠三角地区",
+      "rate": "83.40",
+      "num": "0",
+      "sort": "834",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "18598",
+      "school_id": "1308",
+      "province": "粤港澳大湾区",
+      "rate": "83.40",
+      "num": "0",
+      "sort": "834",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "粤港澳大湾区"
+    },
+    {
+      "id": "18596",
+      "school_id": "1308",
+      "province": "一带一路",
+      "rate": "97.40",
+      "num": "0",
+      "sort": "974",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "一带一路"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "77.00",
+    "政府机构/科研或其他事业单位": "9.00",
+    "国有企业": "8.00",
+    "中外合资/外资/独资": "5.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1693",
+      "school_id": "1308",
+      "female_num": "1314",
+      "men_num": "2211",
+      "men_rate": "62.70",
+      "female_rate": "37.30",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:54",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

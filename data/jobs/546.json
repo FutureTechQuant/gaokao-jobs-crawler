@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-04-27 15:50:28",
+  "school_id": "546",
+  "school_name": "宁夏医科大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.17"
+    },
+    "postgraduate": {
+      "1": "17.64"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "5529",
+      "school_id": "546",
+      "province": "宁夏回族自治区外",
+      "rate": "15.10",
+      "num": "154",
+      "sort": "154",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "宁夏回族自治区外"
+    },
+    {
+      "id": "5530",
+      "school_id": "546",
+      "province": "宁夏回族自治区",
+      "rate": "84.90",
+      "num": "869",
+      "sort": "869",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "宁夏回族自治区"
+    }
+  ],
+  "attr": {
+    "医疔卫生单位": "71.58",
+    "机关": "11.18",
+    "中、初教育单位": "0.79",
+    "国有企业": "0.66",
+    "高等教育单位": "0.39",
+    "三资企业": "0.39",
+    "部队单位": "0.13",
+    "其他": "14.88"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "757",
+      "school_id": "546",
+      "female_num": "835",
+      "men_num": "276",
+      "men_rate": "24.84",
+      "female_rate": "75.16",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

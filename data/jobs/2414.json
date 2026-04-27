@@ -1,0 +1,130 @@
+{
+  "update_time": "2026-04-27 16:08:05",
+  "school_id": "2414",
+  "school_name": "阜阳理工学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "82.06"
+    },
+    "postgraduate": {
+      "1": "6.10"
+    },
+    "abroad": {
+      "1": "0.60"
+    }
+  },
+  "province": [
+    {
+      "id": "23401",
+      "school_id": "2414",
+      "province": "东北地区",
+      "rate": "0.08",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "23400",
+      "school_id": "2414",
+      "province": "西北地区",
+      "rate": "0.33",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "23399",
+      "school_id": "2414",
+      "province": "西南地区",
+      "rate": "0.58",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "23398",
+      "school_id": "2414",
+      "province": "华北地区",
+      "rate": "1.25",
+      "num": "15",
+      "sort": "15",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "23397",
+      "school_id": "2414",
+      "province": "华中地区",
+      "rate": "1.41",
+      "num": "17",
+      "sort": "17",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "23396",
+      "school_id": "2414",
+      "province": "华南地区",
+      "rate": "1.66",
+      "num": "20",
+      "sort": "20",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "23395",
+      "school_id": "2414",
+      "province": "华东地区",
+      "rate": "94.68",
+      "num": "1140",
+      "sort": "1140",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:41:48",
+      "year": "2023",
+      "province_name": "华东地区"
+    }
+  ],
+  "attr": {
+    "民营企业": "46.61",
+    "其他": "31.00",
+    "国有及集体企业": "7.69",
+    "政府机关": "6.79",
+    "事业单位": "5.43",
+    "港澳台及外资企业": "1.36",
+    "部队": "1.13"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2055",
+      "school_id": "2414",
+      "female_num": "1052",
+      "men_num": "570",
+      "men_rate": "35.14",
+      "female_rate": "64.86",
+      "update_id": "1988",
+      "update_time": "2024-10-31 10:39:19",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

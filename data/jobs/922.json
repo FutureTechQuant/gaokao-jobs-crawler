@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 15:54:00",
+  "school_id": "922",
+  "school_name": "江西工程职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "72.44"
+    },
+    "postgraduate": {
+      "1": "11.81"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10718",
+      "school_id": "922",
+      "province": "江西",
+      "rate": "64.79",
+      "num": "632",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2021-03-24 15:06:20",
+      "year": "2019",
+      "province_name": "江西"
+    },
+    {
+      "id": "10719",
+      "school_id": "922",
+      "province": "广东",
+      "rate": "13.00",
+      "num": "127",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2021-03-24 15:06:20",
+      "year": "2019",
+      "province_name": "广东"
+    },
+    {
+      "id": "10720",
+      "school_id": "922",
+      "province": "浙江",
+      "rate": "9.72",
+      "num": "95",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2021-03-24 15:06:20",
+      "year": "2019",
+      "province_name": "浙江"
+    },
+    {
+      "id": "10721",
+      "school_id": "922",
+      "province": "江苏",
+      "rate": "3.38",
+      "num": "33",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2021-03-24 15:06:20",
+      "year": "2019",
+      "province_name": "江苏"
+    },
+    {
+      "id": "10722",
+      "school_id": "922",
+      "province": "上海",
+      "rate": "1.94",
+      "num": "19",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2021-03-24 15:06:20",
+      "year": "2019",
+      "province_name": "上海"
+    },
+    {
+      "id": "10723",
+      "school_id": "922",
+      "province": "其他",
+      "rate": "7.17",
+      "num": "70",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2021-03-24 15:06:20",
+      "year": "2019",
+      "province_name": "其他"
+    }
+  ],
+  "attr": {
+    "其他企业": "76.66",
+    "高等教育单位": "16.38",
+    "部队": "3.58",
+    "三资企业": "0.72",
+    "其他事业单位": "0.72",
+    "机关": "0.61",
+    "中初教育单位": "0.51",
+    "国有企业": "0.41",
+    "医疗卫生单位": "0.31",
+    "城镇社区": "0.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "983",
+      "school_id": "922",
+      "female_num": "421",
+      "men_num": "925",
+      "men_rate": "68.72",
+      "female_rate": "31.28",
+      "update_id": "929",
+      "update_time": "2021-03-24 14:58:54",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

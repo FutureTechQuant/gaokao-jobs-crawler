@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:59:06",
+  "school_id": "1549",
+  "school_name": "大连财经学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "91.83"
+    },
+    "postgraduate": {
+      "1": "4.32"
+    },
+    "abroad": {
+      "1": "3.60"
+    }
+  },
+  "province": [
+    {
+      "id": "957",
+      "school_id": "1549",
+      "province": "其他省市",
+      "rate": "22.24",
+      "num": "1113",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "958",
+      "school_id": "1549",
+      "province": "辽宁省",
+      "rate": "77.76",
+      "num": "3892",
+      "sort": "3892",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "辽宁省"
+    }
+  ],
+  "attr": {
+    "国有企业": "6.71",
+    "党政机关": "2.59",
+    "教育单位": "1.55",
+    "医疔卫生单位": "0.81",
+    "其他": "88.34"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "282",
+      "school_id": "1549",
+      "female_num": "2344",
+      "men_num": "1113",
+      "men_rate": "32.17",
+      "female_rate": "67.83",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

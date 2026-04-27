@@ -1,0 +1,86 @@
+{
+  "update_time": "2026-04-27 16:12:58",
+  "school_id": "3208",
+  "school_name": "浙江特殊教育职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "99.11"
+    },
+    "postgraduate": {
+      "1": "10.36"
+    },
+    "abroad": {
+      "1": "0.59"
+    }
+  },
+  "province": [
+    {
+      "id": "27895",
+      "school_id": "3208",
+      "province": "河南省",
+      "rate": "1.08",
+      "num": "0",
+      "sort": "108",
+      "update_id": "2096",
+      "update_time": "2025-07-09 18:18:16",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "27896",
+      "school_id": "3208",
+      "province": "山东省",
+      "rate": "1.28",
+      "num": "0",
+      "sort": "128",
+      "update_id": "2096",
+      "update_time": "2025-07-09 18:18:16",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "27897",
+      "school_id": "3208",
+      "province": "广东省",
+      "rate": "1.87",
+      "num": "0",
+      "sort": "187",
+      "update_id": "2096",
+      "update_time": "2025-07-09 18:18:16",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "27898",
+      "school_id": "3208",
+      "province": "江苏省",
+      "rate": "2.76",
+      "num": "0",
+      "sort": "276",
+      "update_id": "2096",
+      "update_time": "2025-07-09 18:18:16",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "27899",
+      "school_id": "3208",
+      "province": "浙江省",
+      "rate": "73.27",
+      "num": "0",
+      "sort": "7327",
+      "update_id": "2096",
+      "update_time": "2025-07-09 18:18:16",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "update_time": "2026-04-27 15:50:22",
+  "school_id": "538",
+  "school_name": "桂林医科大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.69"
+    },
+    "postgraduate": {
+      "1": "15.72"
+    },
+    "abroad": {
+      "1": "0.09"
+    }
+  },
+  "province": [
+    {
+      "id": "23471",
+      "school_id": "538",
+      "province": "区外京津唐地区",
+      "rate": "0.80",
+      "num": "25",
+      "sort": "25",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区外京津唐地区"
+    },
+    {
+      "id": "23475",
+      "school_id": "538",
+      "province": "区内梧州",
+      "rate": "2.00",
+      "num": "75",
+      "sort": "75",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区内梧州"
+    },
+    {
+      "id": "23472",
+      "school_id": "538",
+      "province": "区外长江三角洲地区",
+      "rate": "5.00",
+      "num": "151",
+      "sort": "151",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区外长江三角洲地区"
+    },
+    {
+      "id": "23477",
+      "school_id": "538",
+      "province": "区内柳州",
+      "rate": "6.00",
+      "num": "191",
+      "sort": "191",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区内柳州"
+    },
+    {
+      "id": "23470",
+      "school_id": "538",
+      "province": "广西区外其他地区",
+      "rate": "7.00",
+      "num": "209",
+      "sort": "209",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "广西区外其他地区"
+    },
+    {
+      "id": "23473",
+      "school_id": "538",
+      "province": "区外珠江三角洲",
+      "rate": "10.00",
+      "num": "284",
+      "sort": "284",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区外珠江三角洲"
+    },
+    {
+      "id": "23478",
+      "school_id": "538",
+      "province": "区内南宁",
+      "rate": "13.00",
+      "num": "371",
+      "sort": "371",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区内南宁"
+    },
+    {
+      "id": "23474",
+      "school_id": "538",
+      "province": "广西区内其他地区",
+      "rate": "21.00",
+      "num": "590",
+      "sort": "590",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "广西区内其他地区"
+    },
+    {
+      "id": "23476",
+      "school_id": "538",
+      "province": "区内桂林",
+      "rate": "28.00",
+      "num": "795",
+      "sort": "795",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:42:33",
+      "year": "2023",
+      "province_name": "区内桂林"
+    }
+  ],
+  "attr": {
+    "医疗\n卫生\n单位": "56.45",
+    "私营\n企业": "18.60",
+    "其他": "1.67",
+    "三资企业": "0.80",
+    "高等\n教育\n单位": "0.65",
+    "党政机关": "0.47",
+    "国有\n企业": "0.40",
+    "其他\n事业\n单位": "0.36",
+    "科研\n设计\n单位": "0.29",
+    "部队": "0.17",
+    "中初\n教育\n单位": "0.15",
+    "金融\n单位": "0.11",
+    "非教\n育单\n位": "0.11"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2059",
+      "school_id": "538",
+      "female_num": "2338",
+      "men_num": "919",
+      "men_rate": "28.21",
+      "female_rate": "71.79",
+      "update_id": "1988",
+      "update_time": "2024-10-31 14:38:12",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

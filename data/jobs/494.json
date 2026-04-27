@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 15:49:55",
+  "school_id": "494",
+  "school_name": "聊城大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "98.30"
+    },
+    "postgraduate": {
+      "1": "29.08"
+    },
+    "abroad": {
+      "1": "0.35"
+    }
+  },
+  "province": [
+    {
+      "id": "27321",
+      "school_id": "494",
+      "province": "东北地区",
+      "rate": "0.93",
+      "num": "51",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:28:46",
+      "year": "2021",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "27322",
+      "school_id": "494",
+      "province": "其他",
+      "rate": "1.11",
+      "num": "61",
+      "sort": "61",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:29:09",
+      "year": "2021",
+      "province_name": "其他"
+    },
+    {
+      "id": "27319",
+      "school_id": "494",
+      "province": "中部地区",
+      "rate": "3.34",
+      "num": "184",
+      "sort": "184",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:28:11",
+      "year": "2021",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "27320",
+      "school_id": "494",
+      "province": "西部地区",
+      "rate": "5.14",
+      "num": "283",
+      "sort": "283",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:28:30",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "27318",
+      "school_id": "494",
+      "province": "东部地区",
+      "rate": "89.48",
+      "num": "4923",
+      "sort": "4923",
+      "update_id": "1988",
+      "update_time": "2025-06-03 17:27:50",
+      "year": "2021",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "自由职业": "57.18",
+    "非国有企业": "21.92",
+    "事业单位": "9.96",
+    "其他": "5.78",
+    "国有企业": "4.05",
+    "机关": "1.11"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2318",
+      "school_id": "494",
+      "female_num": "5504",
+      "men_num": "3028",
+      "men_rate": "35.00",
+      "female_rate": "65.00",
+      "update_id": "1988",
+      "update_time": "2025-06-03 16:55:27",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

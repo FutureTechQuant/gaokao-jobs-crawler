@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:45:09",
+  "school_id": "71",
+  "school_name": "济南大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.97"
+    },
+    "postgraduate": {
+      "1": "21.68"
+    },
+    "abroad": {
+      "1": "1.89"
+    }
+  },
+  "province": [
+    {
+      "id": "4191",
+      "school_id": "71",
+      "province": "山东省外",
+      "rate": "25.79",
+      "num": "1820",
+      "sort": "1820",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "4192",
+      "school_id": "71",
+      "province": "山东省",
+      "rate": "74.21",
+      "num": "6020",
+      "sort": "6020",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "非国有企业": "55.74",
+    "事业单位": "11.32",
+    "国有企业": "10.53",
+    "党政机关": "2.54",
+    "其他": "19.87"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "762",
+      "school_id": "71",
+      "female_num": "4382",
+      "men_num": "4160",
+      "men_rate": "48.70",
+      "female_rate": "51.30",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

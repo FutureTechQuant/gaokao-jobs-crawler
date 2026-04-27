@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:14:09",
+  "school_id": "3337",
+  "school_name": "吉林职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.60"
+    },
+    "postgraduate": {
+      "1": "13.17"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2675",
+      "school_id": "3337",
+      "female_num": "674",
+      "men_num": "1019",
+      "men_rate": "60.15",
+      "female_rate": "39.79",
+      "update_id": "2096",
+      "update_time": "2025-11-27 14:06:34",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

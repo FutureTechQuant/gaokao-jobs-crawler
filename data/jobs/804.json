@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 15:52:57",
+  "school_id": "804",
+  "school_name": "四川信息职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.30"
+    },
+    "postgraduate": {
+      "1": "17.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28066",
+      "school_id": "804",
+      "province": "四川省外",
+      "rate": "27.70",
+      "num": "0",
+      "sort": "277",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:27:37",
+      "year": "2024",
+      "province_name": "四川省外"
+    },
+    {
+      "id": "28065",
+      "school_id": "804",
+      "province": "四川省内",
+      "rate": "72.30",
+      "num": "0",
+      "sort": "723",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:27:11",
+      "year": "2024",
+      "province_name": "四川省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "79.00",
+    "国有企业": "12.00",
+    "中外合资/外资/独资": "6.00",
+    "政府机构/科研或其他事业单位": "3.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2400",
+      "school_id": "804",
+      "female_num": "940",
+      "men_num": "2240",
+      "men_rate": "70.40",
+      "female_rate": "29.60",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:15:48",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

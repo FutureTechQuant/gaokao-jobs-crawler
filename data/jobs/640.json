@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:51:21",
+  "school_id": "640",
+  "school_name": "揭阳职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.26"
+    },
+    "postgraduate": {
+      "1": "23.08"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1224",
+      "school_id": "640",
+      "female_num": "1559",
+      "men_num": "608",
+      "men_rate": "28.06",
+      "female_rate": "71.94",
+      "update_id": "929",
+      "update_time": "2021-04-02 14:10:24",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

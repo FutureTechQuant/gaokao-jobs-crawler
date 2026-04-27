@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:14:49",
+  "school_id": "3406",
+  "school_name": "云南工贸职业技术学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "97.98"
+    },
+    "postgraduate": {
+      "1": "11.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27795",
+      "school_id": "3406",
+      "province": "广东",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:07:34",
+      "year": "2021",
+      "province_name": "广东"
+    },
+    {
+      "id": "27794",
+      "school_id": "3406",
+      "province": "四川",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:07:16",
+      "year": "2021",
+      "province_name": "四川"
+    },
+    {
+      "id": "27796",
+      "school_id": "3406",
+      "province": "其他",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:07:58",
+      "year": "2021",
+      "province_name": "其他"
+    },
+    {
+      "id": "27793",
+      "school_id": "3406",
+      "province": "江苏",
+      "rate": "16.00",
+      "num": "0",
+      "sort": "16",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:07:04",
+      "year": "2021",
+      "province_name": "江苏"
+    },
+    {
+      "id": "27792",
+      "school_id": "3406",
+      "province": "浙江",
+      "rate": "29.00",
+      "num": "0",
+      "sort": "29",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:06:48",
+      "year": "2021",
+      "province_name": "浙江"
+    },
+    {
+      "id": "27791",
+      "school_id": "3406",
+      "province": "云南",
+      "rate": "48.00",
+      "num": "0",
+      "sort": "48",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:06:30",
+      "year": "2021",
+      "province_name": "云南"
+    }
+  ],
+  "attr": {
+    "民营企业": "70.61",
+    "三资企业": "26.32"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2371",
+      "school_id": "3406",
+      "female_num": "171",
+      "men_num": "422",
+      "men_rate": "71.16",
+      "female_rate": "28.84",
+      "update_id": "1988",
+      "update_time": "2025-07-09 11:03:43",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

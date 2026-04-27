@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 15:48:39",
+  "school_id": "381",
+  "school_name": "长春工业大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.32"
+    },
+    "postgraduate": {
+      "1": "26.45"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32542",
+      "school_id": "381",
+      "province": "西北地区",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "160",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "32540",
+      "school_id": "381",
+      "province": "西南地区",
+      "rate": "2.87",
+      "num": "0",
+      "sort": "287",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "32539",
+      "school_id": "381",
+      "province": "长江中游地区",
+      "rate": "3.40",
+      "num": "0",
+      "sort": "340",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "长江中游地区"
+    },
+    {
+      "id": "32537",
+      "school_id": "381",
+      "province": "黄河中游地区",
+      "rate": "4.63",
+      "num": "0",
+      "sort": "463",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "黄河中游地区"
+    },
+    {
+      "id": "32543",
+      "school_id": "381",
+      "province": "南部沿海地区",
+      "rate": "7.50",
+      "num": "0",
+      "sort": "750",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "南部沿海地区"
+    },
+    {
+      "id": "32538",
+      "school_id": "381",
+      "province": "北部沿海地区",
+      "rate": "10.97",
+      "num": "0",
+      "sort": "1097",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "北部沿海地区"
+    },
+    {
+      "id": "32541",
+      "school_id": "381",
+      "province": "东部沿海地区",
+      "rate": "11.75",
+      "num": "0",
+      "sort": "1175",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "东部沿海地区"
+    },
+    {
+      "id": "32536",
+      "school_id": "381",
+      "province": "东北地区",
+      "rate": "57.28",
+      "num": "0",
+      "sort": "5728",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:24:14",
+      "year": "2024",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "民营企业": "44.84",
+    "国有企业": "11.04",
+    "三资企业": "9.00",
+    "事业单位": "1.11",
+    "机关": "1.10",
+    "基层项目": "0.79",
+    "应征义务兵": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1994",
+      "school_id": "381",
+      "female_num": "1628",
+      "men_num": "2927",
+      "men_rate": "64.26",
+      "female_rate": "35.74",
+      "update_id": "2096",
+      "update_time": "2024-09-24 15:37:51",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9900"
+  }
+}

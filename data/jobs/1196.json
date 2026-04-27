@@ -1,0 +1,143 @@
+{
+  "update_time": "2026-04-27 15:56:33",
+  "school_id": "1196",
+  "school_name": "安徽中医药大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.93"
+    },
+    "postgraduate": {
+      "1": "21.20"
+    },
+    "abroad": {
+      "1": "0.50"
+    }
+  },
+  "province": [
+    {
+      "id": "23226",
+      "school_id": "1196",
+      "province": "东北三省",
+      "rate": "0.12",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "东北三省"
+    },
+    {
+      "id": "23225",
+      "school_id": "1196",
+      "province": "其他地区",
+      "rate": "0.87",
+      "num": "29",
+      "sort": "29",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "23224",
+      "school_id": "1196",
+      "province": "西部城市",
+      "rate": "1.79",
+      "num": "60",
+      "sort": "60",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "西部城市"
+    },
+    {
+      "id": "23223",
+      "school_id": "1196",
+      "province": "中原地区",
+      "rate": "2.06",
+      "num": "69",
+      "sort": "69",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "中原地区"
+    },
+    {
+      "id": "23222",
+      "school_id": "1196",
+      "province": "珠三角（广东）",
+      "rate": "2.45",
+      "num": "82",
+      "sort": "82",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "珠三角（广东）"
+    },
+    {
+      "id": "23221",
+      "school_id": "1196",
+      "province": "环渤海经济圈",
+      "rate": "3.14",
+      "num": "105",
+      "sort": "105",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "环渤海经济圈"
+    },
+    {
+      "id": "23220",
+      "school_id": "1196",
+      "province": "江浙沪",
+      "rate": "21.29",
+      "num": "712",
+      "sort": "712",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "江浙沪"
+    },
+    {
+      "id": "23219",
+      "school_id": "1196",
+      "province": "安徽省",
+      "rate": "68.27",
+      "num": "2283",
+      "sort": "2283",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:38:44",
+      "year": "2023",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "51.51",
+    "医药相关企业": "43.13",
+    "机关(含定向、公务员)": "2.12",
+    "高等教育单位": "1.91",
+    "中初教育单位": "0.60",
+    "其他事业单位": "0.51",
+    "科研设计单位": "0.12",
+    "其他": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2035",
+      "school_id": "1196",
+      "female_num": "2953",
+      "men_num": "1729",
+      "men_rate": "36.93",
+      "female_rate": "63.07",
+      "update_id": "1988",
+      "update_time": "2024-10-16 17:32:17",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10100"
+  }
+}

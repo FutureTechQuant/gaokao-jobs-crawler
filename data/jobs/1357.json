@@ -1,0 +1,140 @@
+{
+  "update_time": "2026-04-27 15:57:47",
+  "school_id": "1357",
+  "school_name": "浙江金融职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.18"
+    },
+    "postgraduate": {
+      "1": "42.73"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28650",
+      "school_id": "1357",
+      "province": "绍兴",
+      "rate": "4.55",
+      "num": "0",
+      "sort": "455",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "绍兴"
+    },
+    {
+      "id": "28649",
+      "school_id": "1357",
+      "province": "嘉兴",
+      "rate": "6.45",
+      "num": "0",
+      "sort": "645",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "嘉兴"
+    },
+    {
+      "id": "28648",
+      "school_id": "1357",
+      "province": "台州",
+      "rate": "6.57",
+      "num": "0",
+      "sort": "657",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "台州"
+    },
+    {
+      "id": "28646",
+      "school_id": "1357",
+      "province": "金华",
+      "rate": "6.95",
+      "num": "0",
+      "sort": "695",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "金华"
+    },
+    {
+      "id": "28647",
+      "school_id": "1357",
+      "province": "湖州",
+      "rate": "6.95",
+      "num": "0",
+      "sort": "695",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "湖州"
+    },
+    {
+      "id": "28645",
+      "school_id": "1357",
+      "province": "宁波",
+      "rate": "8.09",
+      "num": "0",
+      "sort": "809",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "宁波"
+    },
+    {
+      "id": "28644",
+      "school_id": "1357",
+      "province": "温州",
+      "rate": "9.23",
+      "num": "0",
+      "sort": "923",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "温州"
+    },
+    {
+      "id": "28643",
+      "school_id": "1357",
+      "province": "杭州",
+      "rate": "37.17",
+      "num": "0",
+      "sort": "3717",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:45:03",
+      "year": "2024",
+      "province_name": "杭州"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "81.40",
+    "国有企业": "10.98",
+    "政府机构/科研或其他事业单位": "4.01",
+    "中外合资/外资/独资": "2.84",
+    "民非组织": "0.78"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2468",
+      "school_id": "1357",
+      "female_num": "2539",
+      "men_num": "1482",
+      "men_rate": "36.86",
+      "female_rate": "63.14",
+      "update_id": "1988",
+      "update_time": "2025-11-12 13:38:25",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

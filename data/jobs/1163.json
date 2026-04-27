@@ -1,0 +1,158 @@
+{
+  "update_time": "2026-04-27 15:56:14",
+  "school_id": "1163",
+  "school_name": "内蒙古电子信息职业技术学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "28060",
+      "school_id": "1163",
+      "province": "安徽省",
+      "rate": "0.11",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "28058",
+      "school_id": "1163",
+      "province": "山西省",
+      "rate": "0.15",
+      "num": "0",
+      "sort": "15",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "山西省"
+    },
+    {
+      "id": "28059",
+      "school_id": "1163",
+      "province": "江苏省",
+      "rate": "0.15",
+      "num": "0",
+      "sort": "15",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28057",
+      "school_id": "1163",
+      "province": "辽宁省",
+      "rate": "0.19",
+      "num": "0",
+      "sort": "19",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "28055",
+      "school_id": "1163",
+      "province": "天津市",
+      "rate": "0.27",
+      "num": "0",
+      "sort": "27",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "天津市"
+    },
+    {
+      "id": "28056",
+      "school_id": "1163",
+      "province": "河北省",
+      "rate": "0.27",
+      "num": "0",
+      "sort": "27",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "28054",
+      "school_id": "1163",
+      "province": "北京市",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "28053",
+      "school_id": "1163",
+      "province": "浙江省",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "107",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28052",
+      "school_id": "1163",
+      "province": "山东省",
+      "rate": "1.11",
+      "num": "0",
+      "sort": "111",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "28051",
+      "school_id": "1163",
+      "province": "内蒙古自治区",
+      "rate": "95.25",
+      "num": "0",
+      "sort": "9525",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:16:29",
+      "year": "2024",
+      "province_name": "内蒙古自治区"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "85.39",
+    "个体工商户": "5.02",
+    "国有企业": "4.52",
+    "外商投资企业": "1.61",
+    "其他事业单位": "1.55",
+    "机关": "0.68",
+    "中等、初等教育单位": "0.56",
+    "其他（含社会组织、国际组织等）": "0.50",
+    "医疗卫生单位": "0.19"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2399",
+      "school_id": "1163",
+      "female_num": "746",
+      "men_num": "2030",
+      "men_rate": "73.13",
+      "female_rate": "26.87",
+      "update_id": "1988",
+      "update_time": "2025-11-11 11:14:16",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:01:49",
+  "school_id": "1819",
+  "school_name": "六安职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.45"
+    },
+    "postgraduate": {
+      "1": "3.94"
+    },
+    "abroad": {
+      "1": "0.02"
+    }
+  },
+  "province": [
+    {
+      "id": "28642",
+      "school_id": "1819",
+      "province": "安徽省外",
+      "rate": "19.18",
+      "num": "0",
+      "sort": "1918",
+      "update_id": "1988",
+      "update_time": "2025-11-12 11:57:13",
+      "year": "2024",
+      "province_name": "安徽省外"
+    },
+    {
+      "id": "28641",
+      "school_id": "1819",
+      "province": "安徽省内",
+      "rate": "80.82",
+      "num": "0",
+      "sort": "8082",
+      "update_id": "1988",
+      "update_time": "2025-11-12 11:56:39",
+      "year": "2024",
+      "province_name": "安徽省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "72.76",
+    "政府机构/科研或其他事业单位": "12.24",
+    "国有企业": "8.52",
+    "中外合资/外资/独资": "3.64",
+    "民营组织": "2.84"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2465",
+      "school_id": "1819",
+      "female_num": "2386",
+      "men_num": "3505",
+      "men_rate": "59.50",
+      "female_rate": "40.50",
+      "update_id": "1988",
+      "update_time": "2025-11-12 11:52:00",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

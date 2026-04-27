@@ -1,0 +1,70 @@
+{
+  "update_time": "2026-04-27 15:51:14",
+  "school_id": "627",
+  "school_name": "衡水学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "91.29"
+    },
+    "postgraduate": {
+      "1": "5.35"
+    },
+    "abroad": {
+      "1": "0.02"
+    }
+  },
+  "province": [
+    {
+      "id": "20919",
+      "school_id": "627",
+      "province": "省外",
+      "rate": "29.71",
+      "num": "1133",
+      "sort": "1133",
+      "update_id": "2094",
+      "update_time": "2024-09-13 14:27:43",
+      "year": "2022",
+      "province_name": "省外"
+    },
+    {
+      "id": "20918",
+      "school_id": "627",
+      "province": "省内",
+      "rate": "70.29",
+      "num": "2681",
+      "sort": "2681",
+      "update_id": "2094",
+      "update_time": "2024-09-13 14:27:26",
+      "year": "2022",
+      "province_name": "省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "62.98",
+    "其他": "17.36",
+    "中初教育单位": "10.12",
+    "机关": "4.14",
+    "国有企业": "2.41",
+    "其他事业单位": "1.63",
+    "三资企业": "1.36"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1882",
+      "school_id": "627",
+      "female_num": "2901",
+      "men_num": "1620",
+      "men_rate": "35.83",
+      "female_rate": "64.17",
+      "update_id": "2094",
+      "update_time": "2024-09-13 11:35:05",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

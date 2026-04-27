@@ -1,0 +1,169 @@
+{
+  "update_time": "2026-04-27 16:14:29",
+  "school_id": "3367",
+  "school_name": "郑州财税金融职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.82"
+    },
+    "postgraduate": {
+      "1": "25.49"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28487",
+      "school_id": "3367",
+      "province": "山西省",
+      "rate": "0.64",
+      "num": "0",
+      "sort": "64",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "山西省"
+    },
+    {
+      "id": "28488",
+      "school_id": "3367",
+      "province": "山东省",
+      "rate": "0.64",
+      "num": "0",
+      "sort": "64",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "28486",
+      "school_id": "3367",
+      "province": "安徽省",
+      "rate": "0.84",
+      "num": "0",
+      "sort": "84",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "28485",
+      "school_id": "3367",
+      "province": "湖北省",
+      "rate": "1.34",
+      "num": "0",
+      "sort": "134",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "28484",
+      "school_id": "3367",
+      "province": "北京市",
+      "rate": "2.18",
+      "num": "0",
+      "sort": "218",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "28483",
+      "school_id": "3367",
+      "province": "浙江省",
+      "rate": "3.07",
+      "num": "0",
+      "sort": "307",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28482",
+      "school_id": "3367",
+      "province": "上海市",
+      "rate": "3.22",
+      "num": "0",
+      "sort": "322",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "28481",
+      "school_id": "3367",
+      "province": "江苏省",
+      "rate": "3.41",
+      "num": "0",
+      "sort": "341",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28480",
+      "school_id": "3367",
+      "province": "广东省",
+      "rate": "3.46",
+      "num": "0",
+      "sort": "346",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28479",
+      "school_id": "3367",
+      "province": "河南省",
+      "rate": "78.23",
+      "num": "0",
+      "sort": "7823",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:11:03",
+      "year": "2024",
+      "province_name": "河南省"
+    }
+  ],
+  "attr": {
+    "民营企业": "89.46",
+    "部队": "3.61",
+    "个体工商户": "2.33",
+    "其他事业单位": "1.73",
+    "自由职业": "1.63",
+    "国有企业": "0.40",
+    "医疗卫生单位": "0.25",
+    "中初教育单位": "0.20",
+    "其他（含社会组织、国际组织等）": "0.15",
+    "艰苦行业企业": "0.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2448",
+      "school_id": "3367",
+      "female_num": "1919",
+      "men_num": "1310",
+      "men_rate": "40.57",
+      "female_rate": "59.43",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:02:52",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

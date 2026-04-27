@@ -1,0 +1,187 @@
+{
+  "update_time": "2026-04-27 15:58:46",
+  "school_id": "1499",
+  "school_name": "重庆工程学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.71"
+    },
+    "postgraduate": {
+      "1": "1.68"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [
+    {
+      "id": "28671",
+      "school_id": "1499",
+      "province": "北京市",
+      "rate": "1.11",
+      "num": "0",
+      "sort": "111",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "28670",
+      "school_id": "1499",
+      "province": "湖北省",
+      "rate": "1.30",
+      "num": "0",
+      "sort": "130",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "28668",
+      "school_id": "1499",
+      "province": "上海市",
+      "rate": "1.66",
+      "num": "0",
+      "sort": "166",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "28669",
+      "school_id": "1499",
+      "province": "新疆维吾尔自治区",
+      "rate": "1.66",
+      "num": "0",
+      "sort": "166",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "28667",
+      "school_id": "1499",
+      "province": "安徽省",
+      "rate": "2.16",
+      "num": "0",
+      "sort": "216",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "28666",
+      "school_id": "1499",
+      "province": "江苏省",
+      "rate": "2.52",
+      "num": "0",
+      "sort": "252",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28665",
+      "school_id": "1499",
+      "province": "浙江省",
+      "rate": "5.51",
+      "num": "0",
+      "sort": "551",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28664",
+      "school_id": "1499",
+      "province": "广东省",
+      "rate": "5.60",
+      "num": "0",
+      "sort": "560",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28672",
+      "school_id": "1499",
+      "province": "其他",
+      "rate": "7.65",
+      "num": "0",
+      "sort": "765",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "28663",
+      "school_id": "1499",
+      "province": "四川省",
+      "rate": "9.75",
+      "num": "0",
+      "sort": "975",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "28662",
+      "school_id": "1499",
+      "province": "重庆市",
+      "rate": "61.07",
+      "num": "0",
+      "sort": "6107",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:52:28",
+      "year": "2024",
+      "province_name": "重庆市"
+    }
+  ],
+  "attr": {
+    "其他企业": "84.03",
+    "国有企业": "5.79",
+    "三资企业": "2.97",
+    "部队": "1.67",
+    "个体工商户": "1.41",
+    "国家基层项目": "0.85",
+    "机关": "0.76",
+    "自主创业": "0.65",
+    "其他事业单位": "0.62",
+    "自由职业": "0.42",
+    "中初教育": "0.23",
+    "地方基层项目": "0.20",
+    "高等教育": "0.20",
+    "医疗卫生单位": "0.14",
+    "城镇社区": "0.03",
+    "农村建制村": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2464",
+      "school_id": "1499",
+      "female_num": "1825",
+      "men_num": "2291",
+      "men_rate": "55.66",
+      "female_rate": "44.34",
+      "update_id": "2314",
+      "update_time": "2025-11-12 11:47:21",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

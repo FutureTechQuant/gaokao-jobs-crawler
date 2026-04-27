@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:14:08",
+  "school_id": "3332",
+  "school_name": "石家庄城市经济职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "84.61"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29614",
+      "school_id": "3332",
+      "province": "西部地区",
+      "rate": "1.83",
+      "num": "34",
+      "sort": "34",
+      "update_id": "2314",
+      "update_time": "2025-11-14 15:26:44",
+      "year": "2024",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "29615",
+      "school_id": "3332",
+      "province": "中部地区",
+      "rate": "2.16",
+      "num": "40",
+      "sort": "40",
+      "update_id": "2314",
+      "update_time": "2025-11-14 15:26:44",
+      "year": "2024",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "29613",
+      "school_id": "3332",
+      "province": "东部地区",
+      "rate": "96.01",
+      "num": "1781",
+      "sort": "1781",
+      "update_id": "2314",
+      "update_time": "2025-11-14 15:26:44",
+      "year": "2024",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

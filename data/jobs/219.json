@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:46:48",
+  "school_id": "219",
+  "school_name": "大连医科大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.97"
+    },
+    "postgraduate": {
+      "1": "59.69"
+    },
+    "abroad": {
+      "1": "0.75"
+    }
+  },
+  "province": [
+    {
+      "id": "16263",
+      "school_id": "219",
+      "province": "陕西",
+      "rate": "0.72",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "陕西"
+    },
+    {
+      "id": "16260",
+      "school_id": "219",
+      "province": "江苏",
+      "rate": "1.43",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "16262",
+      "school_id": "219",
+      "province": "山东",
+      "rate": "0.72",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "山东"
+    },
+    {
+      "id": "16261",
+      "school_id": "219",
+      "province": "浙江",
+      "rate": "6.09",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "16259",
+      "school_id": "219",
+      "province": "辽宁",
+      "rate": "64.16",
+      "num": "0",
+      "sort": "64",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "辽宁"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "50.92",
+    "民营企业/个体": "24.91",
+    "国有企业": "16.48",
+    "中外合资/外资/独资": "5.13",
+    "民办非企业单位（组织）": "2.56"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1548",
+      "school_id": "219",
+      "female_num": "988",
+      "men_num": "602",
+      "men_rate": "37.86",
+      "female_rate": "62.14",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:49:01",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9900"
+  }
+}

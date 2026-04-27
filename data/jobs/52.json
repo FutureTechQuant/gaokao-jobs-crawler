@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 15:44:57",
+  "school_id": "52",
+  "school_name": "北京师范大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.38"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "14906",
+      "school_id": "52",
+      "province": "北京",
+      "rate": "19.38",
+      "num": "44",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "14907",
+      "school_id": "52",
+      "province": "上海",
+      "rate": "2.64",
+      "num": "6",
+      "sort": "2",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "14908",
+      "school_id": "52",
+      "province": "广东省",
+      "rate": "26.43",
+      "num": "60",
+      "sort": "3",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "14909",
+      "school_id": "52",
+      "province": "其他东部区域",
+      "rate": "22.47",
+      "num": "51",
+      "sort": "4",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "其他东部区域"
+    },
+    {
+      "id": "14910",
+      "school_id": "52",
+      "province": "中部地区",
+      "rate": "9.25",
+      "num": "21",
+      "sort": "5",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "14911",
+      "school_id": "52",
+      "province": "西部地区",
+      "rate": "19.82",
+      "num": "45",
+      "sort": "6",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {
+    "中初教育单位": "84.69",
+    "机关": "4.66",
+    "民营企业": "3.35",
+    "国有企业": "2.62",
+    "其他": "1.17",
+    "其他事业单位": "1.02",
+    "三资企业": "1.02",
+    "高等教育单位": "0.73",
+    "部队": "0.44",
+    "科研设计单位": "0.29"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "995",
+      "school_id": "52",
+      "female_num": "2892",
+      "men_num": "937",
+      "men_rate": "24.47",
+      "female_rate": "75.53",
+      "update_id": "929",
+      "update_time": "2021-03-31 17:30:07",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "13200"
+  }
+}

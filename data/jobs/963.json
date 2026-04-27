@@ -1,0 +1,107 @@
+{
+  "update_time": "2026-04-27 15:54:25",
+  "school_id": "963",
+  "school_name": "广东警官学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "89.15"
+    },
+    "postgraduate": {
+      "1": "0.73"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "24130",
+      "school_id": "963",
+      "province": "外省",
+      "rate": "1.32",
+      "num": "20",
+      "sort": "132",
+      "update_id": "1988",
+      "update_time": "2024-12-30 14:33:38",
+      "year": "2022",
+      "province_name": "外省"
+    },
+    {
+      "id": "24128",
+      "school_id": "963",
+      "province": "沿海经济带西翼",
+      "rate": "10.38",
+      "num": "157",
+      "sort": "1038",
+      "update_id": "1988",
+      "update_time": "2024-12-30 14:32:49",
+      "year": "2022",
+      "province_name": "沿海经济带西翼"
+    },
+    {
+      "id": "24127",
+      "school_id": "963",
+      "province": "沿海经济带东翼",
+      "rate": "13.69",
+      "num": "207",
+      "sort": "1369",
+      "update_id": "1988",
+      "update_time": "2024-12-30 14:32:24",
+      "year": "2022",
+      "province_name": "沿海经济带东翼"
+    },
+    {
+      "id": "24129",
+      "school_id": "963",
+      "province": "北部生态发展区",
+      "rate": "15.61",
+      "num": "236",
+      "sort": "1561",
+      "update_id": "1988",
+      "update_time": "2024-12-30 14:33:21",
+      "year": "2022",
+      "province_name": "北部生态发展区"
+    },
+    {
+      "id": "24126",
+      "school_id": "963",
+      "province": "珠江三角洲地区",
+      "rate": "58.99",
+      "num": "892",
+      "sort": "5899",
+      "update_id": "1988",
+      "update_time": "2024-12-30 14:30:53",
+      "year": "2022",
+      "province_name": "珠江三角洲地区"
+    }
+  ],
+  "attr": {
+    "地方公安": "87.17",
+    "企业": "6.61",
+    "其他公务员、事业单位": "2.25",
+    "海关、边检、铁路": "1.79",
+    "升学": "0.73",
+    "入伍": "0.60",
+    "自由职业": "0.53",
+    "三支一扶": "0.33"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2113",
+      "school_id": "963",
+      "female_num": "391",
+      "men_num": "1305",
+      "men_rate": "76.90",
+      "female_rate": "33.10",
+      "update_id": "1988",
+      "update_time": "2024-12-30 14:30:04",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10100"
+  }
+}

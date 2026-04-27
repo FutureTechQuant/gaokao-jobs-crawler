@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:46:33",
+  "school_id": "196",
+  "school_name": "四川美术学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "85.09"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "15201",
+      "school_id": "196",
+      "province": "东部地区",
+      "rate": "23.94",
+      "num": "379",
+      "sort": "379",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "15202",
+      "school_id": "196",
+      "province": "中西部地区",
+      "rate": "76.06",
+      "num": "1204",
+      "sort": "1204",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:11",
+      "year": "2022",
+      "province_name": "中西部地区"
+    }
+  ],
+  "attr": {
+    "非公有制企业": "69.56",
+    "机关和事业单位": "16.74",
+    "国有企业": "10.30",
+    "基层项目": "0.60",
+    "科研助理": "0.55"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1467",
+      "school_id": "196",
+      "female_num": "1334",
+      "men_num": "484",
+      "men_rate": "26.62",
+      "female_rate": "73.38",
+      "update_id": "2004",
+      "update_time": "2024-05-31 16:52:51",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12300"
+  }
+}

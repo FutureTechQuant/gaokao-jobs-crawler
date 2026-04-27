@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:55:43",
+  "school_id": "1104",
+  "school_name": "武昌首义学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "87.46"
+    },
+    "postgraduate": {
+      "1": "4.59"
+    },
+    "abroad": {
+      "1": "0.62"
+    }
+  },
+  "province": [
+    {
+      "id": "21416",
+      "school_id": "1104",
+      "province": "上海",
+      "rate": "3.80",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2096",
+      "update_time": "2024-09-18 13:53:39",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "21415",
+      "school_id": "1104",
+      "province": "江苏",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "4",
+      "update_id": "2096",
+      "update_time": "2024-09-18 13:53:39",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "21414",
+      "school_id": "1104",
+      "province": "浙江",
+      "rate": "5.10",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2096",
+      "update_time": "2024-09-18 13:53:39",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "21413",
+      "school_id": "1104",
+      "province": "广东",
+      "rate": "11.80",
+      "num": "0",
+      "sort": "11",
+      "update_id": "2096",
+      "update_time": "2024-09-18 13:53:39",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "21412",
+      "school_id": "1104",
+      "province": "湖北",
+      "rate": "57.60",
+      "num": "0",
+      "sort": "57",
+      "update_id": "2096",
+      "update_time": "2024-09-18 13:53:39",
+      "year": "2022",
+      "province_name": "湖北"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "65.00",
+    "国有企业": "19.00",
+    "政府机构/科研/或其他事业单位": "8.00",
+    "中外合资/外资/独资": "5.00",
+    "民办非企业单位(组织)": "3.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1917",
+      "school_id": "1104",
+      "female_num": "1633",
+      "men_num": "2091",
+      "men_rate": "56.10",
+      "female_rate": "43.90",
+      "update_id": "2096",
+      "update_time": "2024-09-18 13:50:17",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

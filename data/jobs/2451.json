@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 16:08:30",
+  "school_id": "2451",
+  "school_name": "郑州商学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "84.70"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "19350",
+      "school_id": "2451",
+      "province": "广东",
+      "rate": "4.40",
+      "num": "0",
+      "sort": "44",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "19349",
+      "school_id": "2451",
+      "province": "北京",
+      "rate": "4.50",
+      "num": "0",
+      "sort": "45",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "19348",
+      "school_id": "2451",
+      "province": "上海",
+      "rate": "5.90",
+      "num": "0",
+      "sort": "59",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "19347",
+      "school_id": "2451",
+      "province": "浙江",
+      "rate": "8.30",
+      "num": "0",
+      "sort": "83",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "19346",
+      "school_id": "2451",
+      "province": "河南",
+      "rate": "62.60",
+      "num": "0",
+      "sort": "626",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "河南"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "70.00",
+    "国有企业": "11.00",
+    "政府机构/科研或其他事业单位": "9.00",
+    "民办非企业单位（组织）": "6.00",
+    "中外合资/外资/独资": "4.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1756",
+      "school_id": "2451",
+      "female_num": "5643",
+      "men_num": "3700",
+      "men_rate": "39.60",
+      "female_rate": "60.40",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:34",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:51:42",
+  "school_id": "680",
+  "school_name": "上海立达学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.03"
+    },
+    "postgraduate": {
+      "1": "0.81"
+    },
+    "abroad": {
+      "1": "3.54"
+    }
+  },
+  "province": [
+    {
+      "id": "15534",
+      "school_id": "680",
+      "province": "长江经济带",
+      "rate": "93.40",
+      "num": "0",
+      "sort": "13",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:40:41",
+      "year": "2023",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "15535",
+      "school_id": "680",
+      "province": "长三角地区",
+      "rate": "89.20",
+      "num": "0",
+      "sort": "14",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:40:41",
+      "year": "2023",
+      "province_name": "长三角地区"
+    }
+  ],
+  "attr": {
+    "民非组织": "0.00",
+    "中外合资/外资/独资": "7.00",
+    "政府机构/科研或其他事业单位": "14.00",
+    "国有企业": "17.00",
+    "民营企业/个体": "62.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1481",
+      "school_id": "680",
+      "female_num": "601",
+      "men_num": "389",
+      "men_rate": "39.30",
+      "female_rate": "60.70",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:38:34",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:03:09",
+  "school_id": "1941",
+  "school_name": "豫北医学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "95.60"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "19693",
+      "school_id": "1941",
+      "province": "省外",
+      "rate": "19.00",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "省外"
+    },
+    {
+      "id": "19692",
+      "school_id": "1941",
+      "province": "省内",
+      "rate": "81.00",
+      "num": "0",
+      "sort": "81",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1784",
+      "school_id": "1941",
+      "female_num": "3168",
+      "men_num": "1512",
+      "men_rate": "32.32",
+      "female_rate": "67.68",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:06:12",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:50:32",
+  "school_id": "551",
+  "school_name": "山东第一医科大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "80.38"
+    },
+    "postgraduate": {
+      "1": "20.04"
+    },
+    "abroad": {
+      "1": "0.13"
+    }
+  },
+  "province": [
+    {
+      "id": "7172",
+      "school_id": "551",
+      "province": "其他省市",
+      "rate": "15.00",
+      "num": "468",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "7173",
+      "school_id": "551",
+      "province": "山东省",
+      "rate": "85.00",
+      "num": "3405",
+      "sort": "3405",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "事业单位": "27.43",
+    "非国有企业": "21.89",
+    "国有企业": "3.37",
+    "党政机关": "1.05",
+    "其他": "46.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "765",
+      "school_id": "551",
+      "female_num": "3402",
+      "men_num": "1582",
+      "men_rate": "31.74",
+      "female_rate": "68.26",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

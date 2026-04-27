@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:02:01",
+  "school_id": "1836",
+  "school_name": "安庆职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.34"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2672",
+      "school_id": "1836",
+      "female_num": "1672",
+      "men_num": "2910",
+      "men_rate": "63.50",
+      "female_rate": "36.50",
+      "update_id": "1988",
+      "update_time": "2025-11-27 13:52:48",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

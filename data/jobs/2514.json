@@ -1,0 +1,117 @@
+{
+  "update_time": "2026-04-27 16:09:11",
+  "school_id": "2514",
+  "school_name": "青岛工学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "88.11"
+    },
+    "postgraduate": {
+      "1": "3.70"
+    },
+    "abroad": {
+      "1": "0.27"
+    }
+  },
+  "province": [
+    {
+      "id": "5659",
+      "school_id": "2514",
+      "province": "其他省市",
+      "rate": "17.68",
+      "num": "334",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5661",
+      "school_id": "2514",
+      "province": "东北三省",
+      "rate": "5.02",
+      "num": "95",
+      "sort": "95",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "东北三省"
+    },
+    {
+      "id": "5657",
+      "school_id": "2514",
+      "province": "西北地区",
+      "rate": "6.58",
+      "num": "124",
+      "sort": "124",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "5660",
+      "school_id": "2514",
+      "province": "京津地区",
+      "rate": "6.62",
+      "num": "125",
+      "sort": "125",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "京津地区"
+    },
+    {
+      "id": "5656",
+      "school_id": "2514",
+      "province": "长三角地区",
+      "rate": "6.86",
+      "num": "130",
+      "sort": "130",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "5658",
+      "school_id": "2514",
+      "province": "山东省",
+      "rate": "57.24",
+      "num": "1082",
+      "sort": "1082",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "灵活就业": "10.00",
+    "国有企业": "4.00",
+    "党政机关": "0.10",
+    "国家、地方基层项目": "0.10",
+    "三资企业及其他企业": "76.00",
+    "其他": "9.80"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "401",
+      "school_id": "2514",
+      "female_num": "937",
+      "men_num": "1208",
+      "men_rate": "56.00",
+      "female_rate": "44.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

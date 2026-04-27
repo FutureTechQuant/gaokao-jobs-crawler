@@ -1,0 +1,79 @@
+{
+  "update_time": "2026-04-27 15:50:56",
+  "school_id": "594",
+  "school_name": "国际关系学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "91.19"
+    },
+    "postgraduate": {
+      "1": "15.89"
+    },
+    "abroad": {
+      "1": "18.87"
+    }
+  },
+  "province": [
+    {
+      "id": "2105",
+      "school_id": "594",
+      "province": "其他省市",
+      "rate": "28.55",
+      "num": "66",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "2104",
+      "school_id": "594",
+      "province": "西部地区",
+      "rate": "15.00",
+      "num": "15",
+      "sort": "15",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "2106",
+      "school_id": "594",
+      "province": "北京市",
+      "rate": "56.45",
+      "num": "105",
+      "sort": "105",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {
+    "民营企业": "45.13",
+    "党政机关": "33.15",
+    "国有企业": "11.14",
+    "其他": "10.58"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "20",
+      "school_id": "594",
+      "female_num": "203",
+      "men_num": "445",
+      "men_rate": "68.67",
+      "female_rate": "31.33",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10900"
+  }
+}

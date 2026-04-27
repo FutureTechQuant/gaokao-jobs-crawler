@@ -1,0 +1,389 @@
+{
+  "update_time": "2026-04-27 15:55:46",
+  "school_id": "1112",
+  "school_name": "北京工业大学耿丹学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.28"
+    },
+    "postgraduate": {
+      "1": "0.90"
+    },
+    "abroad": {
+      "1": "10.70"
+    }
+  },
+  "province": [
+    {
+      "id": "444",
+      "school_id": "1112",
+      "province": "陕西省",
+      "rate": "0.15",
+      "num": "1",
+      "sort": "1",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "447",
+      "school_id": "1112",
+      "province": "宁夏回族自治区",
+      "rate": "0.30",
+      "num": "2",
+      "sort": "2",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "461",
+      "school_id": "1112",
+      "province": "甘肃省",
+      "rate": "0.61",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "459",
+      "school_id": "1112",
+      "province": "广西壮族自治区",
+      "rate": "0.61",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "453",
+      "school_id": "1112",
+      "province": "湖南省",
+      "rate": "0.61",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "442",
+      "school_id": "1112",
+      "province": "四川省",
+      "rate": "0.76",
+      "num": "5",
+      "sort": "5",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "四川省"
+    },
+    {
+      "id": "452",
+      "school_id": "1112",
+      "province": "吉林省",
+      "rate": "0.67",
+      "num": "5",
+      "sort": "5",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "440",
+      "school_id": "1112",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.91",
+      "num": "6",
+      "sort": "6",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "454",
+      "school_id": "1112",
+      "province": "黑龙江省",
+      "rate": "0.91",
+      "num": "6",
+      "sort": "6",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "黑龙江省"
+    },
+    {
+      "id": "443",
+      "school_id": "1112",
+      "province": "上海市",
+      "rate": "0.91",
+      "num": "6",
+      "sort": "6",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "446",
+      "school_id": "1112",
+      "province": "山东省",
+      "rate": "1.21",
+      "num": "8",
+      "sort": "8",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "山东省"
+    },
+    {
+      "id": "457",
+      "school_id": "1112",
+      "province": "海南省",
+      "rate": "1.21",
+      "num": "8",
+      "sort": "8",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "海南省"
+    },
+    {
+      "id": "462",
+      "school_id": "1112",
+      "province": "福建省",
+      "rate": "1.36",
+      "num": "9",
+      "sort": "9",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "449",
+      "school_id": "1112",
+      "province": "辽宁省",
+      "rate": "1.36",
+      "num": "9",
+      "sort": "9",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "456",
+      "school_id": "1112",
+      "province": "河北省",
+      "rate": "1.67",
+      "num": "11",
+      "sort": "11",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "河北省"
+    },
+    {
+      "id": "455",
+      "school_id": "1112",
+      "province": "河南省",
+      "rate": "1.67",
+      "num": "11",
+      "sort": "11",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "河南省"
+    },
+    {
+      "id": "441",
+      "school_id": "1112",
+      "province": "天津市",
+      "rate": "1.82",
+      "num": "12",
+      "sort": "12",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "天津市"
+    },
+    {
+      "id": "439",
+      "school_id": "1112",
+      "province": "云南省",
+      "rate": "1.82",
+      "num": "12",
+      "sort": "12",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "云南省"
+    },
+    {
+      "id": "464",
+      "school_id": "1112",
+      "province": "安徽省",
+      "rate": "1.97",
+      "num": "13",
+      "sort": "13",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "460",
+      "school_id": "1112",
+      "province": "广东省",
+      "rate": "2.12",
+      "num": "14",
+      "sort": "14",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "448",
+      "school_id": "1112",
+      "province": "内蒙古自治区",
+      "rate": "2.27",
+      "num": "15",
+      "sort": "15",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "438",
+      "school_id": "1112",
+      "province": "浙江省",
+      "rate": "2.58",
+      "num": "17",
+      "sort": "17",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "451",
+      "school_id": "1112",
+      "province": "江苏省",
+      "rate": "2.73",
+      "num": "18",
+      "sort": "18",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "458",
+      "school_id": "1112",
+      "province": "贵州省",
+      "rate": "3.33",
+      "num": "20",
+      "sort": "20",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "445",
+      "school_id": "1112",
+      "province": "山西省",
+      "rate": "4.55",
+      "num": "30",
+      "sort": "30",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "山西省"
+    },
+    {
+      "id": "450",
+      "school_id": "1112",
+      "province": "江西省",
+      "rate": "8.03",
+      "num": "50",
+      "sort": "50",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "江西省"
+    },
+    {
+      "id": "463",
+      "school_id": "1112",
+      "province": "北京市",
+      "rate": "53.86",
+      "num": "360",
+      "sort": "360",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {
+    "民营企业": "62.95",
+    "国有企业": "18.53",
+    "机关": "9.83",
+    "三资企业": "3.59",
+    "中初教育单位": "3.02",
+    "医疗卫生单位": "1.13",
+    "其他事业单位": "0.95"
+  },
+  "company": {
+    "瑞思学科英语": "0",
+    "柒一拾壹（北京）有限公司": "0",
+    "北京肯德基有限公司": "0",
+    "北京世纪二千科技有限公司": "0",
+    "北京同辉珠宝首饰有限公司": "0",
+    "Lily英语": "0",
+    "北京江南投资集团有限公司": "0",
+    "同方鼎欣信息技术有限公司": "0",
+    "华道数据处理（北京）有限公司": "0",
+    "江河创建集团": "0",
+    "北京山水文园金海湖开发有限公司": "0",
+    "北京韩一汽车饰件有限公司": "0",
+    "北京神州国际旅行社有限公司": "0",
+    "北京首佳物业管理有限公司": "0",
+    "北京外企人力资源服务有限公司（FESCO）": "0",
+    "北京升华电梯有限公司": "0",
+    "北京星巴克咖啡有限公司": "0",
+    "京日东大食品有限公司": "0"
+  },
+  "gradute": [
+    {
+      "id": "1894",
+      "school_id": "1112",
+      "female_num": "641",
+      "men_num": "604",
+      "men_rate": "49.00",
+      "female_rate": "51.00",
+      "update_id": "1988",
+      "update_time": "2024-09-13 17:14:47",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11400"
+  }
+}

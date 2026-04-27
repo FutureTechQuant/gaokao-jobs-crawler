@@ -1,0 +1,88 @@
+{
+  "update_time": "2026-04-27 16:03:55",
+  "school_id": "2009",
+  "school_name": "湖南邮电职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.74"
+    },
+    "postgraduate": {
+      "1": "10.36"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "33252",
+      "school_id": "2009",
+      "province": "东北地区",
+      "rate": "0.64",
+      "num": "8",
+      "sort": "64",
+      "update_id": "2234",
+      "update_time": "2025-12-03 16:44:50",
+      "year": "2024",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "33251",
+      "school_id": "2009",
+      "province": "西部地区",
+      "rate": "3.43",
+      "num": "43",
+      "sort": "343",
+      "update_id": "2234",
+      "update_time": "2025-12-03 16:44:50",
+      "year": "2024",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "33250",
+      "school_id": "2009",
+      "province": "东部地区",
+      "rate": "24.32",
+      "num": "305",
+      "sort": "2432",
+      "update_id": "2234",
+      "update_time": "2025-12-03 16:44:50",
+      "year": "2024",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "33249",
+      "school_id": "2009",
+      "province": "中部地区",
+      "rate": "71.61",
+      "num": "898",
+      "sort": "7161",
+      "update_id": "2234",
+      "update_time": "2025-12-03 16:44:50",
+      "year": "2024",
+      "province_name": "中部地区"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "81.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2845",
+      "school_id": "2009",
+      "female_num": "680",
+      "men_num": "951",
+      "men_rate": "58.31",
+      "female_rate": "41.69",
+      "update_id": "2234",
+      "update_time": "2025-12-03 16:27:09",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

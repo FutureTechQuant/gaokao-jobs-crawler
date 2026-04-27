@@ -1,0 +1,171 @@
+{
+  "update_time": "2026-04-27 15:54:55",
+  "school_id": "1013",
+  "school_name": "武汉铁路职业技术学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "97.92"
+    },
+    "postgraduate": {
+      "1": "12.42"
+    },
+    "abroad": {
+      "1": "0.02"
+    }
+  },
+  "province": [
+    {
+      "id": "29448",
+      "school_id": "1013",
+      "province": "四川省",
+      "rate": "2.30",
+      "num": "0",
+      "sort": "230",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "29447",
+      "school_id": "1013",
+      "province": "上海市",
+      "rate": "2.57",
+      "num": "0",
+      "sort": "257",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "29446",
+      "school_id": "1013",
+      "province": "河南省",
+      "rate": "2.91",
+      "num": "0",
+      "sort": "291",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "河南省"
+    },
+    {
+      "id": "29445",
+      "school_id": "1013",
+      "province": "安徽省",
+      "rate": "3.20",
+      "num": "0",
+      "sort": "320",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "29444",
+      "school_id": "1013",
+      "province": "江西省",
+      "rate": "3.44",
+      "num": "0",
+      "sort": "344",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "江西省"
+    },
+    {
+      "id": "29443",
+      "school_id": "1013",
+      "province": "浙江省",
+      "rate": "3.91",
+      "num": "0",
+      "sort": "391",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "29442",
+      "school_id": "1013",
+      "province": "江苏省",
+      "rate": "4.02",
+      "num": "0",
+      "sort": "402",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "29441",
+      "school_id": "1013",
+      "province": "新疆维吾尔自治区",
+      "rate": "4.35",
+      "num": "0",
+      "sort": "435",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "29440",
+      "school_id": "1013",
+      "province": "广东省",
+      "rate": "6.50",
+      "num": "0",
+      "sort": "650",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "29439",
+      "school_id": "1013",
+      "province": "湖北省",
+      "rate": "65.24",
+      "num": "0",
+      "sort": "6524",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:41:35",
+      "year": "2023",
+      "province_name": "湖北省"
+    }
+  ],
+  "attr": {
+    "国有企业": "61.95",
+    "其他企业": "26.96",
+    "自由职业": "3.72",
+    "部队": "2.44",
+    "医疗卫生单位": "2.28",
+    "三资企业": "1.80",
+    "其他事业单位": "0.35",
+    "机关": "0.17",
+    "中初教育单位": "0.15",
+    "自主创业": "0.13",
+    "城镇社区": "0.02",
+    "国家基层项目": "0.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2548",
+      "school_id": "1013",
+      "female_num": "1366",
+      "men_num": "4014",
+      "men_rate": "74.61",
+      "female_rate": "25.39",
+      "update_id": "1988",
+      "update_time": "2025-11-13 17:39:27",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6900"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "update_time": "2026-04-27 15:58:32",
+  "school_id": "1474",
+  "school_name": "重庆城市科技学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "14732",
+      "school_id": "1474",
+      "province": "重庆市",
+      "rate": "59.71",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-05-13 11:11:33",
+      "year": "2022",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "14733",
+      "school_id": "1474",
+      "province": "四川省",
+      "rate": "8.50",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2094",
+      "update_time": "2025-05-13 11:11:42",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "14734",
+      "school_id": "1474",
+      "province": "西部地区",
+      "rate": "7.77",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2094",
+      "update_time": "2025-05-13 11:11:48",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "14735",
+      "school_id": "1474",
+      "province": "东部地区",
+      "rate": "20.69",
+      "num": "0",
+      "sort": "4",
+      "update_id": "2094",
+      "update_time": "2025-05-13 11:11:54",
+      "year": "2022",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "14736",
+      "school_id": "1474",
+      "province": "中部及其他省区",
+      "rate": "3.32",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2094",
+      "update_time": "2025-05-13 11:12:00",
+      "year": "2022",
+      "province_name": "中部及其他省区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1419",
+      "school_id": "1474",
+      "female_num": "3527",
+      "men_num": "3640",
+      "men_rate": "50.79",
+      "female_rate": "49.21",
+      "update_id": "2004",
+      "update_time": "2024-05-24 17:04:23",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

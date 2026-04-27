@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 16:11:17",
+  "school_id": "2902",
+  "school_name": "张家口学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.22"
+    },
+    "postgraduate": {
+      "1": "3.89"
+    },
+    "abroad": {
+      "1": "0.13"
+    }
+  },
+  "province": [
+    {
+      "id": "20501",
+      "school_id": "2902",
+      "province": "四川",
+      "rate": "1.20",
+      "num": "0",
+      "sort": "12",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "四川"
+    },
+    {
+      "id": "20500",
+      "school_id": "2902",
+      "province": "山西",
+      "rate": "1.40",
+      "num": "0",
+      "sort": "14",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "山西"
+    },
+    {
+      "id": "20499",
+      "school_id": "2902",
+      "province": "天津",
+      "rate": "2.90",
+      "num": "0",
+      "sort": "29",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "天津"
+    },
+    {
+      "id": "20498",
+      "school_id": "2902",
+      "province": "北京",
+      "rate": "13.20",
+      "num": "0",
+      "sort": "132",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "20497",
+      "school_id": "2902",
+      "province": "河北",
+      "rate": "72.10",
+      "num": "0",
+      "sort": "721",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "河北"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "46.00",
+    "政府机构/科研或其他事业单位": "35.00",
+    "国有企业": "17.00",
+    "中外合资/外资/独资": "1.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1859",
+      "school_id": "2902",
+      "female_num": "2381",
+      "men_num": "806",
+      "men_rate": "25.30",
+      "female_rate": "74.70",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

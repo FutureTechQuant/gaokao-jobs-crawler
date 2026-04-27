@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:16:23",
+  "school_id": "3588",
+  "school_name": "广东云浮中医药职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "49.87"
+    },
+    "postgraduate": {
+      "1": "2.37"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27501",
+      "school_id": "3588",
+      "province": "北京市",
+      "rate": "0.53",
+      "num": "0",
+      "sort": "53",
+      "update_id": "1211",
+      "update_time": "2025-07-07 15:25:30",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "27502",
+      "school_id": "3588",
+      "province": "广西壮族自治区",
+      "rate": "0.53",
+      "num": "0",
+      "sort": "53",
+      "update_id": "1211",
+      "update_time": "2025-07-07 15:25:46",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "27503",
+      "school_id": "3588",
+      "province": "天津市",
+      "rate": "0.53",
+      "num": "0",
+      "sort": "53",
+      "update_id": "1211",
+      "update_time": "2025-07-07 15:26:05",
+      "year": "2024",
+      "province_name": "天津市"
+    },
+    {
+      "id": "27504",
+      "school_id": "3588",
+      "province": "浙江省",
+      "rate": "0.53",
+      "num": "0",
+      "sort": "53",
+      "update_id": "1211",
+      "update_time": "2025-07-07 15:26:20",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "27500",
+      "school_id": "3588",
+      "province": "山东省",
+      "rate": "3.70",
+      "num": "0",
+      "sort": "370",
+      "update_id": "1211",
+      "update_time": "2025-07-07 15:25:16",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "27499",
+      "school_id": "3588",
+      "province": "广东省",
+      "rate": "94.18",
+      "num": "0",
+      "sort": "9418",
+      "update_id": "1211",
+      "update_time": "2025-07-07 15:24:58",
+      "year": "2024",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,197 @@
+{
+  "update_time": "2026-04-27 15:55:05",
+  "school_id": "1027",
+  "school_name": "湖北警官学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.81"
+    },
+    "postgraduate": {
+      "1": "1.25"
+    },
+    "abroad": {
+      "1": "0.06"
+    }
+  },
+  "province": [
+    {
+      "id": "28959",
+      "school_id": "1027",
+      "province": "上海市",
+      "rate": "0.63",
+      "num": "0",
+      "sort": "63",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "28960",
+      "school_id": "1027",
+      "province": "云南省",
+      "rate": "0.63",
+      "num": "0",
+      "sort": "63",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "28961",
+      "school_id": "1027",
+      "province": "河南省",
+      "rate": "0.63",
+      "num": "0",
+      "sort": "63",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "28957",
+      "school_id": "1027",
+      "province": "山东省",
+      "rate": "0.70",
+      "num": "0",
+      "sort": "70",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "28958",
+      "school_id": "1027",
+      "province": "广西壮族自治区",
+      "rate": "0.70",
+      "num": "0",
+      "sort": "70",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "28955",
+      "school_id": "1027",
+      "province": "安徽省",
+      "rate": "0.77",
+      "num": "0",
+      "sort": "77",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "28956",
+      "school_id": "1027",
+      "province": "浙江省",
+      "rate": "0.77",
+      "num": "0",
+      "sort": "77",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "28953",
+      "school_id": "1027",
+      "province": "海南省",
+      "rate": "0.99",
+      "num": "0",
+      "sort": "99",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "海南省"
+    },
+    {
+      "id": "28954",
+      "school_id": "1027",
+      "province": "贵州省",
+      "rate": "0.99",
+      "num": "0",
+      "sort": "99",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "28952",
+      "school_id": "1027",
+      "province": "江苏省",
+      "rate": "1.97",
+      "num": "0",
+      "sort": "197",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28951",
+      "school_id": "1027",
+      "province": "广东省",
+      "rate": "2.82",
+      "num": "0",
+      "sort": "282",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28950",
+      "school_id": "1027",
+      "province": "湖北省",
+      "rate": "84.65",
+      "num": "0",
+      "sort": "8465",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:26:25",
+      "year": "2024",
+      "province_name": "湖北省"
+    }
+  ],
+  "attr": {
+    "机关": "68.94",
+    "其他企业(含民营企业)": "18.73",
+    "自由职业": "5.49",
+    "个体工商户": "1.90",
+    "升学": "1.41",
+    "国家基层项目": "1.27",
+    "国有企业": "0.92",
+    "部队": "0.49",
+    "其他事业单位": "0.42",
+    "中等、初等教育单位": "0.14",
+    "地方基层项目": "0.07",
+    "外商投资企业": "0.07",
+    "医疗卫生单位": "0.07",
+    "出国、出境": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2498",
+      "school_id": "1027",
+      "female_num": "441",
+      "men_num": "1158",
+      "men_rate": "72.42",
+      "female_rate": "27.58",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:19:15",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

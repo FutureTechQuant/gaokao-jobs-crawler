@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:50:30",
+  "school_id": "549",
+  "school_name": "山东艺术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "87.54"
+    },
+    "postgraduate": {
+      "1": "9.27"
+    },
+    "abroad": {
+      "1": "6.35"
+    }
+  },
+  "province": [
+    {
+      "id": "6016",
+      "school_id": "549",
+      "province": "其他省市",
+      "rate": "19.81",
+      "num": "321",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "6017",
+      "school_id": "549",
+      "province": "山东省",
+      "rate": "80.19",
+      "num": "1453",
+      "sort": "1453",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "非国有企业": "39.46",
+    "事业单位": "10.21",
+    "国有企业": "5.24",
+    "党政机关": "1.43",
+    "其他": "43.66"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "800",
+      "school_id": "549",
+      "female_num": "1259",
+      "men_num": "811",
+      "men_rate": "39.18",
+      "female_rate": "60.82",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

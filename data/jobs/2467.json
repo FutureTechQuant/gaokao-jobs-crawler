@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 16:08:41",
+  "school_id": "2467",
+  "school_name": "湘潭理工学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.37"
+    },
+    "postgraduate": {
+      "1": "4.93"
+    },
+    "abroad": {
+      "1": "0.19"
+    }
+  },
+  "province": [
+    {
+      "id": "30002",
+      "school_id": "2467",
+      "province": "泛珠江三角洲地区",
+      "rate": "1.48",
+      "num": "0",
+      "sort": "148",
+      "update_id": "2314",
+      "update_time": "2025-11-18 15:50:58",
+      "year": "2024",
+      "province_name": "泛珠江三角洲地区"
+    },
+    {
+      "id": "30001",
+      "school_id": "2467",
+      "province": "环渤海地区",
+      "rate": "6.70",
+      "num": "0",
+      "sort": "670",
+      "update_id": "2314",
+      "update_time": "2025-11-18 15:50:58",
+      "year": "2024",
+      "province_name": "环渤海地区"
+    },
+    {
+      "id": "30000",
+      "school_id": "2467",
+      "province": "长江三角洲地区",
+      "rate": "21.12",
+      "num": "0",
+      "sort": "2112",
+      "update_id": "2314",
+      "update_time": "2025-11-18 15:50:58",
+      "year": "2024",
+      "province_name": "长江三角洲地区"
+    },
+    {
+      "id": "29999",
+      "school_id": "2467",
+      "province": "中部地区",
+      "rate": "68.00",
+      "num": "0",
+      "sort": "6800",
+      "update_id": "2314",
+      "update_time": "2025-11-18 15:50:58",
+      "year": "2024",
+      "province_name": "中部地区"
+    }
+  ],
+  "attr": {
+    "企业单位": "81.97",
+    "国有企业": "7.69",
+    "机关": "3.05",
+    "三资企业": "1.00",
+    "其他": "6.29"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2579",
+      "school_id": "2467",
+      "female_num": "1595",
+      "men_num": "981",
+      "men_rate": "38.08",
+      "female_rate": "61.92",
+      "update_id": "2314",
+      "update_time": "2025-11-18 15:35:30",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

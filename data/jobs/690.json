@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 15:51:48",
+  "school_id": "690",
+  "school_name": "邢台医学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.40"
+    },
+    "postgraduate": {
+      "1": "3.96"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

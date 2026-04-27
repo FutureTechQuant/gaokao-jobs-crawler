@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:57:40",
+  "school_id": "1345",
+  "school_name": "湖州职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.73"
+    },
+    "postgraduate": {
+      "1": "16.90"
+    },
+    "abroad": {
+      "1": "0.15"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2619",
+      "school_id": "1345",
+      "female_num": "1635",
+      "men_num": "2418",
+      "men_rate": "59.66",
+      "female_rate": "40.34",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:54:26",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:01:10",
+  "school_id": "1762",
+  "school_name": "南宁学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.98"
+    },
+    "postgraduate": {
+      "1": "0.12"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "5249",
+      "school_id": "1762",
+      "province": "其他省市",
+      "rate": "11.51",
+      "num": "38",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5248",
+      "school_id": "1762",
+      "province": "珠三角地区",
+      "rate": "10.40",
+      "num": "85",
+      "sort": "85",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "5250",
+      "school_id": "1762",
+      "province": "广西壮族自治区",
+      "rate": "78.09",
+      "num": "638",
+      "sort": "638",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    }
+  ],
+  "attr": {
+    "非国有企业": "86.29",
+    "国有企业": "3.55",
+    "党政机关": "0.98",
+    "事业单位": "0.86",
+    "其他": "8.32"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "589",
+      "school_id": "1762",
+      "female_num": "432",
+      "men_num": "466",
+      "men_rate": "51.89",
+      "female_rate": "48.11",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7100"
+  }
+}

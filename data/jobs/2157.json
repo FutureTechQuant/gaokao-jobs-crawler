@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:05:28",
+  "school_id": "2157",
+  "school_name": "昭通学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "95.73"
+    },
+    "postgraduate": {
+      "1": "3.25"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [
+    {
+      "id": "24086",
+      "school_id": "2157",
+      "province": "云南省外",
+      "rate": "20.65",
+      "num": "0",
+      "sort": "2065",
+      "update_id": "2094",
+      "update_time": "2024-12-30 11:56:56",
+      "year": "2021",
+      "province_name": "云南省外"
+    },
+    {
+      "id": "24085",
+      "school_id": "2157",
+      "province": "云南省内",
+      "rate": "79.35",
+      "num": "0",
+      "sort": "7935",
+      "update_id": "2094",
+      "update_time": "2024-12-30 11:56:22",
+      "year": "2021",
+      "province_name": "云南省内"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "48.00",
+    "民营企业/个体": "39.65",
+    "国有企业": "7.48",
+    "非政府或非营利组织（NGO等）": "3.74",
+    "中外合资/外资/独资": "1.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2109",
+      "school_id": "2157",
+      "female_num": "1375",
+      "men_num": "795",
+      "men_rate": "36.64",
+      "female_rate": "63.36",
+      "update_id": "2094",
+      "update_time": "2024-12-30 11:50:06",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

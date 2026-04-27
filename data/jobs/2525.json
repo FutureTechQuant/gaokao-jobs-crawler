@@ -1,0 +1,43 @@
+{
+  "update_time": "2026-04-27 16:09:18",
+  "school_id": "2525",
+  "school_name": "昆明传媒学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.90"
+    },
+    "postgraduate": {
+      "1": "13.13"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {
+    "非国有企业": "42.72",
+    "事业单位": "13.41",
+    "国有企业": "13.41",
+    "自主创业": "6.30",
+    "其他": "24.16"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "694",
+      "school_id": "2525",
+      "female_num": "1334",
+      "men_num": "1566",
+      "men_rate": "54.00",
+      "female_rate": "46.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

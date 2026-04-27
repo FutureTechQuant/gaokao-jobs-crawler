@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:59:35",
+  "school_id": "1605",
+  "school_name": "长春金融高等专科学校",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.70"
+    },
+    "postgraduate": {
+      "1": "28.40"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10501",
+      "school_id": "1605",
+      "province": "长春",
+      "rate": "52.30",
+      "num": "1177",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-07-31 16:43:03",
+      "year": "2019",
+      "province_name": "长春"
+    },
+    {
+      "id": "10502",
+      "school_id": "1605",
+      "province": "北京",
+      "rate": "4.40",
+      "num": "99",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-07-31 16:43:03",
+      "year": "2019",
+      "province_name": "北京"
+    },
+    {
+      "id": "10503",
+      "school_id": "1605",
+      "province": "西宁",
+      "rate": "2.00",
+      "num": "45",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-07-31 16:43:03",
+      "year": "2019",
+      "province_name": "西宁"
+    },
+    {
+      "id": "10504",
+      "school_id": "1605",
+      "province": "吉林",
+      "rate": "2.00",
+      "num": "45",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-07-31 16:43:03",
+      "year": "2019",
+      "province_name": "吉林"
+    },
+    {
+      "id": "10505",
+      "school_id": "1605",
+      "province": "沈阳",
+      "rate": "2.00",
+      "num": "45",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-07-31 16:43:03",
+      "year": "2019",
+      "province_name": "沈阳"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "69.00",
+    "国有企业": "14.00",
+    "政府机构/科研或其他事业单位": "8.00",
+    "中外合资/外资/独资": "7.00",
+    "非政府或非营利组织": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "931",
+      "school_id": "1605",
+      "female_num": "1959",
+      "men_num": "693",
+      "men_rate": "30.80",
+      "female_rate": "69.20",
+      "update_id": "825",
+      "update_time": "2020-07-31 15:59:08",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

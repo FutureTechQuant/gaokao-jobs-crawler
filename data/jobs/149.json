@@ -1,0 +1,240 @@
+{
+  "update_time": "2026-04-27 15:46:02",
+  "school_id": "149",
+  "school_name": "南京艺术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.59"
+    },
+    "postgraduate": {
+      "1": "11.81"
+    },
+    "abroad": {
+      "1": "2.65"
+    }
+  },
+  "province": [
+    {
+      "id": "5193",
+      "school_id": "149",
+      "province": "其他省市",
+      "rate": "2.54",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "14839",
+      "school_id": "149",
+      "province": "湖南",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "湖南"
+    },
+    {
+      "id": "14842",
+      "school_id": "149",
+      "province": "其他地区",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "5191",
+      "school_id": "149",
+      "province": "西部地区",
+      "rate": "2.05",
+      "num": "46",
+      "sort": "46",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "14840",
+      "school_id": "149",
+      "province": "北京",
+      "rate": "0.76",
+      "num": "0",
+      "sort": "76",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "北京"
+    },
+    {
+      "id": "14841",
+      "school_id": "149",
+      "province": "河北",
+      "rate": "0.76",
+      "num": "0",
+      "sort": "76",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "河北"
+    },
+    {
+      "id": "14838",
+      "school_id": "149",
+      "province": "山东",
+      "rate": "1.53",
+      "num": "0",
+      "sort": "153",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "山东"
+    },
+    {
+      "id": "14837",
+      "school_id": "149",
+      "province": "福建",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "164",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "福建"
+    },
+    {
+      "id": "5190",
+      "school_id": "149",
+      "province": "中部地区",
+      "rate": "7.75",
+      "num": "174",
+      "sort": "174",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "14836",
+      "school_id": "149",
+      "province": "广东",
+      "rate": "2.05",
+      "num": "0",
+      "sort": "205",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "广东"
+    },
+    {
+      "id": "14835",
+      "school_id": "149",
+      "province": "安徽",
+      "rate": "2.29",
+      "num": "0",
+      "sort": "229",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "安徽"
+    },
+    {
+      "id": "14834",
+      "school_id": "149",
+      "province": "浙江",
+      "rate": "4.52",
+      "num": "0",
+      "sort": "452",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "浙江"
+    },
+    {
+      "id": "14833",
+      "school_id": "149",
+      "province": "上海",
+      "rate": "5.22",
+      "num": "0",
+      "sort": "522",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "上海"
+    },
+    {
+      "id": "5192",
+      "school_id": "149",
+      "province": "东部地区",
+      "rate": "87.66",
+      "num": "1967",
+      "sort": "1967",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "14832",
+      "school_id": "149",
+      "province": "江苏",
+      "rate": "77.23",
+      "num": "0",
+      "sort": "7723",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:28:20",
+      "year": "2019",
+      "province_name": "江苏"
+    }
+  ],
+  "attr": {
+    "其他企业": "90.35",
+    "中初教育单位": "3.27",
+    "升学、出国": "11.68",
+    "其他事业单位": "1.23",
+    "中、初教育单位": "2.67",
+    "自主创业": "0.53",
+    "高等教育单位": "0.47",
+    "三资企业": "0.47",
+    "其他": "0.29",
+    "国有企业": "2.40",
+    "医疗卫生单位": "0.23",
+    "农村建制村": "0.17",
+    "科研设计单位": "0.17",
+    "部队单位": "0.71",
+    "党政机关": "0.58",
+    "部队": "0.12",
+    "地方基层项目": "0.12",
+    "城镇社区": "0.06",
+    "机关": "0.06",
+    "艰苦行业企业": "0.06",
+    "国家、地方基层项目": "0.18"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "238",
+      "school_id": "149",
+      "female_num": "1684",
+      "men_num": "775",
+      "men_rate": "31.52",
+      "female_rate": "68.48",
+      "update_id": "2004",
+      "update_time": "2024-05-27 18:27:26",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

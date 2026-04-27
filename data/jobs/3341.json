@@ -1,0 +1,43 @@
+{
+  "update_time": "2026-04-27 16:14:11",
+  "school_id": "3341",
+  "school_name": "昆山杜克大学",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "95.00"
+    },
+    "postgraduate": {
+      "1": "2.36"
+    },
+    "abroad": {
+      "1": "55.16"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {
+    "香港理工大学": "0",
+    "昆山杜克大学": "0",
+    "玛氏": "0",
+    "阿斯利康": "0",
+    "TEA Community & Digital FUN": "0",
+    "Zenmo Group Inc": "0",
+    "InfoLink Consulting Group": "0"
+  },
+  "gradute": [
+    {
+      "id": "1779",
+      "school_id": "3341",
+      "female_num": "163",
+      "men_num": "118",
+      "men_rate": "42.00",
+      "female_rate": "58.00",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:06:12",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:17:07",
+  "school_id": "3663",
+  "school_name": "郑州美术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

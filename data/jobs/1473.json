@@ -1,0 +1,184 @@
+{
+  "update_time": "2026-04-27 15:58:31",
+  "school_id": "1473",
+  "school_name": "重庆外语外事学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "82.04"
+    },
+    "postgraduate": {
+      "1": "2.21"
+    },
+    "abroad": {
+      "1": "1.37"
+    }
+  },
+  "province": [
+    {
+      "id": "14748",
+      "school_id": "1473",
+      "province": "上海市",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "11",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "14750",
+      "school_id": "1473",
+      "province": "福建省",
+      "rate": "0.77",
+      "num": "0",
+      "sort": "77",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "福建省"
+    },
+    {
+      "id": "14749",
+      "school_id": "1473",
+      "province": "云南省",
+      "rate": "1.08",
+      "num": "0",
+      "sort": "108",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "云南省"
+    },
+    {
+      "id": "14747",
+      "school_id": "1473",
+      "province": "湖北省",
+      "rate": "1.59",
+      "num": "0",
+      "sort": "159",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "14746",
+      "school_id": "1473",
+      "province": "江苏省",
+      "rate": "1.85",
+      "num": "0",
+      "sort": "185",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "14745",
+      "school_id": "1473",
+      "province": "贵州省",
+      "rate": "2.01",
+      "num": "0",
+      "sort": "201",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "14744",
+      "school_id": "1473",
+      "province": "浙江省",
+      "rate": "2.84",
+      "num": "0",
+      "sort": "284",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "14743",
+      "school_id": "1473",
+      "province": "广东省",
+      "rate": "4.34",
+      "num": "0",
+      "sort": "434",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "14751",
+      "school_id": "1473",
+      "province": "其他",
+      "rate": "8.05",
+      "num": "0",
+      "sort": "805",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "其他"
+    },
+    {
+      "id": "14742",
+      "school_id": "1473",
+      "province": "四川省",
+      "rate": "8.89",
+      "num": "0",
+      "sort": "889",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "四川省"
+    },
+    {
+      "id": "14741",
+      "school_id": "1473",
+      "province": "重庆市",
+      "rate": "67.48",
+      "num": "0",
+      "sort": "6748",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:43:20",
+      "year": "2023",
+      "province_name": "重庆市"
+    }
+  ],
+  "attr": {
+    "其他企业": "89.62",
+    "国家基层项目": "2.45",
+    "国有企业": "1.96",
+    "其他事业单位": "1.54",
+    "中初教育": "1.52",
+    "三资企业": "1.23",
+    "高等教育": "0.37",
+    "自主创业（未注册）": "0.26",
+    "医疗卫生单位": "0.24",
+    "地方基层项目": "0.15",
+    "自由职业": "0.09",
+    "科研设计单位": "0.09",
+    "机关": "0.40",
+    "部队": "0.04",
+    "农村建制村": "0.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1417",
+      "school_id": "1473",
+      "female_num": "4485",
+      "men_num": "1271",
+      "men_rate": "22.08",
+      "female_rate": "77.92",
+      "update_id": "2004",
+      "update_time": "2024-05-24 16:58:01",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,166 @@
+{
+  "update_time": "2026-04-27 15:47:43",
+  "school_id": "301",
+  "school_name": "嘉应学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "26739",
+      "school_id": "301",
+      "province": "肇庆",
+      "rate": "2.78",
+      "num": "278",
+      "sort": "278",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "肇庆"
+    },
+    {
+      "id": "26738",
+      "school_id": "301",
+      "province": "汕头",
+      "rate": "2.78",
+      "num": "278",
+      "sort": "278",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "汕头"
+    },
+    {
+      "id": "26737",
+      "school_id": "301",
+      "province": "茂名",
+      "rate": "2.93",
+      "num": "293",
+      "sort": "293",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "茂名"
+    },
+    {
+      "id": "26736",
+      "school_id": "301",
+      "province": "河源",
+      "rate": "3.88",
+      "num": "388",
+      "sort": "388",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "河源"
+    },
+    {
+      "id": "26735",
+      "school_id": "301",
+      "province": "揭阳",
+      "rate": "3.93",
+      "num": "393",
+      "sort": "393",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "揭阳"
+    },
+    {
+      "id": "26734",
+      "school_id": "301",
+      "province": "佛山",
+      "rate": "4.97",
+      "num": "497",
+      "sort": "497",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "佛山"
+    },
+    {
+      "id": "26733",
+      "school_id": "301",
+      "province": "东莞",
+      "rate": "5.52",
+      "num": "552",
+      "sort": "552",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "东莞"
+    },
+    {
+      "id": "26732",
+      "school_id": "301",
+      "province": "惠州",
+      "rate": "9.19",
+      "num": "919",
+      "sort": "919",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "惠州"
+    },
+    {
+      "id": "26731",
+      "school_id": "301",
+      "province": "梅州",
+      "rate": "9.89",
+      "num": "989",
+      "sort": "989",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "梅州"
+    },
+    {
+      "id": "26730",
+      "school_id": "301",
+      "province": "深圳",
+      "rate": "14.76",
+      "num": "1476",
+      "sort": "1476",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "深圳"
+    },
+    {
+      "id": "26729",
+      "school_id": "301",
+      "province": "广州",
+      "rate": "16.85",
+      "num": "1685",
+      "sort": "1685",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:07:35",
+      "year": "2023",
+      "province_name": "广州"
+    }
+  ],
+  "attr": {
+    "政府机构/ 科研或其他 事业单位": "43.07",
+    "民营企业/ 个体": "40.97",
+    "国有企业": "11.34",
+    "中外合资/ 外资/独资": "2.77",
+    "民非组织": "1.85"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2270",
+      "school_id": "301",
+      "female_num": "4368",
+      "men_num": "3041",
+      "men_rate": "41.04",
+      "female_rate": "58.96",
+      "update_id": "1988",
+      "update_time": "2025-01-10 16:05:38",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

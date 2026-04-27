@@ -1,0 +1,103 @@
+{
+  "update_time": "2026-04-27 15:59:09",
+  "school_id": "1557",
+  "school_name": "武汉设计工程学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.98"
+    },
+    "postgraduate": {
+      "1": "1.76"
+    },
+    "abroad": {
+      "1": "1.59"
+    }
+  },
+  "province": [
+    {
+      "id": "31924",
+      "school_id": "1557",
+      "province": "安徽省",
+      "rate": "2.61",
+      "num": "65",
+      "sort": "261",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:31:27",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "31923",
+      "school_id": "1557",
+      "province": "江苏省",
+      "rate": "2.66",
+      "num": "67",
+      "sort": "266",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:31:27",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31922",
+      "school_id": "1557",
+      "province": "浙江省",
+      "rate": "3.87",
+      "num": "97",
+      "sort": "387",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:31:27",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31921",
+      "school_id": "1557",
+      "province": "广东省",
+      "rate": "5.13",
+      "num": "128",
+      "sort": "513",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:31:27",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31920",
+      "school_id": "1557",
+      "province": "湖北省",
+      "rate": "68.05",
+      "num": "1704",
+      "sort": "6805",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:31:27",
+      "year": "2024",
+      "province_name": "湖北省"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个体 / 其他企业": "92.59",
+    "政府机构 / 科研 / 事业单位": "4.24",
+    "国有企业": "3.07",
+    "其他（含社会组织等）": "0.10"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2741",
+      "school_id": "1557",
+      "female_num": "1375",
+      "men_num": "1129",
+      "men_rate": "45.09",
+      "female_rate": "54.91",
+      "update_id": "2234",
+      "update_time": "2025-12-01 10:26:06",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

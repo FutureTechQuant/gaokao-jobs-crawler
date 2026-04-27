@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:00:32",
+  "school_id": "1701",
+  "school_name": "辽宁传媒学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.32"
+    },
+    "postgraduate": {
+      "1": "1.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "4724",
+      "school_id": "1701",
+      "province": "辽宁省外",
+      "rate": "11.59",
+      "num": "107",
+      "sort": "107",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "辽宁省外"
+    },
+    {
+      "id": "4725",
+      "school_id": "1701",
+      "province": "辽宁省",
+      "rate": "88.41",
+      "num": "1297",
+      "sort": "1297",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "辽宁省"
+    }
+  ],
+  "attr": {
+    "党政机关": "0.38",
+    "中等、初等教育单位": "1.52",
+    "其他": "95.58",
+    "国有企业": "0.23",
+    "自由职业": "2.29"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "853",
+      "school_id": "1701",
+      "female_num": "805",
+      "men_num": "662",
+      "men_rate": "45.13",
+      "female_rate": "54.87",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "update_time": "2026-04-27 15:51:53",
+  "school_id": "698",
+  "school_name": "河北工业职业技术大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "97.71"
+    },
+    "postgraduate": {
+      "1": "19.13"
+    },
+    "abroad": {
+      "1": "0.06"
+    }
+  },
+  "province": [
+    {
+      "id": "20728",
+      "school_id": "698",
+      "province": "四川",
+      "rate": "0.56",
+      "num": "0",
+      "sort": "56",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "四川"
+    },
+    {
+      "id": "20727",
+      "school_id": "698",
+      "province": "内蒙古",
+      "rate": "0.56",
+      "num": "0",
+      "sort": "56",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "20726",
+      "school_id": "698",
+      "province": "上海",
+      "rate": "0.84",
+      "num": "0",
+      "sort": "84",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "20725",
+      "school_id": "698",
+      "province": "辽宁",
+      "rate": "0.84",
+      "num": "0",
+      "sort": "84",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "20724",
+      "school_id": "698",
+      "province": "广东",
+      "rate": "1.03",
+      "num": "0",
+      "sort": "103",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "20723",
+      "school_id": "698",
+      "province": "浙江",
+      "rate": "1.22",
+      "num": "0",
+      "sort": "122",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "20722",
+      "school_id": "698",
+      "province": "江苏",
+      "rate": "1.78",
+      "num": "0",
+      "sort": "178",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "20721",
+      "school_id": "698",
+      "province": "山东",
+      "rate": "2.35",
+      "num": "0",
+      "sort": "235",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "山东"
+    },
+    {
+      "id": "20720",
+      "school_id": "698",
+      "province": "天津",
+      "rate": "2.44",
+      "num": "0",
+      "sort": "244",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "天津"
+    },
+    {
+      "id": "20719",
+      "school_id": "698",
+      "province": "北京",
+      "rate": "13.23",
+      "num": "0",
+      "sort": "1323",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "20718",
+      "school_id": "698",
+      "province": "河北",
+      "rate": "72.42",
+      "num": "0",
+      "sort": "7242",
+      "update_id": "2094",
+      "update_time": "2024-09-12 16:21:34",
+      "year": "2023",
+      "province_name": "河北"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "73.40",
+    "国有企业": "17.30",
+    "政府机构/科研或其他事业单位": "5.77",
+    "中外合资/外资/独资": "3.26",
+    "民非组织": "0.28"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "874",
+      "school_id": "698",
+      "female_num": "1835",
+      "men_num": "2781",
+      "men_rate": "60.14",
+      "female_rate": "39.86",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

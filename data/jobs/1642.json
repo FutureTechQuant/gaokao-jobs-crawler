@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:59:59",
+  "school_id": "1642",
+  "school_name": "太原学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "77.36"
+    },
+    "postgraduate": {
+      "1": "7.60"
+    },
+    "abroad": {
+      "1": "0.25"
+    }
+  },
+  "province": [
+    {
+      "id": "18348",
+      "school_id": "1642",
+      "province": "河北",
+      "rate": "3.17",
+      "num": "0",
+      "sort": "317",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "河北"
+    },
+    {
+      "id": "18347",
+      "school_id": "1642",
+      "province": "陕西",
+      "rate": "3.74",
+      "num": "0",
+      "sort": "374",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "陕西"
+    },
+    {
+      "id": "18346",
+      "school_id": "1642",
+      "province": "江苏",
+      "rate": "4.03",
+      "num": "0",
+      "sort": "403",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "18345",
+      "school_id": "1642",
+      "province": "北京",
+      "rate": "6.19",
+      "num": "0",
+      "sort": "619",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "18344",
+      "school_id": "1642",
+      "province": "山西",
+      "rate": "57.41",
+      "num": "0",
+      "sort": "5741",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "山西"
+    }
+  ],
+  "attr": {
+    "国有企业": "27.62",
+    "政府机构/科研或其他事业单位": "10.62",
+    "民营企业/个体": "56.60",
+    "民办非企业单位（组织）": "2.88",
+    "中外合资/外资/独资": "2.28"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1719",
+      "school_id": "1642",
+      "female_num": "1850",
+      "men_num": "1335",
+      "men_rate": "41.92",
+      "female_rate": "58.08",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:40:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6900"
+  }
+}

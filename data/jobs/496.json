@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:49:56",
+  "school_id": "496",
+  "school_name": "临沂大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.99"
+    },
+    "postgraduate": {
+      "1": "17.39"
+    },
+    "abroad": {
+      "1": "1.81"
+    }
+  },
+  "province": [
+    {
+      "id": "4856",
+      "school_id": "496",
+      "province": "山东省外",
+      "rate": "17.69",
+      "num": "610",
+      "sort": "610",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "4857",
+      "school_id": "496",
+      "province": "山东省",
+      "rate": "82.31",
+      "num": "5140",
+      "sort": "5140",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "非国有企业": "60.77",
+    "事业单位": "12.43",
+    "国有企业": "3.59",
+    "党政机关": "1.10",
+    "其他": "22.11"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "797",
+      "school_id": "496",
+      "female_num": "3852",
+      "men_num": "2654",
+      "men_rate": "40.76",
+      "female_rate": "59.24",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

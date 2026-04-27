@@ -1,0 +1,163 @@
+{
+  "update_time": "2026-04-27 15:47:47",
+  "school_id": "305",
+  "school_name": "星海音乐学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.95"
+    },
+    "postgraduate": {
+      "1": "10.43"
+    },
+    "abroad": {
+      "1": "8.82"
+    }
+  },
+  "province": [
+    {
+      "id": "31350",
+      "school_id": "305",
+      "province": "上海市",
+      "rate": "0.37",
+      "num": "0",
+      "sort": "37",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "31349",
+      "school_id": "305",
+      "province": "江苏省",
+      "rate": "0.47",
+      "num": "0",
+      "sort": "47",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31348",
+      "school_id": "305",
+      "province": "山东省",
+      "rate": "0.47",
+      "num": "0",
+      "sort": "47",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "31347",
+      "school_id": "305",
+      "province": "安徽省",
+      "rate": "0.56",
+      "num": "0",
+      "sort": "56",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "31345",
+      "school_id": "305",
+      "province": "河南省",
+      "rate": "0.65",
+      "num": "0",
+      "sort": "65",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "31346",
+      "school_id": "305",
+      "province": "北京市",
+      "rate": "0.65",
+      "num": "0",
+      "sort": "65",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "31344",
+      "school_id": "305",
+      "province": "福建省",
+      "rate": "0.75",
+      "num": "0",
+      "sort": "75",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "31343",
+      "school_id": "305",
+      "province": "浙江省",
+      "rate": "1.50",
+      "num": "0",
+      "sort": "150",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31342",
+      "school_id": "305",
+      "province": "湖南省",
+      "rate": "1.68",
+      "num": "0",
+      "sort": "168",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "31341",
+      "school_id": "305",
+      "province": "广东省",
+      "rate": "90.75",
+      "num": "0",
+      "sort": "9075",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:04:49",
+      "year": "2024",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {
+    "自由职业者": "88.24",
+    "企业单位": "5.83",
+    "事业单位": "5.39",
+    "部队": "0.54"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2691",
+      "school_id": "305",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "36.09",
+      "female_rate": "63.91",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:58:35",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11000"
+  }
+}

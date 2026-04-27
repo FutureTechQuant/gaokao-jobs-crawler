@@ -1,0 +1,82 @@
+{
+  "update_time": "2026-04-27 15:47:10",
+  "school_id": "252",
+  "school_name": "杭州师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.05"
+    },
+    "postgraduate": {
+      "1": "20.62"
+    },
+    "abroad": {
+      "1": "3.84"
+    }
+  },
+  "province": [
+    {
+      "id": "32610",
+      "school_id": "252",
+      "province": "江苏省",
+      "rate": "3.01",
+      "num": "213",
+      "sort": "301",
+      "update_id": "2234",
+      "update_time": "2025-12-01 18:10:36",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "32609",
+      "school_id": "252",
+      "province": "上海市",
+      "rate": "3.18",
+      "num": "225",
+      "sort": "318",
+      "update_id": "2234",
+      "update_time": "2025-12-01 18:10:12",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "32608",
+      "school_id": "252",
+      "province": "浙江省",
+      "rate": "72.16",
+      "num": "5101",
+      "sort": "7216",
+      "update_id": "2234",
+      "update_time": "2025-12-01 18:09:51",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {
+    "企业": "44.93",
+    "教育单位": "34.45",
+    "医疗卫生单位": "7.70",
+    "机关与事业单位": "3.55",
+    "西部计划与西部专招": "0.42",
+    "三支一扶": "0.32",
+    "选调生": "0.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1557",
+      "school_id": "252",
+      "female_num": "3782",
+      "men_num": "1421",
+      "men_rate": "27.31",
+      "female_rate": "72.69",
+      "update_id": "2004",
+      "update_time": "2024-06-07 18:00:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

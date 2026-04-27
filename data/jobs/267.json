@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 15:47:19",
+  "school_id": "267",
+  "school_name": "中国民用航空飞行学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "82.30"
+    },
+    "postgraduate": {
+      "1": "5.10"
+    },
+    "abroad": {
+      "1": "0.20"
+    }
+  },
+  "province": [
+    {
+      "id": "14696",
+      "school_id": "267",
+      "province": "新疆地区",
+      "rate": "1.90",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "新疆地区"
+    },
+    {
+      "id": "14692",
+      "school_id": "267",
+      "province": "中南地区",
+      "rate": "19.00",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "中南地区"
+    },
+    {
+      "id": "14695",
+      "school_id": "267",
+      "province": "东北地区",
+      "rate": "2.90",
+      "num": "0",
+      "sort": "29",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "14694",
+      "school_id": "267",
+      "province": "西北地区",
+      "rate": "3.60",
+      "num": "0",
+      "sort": "36",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "14693",
+      "school_id": "267",
+      "province": "华北地区",
+      "rate": "9.60",
+      "num": "0",
+      "sort": "96",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "14690",
+      "school_id": "267",
+      "province": "华东地区",
+      "rate": "28.30",
+      "num": "0",
+      "sort": "283",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "14691",
+      "school_id": "267",
+      "province": "西南地区",
+      "rate": "34.80",
+      "num": "0",
+      "sort": "348",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:19:52",
+      "year": "2022",
+      "province_name": "西南地区"
+    }
+  ],
+  "attr": {
+    "国有企业": "53.20"
+  },
+  "company": {
+    "四川航空股份有限公司": "0",
+    "中国南方航空集团有限公司": "0",
+    "中国国际航空股份有限公司": "0",
+    "中国东方航空集团有限公司": "0",
+    "中南空管局": "0",
+    "华东空管局": "0",
+    "西南空管局": "0",
+    "西北空管局": "0"
+  },
+  "gradute": [
+    {
+      "id": "1410",
+      "school_id": "267",
+      "female_num": "1179",
+      "men_num": "3389",
+      "men_rate": "74.20",
+      "female_rate": "25.80",
+      "update_id": "2004",
+      "update_time": "2024-05-23 15:39:19",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11300"
+  }
+}

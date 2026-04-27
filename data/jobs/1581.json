@@ -1,0 +1,42 @@
+{
+  "update_time": "2026-04-27 15:59:23",
+  "school_id": "1581",
+  "school_name": "河北农业大学现代科技学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "81.85"
+    },
+    "postgraduate": {
+      "1": "12.05"
+    },
+    "abroad": {
+      "1": "0.05"
+    }
+  },
+  "province": [],
+  "attr": {
+    "国有企业": "3.14",
+    "公务员": "1.29",
+    "西部志愿者": "0.17",
+    "其他": "95.40"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1709",
+      "school_id": "1581",
+      "female_num": "1123",
+      "men_num": "761",
+      "men_rate": "40.39",
+      "female_rate": "59.51",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:40:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

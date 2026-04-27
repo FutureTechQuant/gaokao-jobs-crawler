@@ -1,0 +1,171 @@
+{
+  "update_time": "2026-04-27 16:13:13",
+  "school_id": "3233",
+  "school_name": "贵州水利水电职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.89"
+    },
+    "postgraduate": {
+      "1": "8.46"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10979",
+      "school_id": "3233",
+      "province": "贵州省",
+      "rate": "79.36",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "10980",
+      "school_id": "3233",
+      "province": "广东省",
+      "rate": "4.75",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "10981",
+      "school_id": "3233",
+      "province": "上海市",
+      "rate": "2.81",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "10982",
+      "school_id": "3233",
+      "province": "四川省",
+      "rate": "2.83",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "四川省"
+    },
+    {
+      "id": "10983",
+      "school_id": "3233",
+      "province": "重庆市",
+      "rate": "2.05",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "10984",
+      "school_id": "3233",
+      "province": "浙江省",
+      "rate": "1.46",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "10985",
+      "school_id": "3233",
+      "province": "江苏省",
+      "rate": "1.24",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "10986",
+      "school_id": "3233",
+      "province": "福建省",
+      "rate": "1.19",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "10987",
+      "school_id": "3233",
+      "province": "云南省",
+      "rate": "0.92",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "云南省"
+    },
+    {
+      "id": "10988",
+      "school_id": "3233",
+      "province": "广西",
+      "rate": "0.76",
+      "num": "0",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:02:32",
+      "year": "2019",
+      "province_name": "广西"
+    }
+  ],
+  "attr": {
+    "其他企业": "66.13",
+    "其他": "21.53",
+    "国有企业": "7.60",
+    "其他事业单位": "1.98",
+    "机关": "1.54",
+    "三资企业": "0.50",
+    "中初教育单位": "0.17",
+    "城镇社区": "0.17",
+    "高等教育单位": "0.17",
+    "科研设计单位": "0.11",
+    "部队": "0.06",
+    "医疗卫生单位": "0.06"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1242",
+      "school_id": "3233",
+      "female_num": "63",
+      "men_num": "496",
+      "men_rate": "88.73",
+      "female_rate": "11.27",
+      "update_id": "825",
+      "update_time": "2021-06-04 15:55:47",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

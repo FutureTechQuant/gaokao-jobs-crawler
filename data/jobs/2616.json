@@ -1,0 +1,171 @@
+{
+  "update_time": "2026-04-27 16:09:59",
+  "school_id": "2616",
+  "school_name": "内蒙古科技大学包头医学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "22.91"
+    },
+    "abroad": {
+      "1": "0.20"
+    }
+  },
+  "province": [
+    {
+      "id": "26548",
+      "school_id": "2616",
+      "province": "贵州省",
+      "rate": "0.40",
+      "num": "0",
+      "sort": "40",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "26547",
+      "school_id": "2616",
+      "province": "山东省",
+      "rate": "0.56",
+      "num": "0",
+      "sort": "56",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "26545",
+      "school_id": "2616",
+      "province": "天津市",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "天津市"
+    },
+    {
+      "id": "26546",
+      "school_id": "2616",
+      "province": "四川省",
+      "rate": "0.73",
+      "num": "0",
+      "sort": "73",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "26544",
+      "school_id": "2616",
+      "province": "上海市",
+      "rate": "0.81",
+      "num": "0",
+      "sort": "81",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "26543",
+      "school_id": "2616",
+      "province": "陕西省",
+      "rate": "0.89",
+      "num": "0",
+      "sort": "89",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "26542",
+      "school_id": "2616",
+      "province": "江苏省",
+      "rate": "0.97",
+      "num": "0",
+      "sort": "97",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "26541",
+      "school_id": "2616",
+      "province": "广东省",
+      "rate": "1.29",
+      "num": "0",
+      "sort": "129",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "26540",
+      "school_id": "2616",
+      "province": "北京市",
+      "rate": "2.42",
+      "num": "0",
+      "sort": "242",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "26539",
+      "school_id": "2616",
+      "province": "内蒙古自治区",
+      "rate": "87.73",
+      "num": "0",
+      "sort": "8773",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:20:26",
+      "year": "2024",
+      "province_name": "内蒙古自治区"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "40.20",
+    "其他企业（含民营企业等）": "39.04",
+    "个体工商户": "8.85",
+    "机关": "4.63",
+    "其他事业单位": "3.80",
+    "国有企业": "1.24",
+    "其他（含社会组织等）": "0.83",
+    "中初教育单位": "0.50",
+    "农村建制村": "0.33",
+    "高等教育单位": "0.25",
+    "外商投资企业": "0.25",
+    "部队": "0.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2258",
+      "school_id": "2616",
+      "female_num": "1291",
+      "men_num": "625",
+      "men_rate": "32.62",
+      "female_rate": "67.38",
+      "update_id": "2096",
+      "update_time": "2025-01-10 11:07:43",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

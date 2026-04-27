@@ -1,0 +1,193 @@
+{
+  "update_time": "2026-04-27 16:07:48",
+  "school_id": "2388",
+  "school_name": "温州医科大学仁济学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.30"
+    },
+    "postgraduate": {
+      "1": "15.61"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32576",
+      "school_id": "2388",
+      "province": "舟山市",
+      "rate": "0.69",
+      "num": "12",
+      "sort": "69",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "舟山市"
+    },
+    {
+      "id": "32575",
+      "school_id": "2388",
+      "province": "湖州市",
+      "rate": "1.43",
+      "num": "25",
+      "sort": "143",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "湖州市"
+    },
+    {
+      "id": "32574",
+      "school_id": "2388",
+      "province": "嘉兴市",
+      "rate": "1.78",
+      "num": "31",
+      "sort": "178",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "嘉兴市"
+    },
+    {
+      "id": "32573",
+      "school_id": "2388",
+      "province": "衢州市",
+      "rate": "3.27",
+      "num": "57",
+      "sort": "327",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "衢州市"
+    },
+    {
+      "id": "32572",
+      "school_id": "2388",
+      "province": "绍兴市",
+      "rate": "3.33",
+      "num": "58",
+      "sort": "333",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "绍兴市"
+    },
+    {
+      "id": "32571",
+      "school_id": "2388",
+      "province": "丽水市",
+      "rate": "4.48",
+      "num": "78",
+      "sort": "448",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "丽水市"
+    },
+    {
+      "id": "32570",
+      "school_id": "2388",
+      "province": "台州市",
+      "rate": "5.97",
+      "num": "104",
+      "sort": "597",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "台州市"
+    },
+    {
+      "id": "32569",
+      "school_id": "2388",
+      "province": "金华市",
+      "rate": "7.92",
+      "num": "138",
+      "sort": "792",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "金华市"
+    },
+    {
+      "id": "32568",
+      "school_id": "2388",
+      "province": "宁波市",
+      "rate": "9.42",
+      "num": "164",
+      "sort": "942",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "宁波市"
+    },
+    {
+      "id": "32567",
+      "school_id": "2388",
+      "province": "杭州市",
+      "rate": "9.59",
+      "num": "167",
+      "sort": "959",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "杭州市"
+    },
+    {
+      "id": "32566",
+      "school_id": "2388",
+      "province": "温州市",
+      "rate": "17.40",
+      "num": "303",
+      "sort": "1740",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "温州市"
+    },
+    {
+      "id": "32577",
+      "school_id": "2388",
+      "province": "省外地区",
+      "rate": "35.76",
+      "num": "623",
+      "sort": "3576",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:47:49",
+      "year": "2024",
+      "province_name": "省外地区"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "57.17",
+    "其他企业": "21.58",
+    "其他": "13.04",
+    "国有企业": "5.15",
+    "其他事业单位": "0.91",
+    "机关": "0.91",
+    "三资企业": "0.72",
+    "部队": "0.20",
+    "中初教育单位": "0.20",
+    "城镇社区": "0.13"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2795",
+      "school_id": "2388",
+      "female_num": "1074",
+      "men_num": "668",
+      "men_rate": "38.35",
+      "female_rate": "61.65",
+      "update_id": "2234",
+      "update_time": "2025-12-01 17:36:39",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

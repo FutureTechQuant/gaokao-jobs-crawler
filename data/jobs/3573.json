@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:16:13",
+  "school_id": "3573",
+  "school_name": "通化医药健康职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "72.41"
+    },
+    "postgraduate": {
+      "1": "17.80"
+    },
+    "abroad": {
+      "1": "0.30"
+    }
+  },
+  "province": [
+    {
+      "id": "27749",
+      "school_id": "3573",
+      "province": "吉林省外",
+      "rate": "7.79",
+      "num": "0",
+      "sort": "779",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:57:20",
+      "year": "2024",
+      "province_name": "吉林省外"
+    },
+    {
+      "id": "27748",
+      "school_id": "3573",
+      "province": "吉林省内",
+      "rate": "92.21",
+      "num": "0",
+      "sort": "9221",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:56:56",
+      "year": "2024",
+      "province_name": "吉林省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "21.30",
+    "个体工商户": "12.20",
+    "其他": "11.90",
+    "医疗卫生单位": "6.90",
+    "其他事业单位": "0.90"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2361",
+      "school_id": "3573",
+      "female_num": "234",
+      "men_num": "85",
+      "men_rate": "26.60",
+      "female_rate": "73.30",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:56:10",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

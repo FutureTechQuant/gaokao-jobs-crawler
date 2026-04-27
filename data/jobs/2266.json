@@ -1,0 +1,301 @@
+{
+  "update_time": "2026-04-27 16:06:33",
+  "school_id": "2266",
+  "school_name": "贵州警察学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "70.73"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "18205",
+      "school_id": "2266",
+      "province": "湖北省",
+      "rate": "0.20",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "18204",
+      "school_id": "2266",
+      "province": "浙江省",
+      "rate": "0.20",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "18203",
+      "school_id": "2266",
+      "province": "江苏省",
+      "rate": "0.20",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "18202",
+      "school_id": "2266",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.20",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "18201",
+      "school_id": "2266",
+      "province": "山东省",
+      "rate": "0.20",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "山东省"
+    },
+    {
+      "id": "18200",
+      "school_id": "2266",
+      "province": "重庆市",
+      "rate": "0.40",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "18199",
+      "school_id": "2266",
+      "province": "云南省",
+      "rate": "0.60",
+      "num": "3",
+      "sort": "3",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "云南省"
+    },
+    {
+      "id": "18198",
+      "school_id": "2266",
+      "province": "广西壮族自治区",
+      "rate": "0.80",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "18197",
+      "school_id": "2266",
+      "province": "湖南省",
+      "rate": "1.00",
+      "num": "5",
+      "sort": "5",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "湖南省"
+    },
+    {
+      "id": "18196",
+      "school_id": "2266",
+      "province": "四川省",
+      "rate": "1.00",
+      "num": "5",
+      "sort": "5",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "四川省"
+    },
+    {
+      "id": "18195",
+      "school_id": "2266",
+      "province": "广东省",
+      "rate": "1.20",
+      "num": "6",
+      "sort": "6",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省"
+    },
+    {
+      "id": "18193",
+      "school_id": "2266",
+      "province": "黔西南布依族苗族自治州",
+      "rate": "3.40",
+      "num": "16",
+      "sort": "16",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "黔西南布依族苗族自治州"
+    },
+    {
+      "id": "18192",
+      "school_id": "2266",
+      "province": "安顺市",
+      "rate": "3.82",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "安顺市"
+    },
+    {
+      "id": "18191",
+      "school_id": "2266",
+      "province": "六盘水市",
+      "rate": "5.94",
+      "num": "28",
+      "sort": "28",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "六盘水市"
+    },
+    {
+      "id": "18190",
+      "school_id": "2266",
+      "province": "黔南布依族苗族自治州",
+      "rate": "6.16",
+      "num": "29",
+      "sort": "29",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "黔南布依族苗族自治州"
+    },
+    {
+      "id": "18189",
+      "school_id": "2266",
+      "province": "黔东南苗族侗族自治州",
+      "rate": "8.70",
+      "num": "41",
+      "sort": "41",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "黔东南苗族侗族自治州"
+    },
+    {
+      "id": "18188",
+      "school_id": "2266",
+      "province": "铜仁市",
+      "rate": "10.62",
+      "num": "50",
+      "sort": "50",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "铜仁市"
+    },
+    {
+      "id": "18187",
+      "school_id": "2266",
+      "province": "遵义市",
+      "rate": "11.25",
+      "num": "53",
+      "sort": "53",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "遵义市"
+    },
+    {
+      "id": "18186",
+      "school_id": "2266",
+      "province": "毕节市",
+      "rate": "13.38",
+      "num": "63",
+      "sort": "63",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "毕节市"
+    },
+    {
+      "id": "18185",
+      "school_id": "2266",
+      "province": "贵阳市",
+      "rate": "36.73",
+      "num": "173",
+      "sort": "173",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "贵阳市"
+    },
+    {
+      "id": "18194",
+      "school_id": "2266",
+      "province": "贵州省",
+      "rate": "94.01",
+      "num": "471",
+      "sort": "471",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "贵州省"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "0.20",
+    "三资企业": "0.20",
+    "农村建制村": "0.40",
+    "高等学校": "0.60",
+    "其他事业单位": "0.80",
+    "城镇社区": "1.40",
+    "国有企业": "2.20",
+    "其他": "5.59",
+    "其他企业": "12.18",
+    "机关": "76.45"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1170",
+      "school_id": "2266",
+      "female_num": "533",
+      "men_num": "690",
+      "men_rate": "56.42",
+      "female_rate": "43.58",
+      "update_id": "929",
+      "update_time": "2021-04-01 18:02:16",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

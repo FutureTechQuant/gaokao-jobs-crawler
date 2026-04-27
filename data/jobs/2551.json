@@ -1,0 +1,239 @@
+{
+  "update_time": "2026-04-27 16:09:35",
+  "school_id": "2551",
+  "school_name": "扬州大学广陵学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "94.46"
+    },
+    "postgraduate": {
+      "1": "5.20"
+    },
+    "abroad": {
+      "1": "0.44"
+    }
+  },
+  "province": [
+    {
+      "id": "18818",
+      "school_id": "2551",
+      "province": "连云港",
+      "rate": "2.12",
+      "num": "69",
+      "sort": "69",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "连云港"
+    },
+    {
+      "id": "18822",
+      "school_id": "2551",
+      "province": "宿迁",
+      "rate": "2.27",
+      "num": "74",
+      "sort": "74",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "宿迁"
+    },
+    {
+      "id": "18825",
+      "school_id": "2551",
+      "province": "徐州",
+      "rate": "2.39",
+      "num": "78",
+      "sort": "78",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "徐州"
+    },
+    {
+      "id": "18817",
+      "school_id": "2551",
+      "province": "淮安",
+      "rate": "2.51",
+      "num": "82",
+      "sort": "82",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "淮安"
+    },
+    {
+      "id": "18828",
+      "school_id": "2551",
+      "province": "镇江",
+      "rate": "2.70",
+      "num": "88",
+      "sort": "88",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "镇江"
+    },
+    {
+      "id": "18815",
+      "school_id": "2551",
+      "province": "浙江省",
+      "rate": "3.59",
+      "num": "117",
+      "sort": "117",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "18816",
+      "school_id": "2551",
+      "province": "常州",
+      "rate": "3.74",
+      "num": "122",
+      "sort": "122",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "常州"
+    },
+    {
+      "id": "18814",
+      "school_id": "2551",
+      "province": "上海市",
+      "rate": "4.41",
+      "num": "144",
+      "sort": "144",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "上海市"
+    },
+    {
+      "id": "18826",
+      "school_id": "2551",
+      "province": "盐城",
+      "rate": "4.45",
+      "num": "145",
+      "sort": "145",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "盐城"
+    },
+    {
+      "id": "18823",
+      "school_id": "2551",
+      "province": "泰州",
+      "rate": "4.60",
+      "num": "150",
+      "sort": "150",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "泰州"
+    },
+    {
+      "id": "18820",
+      "school_id": "2551",
+      "province": "南通",
+      "rate": "4.87",
+      "num": "159",
+      "sort": "159",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "南通"
+    },
+    {
+      "id": "18824",
+      "school_id": "2551",
+      "province": "无锡",
+      "rate": "6.16",
+      "num": "201",
+      "sort": "201",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "无锡"
+    },
+    {
+      "id": "18819",
+      "school_id": "2551",
+      "province": "南京",
+      "rate": "9.84",
+      "num": "321",
+      "sort": "321",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "南京"
+    },
+    {
+      "id": "18821",
+      "school_id": "2551",
+      "province": "苏州",
+      "rate": "11.13",
+      "num": "363",
+      "sort": "363",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "苏州"
+    },
+    {
+      "id": "18827",
+      "school_id": "2551",
+      "province": "扬州",
+      "rate": "16.95",
+      "num": "553",
+      "sort": "553",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "扬州"
+    },
+    {
+      "id": "18813",
+      "school_id": "2551",
+      "province": "江苏省",
+      "rate": "73.73",
+      "num": "2405",
+      "sort": "2405",
+      "update_id": "1639",
+      "update_time": "2024-06-15 14:00:12",
+      "year": "2022",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {
+    "国有企业": "4.97",
+    "机关事业单位": "4.73",
+    "三资企业": "3.07",
+    "医疗卫生单位": "1.84",
+    "其他事业单位": "1.04",
+    "机关": "0.98",
+    "中、初等教育": "0.86",
+    "农村建制村和城镇社区": "0.64"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1680",
+      "school_id": "2551",
+      "female_num": "2364",
+      "men_num": "1462",
+      "men_rate": "38.21",
+      "female_rate": "61.79",
+      "update_id": "1639",
+      "update_time": "2024-06-14 14:10:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

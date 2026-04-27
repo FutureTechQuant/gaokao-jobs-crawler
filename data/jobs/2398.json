@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:07:54",
+  "school_id": "2398",
+  "school_name": "温州商学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.89"
+    },
+    "postgraduate": {
+      "1": "7.01"
+    },
+    "abroad": {
+      "1": "21.08"
+    }
+  },
+  "province": [
+    {
+      "id": "28050",
+      "school_id": "2398",
+      "province": "长三角地区",
+      "rate": "90.20",
+      "num": "0",
+      "sort": "9020",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:13:53",
+      "year": "2024",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "28042",
+      "school_id": "2398",
+      "province": "长江经济带",
+      "rate": "93.05",
+      "num": "0",
+      "sort": "9305",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:13:33",
+      "year": "2024",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "28041",
+      "school_id": "2398",
+      "province": "“一带一路”地区",
+      "rate": "93.55",
+      "num": "0",
+      "sort": "9355",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:13:20",
+      "year": "2024",
+      "province_name": "“一带一路”地区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "73.35",
+    "国有企业": "16.87",
+    "政府机构/科研或其他事业单位": "6.11",
+    "中外合资/外资/独资": "2.93",
+    "民非组织": "0.73"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2398",
+      "school_id": "2398",
+      "female_num": "2553",
+      "men_num": "2768",
+      "men_rate": "52.02",
+      "female_rate": "47.98",
+      "update_id": "2314",
+      "update_time": "2025-11-11 11:04:00",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

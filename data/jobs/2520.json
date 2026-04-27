@@ -1,0 +1,241 @@
+{
+  "update_time": "2026-04-27 16:09:14",
+  "school_id": "2520",
+  "school_name": "保山学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "88.14"
+    },
+    "postgraduate": {
+      "1": "7.70"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "23285",
+      "school_id": "2520",
+      "province": "怒江傈保族自治州",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "怒江傈保族自治州"
+    },
+    {
+      "id": "23286",
+      "school_id": "2520",
+      "province": "普洱市",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "普洱市"
+    },
+    {
+      "id": "23287",
+      "school_id": "2520",
+      "province": "迪庆藏族自治州",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "迪庆藏族自治州"
+    },
+    {
+      "id": "23288",
+      "school_id": "2520",
+      "province": "丽江市",
+      "rate": "1.64",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "丽江市"
+    },
+    {
+      "id": "23289",
+      "school_id": "2520",
+      "province": "西双版纳傣族自治州",
+      "rate": "2.46",
+      "num": "0",
+      "sort": "5",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "西双版纳傣族自治州"
+    },
+    {
+      "id": "23290",
+      "school_id": "2520",
+      "province": "红河哈尼族彝族自治州",
+      "rate": "2.46",
+      "num": "0",
+      "sort": "6",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "红河哈尼族彝族自治州"
+    },
+    {
+      "id": "23291",
+      "school_id": "2520",
+      "province": "德宏傣族景颇族自治州",
+      "rate": "2.87",
+      "num": "0",
+      "sort": "7",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "德宏傣族景颇族自治州"
+    },
+    {
+      "id": "23292",
+      "school_id": "2520",
+      "province": "昭通市",
+      "rate": "2.87",
+      "num": "0",
+      "sort": "8",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "昭通市"
+    },
+    {
+      "id": "23293",
+      "school_id": "2520",
+      "province": "临沧市",
+      "rate": "3.69",
+      "num": "0",
+      "sort": "9",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "临沧市"
+    },
+    {
+      "id": "23294",
+      "school_id": "2520",
+      "province": "文山壮族苗族自治州",
+      "rate": "4.10",
+      "num": "0",
+      "sort": "10",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "文山壮族苗族自治州"
+    },
+    {
+      "id": "23295",
+      "school_id": "2520",
+      "province": "曲靖市",
+      "rate": "4.92",
+      "num": "0",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "曲靖市"
+    },
+    {
+      "id": "23296",
+      "school_id": "2520",
+      "province": "楚雄彝族自治州",
+      "rate": "4.92",
+      "num": "0",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "楚雄彝族自治州"
+    },
+    {
+      "id": "23297",
+      "school_id": "2520",
+      "province": "玉溪市",
+      "rate": "5.33",
+      "num": "0",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "玉溪市"
+    },
+    {
+      "id": "23298",
+      "school_id": "2520",
+      "province": "大理白族自治州",
+      "rate": "8.20",
+      "num": "0",
+      "sort": "14",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "大理白族自治州"
+    },
+    {
+      "id": "23299",
+      "school_id": "2520",
+      "province": "昆明市",
+      "rate": "16.39",
+      "num": "0",
+      "sort": "15",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "昆明市"
+    },
+    {
+      "id": "23300",
+      "school_id": "2520",
+      "province": "保山市",
+      "rate": "35.25",
+      "num": "0",
+      "sort": "16",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:37:01",
+      "year": "2021",
+      "province_name": "保山市"
+    }
+  ],
+  "attr": {
+    "其他企业": "69.21",
+    "中初教育单位": "13.80",
+    "国有企业": "6.71",
+    "机关": "4.64",
+    "其他事业单位": "2.40",
+    "农村建制村": "0.96",
+    "其他": "0.80",
+    "城镇社区": "0.59",
+    "高等教育单位": "0.48",
+    "医疗卫生单位": "0.21"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2046",
+      "school_id": "2520",
+      "female_num": "1665",
+      "men_num": "966",
+      "men_rate": "36.72",
+      "female_rate": "63.28",
+      "update_id": "1988",
+      "update_time": "2024-10-21 10:31:27",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

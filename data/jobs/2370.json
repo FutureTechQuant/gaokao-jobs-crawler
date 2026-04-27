@@ -1,0 +1,219 @@
+{
+  "update_time": "2026-04-27 16:07:35",
+  "school_id": "2370",
+  "school_name": "广西民族大学相思湖学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "80.38"
+    },
+    "postgraduate": {
+      "1": "0.54"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "24467",
+      "school_id": "2370",
+      "province": "崇左市",
+      "rate": "1.03",
+      "num": "56",
+      "sort": "56",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "崇左市"
+    },
+    {
+      "id": "24466",
+      "school_id": "2370",
+      "province": "来宾市",
+      "rate": "1.06",
+      "num": "58",
+      "sort": "58",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "来宾市"
+    },
+    {
+      "id": "24465",
+      "school_id": "2370",
+      "province": "河池市",
+      "rate": "1.39",
+      "num": "76",
+      "sort": "76",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "河池市"
+    },
+    {
+      "id": "24464",
+      "school_id": "2370",
+      "province": "贺州市",
+      "rate": "1.39",
+      "num": "76",
+      "sort": "76",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "贺州市"
+    },
+    {
+      "id": "24463",
+      "school_id": "2370",
+      "province": "百色市",
+      "rate": "1.46",
+      "num": "80",
+      "sort": "80",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "百色市"
+    },
+    {
+      "id": "24462",
+      "school_id": "2370",
+      "province": "玉林市",
+      "rate": "1.78",
+      "num": "97",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "玉林市"
+    },
+    {
+      "id": "24461",
+      "school_id": "2370",
+      "province": "贵港市",
+      "rate": "1.83",
+      "num": "100",
+      "sort": "100",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "贵港市"
+    },
+    {
+      "id": "24460",
+      "school_id": "2370",
+      "province": "钦州市",
+      "rate": "2.23",
+      "num": "122",
+      "sort": "122",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "钦州市"
+    },
+    {
+      "id": "24459",
+      "school_id": "2370",
+      "province": "防城港市",
+      "rate": "2.42",
+      "num": "132",
+      "sort": "132",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "防城港市"
+    },
+    {
+      "id": "24458",
+      "school_id": "2370",
+      "province": "北海市",
+      "rate": "2.49",
+      "num": "136",
+      "sort": "136",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "北海市"
+    },
+    {
+      "id": "24457",
+      "school_id": "2370",
+      "province": "梧州市",
+      "rate": "2.58",
+      "num": "141",
+      "sort": "141",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "梧州市"
+    },
+    {
+      "id": "24456",
+      "school_id": "2370",
+      "province": "桂林市",
+      "rate": "2.89",
+      "num": "158",
+      "sort": "158",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "桂林市"
+    },
+    {
+      "id": "24455",
+      "school_id": "2370",
+      "province": "柳州市",
+      "rate": "3.00",
+      "num": "164",
+      "sort": "164",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "柳州市"
+    },
+    {
+      "id": "24454",
+      "school_id": "2370",
+      "province": "南宁市",
+      "rate": "39.34",
+      "num": "2149",
+      "sort": "2149",
+      "update_id": "1988",
+      "update_time": "2025-01-06 11:03:11",
+      "year": "2024",
+      "province_name": "南宁市"
+    }
+  ],
+  "attr": {
+    "其他企业(含民营企\n业等)": "72.50",
+    "其他(含社会组织\n等 )": "8.22",
+    "个体工商户": "4.23",
+    "国有企业": "2.98",
+    "其他事业单位": "2.89",
+    "中初教育单位": "2.05",
+    "机关": "0.93",
+    "外商投资企业": "0.38",
+    "高等教育单位": "0.18",
+    "农村建制村": "0.16",
+    "城镇社区": "0.13",
+    "医疗卫生单位": "0.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2138",
+      "school_id": "2370",
+      "female_num": "4534",
+      "men_num": "2261",
+      "men_rate": "33.27",
+      "female_rate": "66.73",
+      "update_id": "1988",
+      "update_time": "2025-01-06 10:58:00",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "update_time": "2026-04-27 15:50:53",
+  "school_id": "587",
+  "school_name": "首都体育学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "94.75"
+    },
+    "postgraduate": {
+      "1": "6.32"
+    },
+    "abroad": {
+      "1": "4.35"
+    }
+  },
+  "province": [
+    {
+      "id": "22630",
+      "school_id": "587",
+      "province": "东北地区",
+      "rate": "1.29",
+      "num": "13",
+      "sort": "13",
+      "update_id": "2094",
+      "update_time": "2024-09-24 12:00:39",
+      "year": "2023",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "22629",
+      "school_id": "587",
+      "province": "西部地区",
+      "rate": "3.68",
+      "num": "37",
+      "sort": "37",
+      "update_id": "2094",
+      "update_time": "2024-09-24 12:00:39",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22628",
+      "school_id": "587",
+      "province": "中部地区",
+      "rate": "9.35",
+      "num": "94",
+      "sort": "94",
+      "update_id": "2094",
+      "update_time": "2024-09-24 12:00:39",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "22627",
+      "school_id": "587",
+      "province": "东部地区",
+      "rate": "13.63",
+      "num": "137",
+      "sort": "137",
+      "update_id": "2094",
+      "update_time": "2024-09-24 12:00:39",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "22626",
+      "school_id": "587",
+      "province": "北京",
+      "rate": "72.04",
+      "num": "724",
+      "sort": "724",
+      "update_id": "2094",
+      "update_time": "2024-09-24 12:00:39",
+      "year": "2023",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "中初教育单位": "44.47",
+    "其他企业": "34.85",
+    "其他": "6.20",
+    "高等教育单位": "5.89",
+    "机关": "3.00",
+    "其他事业单位": "2.90",
+    "国有企业": "1.65",
+    "医疗卫生单位": "0.83",
+    "科研设计单位": "0.21"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1987",
+      "school_id": "587",
+      "female_num": "497",
+      "men_num": "721",
+      "men_rate": "59.20",
+      "female_rate": "40.80",
+      "update_id": "2094",
+      "update_time": "2024-09-24 11:57:21",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11300"
+  }
+}

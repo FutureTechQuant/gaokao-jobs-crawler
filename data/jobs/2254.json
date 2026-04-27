@@ -1,0 +1,122 @@
+{
+  "update_time": "2026-04-27 16:06:27",
+  "school_id": "2254",
+  "school_name": "陕西科技大学镐京学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "88.78"
+    },
+    "postgraduate": {
+      "1": "1.82"
+    },
+    "abroad": {
+      "1": "0.80"
+    }
+  },
+  "province": [
+    {
+      "id": "26321",
+      "school_id": "2254",
+      "province": "浙江省",
+      "rate": "2.12",
+      "num": "0",
+      "sort": "212",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "26320",
+      "school_id": "2254",
+      "province": "江苏省",
+      "rate": "2.57",
+      "num": "0",
+      "sort": "257",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "26319",
+      "school_id": "2254",
+      "province": "上海市",
+      "rate": "2.57",
+      "num": "0",
+      "sort": "257",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "上海市"
+    },
+    {
+      "id": "26318",
+      "school_id": "2254",
+      "province": "河北省",
+      "rate": "5.13",
+      "num": "0",
+      "sort": "513",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "河北省"
+    },
+    {
+      "id": "26322",
+      "school_id": "2254",
+      "province": "其他地区",
+      "rate": "17.02",
+      "num": "0",
+      "sort": "1702",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "26317",
+      "school_id": "2254",
+      "province": "陕西省",
+      "rate": "70.59",
+      "num": "0",
+      "sort": "7059",
+      "update_id": "1211",
+      "update_time": "2025-01-09 17:54:55",
+      "year": "2021",
+      "province_name": "陕西省"
+    }
+  ],
+  "attr": {
+    "其他企业": "87.45",
+    "国有企业": "6.41",
+    "其他事业单位": "1.60",
+    "机关": "1.27",
+    "高等教育单位": "1.13",
+    "三资企业": "0.93",
+    "中初教育单位": "0.47",
+    "医疗卫生单位": "0.33",
+    "城镇社区": "0.20",
+    "部队": "0.13",
+    "农村建制村": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2233",
+      "school_id": "2254",
+      "female_num": "943",
+      "men_num": "813",
+      "men_rate": "46.30",
+      "female_rate": "53.70",
+      "update_id": "1211",
+      "update_time": "2025-01-09 15:06:03",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

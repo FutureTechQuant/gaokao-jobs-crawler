@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 15:50:42",
+  "school_id": "568",
+  "school_name": "中华女子学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "92.57"
+    },
+    "postgraduate": {
+      "1": "10.39"
+    },
+    "abroad": {
+      "1": "4.14"
+    }
+  },
+  "province": [
+    {
+      "id": "22995",
+      "school_id": "568",
+      "province": "粤港澳大湾区",
+      "rate": "4.32",
+      "num": "23",
+      "sort": "23",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:49:56",
+      "year": "2023",
+      "province_name": "粤港澳大湾区"
+    },
+    {
+      "id": "22994",
+      "school_id": "568",
+      "province": "西部地区",
+      "rate": "10.13",
+      "num": "54",
+      "sort": "54",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:49:56",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22993",
+      "school_id": "568",
+      "province": "黄河流域",
+      "rate": "13.13",
+      "num": "70",
+      "sort": "70",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:49:56",
+      "year": "2023",
+      "province_name": "黄河流域"
+    },
+    {
+      "id": "22991",
+      "school_id": "568",
+      "province": "一带一路地区",
+      "rate": "23.08",
+      "num": "123",
+      "sort": "123",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:49:56",
+      "year": "2023",
+      "province_name": "一带一路地区"
+    },
+    {
+      "id": "22992",
+      "school_id": "568",
+      "province": "长江经济带",
+      "rate": "23.64",
+      "num": "126",
+      "sort": "126",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:49:56",
+      "year": "2023",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "22990",
+      "school_id": "568",
+      "province": "京津翼地区",
+      "rate": "54.60",
+      "num": "291",
+      "sort": "291",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:49:56",
+      "year": "2023",
+      "province_name": "京津翼地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "11300"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:49:35",
+  "school_id": "461",
+  "school_name": "湖北文理学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "88.00"
+    },
+    "postgraduate": {
+      "1": "17.00"
+    },
+    "abroad": {
+      "1": "0.80"
+    }
+  },
+  "province": [
+    {
+      "id": "23189",
+      "school_id": "461",
+      "province": "杭州",
+      "rate": "2.40",
+      "num": "0",
+      "sort": "24",
+      "update_id": "1988",
+      "update_time": "2024-10-08 16:01:56",
+      "year": "2020",
+      "province_name": "杭州"
+    },
+    {
+      "id": "23190",
+      "school_id": "461",
+      "province": "上海",
+      "rate": "3.00",
+      "num": "0",
+      "sort": "30",
+      "update_id": "1988",
+      "update_time": "2024-10-08 16:02:56",
+      "year": "2020",
+      "province_name": "上海"
+    },
+    {
+      "id": "23188",
+      "school_id": "461",
+      "province": "深圳",
+      "rate": "5.90",
+      "num": "0",
+      "sort": "59",
+      "update_id": "1988",
+      "update_time": "2024-10-08 16:01:41",
+      "year": "2020",
+      "province_name": "深圳"
+    },
+    {
+      "id": "23187",
+      "school_id": "461",
+      "province": "武汉",
+      "rate": "17.70",
+      "num": "0",
+      "sort": "177",
+      "update_id": "1988",
+      "update_time": "2024-10-08 16:01:25",
+      "year": "2020",
+      "province_name": "武汉"
+    },
+    {
+      "id": "23186",
+      "school_id": "461",
+      "province": "襄阳",
+      "rate": "25.10",
+      "num": "0",
+      "sort": "251",
+      "update_id": "1988",
+      "update_time": "2024-10-08 16:01:10",
+      "year": "2020",
+      "province_name": "襄阳"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "59.40",
+    "国有企业": "19.60",
+    "政府机构/ 科研或其他事业单位": "16.30",
+    "中外合资/外资/独资": "3.40",
+    "民非组织": "1.40"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2496",
+      "school_id": "461",
+      "female_num": "2758",
+      "men_num": "2257",
+      "men_rate": "45.00",
+      "female_rate": "55.00",
+      "update_id": "2234",
+      "update_time": "2025-11-12 16:08:37",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10700"
+  }
+}

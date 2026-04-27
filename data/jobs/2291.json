@@ -1,0 +1,167 @@
+{
+  "update_time": "2026-04-27 16:06:50",
+  "school_id": "2291",
+  "school_name": "海南外国语职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.07"
+    },
+    "postgraduate": {
+      "1": "21.03"
+    },
+    "abroad": {
+      "1": "1.58"
+    }
+  },
+  "province": [
+    {
+      "id": "32135",
+      "school_id": "2291",
+      "province": "河北省",
+      "rate": "0.67",
+      "num": "0",
+      "sort": "375",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "32134",
+      "school_id": "2291",
+      "province": "江苏省",
+      "rate": "0.82",
+      "num": "0",
+      "sort": "376",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "32133",
+      "school_id": "2291",
+      "province": "福建省",
+      "rate": "1.04",
+      "num": "0",
+      "sort": "377",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "32132",
+      "school_id": "2291",
+      "province": "四川省",
+      "rate": "1.11",
+      "num": "0",
+      "sort": "378",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "32131",
+      "school_id": "2291",
+      "province": "广西壮族自治区",
+      "rate": "1.56",
+      "num": "0",
+      "sort": "379",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "32130",
+      "school_id": "2291",
+      "province": "云南省",
+      "rate": "1.78",
+      "num": "0",
+      "sort": "380",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "32129",
+      "school_id": "2291",
+      "province": "贵州省",
+      "rate": "2.00",
+      "num": "0",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "32128",
+      "school_id": "2291",
+      "province": "上海市",
+      "rate": "4.52",
+      "num": "0",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "32127",
+      "school_id": "2291",
+      "province": "广东省",
+      "rate": "9.71",
+      "num": "0",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "32126",
+      "school_id": "2291",
+      "province": "海南省",
+      "rate": "71.02",
+      "num": "0",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:32:06",
+      "year": "2024",
+      "province_name": "海南省"
+    }
+  ],
+  "attr": {
+    "民营企业": "58.47",
+    "其他（含社会组织等）": "17.33",
+    "其他事业单位": "6.34",
+    "外商投资企业": "6.26",
+    "中初教育单位": "6.03",
+    "个体工商户": "4.43",
+    "国有企业": "0.92",
+    "城镇社区": "0.23"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2762",
+      "school_id": "2291",
+      "female_num": "1557",
+      "men_num": "473",
+      "men_rate": "23.30",
+      "female_rate": "76.70",
+      "update_id": "2156",
+      "update_time": "2025-12-01 14:30:35",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

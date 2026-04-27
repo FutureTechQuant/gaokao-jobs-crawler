@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:12:08",
+  "school_id": "3055",
+  "school_name": "河北中医药大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "84.20"
+    },
+    "postgraduate": {
+      "1": "23.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "25855",
+      "school_id": "3055",
+      "province": "邯郸",
+      "rate": "4.30",
+      "num": "0",
+      "sort": "430",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:42:47",
+      "year": "2021",
+      "province_name": "邯郸"
+    },
+    {
+      "id": "25856",
+      "school_id": "3055",
+      "province": "天津",
+      "rate": "4.30",
+      "num": "0",
+      "sort": "430",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:42:47",
+      "year": "2021",
+      "province_name": "天津"
+    },
+    {
+      "id": "25854",
+      "school_id": "3055",
+      "province": "沧州",
+      "rate": "4.80",
+      "num": "0",
+      "sort": "480",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:42:47",
+      "year": "2021",
+      "province_name": "沧州"
+    },
+    {
+      "id": "25853",
+      "school_id": "3055",
+      "province": "保定",
+      "rate": "7.40",
+      "num": "0",
+      "sort": "740",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:42:47",
+      "year": "2021",
+      "province_name": "保定"
+    },
+    {
+      "id": "25852",
+      "school_id": "3055",
+      "province": "北京",
+      "rate": "18.60",
+      "num": "0",
+      "sort": "1860",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:42:47",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "25851",
+      "school_id": "3055",
+      "province": "石家庄",
+      "rate": "26.00",
+      "num": "0",
+      "sort": "2600",
+      "update_id": "1988",
+      "update_time": "2025-01-09 11:42:47",
+      "year": "2021",
+      "province_name": "石家庄"
+    }
+  ],
+  "attr": {
+    "民营企业": "39.80",
+    "政府机构/科研或其他事业单位": "39.00",
+    "国有企业": "16.70",
+    "中外合资/外资/独资": "3.10",
+    "非政府或非营利组织（NGO等）": "1.40"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "101",
+      "school_id": "3055",
+      "female_num": "1317",
+      "men_num": "536",
+      "men_rate": "28.90",
+      "female_rate": "71.10",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 15:52:54",
+  "school_id": "800",
+  "school_name": "四川交通职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.79"
+    },
+    "postgraduate": {
+      "1": "24.02"
+    },
+    "abroad": {
+      "1": "0.04"
+    }
+  },
+  "province": [
+    {
+      "id": "28827",
+      "school_id": "800",
+      "province": "眉山",
+      "rate": "1.46",
+      "num": "0",
+      "sort": "146",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "眉山"
+    },
+    {
+      "id": "28828",
+      "school_id": "800",
+      "province": "广元",
+      "rate": "1.46",
+      "num": "0",
+      "sort": "146",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "广元"
+    },
+    {
+      "id": "28825",
+      "school_id": "800",
+      "province": "泸州",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "160",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "泸州"
+    },
+    {
+      "id": "28826",
+      "school_id": "800",
+      "province": "绵阳",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "160",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "绵阳"
+    },
+    {
+      "id": "28824",
+      "school_id": "800",
+      "province": "上海",
+      "rate": "1.86",
+      "num": "0",
+      "sort": "186",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "上海"
+    },
+    {
+      "id": "28822",
+      "school_id": "800",
+      "province": "宜宾",
+      "rate": "2.26",
+      "num": "0",
+      "sort": "226",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "宜宾"
+    },
+    {
+      "id": "28823",
+      "school_id": "800",
+      "province": "德阳",
+      "rate": "2.26",
+      "num": "0",
+      "sort": "226",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "德阳"
+    },
+    {
+      "id": "28821",
+      "school_id": "800",
+      "province": "凉山彝族自治州",
+      "rate": "3.46",
+      "num": "0",
+      "sort": "346",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "凉山彝族自治州"
+    },
+    {
+      "id": "28820",
+      "school_id": "800",
+      "province": "重庆",
+      "rate": "3.86",
+      "num": "0",
+      "sort": "386",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "重庆"
+    },
+    {
+      "id": "28819",
+      "school_id": "800",
+      "province": "成都",
+      "rate": "54.12",
+      "num": "0",
+      "sort": "5412",
+      "update_id": "2314",
+      "update_time": "2025-11-12 15:00:39",
+      "year": "2024",
+      "province_name": "成都"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "64.36",
+    "国有企业": "28.99",
+    "中外合资/外资/独资": "3.74",
+    "政府机构/科研或其他事业单位": "2.64",
+    "民非组织": "0.28"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2483",
+      "school_id": "800",
+      "female_num": "1511",
+      "men_num": "3739",
+      "men_rate": "71.22",
+      "female_rate": "28.78",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:54:51",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

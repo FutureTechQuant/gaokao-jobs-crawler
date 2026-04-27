@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:50:24",
+  "school_id": "541",
+  "school_name": "南宁师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.17"
+    },
+    "postgraduate": {
+      "1": "16.44"
+    },
+    "abroad": {
+      "1": "0.18"
+    }
+  },
+  "province": [
+    {
+      "id": "30183",
+      "school_id": "541",
+      "province": "广西省外",
+      "rate": "24.79",
+      "num": "0",
+      "sort": "2479",
+      "update_id": "2314",
+      "update_time": "2025-11-25 15:18:12",
+      "year": "2024",
+      "province_name": "广西省外"
+    },
+    {
+      "id": "30182",
+      "school_id": "541",
+      "province": "广西省内",
+      "rate": "75.21",
+      "num": "0",
+      "sort": "7521",
+      "update_id": "2314",
+      "update_time": "2025-11-25 15:17:43",
+      "year": "2024",
+      "province_name": "广西省内"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "50.97",
+    "民营企业/个体": "35.47",
+    "国有企业": "10.18",
+    "中外合资/外资/独资": "2.14",
+    "民非组织": "1.23"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2597",
+      "school_id": "541",
+      "female_num": "4247",
+      "men_num": "1452",
+      "men_rate": "25.48",
+      "female_rate": "74.52",
+      "update_id": "2314",
+      "update_time": "2025-11-25 15:13:21",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

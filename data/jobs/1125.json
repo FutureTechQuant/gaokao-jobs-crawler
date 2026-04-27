@@ -1,0 +1,82 @@
+{
+  "update_time": "2026-04-27 15:55:50",
+  "school_id": "1125",
+  "school_name": "郑州财经学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "95.66"
+    },
+    "postgraduate": {
+      "1": "2.79"
+    },
+    "abroad": {
+      "1": "0.26"
+    }
+  },
+  "province": [
+    {
+      "id": "22899",
+      "school_id": "1125",
+      "province": "西部地区",
+      "rate": "0.03",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2096",
+      "update_time": "2024-09-25 14:11:43",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22900",
+      "school_id": "1125",
+      "province": "东部地区",
+      "rate": "1.18",
+      "num": "38",
+      "sort": "38",
+      "update_id": "2096",
+      "update_time": "2024-09-25 14:11:43",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "22898",
+      "school_id": "1125",
+      "province": "中部地区",
+      "rate": "98.79",
+      "num": "3182",
+      "sort": "3182",
+      "update_id": "2096",
+      "update_time": "2024-09-25 14:11:43",
+      "year": "2023",
+      "province_name": "中部地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "89.75",
+    "三资企业": "5.85",
+    "国有企业": "2.99",
+    "中初教育单位": "0.63",
+    "其他事业单位": "0.38",
+    "机关": "0.38",
+    "医疗卫生单位": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2006",
+      "school_id": "1125",
+      "female_num": "2505",
+      "men_num": "1689",
+      "men_rate": "40.27",
+      "female_rate": "59.73",
+      "update_id": "2096",
+      "update_time": "2024-09-25 14:10:35",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

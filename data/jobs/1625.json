@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:59:50",
+  "school_id": "1625",
+  "school_name": "兴安职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "16.94"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

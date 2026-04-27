@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:06:34",
+  "school_id": "2267",
+  "school_name": "贵州交通职业大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.51"
+    },
+    "postgraduate": {
+      "1": "13.16"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1237",
+      "school_id": "2267",
+      "female_num": "1082",
+      "men_num": "2869",
+      "men_rate": "72.61",
+      "female_rate": "27.39",
+      "update_id": "825",
+      "update_time": "2021-06-04 15:09:11",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "update_time": "2026-04-27 16:09:58",
+  "school_id": "2615",
+  "school_name": "银川科技学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "86.78"
+    },
+    "postgraduate": {
+      "1": "1.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "24299",
+      "school_id": "2615",
+      "province": "新疆",
+      "rate": "2.25",
+      "num": "39",
+      "sort": "39",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "新疆"
+    },
+    {
+      "id": "24300",
+      "school_id": "2615",
+      "province": "山西",
+      "rate": "2.42",
+      "num": "42",
+      "sort": "42",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "山西"
+    },
+    {
+      "id": "24295",
+      "school_id": "2615",
+      "province": "甘肃",
+      "rate": "2.48",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "甘肃"
+    },
+    {
+      "id": "24298",
+      "school_id": "2615",
+      "province": "河南",
+      "rate": "3.40",
+      "num": "59",
+      "sort": "59",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "河南"
+    },
+    {
+      "id": "24297",
+      "school_id": "2615",
+      "province": "河北",
+      "rate": "4.48",
+      "num": "84",
+      "sort": "84",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "河北"
+    },
+    {
+      "id": "24294",
+      "school_id": "2615",
+      "province": "内蒙古",
+      "rate": "5.71",
+      "num": "99",
+      "sort": "99",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "24296",
+      "school_id": "2615",
+      "province": "陕西",
+      "rate": "9.11",
+      "num": "158",
+      "sort": "158",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "陕西"
+    },
+    {
+      "id": "24301",
+      "school_id": "2615",
+      "province": "其他省市",
+      "rate": "15.63",
+      "num": "271",
+      "sort": "271",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "24293",
+      "school_id": "2615",
+      "province": "宁夏",
+      "rate": "70.01",
+      "num": "1214",
+      "sort": "1214",
+      "update_id": "2094",
+      "update_time": "2025-01-03 13:52:04",
+      "year": "2021",
+      "province_name": "宁夏"
+    }
+  ],
+  "attr": {
+    "其他": "43.80",
+    "其他企业": "35.29",
+    "国有企业": "15.28",
+    "其他事业单位": "2.29",
+    "中初等教育单位": "1.89",
+    "三资企业": "0.70",
+    "机关": "0.55",
+    "城镇社区": "0.20"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2127",
+      "school_id": "2615",
+      "female_num": "1343",
+      "men_num": "1275",
+      "men_rate": "49.00",
+      "female_rate": "51.00",
+      "update_id": "2094",
+      "update_time": "2025-01-03 11:51:47",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

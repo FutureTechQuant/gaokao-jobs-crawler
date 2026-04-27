@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:12:15",
+  "school_id": "3072",
+  "school_name": "四川希望汽车职业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "86.21"
+    },
+    "postgraduate": {
+      "1": "5.39"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27863",
+      "school_id": "3072",
+      "province": "四川",
+      "rate": "48.97",
+      "num": "0",
+      "sort": "4897",
+      "update_id": "2096",
+      "update_time": "2025-07-09 17:32:13",
+      "year": "2021",
+      "province_name": "四川"
+    },
+    {
+      "id": "27864",
+      "school_id": "3072",
+      "province": "省外",
+      "rate": "51.03",
+      "num": "0",
+      "sort": "5103",
+      "update_id": "2096",
+      "update_time": "2025-07-09 17:33:02",
+      "year": "2021",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2377",
+      "school_id": "3072",
+      "female_num": "386",
+      "men_num": "1637",
+      "men_rate": "80.92",
+      "female_rate": "19.80",
+      "update_id": "2096",
+      "update_time": "2025-07-09 17:31:20",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

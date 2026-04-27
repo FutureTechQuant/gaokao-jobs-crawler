@@ -1,0 +1,115 @@
+{
+  "update_time": "2026-04-27 15:49:48",
+  "school_id": "483",
+  "school_name": "兰州理工大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.23"
+    },
+    "postgraduate": {
+      "1": "13.70"
+    },
+    "abroad": {
+      "1": "0.70"
+    }
+  },
+  "province": [
+    {
+      "id": "4707",
+      "school_id": "483",
+      "province": "其他省市",
+      "rate": "70.60",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "4703",
+      "school_id": "483",
+      "province": "深圳市",
+      "rate": "3.40",
+      "num": "181",
+      "sort": "181",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "4702",
+      "school_id": "483",
+      "province": "西安市",
+      "rate": "3.50",
+      "num": "186",
+      "sort": "186",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西安市"
+    },
+    {
+      "id": "4706",
+      "school_id": "483",
+      "province": "北京市",
+      "rate": "4.70",
+      "num": "251",
+      "sort": "251",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "4704",
+      "school_id": "483",
+      "province": "上海市",
+      "rate": "5.80",
+      "num": "309",
+      "sort": "309",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "4705",
+      "school_id": "483",
+      "province": "兰州市",
+      "rate": "12.00",
+      "num": "641",
+      "sort": "641",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "兰州市"
+    }
+  ],
+  "attr": {
+    "国有企业": "52.00",
+    "民营企业、个体经营": "38.00",
+    "中外合资/外资/独资": "6.00",
+    "党政机关、事业单位": "4.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "742",
+      "school_id": "483",
+      "female_num": "1325",
+      "men_num": "4169",
+      "men_rate": "75.88",
+      "female_rate": "24.12",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10100"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "update_time": "2026-04-27 16:13:27",
+  "school_id": "3266",
+  "school_name": "浙江音乐学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.03"
+    },
+    "postgraduate": {
+      "1": "6.72"
+    },
+    "abroad": {
+      "1": "6.85"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1217",
+      "school_id": "3266",
+      "female_num": "614",
+      "men_num": "160",
+      "men_rate": "20.67",
+      "female_rate": "79.33",
+      "update_id": "825",
+      "update_time": "2021-04-02 11:52:53",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

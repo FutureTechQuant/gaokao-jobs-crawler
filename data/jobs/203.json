@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 15:46:37",
+  "school_id": "203",
+  "school_name": "沈阳体育学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "89.68"
+    },
+    "postgraduate": {
+      "1": "5.32"
+    },
+    "abroad": {
+      "1": "0.59"
+    }
+  },
+  "province": [
+    {
+      "id": "22559",
+      "school_id": "203",
+      "province": "长三角地区",
+      "rate": "1.93",
+      "num": "0",
+      "sort": "193",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "22558",
+      "school_id": "203",
+      "province": "珠三角地区",
+      "rate": "3.86",
+      "num": "0",
+      "sort": "386",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "22557",
+      "school_id": "203",
+      "province": "西部地区",
+      "rate": "13.77",
+      "num": "0",
+      "sort": "1377",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22556",
+      "school_id": "203",
+      "province": "京津冀",
+      "rate": "16.43",
+      "num": "0",
+      "sort": "1643",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "京津冀"
+    },
+    {
+      "id": "22555",
+      "school_id": "203",
+      "province": "长江经济带",
+      "rate": "19.57",
+      "num": "0",
+      "sort": "1957",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "22554",
+      "school_id": "203",
+      "province": "新一线城市",
+      "rate": "41.55",
+      "num": "0",
+      "sort": "4155",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "22553",
+      "school_id": "203",
+      "province": "一带一路",
+      "rate": "66.67",
+      "num": "0",
+      "sort": "6667",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:43:09",
+      "year": "2021",
+      "province_name": "一带一路"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "65.23",
+    "政府机构/科研或其他事业单位": "22.08",
+    "国有企业": "9.14",
+    "中外合资/外资/独资": "3.05",
+    "非政府或非营利组织（NGO等）": "0.51"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1981",
+      "school_id": "203",
+      "female_num": "646",
+      "men_num": "1215",
+      "men_rate": "65.28",
+      "female_rate": "34.72",
+      "update_id": "2094",
+      "update_time": "2024-09-24 10:24:05",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "update_time": "2026-04-27 16:10:43",
+  "school_id": "2700",
+  "school_name": "北京经济管理职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.73"
+    },
+    "postgraduate": {
+      "1": "15.31"
+    },
+    "abroad": {
+      "1": "0.32"
+    }
+  },
+  "province": [
+    {
+      "id": "30037",
+      "school_id": "2700",
+      "province": "山东",
+      "rate": "1.44",
+      "num": "0",
+      "sort": "144",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "30035",
+      "school_id": "2700",
+      "province": "辽宁",
+      "rate": "1.57",
+      "num": "0",
+      "sort": "157",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "30036",
+      "school_id": "2700",
+      "province": "河南",
+      "rate": "1.57",
+      "num": "0",
+      "sort": "157",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "河南"
+    },
+    {
+      "id": "30034",
+      "school_id": "2700",
+      "province": "广东",
+      "rate": "1.96",
+      "num": "0",
+      "sort": "196",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "30033",
+      "school_id": "2700",
+      "province": "山西",
+      "rate": "2.61",
+      "num": "0",
+      "sort": "261",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "山西"
+    },
+    {
+      "id": "30032",
+      "school_id": "2700",
+      "province": "河北",
+      "rate": "11.76",
+      "num": "0",
+      "sort": "1176",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "河北"
+    },
+    {
+      "id": "30031",
+      "school_id": "2700",
+      "province": "北京",
+      "rate": "68.37",
+      "num": "0",
+      "sort": "6837",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:44:02",
+      "year": "2024",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "86.96",
+    "个体工商户": "4.35",
+    "外商投资企业": "2.99",
+    "其他（含社会组织等）": "2.85",
+    "国有企业": "1.90",
+    "其他事业单位": "0.68",
+    "中初教育单位": "0.14",
+    "农村建制村": "0.14"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2586",
+      "school_id": "2700",
+      "female_num": "478",
+      "men_num": "469",
+      "men_rate": "49.52",
+      "female_rate": "50.48",
+      "update_id": "2314",
+      "update_time": "2025-11-19 09:29:34",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

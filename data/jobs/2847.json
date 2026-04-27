@@ -1,0 +1,129 @@
+{
+  "update_time": "2026-04-27 16:11:00",
+  "school_id": "2847",
+  "school_name": "华北理工大学冀唐学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.52"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "19357",
+      "school_id": "2847",
+      "province": "东北",
+      "rate": "3.06",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "东北"
+    },
+    {
+      "id": "19356",
+      "school_id": "2847",
+      "province": "西南",
+      "rate": "3.06",
+      "num": "43",
+      "sort": "43",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "西南"
+    },
+    {
+      "id": "19355",
+      "school_id": "2847",
+      "province": "西北",
+      "rate": "3.13",
+      "num": "44",
+      "sort": "44",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "西北"
+    },
+    {
+      "id": "19354",
+      "school_id": "2847",
+      "province": "华北",
+      "rate": "5.98",
+      "num": "84",
+      "sort": "84",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "华北"
+    },
+    {
+      "id": "19353",
+      "school_id": "2847",
+      "province": "北上广津",
+      "rate": "7.19",
+      "num": "101",
+      "sort": "101",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "北上广津"
+    },
+    {
+      "id": "19352",
+      "school_id": "2847",
+      "province": "南部",
+      "rate": "14.45",
+      "num": "203",
+      "sort": "203",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "南部"
+    },
+    {
+      "id": "19351",
+      "school_id": "2847",
+      "province": "河北",
+      "rate": "63.13",
+      "num": "887",
+      "sort": "887",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2022",
+      "province_name": "河北"
+    }
+  ],
+  "attr": {
+    "医疗卫生及相关": "68.16",
+    "其他单位": "17.12",
+    "机关事业单位": "7.49",
+    "国有企业": "1.87",
+    "基层项目": "0.54",
+    "中高等教育单位": "0.33"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1757",
+      "school_id": "2847",
+      "female_num": "1000",
+      "men_num": "495",
+      "men_rate": "37.53",
+      "female_rate": "75.82",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:34",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

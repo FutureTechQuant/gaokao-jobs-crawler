@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-04-27 16:00:33",
+  "school_id": "1702",
+  "school_name": "辽宁理工职业大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "94.22"
+    },
+    "postgraduate": {
+      "1": "12.41"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "20053",
+      "school_id": "1702",
+      "province": "辽宁省外",
+      "rate": "23.91",
+      "num": "0",
+      "sort": "2391",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "辽宁省外"
+    },
+    {
+      "id": "20052",
+      "school_id": "1702",
+      "province": "辽宁省内",
+      "rate": "76.09",
+      "num": "0",
+      "sort": "7609",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "辽宁省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "91.48",
+    "国有企业": "3.69",
+    "其他事业单位": "3.57",
+    "党政机关": "1.25"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1814",
+      "school_id": "1702",
+      "female_num": "763",
+      "men_num": "1332",
+      "men_rate": "63.58",
+      "female_rate": "36.42",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:51",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

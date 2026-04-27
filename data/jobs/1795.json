@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 16:01:32",
+  "school_id": "1795",
+  "school_name": "浙江长征职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.06"
+    },
+    "postgraduate": {
+      "1": "5.01"
+    },
+    "abroad": {
+      "1": "0.17"
+    }
+  },
+  "province": [
+    {
+      "id": "31014",
+      "school_id": "1795",
+      "province": "省外",
+      "rate": "7.05",
+      "num": "451",
+      "sort": "705",
+      "update_id": "2096",
+      "update_time": "2025-11-26 18:23:15",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "31013",
+      "school_id": "1795",
+      "province": "本省",
+      "rate": "92.95",
+      "num": "5948",
+      "sort": "9295",
+      "update_id": "2096",
+      "update_time": "2025-11-26 18:22:10",
+      "year": "2024",
+      "province_name": "本省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

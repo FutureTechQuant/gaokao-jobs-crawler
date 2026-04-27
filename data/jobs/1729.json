@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:00:49",
+  "school_id": "1729",
+  "school_name": "广西科技师范学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "84.25"
+    },
+    "postgraduate": {
+      "1": "4.11"
+    },
+    "abroad": {
+      "1": "0.16"
+    }
+  },
+  "province": [
+    {
+      "id": "20067",
+      "school_id": "1729",
+      "province": "四川",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "11",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "20068",
+      "school_id": "1729",
+      "province": "浙江",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "11",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "20066",
+      "school_id": "1729",
+      "province": "福建",
+      "rate": "1.50",
+      "num": "0",
+      "sort": "15",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "福建"
+    },
+    {
+      "id": "20065",
+      "school_id": "1729",
+      "province": "湖南",
+      "rate": "1.80",
+      "num": "0",
+      "sort": "18",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "湖南"
+    },
+    {
+      "id": "20064",
+      "school_id": "1729",
+      "province": "广东",
+      "rate": "23.80",
+      "num": "0",
+      "sort": "238",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "20063",
+      "school_id": "1729",
+      "province": "广西",
+      "rate": "62.70",
+      "num": "0",
+      "sort": "627",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2022",
+      "province_name": "广西"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "43.00",
+    "政府机构/科研或其他事业单位": "36.00",
+    "国有企业": "13.00",
+    "民办非企业单位（组织）": "5.00",
+    "中外合资/外资/独资": "3.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1817",
+      "school_id": "1729",
+      "female_num": "2346",
+      "men_num": "1172",
+      "men_rate": "33.30",
+      "female_rate": "66.70",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:51",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6600"
+  }
+}

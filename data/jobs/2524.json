@@ -1,0 +1,71 @@
+{
+  "update_time": "2026-04-27 16:09:17",
+  "school_id": "2524",
+  "school_name": "丽江文化旅游学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.62"
+    },
+    "postgraduate": {
+      "1": "0.18"
+    },
+    "abroad": {
+      "1": "0.16"
+    }
+  },
+  "province": [
+    {
+      "id": "8665",
+      "school_id": "2524",
+      "province": "其他省市",
+      "rate": "41.00",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "8666",
+      "school_id": "2524",
+      "province": "云南省",
+      "rate": "59.00",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "云南省"
+    }
+  ],
+  "attr": {
+    "国有企业": "4.83",
+    "中、初教育单位": "4.60",
+    "机关": "3.41",
+    "医疔卫生单位": "0.42",
+    "三资企业": "0.36",
+    "高等教育单位": "0.25",
+    "城镇社区": "0.17",
+    "部队单位": "0.06",
+    "农村建制村": "0.02",
+    "其他": "85.88"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "690",
+      "school_id": "2524",
+      "female_num": "3729",
+      "men_num": "1729",
+      "men_rate": "31.00",
+      "female_rate": "69.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

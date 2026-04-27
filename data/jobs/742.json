@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 15:52:20",
+  "school_id": "742",
+  "school_name": "黑龙江生态工程职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.44"
+    },
+    "postgraduate": {
+      "1": "10.28"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "32535",
+      "school_id": "742",
+      "province": "省外",
+      "rate": "28.46",
+      "num": "0",
+      "sort": "2846",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:17:15",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "32534",
+      "school_id": "742",
+      "province": "黑龙江省",
+      "rate": "71.54",
+      "num": "0",
+      "sort": "7154",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:16:50",
+      "year": "2024",
+      "province_name": "黑龙江省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2793",
+      "school_id": "742",
+      "female_num": "2298",
+      "men_num": "1700",
+      "men_rate": "42.52",
+      "female_rate": "57.48",
+      "update_id": "2096",
+      "update_time": "2025-12-01 17:14:54",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6900"
+  }
+}

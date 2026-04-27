@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 15:50:49",
+  "school_id": "579",
+  "school_name": "中国劳动关系学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "95.28"
+    },
+    "postgraduate": {
+      "1": "10.57"
+    },
+    "abroad": {
+      "1": "3.66"
+    }
+  },
+  "province": [
+    {
+      "id": "22988",
+      "school_id": "579",
+      "province": "中部地区",
+      "rate": "12.35",
+      "num": "177",
+      "sort": "177",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:36:16",
+      "year": "2021",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "22989",
+      "school_id": "579",
+      "province": "西部地区",
+      "rate": "17.03",
+      "num": "244",
+      "sort": "244",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:36:16",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22986",
+      "school_id": "579",
+      "province": "北京",
+      "rate": "38.80",
+      "num": "556",
+      "sort": "556",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:36:16",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "22987",
+      "school_id": "579",
+      "province": "东部地区（含北京）",
+      "rate": "65.81",
+      "num": "943",
+      "sort": "943",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:36:16",
+      "year": "2021",
+      "province_name": "东部地区（含北京）"
+    }
+  ],
+  "attr": {
+    "企业单位": "20.74",
+    "国有企业": "5.37",
+    "党政机关": "3.93",
+    "其他": "69.96"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2011",
+      "school_id": "579",
+      "female_num": "1014",
+      "men_num": "490",
+      "men_rate": "32.58",
+      "female_rate": "67.42",
+      "update_id": "2096",
+      "update_time": "2024-09-26 09:33:43",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12200"
+  }
+}

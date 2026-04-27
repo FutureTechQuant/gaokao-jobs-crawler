@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 16:05:29",
+  "school_id": "2159",
+  "school_name": "昆明冶金职业大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "90.22"
+    },
+    "postgraduate": {
+      "1": "39.92"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "20572",
+      "school_id": "2159",
+      "province": "云南省",
+      "rate": "77.58",
+      "num": "2645",
+      "sort": "2645",
+      "update_id": "2096",
+      "update_time": "2024-09-11 14:17:13",
+      "year": "2021",
+      "province_name": "云南省"
+    },
+    {
+      "id": "20571",
+      "school_id": "2159",
+      "province": "西部地区",
+      "rate": "83.89",
+      "num": "2860",
+      "sort": "2860",
+      "update_id": "2096",
+      "update_time": "2024-09-11 14:17:00",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "20570",
+      "school_id": "2159",
+      "province": "长江经济带",
+      "rate": "89.19",
+      "num": "3041",
+      "sort": "3041",
+      "update_id": "2096",
+      "update_time": "2024-09-11 14:16:40",
+      "year": "2021",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "20569",
+      "school_id": "2159",
+      "province": "一带一路沿线省份",
+      "rate": "92.82",
+      "num": "3165",
+      "sort": "3165",
+      "update_id": "2096",
+      "update_time": "2024-09-11 14:16:25",
+      "year": "2021",
+      "province_name": "一带一路沿线省份"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "64.59",
+    "国有企业": "26.60",
+    "中外合资/外资/独资": "4.47",
+    "政府机构/科研或其他事业单位": "3.71",
+    "非政府或非营利组织（NGO等）": "0.63"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1869",
+      "school_id": "2159",
+      "female_num": "2677",
+      "men_num": "4838",
+      "men_rate": "64.38",
+      "female_rate": "35.62",
+      "update_id": "2096",
+      "update_time": "2024-09-11 11:13:17",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

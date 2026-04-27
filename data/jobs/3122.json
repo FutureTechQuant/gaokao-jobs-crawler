@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:12:37",
+  "school_id": "3122",
+  "school_name": "大连理工大学（盘锦校区）",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "89.45"
+    },
+    "postgraduate": {
+      "1": "31.49"
+    },
+    "abroad": {
+      "1": "10.55"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "11400"
+  }
+}

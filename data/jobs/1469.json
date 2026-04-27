@@ -1,0 +1,209 @@
+{
+  "update_time": "2026-04-27 15:58:29",
+  "school_id": "1469",
+  "school_name": "上海视觉艺术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.62"
+    },
+    "postgraduate": {
+      "1": "1.26"
+    },
+    "abroad": {
+      "1": "12.94"
+    }
+  },
+  "province": [
+    {
+      "id": "30508",
+      "school_id": "1469",
+      "province": "黑龙江",
+      "rate": "1.13",
+      "num": "10",
+      "sort": "372",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "黑龙江"
+    },
+    {
+      "id": "30507",
+      "school_id": "1469",
+      "province": "四川",
+      "rate": "1.13",
+      "num": "10",
+      "sort": "373",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "四川"
+    },
+    {
+      "id": "30506",
+      "school_id": "1469",
+      "province": "江西",
+      "rate": "1.24",
+      "num": "11",
+      "sort": "374",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "江西"
+    },
+    {
+      "id": "30505",
+      "school_id": "1469",
+      "province": "辽宁",
+      "rate": "1.24",
+      "num": "11",
+      "sort": "375",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "30504",
+      "school_id": "1469",
+      "province": "河南",
+      "rate": "1.36",
+      "num": "12",
+      "sort": "376",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "河南"
+    },
+    {
+      "id": "30503",
+      "school_id": "1469",
+      "province": "湖南",
+      "rate": "1.36",
+      "num": "12",
+      "sort": "377",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "湖南"
+    },
+    {
+      "id": "30502",
+      "school_id": "1469",
+      "province": "北京",
+      "rate": "1.47",
+      "num": "13",
+      "sort": "378",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "30501",
+      "school_id": "1469",
+      "province": "安徽",
+      "rate": "2.38",
+      "num": "21",
+      "sort": "379",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "安徽"
+    },
+    {
+      "id": "30500",
+      "school_id": "1469",
+      "province": "山东",
+      "rate": "2.38",
+      "num": "21",
+      "sort": "380",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "30499",
+      "school_id": "1469",
+      "province": "广东",
+      "rate": "2.38",
+      "num": "21",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "30498",
+      "school_id": "1469",
+      "province": "江苏",
+      "rate": "2.94",
+      "num": "26",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "30497",
+      "school_id": "1469",
+      "province": "浙江",
+      "rate": "8.03",
+      "num": "71",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "30496",
+      "school_id": "1469",
+      "province": "上海",
+      "rate": "67.87",
+      "num": "600",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:46:36",
+      "year": "2024",
+      "province_name": "上海"
+    }
+  ],
+  "attr": {
+    "中小企业": "53.44",
+    "其他灵活就业": "24.45",
+    "其他企业": "13.39",
+    "国有企业": "3.56",
+    "其他事业单位": "1.60",
+    "三资企业": "1.23",
+    "自主创业": "0.98",
+    "部队": "0.37",
+    "科技创业": "0.25",
+    "党政机关": "0.25",
+    "自由职业": "0.12",
+    "三支一扶（国家）": "0.12",
+    "医疗卫生单位": "0.12",
+    "科研助理、管理助理": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2623",
+      "school_id": "1469",
+      "female_num": "782",
+      "men_num": "331",
+      "men_rate": "29.74",
+      "female_rate": "70.26",
+      "update_id": "2156",
+      "update_time": "2025-11-26 11:40:55",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

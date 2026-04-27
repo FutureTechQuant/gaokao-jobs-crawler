@@ -1,0 +1,212 @@
+{
+  "update_time": "2026-04-27 16:01:37",
+  "school_id": "1803",
+  "school_name": "马鞍山师范高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.46"
+    },
+    "postgraduate": {
+      "1": "42.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30457",
+      "school_id": "1803",
+      "province": "宿州市",
+      "rate": "3.13",
+      "num": "0",
+      "sort": "370",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "宿州市"
+    },
+    {
+      "id": "30456",
+      "school_id": "1803",
+      "province": "安庆市",
+      "rate": "3.13",
+      "num": "0",
+      "sort": "371",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "安庆市"
+    },
+    {
+      "id": "30455",
+      "school_id": "1803",
+      "province": "滁州市",
+      "rate": "3.65",
+      "num": "0",
+      "sort": "372",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "滁州市"
+    },
+    {
+      "id": "30454",
+      "school_id": "1803",
+      "province": "六安市",
+      "rate": "3.83",
+      "num": "0",
+      "sort": "373",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "六安市"
+    },
+    {
+      "id": "30453",
+      "school_id": "1803",
+      "province": "芜湖市",
+      "rate": "4.17",
+      "num": "0",
+      "sort": "374",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "芜湖市"
+    },
+    {
+      "id": "30452",
+      "school_id": "1803",
+      "province": "南京市",
+      "rate": "4.35",
+      "num": "0",
+      "sort": "375",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "南京市"
+    },
+    {
+      "id": "30451",
+      "school_id": "1803",
+      "province": "亳州市",
+      "rate": "6.26",
+      "num": "0",
+      "sort": "376",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "亳州市"
+    },
+    {
+      "id": "30450",
+      "school_id": "1803",
+      "province": "阜阳市",
+      "rate": "10.61",
+      "num": "0",
+      "sort": "377",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "阜阳市"
+    },
+    {
+      "id": "30449",
+      "school_id": "1803",
+      "province": "马鞍山市",
+      "rate": "16.35",
+      "num": "0",
+      "sort": "378",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "马鞍山市"
+    },
+    {
+      "id": "30448",
+      "school_id": "1803",
+      "province": "合肥市",
+      "rate": "19.13",
+      "num": "0",
+      "sort": "379",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "合肥市"
+    },
+    {
+      "id": "30447",
+      "school_id": "1803",
+      "province": "广东省",
+      "rate": "1.04",
+      "num": "0",
+      "sort": "380",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30446",
+      "school_id": "1803",
+      "province": "上海市",
+      "rate": "3.48",
+      "num": "0",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30445",
+      "school_id": "1803",
+      "province": "浙江省",
+      "rate": "4.70",
+      "num": "0",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30444",
+      "school_id": "1803",
+      "province": "江苏省",
+      "rate": "7.83",
+      "num": "0",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "30443",
+      "school_id": "1803",
+      "province": "安徽省",
+      "rate": "80.70",
+      "num": "0",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-11-26 10:59:59",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个体": "69.22",
+    "政府机构 / 科研或其他事业单位": "19.22",
+    "国有企业": "8.54",
+    "中外合资 / 外资 / 独资": "2.31",
+    "民非组织": "0.71"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

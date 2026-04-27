@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 15:49:10",
+  "school_id": "426",
+  "school_name": "哈尔滨理工大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.54"
+    },
+    "postgraduate": {
+      "1": "12.88"
+    },
+    "abroad": {
+      "1": "1.27"
+    }
+  },
+  "province": [
+    {
+      "id": "22393",
+      "school_id": "426",
+      "province": "长三角地区",
+      "rate": "24.95",
+      "num": "0",
+      "sort": "94",
+      "update_id": "1988",
+      "update_time": "2024-09-23 17:20:33",
+      "year": "2021",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "22392",
+      "school_id": "426",
+      "province": "新一线城市",
+      "rate": "27.04",
+      "num": "0",
+      "sort": "95",
+      "update_id": "1988",
+      "update_time": "2024-09-23 17:20:33",
+      "year": "2021",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "22391",
+      "school_id": "426",
+      "province": "长江经济带",
+      "rate": "33.17",
+      "num": "0",
+      "sort": "96",
+      "update_id": "1988",
+      "update_time": "2024-09-23 17:20:33",
+      "year": "2021",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "22390",
+      "school_id": "426",
+      "province": "一带一路地区",
+      "rate": "53.59",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2024-09-23 17:20:33",
+      "year": "2021",
+      "province_name": "一带一路地区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "53.60",
+    "国有企业": "31.57",
+    "中外合资/外资/独资": "8.47",
+    "政府机构/科研或其他事业单位": "6.14",
+    "非政府或非营利组织（NGO等）": "0.21"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1970",
+      "school_id": "426",
+      "female_num": "2258",
+      "men_num": "4874",
+      "men_rate": "68.34",
+      "female_rate": "31.66",
+      "update_id": "1988",
+      "update_time": "2024-09-23 17:24:56",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11800"
+  }
+}

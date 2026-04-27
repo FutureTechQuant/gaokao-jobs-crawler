@@ -1,0 +1,27 @@
+{
+  "update_time": "2026-04-27 15:59:55",
+  "school_id": "1633",
+  "school_name": "内蒙古科技职业学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2450",
+      "school_id": "1633",
+      "female_num": "196",
+      "men_num": "100",
+      "men_rate": "33.80",
+      "female_rate": "66.20",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:18:54",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "update_time": "2026-04-27 16:09:46",
+  "school_id": "2569",
+  "school_name": "贵州职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.79"
+    },
+    "postgraduate": {
+      "1": "8.28"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "9840",
+      "school_id": "2569",
+      "province": "省内",
+      "rate": "90.14",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "省内"
+    },
+    {
+      "id": "9841",
+      "school_id": "2569",
+      "province": "广东省",
+      "rate": "1.98",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "9842",
+      "school_id": "2569",
+      "province": "福建省",
+      "rate": "1.82",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "9843",
+      "school_id": "2569",
+      "province": "浙江省",
+      "rate": "1.56",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "9844",
+      "school_id": "2569",
+      "province": "其他地区",
+      "rate": "4.50",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "其他地区"
+    }
+  ],
+  "attr": {
+    "其他": "89.73",
+    "国有企业": "7.27",
+    "机关": "2.10",
+    "三资企业": "0.90"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "868",
+      "school_id": "2569",
+      "female_num": "1191",
+      "men_num": "1211",
+      "men_rate": "50.42",
+      "female_rate": "49.58",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

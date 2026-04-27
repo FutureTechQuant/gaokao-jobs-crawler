@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 16:10:58",
+  "school_id": "2843",
+  "school_name": "南昌工学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "89.77"
+    },
+    "postgraduate": {
+      "1": "0.50"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "4958",
+      "school_id": "2843",
+      "province": "东北地区",
+      "rate": "2.17",
+      "num": "54",
+      "sort": "54",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "4952",
+      "school_id": "2843",
+      "province": "中部地区",
+      "rate": "2.81",
+      "num": "71",
+      "sort": "71",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "4957",
+      "school_id": "2843",
+      "province": "泛渤海湾地区",
+      "rate": "9.40",
+      "num": "236",
+      "sort": "236",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "泛渤海湾地区"
+    },
+    {
+      "id": "4955",
+      "school_id": "2843",
+      "province": "泛珠江三角洲地区",
+      "rate": "11.33",
+      "num": "284",
+      "sort": "284",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "泛珠江三角洲地区"
+    },
+    {
+      "id": "4954",
+      "school_id": "2843",
+      "province": "西北地区",
+      "rate": "15.42",
+      "num": "387",
+      "sort": "387",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "4953",
+      "school_id": "2843",
+      "province": "西南地区",
+      "rate": "25.78",
+      "num": "647",
+      "sort": "647",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "4956",
+      "school_id": "2843",
+      "province": "泛长江三角洲地区",
+      "rate": "33.09",
+      "num": "830",
+      "sort": "830",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "泛长江三角洲地区"
+    }
+  ],
+  "attr": {
+    "国有企业": "10.64",
+    "机关": "10.08",
+    "中、初教育单位": "1.16",
+    "三资企业": "1.12",
+    "医疔卫生单位": "0.92",
+    "高等教育单位": "0.60",
+    "农村建制村": "0.56",
+    "城镇社区": "0.52",
+    "科研单位": "0.08",
+    "其他": "74.32"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "373",
+      "school_id": "2843",
+      "female_num": "1700",
+      "men_num": "3111",
+      "men_rate": "64.66",
+      "female_rate": "35.34",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

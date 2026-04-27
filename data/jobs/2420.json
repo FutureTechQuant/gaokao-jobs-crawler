@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 16:08:10",
+  "school_id": "2420",
+  "school_name": "安徽现代信息工程职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.05"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30017",
+      "school_id": "2420",
+      "province": "山东省",
+      "rate": "2.66",
+      "num": "0",
+      "sort": "266",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:56:41",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "30016",
+      "school_id": "2420",
+      "province": "河北",
+      "rate": "2.90",
+      "num": "0",
+      "sort": "290",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:56:41",
+      "year": "2024",
+      "province_name": "河北"
+    },
+    {
+      "id": "30018",
+      "school_id": "2420",
+      "province": "其他",
+      "rate": "10.06",
+      "num": "0",
+      "sort": "1006",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:56:41",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "30015",
+      "school_id": "2420",
+      "province": "浙江",
+      "rate": "15.06",
+      "num": "0",
+      "sort": "1506",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:56:41",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "30014",
+      "school_id": "2420",
+      "province": "安徽",
+      "rate": "69.32",
+      "num": "0",
+      "sort": "6932",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:56:41",
+      "year": "2024",
+      "province_name": "安徽"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2584",
+      "school_id": "2420",
+      "female_num": "416",
+      "men_num": "2472",
+      "men_rate": "85.59",
+      "female_rate": "14.40",
+      "update_id": "2314",
+      "update_time": "2025-11-18 16:53:40",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:51:44",
+  "school_id": "684",
+  "school_name": "上海兴伟学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "97.00"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "13.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1482",
+      "school_id": "684",
+      "female_num": "16",
+      "men_num": "15",
+      "men_rate": "48.00",
+      "female_rate": "52.00",
+      "update_id": "1721",
+      "update_time": "2024-06-04 16:38:34",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

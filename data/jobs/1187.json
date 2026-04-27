@@ -1,0 +1,167 @@
+{
+  "update_time": "2026-04-27 15:56:29",
+  "school_id": "1187",
+  "school_name": "鹤壁职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.16"
+    },
+    "postgraduate": {
+      "1": "14.26"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10420",
+      "school_id": "1187",
+      "province": "河南省",
+      "rate": "70.21",
+      "num": "3349",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "河南省"
+    },
+    {
+      "id": "10421",
+      "school_id": "1187",
+      "province": "上海市",
+      "rate": "5.67",
+      "num": "270",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "10422",
+      "school_id": "1187",
+      "province": "广东省",
+      "rate": "5.44",
+      "num": "259",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "10423",
+      "school_id": "1187",
+      "province": "浙江省",
+      "rate": "5.44",
+      "num": "259",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "10424",
+      "school_id": "1187",
+      "province": "北京",
+      "rate": "2.84",
+      "num": "135",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "北京"
+    },
+    {
+      "id": "10425",
+      "school_id": "1187",
+      "province": "新疆",
+      "rate": "2.36",
+      "num": "112",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "新疆"
+    },
+    {
+      "id": "10426",
+      "school_id": "1187",
+      "province": "江苏",
+      "rate": "1.42",
+      "num": "67",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "江苏"
+    },
+    {
+      "id": "10427",
+      "school_id": "1187",
+      "province": "甘肃",
+      "rate": "1.18",
+      "num": "56",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "甘肃"
+    },
+    {
+      "id": "10428",
+      "school_id": "1187",
+      "province": "山东",
+      "rate": "1.18",
+      "num": "56",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "山东"
+    },
+    {
+      "id": "10429",
+      "school_id": "1187",
+      "province": "其他",
+      "rate": "4.33",
+      "num": "207",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:38:11",
+      "year": "2019",
+      "province_name": "其他"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "38.30",
+    "民营企业": "22.70",
+    "其他企业": "9.22",
+    "中初教育单位": "6.62",
+    "其他事业单位": "6.38",
+    "国有企业": "2.60",
+    "党政机关": "1.89",
+    "城镇社区": "1.65"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "923",
+      "school_id": "1187",
+      "female_num": "3115",
+      "men_num": "1655",
+      "men_rate": "34.70",
+      "female_rate": "65.30",
+      "update_id": "825",
+      "update_time": "2020-06-29 15:29:45",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

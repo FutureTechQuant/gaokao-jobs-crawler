@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 15:58:01",
+  "school_id": "1398",
+  "school_name": "燕京理工学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.66"
+    },
+    "postgraduate": {
+      "1": "1.25"
+    },
+    "abroad": {
+      "1": "0.73"
+    }
+  },
+  "province": [
+    {
+      "id": "17988",
+      "school_id": "1398",
+      "province": "河北省内非家乡所在地(不含燕郊)",
+      "rate": "7.45",
+      "num": "0",
+      "sort": "9",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "河北省内非家乡所在地(不含燕郊)"
+    },
+    {
+      "id": "17989",
+      "school_id": "1398",
+      "province": "河北省内家乡所在地(不含燕郊)",
+      "rate": "40.39",
+      "num": "0",
+      "sort": "10",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "河北省内家乡所在地(不含燕郊)"
+    },
+    {
+      "id": "17992",
+      "school_id": "1398",
+      "province": "天津",
+      "rate": "5.45",
+      "num": "0",
+      "sort": "545",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "天津"
+    },
+    {
+      "id": "17991",
+      "school_id": "1398",
+      "province": "燕郊",
+      "rate": "5.93",
+      "num": "0",
+      "sort": "593",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "燕郊"
+    },
+    {
+      "id": "17993",
+      "school_id": "1398",
+      "province": "京津冀以外地区",
+      "rate": "14.12",
+      "num": "0",
+      "sort": "1412",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "京津冀以外地区"
+    },
+    {
+      "id": "17990",
+      "school_id": "1398",
+      "province": "北京",
+      "rate": "26.67",
+      "num": "0",
+      "sort": "2667",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "18829",
+      "school_id": "1398",
+      "province": "河北省",
+      "rate": "53.77",
+      "num": "0",
+      "sort": "5377",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2022",
+      "province_name": "河北省"
+    }
+  ],
+  "attr": {
+    "非公企业": "82.64",
+    "事业单位": "8.47",
+    "国企": "5.28",
+    "基层项目": "0.91",
+    "机关": "2.70"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1656",
+      "school_id": "1398",
+      "female_num": "3786",
+      "men_num": "2763",
+      "men_rate": "42.19",
+      "female_rate": "57.81",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:16",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

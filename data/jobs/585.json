@@ -1,0 +1,93 @@
+{
+  "update_time": "2026-04-27 15:50:52",
+  "school_id": "585",
+  "school_name": "北京舞蹈学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.07"
+    },
+    "postgraduate": {
+      "1": "5.56"
+    },
+    "abroad": {
+      "1": "1.96"
+    }
+  },
+  "province": [
+    {
+      "id": "597",
+      "school_id": "585",
+      "province": "其他直辖市",
+      "rate": "18.90",
+      "num": "53",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他直辖市"
+    },
+    {
+      "id": "598",
+      "school_id": "585",
+      "province": "其他省市或地区",
+      "rate": "47.20",
+      "num": "133",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市或地区"
+    },
+    {
+      "id": "596",
+      "school_id": "585",
+      "province": "沿海地区",
+      "rate": "15.10",
+      "num": "43",
+      "sort": "43",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "沿海地区"
+    },
+    {
+      "id": "599",
+      "school_id": "585",
+      "province": "北京市",
+      "rate": "18.80",
+      "num": "53",
+      "sort": "53",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {
+    "高等教育单位": "28.57",
+    "民营企业": "28.57",
+    "国有企业": "17.86",
+    "基层单位": "3.57",
+    "党政机关": "3.57",
+    "其他": "17.86"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "27",
+      "school_id": "585",
+      "female_num": "194",
+      "men_num": "117",
+      "men_rate": "37.60",
+      "female_rate": "62.40",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

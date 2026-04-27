@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 15:50:45",
+  "school_id": "572",
+  "school_name": "北京建筑大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "96.45"
+    },
+    "postgraduate": {
+      "1": "19.97"
+    },
+    "abroad": {
+      "1": "5.79"
+    }
+  },
+  "province": [
+    {
+      "id": "11850",
+      "school_id": "572",
+      "province": "东北地区",
+      "rate": "0.62",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2024-09-13 17:39:37",
+      "year": "2021",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "11848",
+      "school_id": "572",
+      "province": "中部地区",
+      "rate": "5.04",
+      "num": "89",
+      "sort": "89",
+      "update_id": "1988",
+      "update_time": "2024-09-13 17:39:18",
+      "year": "2021",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "11849",
+      "school_id": "572",
+      "province": "西部地区",
+      "rate": "7.24",
+      "num": "128",
+      "sort": "128",
+      "update_id": "1988",
+      "update_time": "2024-09-13 17:39:26",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "11847",
+      "school_id": "572",
+      "province": "东部地区",
+      "rate": "14.88",
+      "num": "263",
+      "sort": "263",
+      "update_id": "1988",
+      "update_time": "2024-09-13 17:39:09",
+      "year": "2021",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "478",
+      "school_id": "572",
+      "province": "北京",
+      "rate": "72.21",
+      "num": "1276",
+      "sort": "1276",
+      "update_id": "1988",
+      "update_time": "2024-09-13 17:38:58",
+      "year": "2021",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "国有企业": "52.45",
+    "其他企业": "23.42",
+    "事业单位": "8.41",
+    "机关": "5.02",
+    "三资企业": "2.22",
+    "其他": "8.47"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1049",
+      "school_id": "572",
+      "female_num": "1015",
+      "men_num": "1489",
+      "men_rate": "59.46",
+      "female_rate": "40.54",
+      "update_id": "929",
+      "update_time": "2021-03-31 18:01:15",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "12700"
+  }
+}

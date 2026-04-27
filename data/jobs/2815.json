@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:10:46",
+  "school_id": "2815",
+  "school_name": "陕西学前师范学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "83.15"
+    },
+    "postgraduate": {
+      "1": "4.68"
+    },
+    "abroad": {
+      "1": "0.37"
+    }
+  },
+  "province": [
+    {
+      "id": "20149",
+      "school_id": "2815",
+      "province": "陕西省外",
+      "rate": "21.08",
+      "num": "0",
+      "sort": "2108",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "陕西省外"
+    },
+    {
+      "id": "20148",
+      "school_id": "2815",
+      "province": "陕西省内",
+      "rate": "78.92",
+      "num": "0",
+      "sort": "7892",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "陕西省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "46.94",
+    "国有企业": "10.43",
+    "政府机构/科研或其他事业单位": "39.20",
+    "民非组织": "1.79",
+    "中外合资/外资/独资": "1.64"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1823",
+      "school_id": "2815",
+      "female_num": "2742",
+      "men_num": "505",
+      "men_rate": "15.55",
+      "female_rate": "84.45",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

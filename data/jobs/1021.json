@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:55:01",
+  "school_id": "1021",
+  "school_name": "福建中医药大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "91.53"
+    },
+    "postgraduate": {
+      "1": "23.94"
+    },
+    "abroad": {
+      "1": "0.37"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "10200"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:00:30",
+  "school_id": "1697",
+  "school_name": "沈阳工学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "88.85"
+    },
+    "postgraduate": {
+      "1": "11.74"
+    },
+    "abroad": {
+      "1": "0.02"
+    }
+  },
+  "province": [
+    {
+      "id": "18615",
+      "school_id": "1697",
+      "province": "一带一路",
+      "rate": "79.90",
+      "num": "0",
+      "sort": "799",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "一带一路"
+    },
+    {
+      "id": "18616",
+      "school_id": "1697",
+      "province": "东北地区",
+      "rate": "71.03",
+      "num": "0",
+      "sort": "7103",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2023",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "66.83",
+    "国有企业": "21.27",
+    "中外合资/外资/独资": "4.92",
+    "政府机构/科研或其他事业单位": "6.70"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1697",
+      "school_id": "1697",
+      "female_num": "2122",
+      "men_num": "3441",
+      "men_rate": "61.86",
+      "female_rate": "38.14",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:54",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7100"
+  }
+}

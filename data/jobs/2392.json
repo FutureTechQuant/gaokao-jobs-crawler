@@ -1,0 +1,69 @@
+{
+  "update_time": "2026-04-27 16:07:50",
+  "school_id": "2392",
+  "school_name": "绍兴理工学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "91.68"
+    },
+    "postgraduate": {
+      "1": "5.40"
+    },
+    "abroad": {
+      "1": "0.72"
+    }
+  },
+  "province": [
+    {
+      "id": "20185",
+      "school_id": "2392",
+      "province": "浙江省外",
+      "rate": "18.49",
+      "num": "493",
+      "sort": "493",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "浙江省外"
+    },
+    {
+      "id": "20184",
+      "school_id": "2392",
+      "province": "浙江省内",
+      "rate": "74.57",
+      "num": "1988",
+      "sort": "1988",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "浙江省内"
+    }
+  ],
+  "attr": {
+    "企业就业": "76.20",
+    "待就业": "8.32",
+    "事业单位就业": "7.08",
+    "政府机构就业": "1.41",
+    "自主创业": "0.65",
+    "应征义务兵": "0.21"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1827",
+      "school_id": "2392",
+      "female_num": "1786",
+      "men_num": "1122",
+      "men_rate": "38.58",
+      "female_rate": "61.42",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9000"
+  }
+}

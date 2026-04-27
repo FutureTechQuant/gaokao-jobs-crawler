@@ -1,0 +1,48 @@
+{
+  "update_time": "2026-04-27 16:16:36",
+  "school_id": "3614",
+  "school_name": "常州幼儿师范高等专科学校",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "95.63"
+    },
+    "postgraduate": {
+      "1": "21.88"
+    },
+    "abroad": {
+      "1": "1.04"
+    }
+  },
+  "province": [
+    {
+      "id": "27712",
+      "school_id": "3614",
+      "province": "江苏省",
+      "rate": "93.72",
+      "num": "0",
+      "sort": "9372",
+      "update_id": "1211",
+      "update_time": "2025-07-08 14:23:47",
+      "year": "2023",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2355",
+      "school_id": "3614",
+      "female_num": "457",
+      "men_num": "23",
+      "men_rate": "4.79",
+      "female_rate": "95.21",
+      "update_id": "1211",
+      "update_time": "2025-07-08 14:22:56",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

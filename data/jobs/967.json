@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 15:54:28",
+  "school_id": "967",
+  "school_name": "广州航海学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.70"
+    },
+    "postgraduate": {
+      "1": "4.87"
+    },
+    "abroad": {
+      "1": "1.65"
+    }
+  },
+  "province": [
+    {
+      "id": "24590",
+      "school_id": "967",
+      "province": "广西壮族自治区",
+      "rate": "0.44",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "24588",
+      "school_id": "967",
+      "province": "天津市",
+      "rate": "0.48",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "天津市"
+    },
+    {
+      "id": "24586",
+      "school_id": "967",
+      "province": "辽宁省",
+      "rate": "0.73",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "24584",
+      "school_id": "967",
+      "province": "北京市",
+      "rate": "0.73",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "24582",
+      "school_id": "967",
+      "province": "山东省",
+      "rate": "0.77",
+      "num": "19",
+      "sort": "19",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "山东省"
+    },
+    {
+      "id": "24589",
+      "school_id": "967",
+      "province": "浙江省",
+      "rate": "0.97",
+      "num": "24",
+      "sort": "24",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "24587",
+      "school_id": "967",
+      "province": "湖北省",
+      "rate": "1.37",
+      "num": "34",
+      "sort": "34",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "24585",
+      "school_id": "967",
+      "province": "福建省",
+      "rate": "1.37",
+      "num": "34",
+      "sort": "34",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "福建省"
+    },
+    {
+      "id": "24583",
+      "school_id": "967",
+      "province": "江苏省",
+      "rate": "2.06",
+      "num": "51",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:08:30",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "24581",
+      "school_id": "967",
+      "province": "上海市",
+      "rate": "2.82",
+      "num": "70",
+      "sort": "70",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:05:43",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "24580",
+      "school_id": "967",
+      "province": "广东省内",
+      "rate": "83.01",
+      "num": "0",
+      "sort": "8301",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:04:51",
+      "year": "2023",
+      "province_name": "广东省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "68.03",
+    "国有企业": "23.72",
+    "国家机关": "2.47",
+    "其他事业单位": "1.66",
+    "国家地方项目": "1.28",
+    "自主创业": "0.85",
+    "普教系统": "0.43",
+    "社会团体": "0.43",
+    "政法系统": "0.33",
+    "高等院校": "0.14",
+    "党群系统": "0.14",
+    "农村与城镇社区": "0.14",
+    "科研设计单位": "0.09",
+    "医疗卫生单位": "0.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2145",
+      "school_id": "967",
+      "female_num": "990",
+      "men_num": "1742",
+      "men_rate": "63.76",
+      "female_rate": "36.24",
+      "update_id": "1988",
+      "update_time": "2025-01-06 14:03:59",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

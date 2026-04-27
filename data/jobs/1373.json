@@ -1,0 +1,107 @@
+{
+  "update_time": "2026-04-27 15:57:52",
+  "school_id": "1373",
+  "school_name": "吉林动画学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "90.61"
+    },
+    "postgraduate": {
+      "1": "1.03"
+    },
+    "abroad": {
+      "1": "0.23"
+    }
+  },
+  "province": [
+    {
+      "id": "21291",
+      "school_id": "1373",
+      "province": "其他地区",
+      "rate": "9.82",
+      "num": "0",
+      "sort": "982",
+      "update_id": "2094",
+      "update_time": "2024-09-14 14:22:02",
+      "year": "2022",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "21290",
+      "school_id": "1373",
+      "province": "华南地区",
+      "rate": "12.39",
+      "num": "0",
+      "sort": "1239",
+      "update_id": "2094",
+      "update_time": "2024-09-14 14:22:02",
+      "year": "2022",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "21288",
+      "school_id": "1373",
+      "province": "华北地区",
+      "rate": "19.80",
+      "num": "0",
+      "sort": "1980",
+      "update_id": "2094",
+      "update_time": "2024-09-14 14:22:02",
+      "year": "2022",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "21289",
+      "school_id": "1373",
+      "province": "华东地区",
+      "rate": "28.90",
+      "num": "0",
+      "sort": "2890",
+      "update_id": "2094",
+      "update_time": "2024-09-14 14:22:02",
+      "year": "2022",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "21287",
+      "school_id": "1373",
+      "province": "东北地区",
+      "rate": "29.09",
+      "num": "0",
+      "sort": "2909",
+      "update_id": "2094",
+      "update_time": "2024-09-14 14:22:02",
+      "year": "2022",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "93.34",
+    "国有企业": "2.18",
+    "三资企业": "1.87",
+    "其他事业单位": "0.74",
+    "机关": "0.55",
+    "中初教育单位": "0.47",
+    "城镇社区": "0.35",
+    "医疗卫生单位": "0.19"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1907",
+      "school_id": "1373",
+      "female_num": "1572",
+      "men_num": "1539",
+      "men_rate": "49.50",
+      "female_rate": "50.50",
+      "update_id": "2094",
+      "update_time": "2024-09-14 14:16:01",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11600"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "update_time": "2026-04-27 15:50:38",
+  "school_id": "562",
+  "school_name": "中央戏剧学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "100.00"
+    },
+    "postgraduate": {
+      "1": "11.00"
+    },
+    "abroad": {
+      "1": "8.00"
+    }
+  },
+  "province": [
+    {
+      "id": "23939",
+      "school_id": "562",
+      "province": "郑州",
+      "rate": "0.56",
+      "num": "4",
+      "sort": "4",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "郑州"
+    },
+    {
+      "id": "23938",
+      "school_id": "562",
+      "province": "沈阳",
+      "rate": "0.70",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "沈阳"
+    },
+    {
+      "id": "23937",
+      "school_id": "562",
+      "province": "青岛",
+      "rate": "0.70",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "青岛"
+    },
+    {
+      "id": "23936",
+      "school_id": "562",
+      "province": "西安",
+      "rate": "0.70",
+      "num": "5",
+      "sort": "5",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "西安"
+    },
+    {
+      "id": "23935",
+      "school_id": "562",
+      "province": "成都",
+      "rate": "0.84",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "成都"
+    },
+    {
+      "id": "23934",
+      "school_id": "562",
+      "province": "杭州",
+      "rate": "1.11",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "杭州"
+    },
+    {
+      "id": "23933",
+      "school_id": "562",
+      "province": "济南",
+      "rate": "1.11",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "济南"
+    },
+    {
+      "id": "23932",
+      "school_id": "562",
+      "province": "广州",
+      "rate": "1.39",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "广州"
+    },
+    {
+      "id": "23931",
+      "school_id": "562",
+      "province": "长沙",
+      "rate": "1.53",
+      "num": "11",
+      "sort": "11",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "长沙"
+    },
+    {
+      "id": "23930",
+      "school_id": "562",
+      "province": "深圳",
+      "rate": "1.81",
+      "num": "13",
+      "sort": "13",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "深圳"
+    },
+    {
+      "id": "23929",
+      "school_id": "562",
+      "province": "上海",
+      "rate": "3.48",
+      "num": "25",
+      "sort": "25",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "23928",
+      "school_id": "562",
+      "province": "北京",
+      "rate": "35.10",
+      "num": "252",
+      "sort": "252",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:28:27",
+      "year": "2022",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "高等教育单位": "8.90",
+    "机关": "4.20",
+    "国有企业": "1.90",
+    "农村建制村": "1.40",
+    "科研单位": "0.50",
+    "部队单位": "0.50",
+    "其他": "82.60"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2091",
+      "school_id": "562",
+      "female_num": "450",
+      "men_num": "268",
+      "men_rate": "37.00",
+      "female_rate": "63.00",
+      "update_id": "2094",
+      "update_time": "2024-12-25 14:22:40",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "14200"
+  }
+}

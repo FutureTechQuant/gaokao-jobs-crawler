@@ -1,0 +1,27 @@
+{
+  "update_time": "2026-04-27 16:04:24",
+  "school_id": "2053",
+  "school_name": "中山职业技术学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2753",
+      "school_id": "2053",
+      "female_num": "1426",
+      "men_num": "2192",
+      "men_rate": "60.60",
+      "female_rate": "39.40",
+      "update_id": "2156",
+      "update_time": "2025-12-01 11:52:59",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

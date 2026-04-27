@@ -1,0 +1,170 @@
+{
+  "update_time": "2026-04-27 15:56:58",
+  "school_id": "1247",
+  "school_name": "滁州学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.52"
+    },
+    "postgraduate": {
+      "1": "12.39"
+    },
+    "abroad": {
+      "1": "0.41"
+    }
+  },
+  "province": [
+    {
+      "id": "29603",
+      "school_id": "1247",
+      "province": "四川省",
+      "rate": "0.42",
+      "num": "17",
+      "sort": "31",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "29602",
+      "school_id": "1247",
+      "province": "山东省",
+      "rate": "0.44",
+      "num": "18",
+      "sort": "32",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "29601",
+      "school_id": "1247",
+      "province": "湖北省",
+      "rate": "0.44",
+      "num": "18",
+      "sort": "33",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "29600",
+      "school_id": "1247",
+      "province": "北京市",
+      "rate": "0.84",
+      "num": "34",
+      "sort": "34",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "29599",
+      "school_id": "1247",
+      "province": "河南省",
+      "rate": "0.87",
+      "num": "35",
+      "sort": "35",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "河南省"
+    },
+    {
+      "id": "29598",
+      "school_id": "1247",
+      "province": "广东省",
+      "rate": "2.77",
+      "num": "112",
+      "sort": "36",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "29597",
+      "school_id": "1247",
+      "province": "上海市",
+      "rate": "5.93",
+      "num": "240",
+      "sort": "37",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "29596",
+      "school_id": "1247",
+      "province": "浙江省",
+      "rate": "6.52",
+      "num": "264",
+      "sort": "38",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "29595",
+      "school_id": "1247",
+      "province": "江苏省",
+      "rate": "12.93",
+      "num": "523",
+      "sort": "39",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "29594",
+      "school_id": "1247",
+      "province": "安徽省",
+      "rate": "65.74",
+      "num": "2660",
+      "sort": "40",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:24:21",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "其他企业": "84.63",
+    "国有企业": "7.14",
+    "中初教育单位": "3.51",
+    "三资企业": "2.08",
+    "其他事业单位": "1.38",
+    "机关": "0.65",
+    "城镇社区": "0.33",
+    "农村建制村": "0.13",
+    "医疗卫生单位": "0.10",
+    "高等教育单位": "0.05",
+    "科研设计单位": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2556",
+      "school_id": "1247",
+      "female_num": "2359",
+      "men_num": "2550",
+      "men_rate": "51.93",
+      "female_rate": "48.07",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:22:03",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

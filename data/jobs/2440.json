@@ -1,0 +1,94 @@
+{
+  "update_time": "2026-04-27 16:08:23",
+  "school_id": "2440",
+  "school_name": "南昌科技职业大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "91.36"
+    },
+    "postgraduate": {
+      "1": "11.04"
+    },
+    "abroad": {
+      "1": "0.47"
+    }
+  },
+  "province": [
+    {
+      "id": "27125",
+      "school_id": "2440",
+      "province": "东北地区",
+      "rate": "0.19",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:05:10",
+      "year": "2021",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "27123",
+      "school_id": "2440",
+      "province": "西部地区",
+      "rate": "3.09",
+      "num": "0",
+      "sort": "309",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:05:10",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "27124",
+      "school_id": "2440",
+      "province": "东部地区",
+      "rate": "28.72",
+      "num": "0",
+      "sort": "2872",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:05:10",
+      "year": "2021",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "27122",
+      "school_id": "2440",
+      "province": "中部地区",
+      "rate": "67.99",
+      "num": "0",
+      "sort": "6799",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:05:10",
+      "year": "2021",
+      "province_name": "中部地区"
+    }
+  ],
+  "attr": {
+    "其他民营企业": "63.66",
+    "升学及出国": "11.51",
+    "500强企业": "8.82",
+    "应征入伍": "5.14",
+    "泰豪集团": "1.84",
+    "其他": "0.28",
+    "自主创业": "0.09"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2299",
+      "school_id": "2440",
+      "female_num": "606",
+      "men_num": "1513",
+      "men_rate": "71.40",
+      "female_rate": "28.60",
+      "update_id": "2094",
+      "update_time": "2025-02-08 15:08:25",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

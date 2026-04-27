@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 15:57:22",
+  "school_id": "1297",
+  "school_name": "广州应用科技学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.15"
+    },
+    "postgraduate": {
+      "1": "1.02"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,114 @@
+{
+  "update_time": "2026-04-27 16:16:12",
+  "school_id": "3572",
+  "school_name": "吉林通用航空职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.16"
+    },
+    "postgraduate": {
+      "1": "12.06"
+    },
+    "abroad": {
+      "1": "0.32"
+    }
+  },
+  "province": [
+    {
+      "id": "27747",
+      "school_id": "3572",
+      "province": "广东省",
+      "rate": "0.83",
+      "num": "0",
+      "sort": "83",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:53:30",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "27746",
+      "school_id": "3572",
+      "province": "辽宁省",
+      "rate": "1.25",
+      "num": "0",
+      "sort": "125",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:53:30",
+      "year": "2024",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "27745",
+      "school_id": "3572",
+      "province": "上海市",
+      "rate": "1.67",
+      "num": "0",
+      "sort": "167",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:53:30",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "27744",
+      "school_id": "3572",
+      "province": "重庆市",
+      "rate": "5.42",
+      "num": "0",
+      "sort": "542",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:53:30",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "27743",
+      "school_id": "3572",
+      "province": "北京市",
+      "rate": "15.42",
+      "num": "0",
+      "sort": "1542",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:53:30",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "27742",
+      "school_id": "3572",
+      "province": "吉林省",
+      "rate": "72.50",
+      "num": "0",
+      "sort": "7250",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:53:30",
+      "year": "2024",
+      "province_name": "吉林省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营组织等）": "43.93",
+    "国有企业": "30.54",
+    "其他（含社会组织等）": "23.43",
+    "个体工商户": "1.67",
+    "医疗卫生单位": "0.43"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2360",
+      "school_id": "3572",
+      "female_num": "88",
+      "men_num": "227",
+      "men_rate": "72.06",
+      "female_rate": "27.94",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:44:25",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

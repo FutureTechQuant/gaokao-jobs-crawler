@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 16:18:06",
+  "school_id": "3769",
+  "school_name": "安徽大学纽约石溪学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.06"
+    },
+    "postgraduate": {
+      "1": "23.83"
+    },
+    "abroad": {
+      "1": "32.13"
+    }
+  },
+  "province": [
+    {
+      "id": "27252",
+      "school_id": "3769",
+      "province": "二线城市",
+      "rate": "5.10",
+      "num": "13",
+      "sort": "13",
+      "update_id": "2094",
+      "update_time": "2025-04-21 15:39:18",
+      "year": "2024",
+      "province_name": "二线城市"
+    },
+    {
+      "id": "27253",
+      "school_id": "3769",
+      "province": "其他城市",
+      "rate": "12.55",
+      "num": "32",
+      "sort": "32",
+      "update_id": "2094",
+      "update_time": "2025-04-21 15:39:36",
+      "year": "2024",
+      "province_name": "其他城市"
+    },
+    {
+      "id": "27254",
+      "school_id": "3769",
+      "province": "境外",
+      "rate": "34.90",
+      "num": "89",
+      "sort": "89",
+      "update_id": "2094",
+      "update_time": "2025-04-21 15:39:47",
+      "year": "2024",
+      "province_name": "境外"
+    },
+    {
+      "id": "27251",
+      "school_id": "3769",
+      "province": "一线城市",
+      "rate": "47.45",
+      "num": "121",
+      "sort": "121",
+      "update_id": "2094",
+      "update_time": "2025-04-21 15:39:05",
+      "year": "2024",
+      "province_name": "一线城市"
+    }
+  ],
+  "attr": {
+    "三资及民营企业": "18.41",
+    "其他": "10.11",
+    "国有企业": "5.42",
+    "机关及事业单位": "1.44",
+    "科研设计及服务": "0.72"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2314",
+      "school_id": "3769",
+      "female_num": "1314",
+      "men_num": "520",
+      "men_rate": "77.97",
+      "female_rate": "22.03",
+      "update_id": "2094",
+      "update_time": "2025-04-21 15:35:53",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

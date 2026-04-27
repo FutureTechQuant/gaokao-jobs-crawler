@@ -1,0 +1,151 @@
+{
+  "update_time": "2026-04-27 15:52:39",
+  "school_id": "779",
+  "school_name": "四川电力职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.48"
+    },
+    "postgraduate": {
+      "1": "5.71"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10181",
+      "school_id": "779",
+      "province": "贵州省",
+      "rate": "0.37",
+      "num": "2",
+      "sort": "2",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "10184",
+      "school_id": "779",
+      "province": "其他省市",
+      "rate": "0.91",
+      "num": "5",
+      "sort": "5",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "10180",
+      "school_id": "779",
+      "province": "重庆市",
+      "rate": "1.10",
+      "num": "6",
+      "sort": "6",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "10183",
+      "school_id": "779",
+      "province": "广西壮族自治区",
+      "rate": "1.28",
+      "num": "7",
+      "sort": "7",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "10179",
+      "school_id": "779",
+      "province": "云南省",
+      "rate": "1.47",
+      "num": "8",
+      "sort": "8",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "云南省"
+    },
+    {
+      "id": "10182",
+      "school_id": "779",
+      "province": "广东省",
+      "rate": "1.83",
+      "num": "10",
+      "sort": "10",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "10177",
+      "school_id": "779",
+      "province": "新疆维吾尔自治区",
+      "rate": "3.48",
+      "num": "19",
+      "sort": "19",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "10176",
+      "school_id": "779",
+      "province": "西藏自治区",
+      "rate": "12.45",
+      "num": "68",
+      "sort": "68",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "西藏自治区"
+    },
+    {
+      "id": "10178",
+      "school_id": "779",
+      "province": "四川省",
+      "rate": "77.11",
+      "num": "421",
+      "sort": "421",
+      "update_id": "654",
+      "update_time": "2019-07-03 18:00:09",
+      "year": "2019",
+      "province_name": "四川省"
+    }
+  ],
+  "attr": {
+    "国有企业": "52.75",
+    "其他": "46.89",
+    "医疔卫生单位": "0.18",
+    "三资企业": "0.18"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "892",
+      "school_id": "779",
+      "female_num": "143",
+      "men_num": "452",
+      "men_rate": "75.97",
+      "female_rate": "24.03",
+      "update_id": "654",
+      "update_time": "2019-07-03 17:51:11",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

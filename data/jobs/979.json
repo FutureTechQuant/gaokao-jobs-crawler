@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 15:54:35",
+  "school_id": "979",
+  "school_name": "广州体育职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "97.28"
+    },
+    "postgraduate": {
+      "1": "8.21"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29611",
+      "school_id": "979",
+      "province": "其他",
+      "rate": "18.34",
+      "num": "0",
+      "sort": "1834",
+      "update_id": "2096",
+      "update_time": "2025-11-14 14:01:38",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "29610",
+      "school_id": "979",
+      "province": "大湾区、珠三角",
+      "rate": "81.66",
+      "num": "1233",
+      "sort": "8166",
+      "update_id": "2096",
+      "update_time": "2025-11-14 14:01:47",
+      "year": "2024",
+      "province_name": "大湾区、珠三角"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "9600"
+  }
+}

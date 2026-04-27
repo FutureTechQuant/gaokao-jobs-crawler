@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:49:28",
+  "school_id": "452",
+  "school_name": "湖北民族大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "83.44"
+    },
+    "postgraduate": {
+      "1": "9.34"
+    },
+    "abroad": {
+      "1": "0.35"
+    }
+  },
+  "province": [
+    {
+      "id": "17023",
+      "school_id": "452",
+      "province": "湖北",
+      "rate": "59.29",
+      "num": "0",
+      "sort": "59",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "湖北"
+    },
+    {
+      "id": "17022",
+      "school_id": "452",
+      "province": "长江经济带",
+      "rate": "80.40",
+      "num": "0",
+      "sort": "80",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2023",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "52.02",
+    "政府机构/科研或其他事业单位": "30.14",
+    "国有企业": "13.46",
+    "民非组织": "1.07",
+    "中外合资/外资/独资": "3.30"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1585",
+      "school_id": "452",
+      "female_num": "3272",
+      "men_num": "1854",
+      "men_rate": "36.17",
+      "female_rate": "63.83",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:57",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

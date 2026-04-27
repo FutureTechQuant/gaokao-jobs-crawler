@@ -1,0 +1,192 @@
+{
+  "update_time": "2026-04-27 16:12:55",
+  "school_id": "3202",
+  "school_name": "香港中文大学（深圳）",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.23"
+    },
+    "postgraduate": {
+      "1": "31.70"
+    },
+    "abroad": {
+      "1": "68.22"
+    }
+  },
+  "province": [
+    {
+      "id": "29929",
+      "school_id": "3202",
+      "province": "新疆",
+      "rate": "0.75",
+      "num": "0",
+      "sort": "75",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "新疆"
+    },
+    {
+      "id": "29927",
+      "school_id": "3202",
+      "province": "河北省",
+      "rate": "0.75",
+      "num": "0",
+      "sort": "75",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "29928",
+      "school_id": "3202",
+      "province": "江苏省",
+      "rate": "1.49",
+      "num": "0",
+      "sort": "149",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "29926",
+      "school_id": "3202",
+      "province": "美国",
+      "rate": "1.49",
+      "num": "0",
+      "sort": "149",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "美国"
+    },
+    {
+      "id": "29925",
+      "school_id": "3202",
+      "province": "福建省",
+      "rate": "2.24",
+      "num": "0",
+      "sort": "224",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "29924",
+      "school_id": "3202",
+      "province": "四川省",
+      "rate": "2.24",
+      "num": "0",
+      "sort": "224",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "29923",
+      "school_id": "3202",
+      "province": "中国香港",
+      "rate": "2.99",
+      "num": "0",
+      "sort": "299",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "中国香港"
+    },
+    {
+      "id": "29922",
+      "school_id": "3202",
+      "province": "北京市",
+      "rate": "5.22",
+      "num": "0",
+      "sort": "522",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "29921",
+      "school_id": "3202",
+      "province": "浙江省",
+      "rate": "7.46",
+      "num": "0",
+      "sort": "746",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "29920",
+      "school_id": "3202",
+      "province": "上海市",
+      "rate": "14.18",
+      "num": "0",
+      "sort": "1418",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "29919",
+      "school_id": "3202",
+      "province": "广东省",
+      "rate": "61.19",
+      "num": "0",
+      "sort": "6119",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:57:51",
+      "year": "2024",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {
+    "民营企业": "45.45",
+    "政府机构/事业单位/科研或其他": "25.76",
+    "三资企业": "14.39",
+    "国有企业": "14.39"
+  },
+  "company": {
+    "波士顿咨询": "0",
+    "阿里巴巴": "0",
+    "华为": "0",
+    "蚂蚁集团": "0",
+    "联合利华": "0",
+    "深圳公办中小学": "0",
+    "普华永道": "0",
+    "字节跳动": "0",
+    "中国联通": "0",
+    "长江证券": "0",
+    "宝洁": "0",
+    "国家税务部门": "0",
+    "德勤": "0",
+    "拼多多": "0",
+    "顺丰": "0",
+    "诺德基金": "0",
+    "欧莱雅": "0",
+    "深圳燃气": "0"
+  },
+  "gradute": [
+    {
+      "id": "2571",
+      "school_id": "3202",
+      "female_num": "629",
+      "men_num": "672",
+      "men_rate": "51.65",
+      "female_rate": "48.35",
+      "update_id": "1988",
+      "update_time": "2025-11-14 17:32:14",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

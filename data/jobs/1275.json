@@ -1,0 +1,118 @@
+{
+  "update_time": "2026-04-27 15:57:13",
+  "school_id": "1275",
+  "school_name": "北师香港浸会大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.18"
+    },
+    "postgraduate": {
+      "1": "3.09"
+    },
+    "abroad": {
+      "1": "83.42"
+    }
+  },
+  "province": [
+    {
+      "id": "18919",
+      "school_id": "1275",
+      "province": "上海市",
+      "rate": "4.22",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "18923",
+      "school_id": "1275",
+      "province": "香港特别行政区",
+      "rate": "4.22",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "香港特别行政区"
+    },
+    {
+      "id": "18918",
+      "school_id": "1275",
+      "province": "北京市",
+      "rate": "7.83",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "18921",
+      "school_id": "1275",
+      "province": "深圳",
+      "rate": "10.84",
+      "num": "18",
+      "sort": "18",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "深圳"
+    },
+    {
+      "id": "18920",
+      "school_id": "1275",
+      "province": "广州",
+      "rate": "12.05",
+      "num": "20",
+      "sort": "20",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "广州"
+    },
+    {
+      "id": "18922",
+      "school_id": "1275",
+      "province": "珠海",
+      "rate": "25.30",
+      "num": "42",
+      "sort": "42",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "珠海"
+    }
+  ],
+  "attr": {
+    "其他类型企业": "5.42",
+    "港澳台企业": "4.82",
+    "国有企业": "4.82",
+    "国家行政机关及事业单位": "6.63",
+    "股份有限公司": "7.23",
+    "外资企业": "7.23",
+    "合伙企业分支机构": "7.83",
+    "民办非企业及社会团体": "25.30",
+    "有限责任公司": "30.72"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "890",
+      "school_id": "1275",
+      "female_num": "886",
+      "men_num": "424",
+      "men_rate": "32.37",
+      "female_rate": "67.63",
+      "update_id": "607",
+      "update_time": "2019-03-12 16:10:43",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,248 @@
+{
+  "update_time": "2026-04-27 16:05:26",
+  "school_id": "2150",
+  "school_name": "山东现代学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.85"
+    },
+    "postgraduate": {
+      "1": "1.89"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "24880",
+      "school_id": "2150",
+      "province": "日照",
+      "rate": "0.29",
+      "num": "13",
+      "sort": "13",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "日照"
+    },
+    {
+      "id": "24879",
+      "school_id": "2150",
+      "province": "枣庄",
+      "rate": "0.52",
+      "num": "23",
+      "sort": "23",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "枣庄"
+    },
+    {
+      "id": "24878",
+      "school_id": "2150",
+      "province": "威海",
+      "rate": "0.85",
+      "num": "38",
+      "sort": "38",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "威海"
+    },
+    {
+      "id": "24877",
+      "school_id": "2150",
+      "province": "东营",
+      "rate": "0.90",
+      "num": "40",
+      "sort": "40",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "东营"
+    },
+    {
+      "id": "24876",
+      "school_id": "2150",
+      "province": "菏泽",
+      "rate": "0.94",
+      "num": "42",
+      "sort": "42",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "菏泽"
+    },
+    {
+      "id": "24875",
+      "school_id": "2150",
+      "province": "德州",
+      "rate": "1.15",
+      "num": "51",
+      "sort": "51",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "德州"
+    },
+    {
+      "id": "24874",
+      "school_id": "2150",
+      "province": "聊城",
+      "rate": "1.26",
+      "num": "56",
+      "sort": "56",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "聊城"
+    },
+    {
+      "id": "24873",
+      "school_id": "2150",
+      "province": "烟台",
+      "rate": "1.68",
+      "num": "75",
+      "sort": "75",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "烟台"
+    },
+    {
+      "id": "24872",
+      "school_id": "2150",
+      "province": "临沂",
+      "rate": "2.09",
+      "num": "93",
+      "sort": "93",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "临沂"
+    },
+    {
+      "id": "24871",
+      "school_id": "2150",
+      "province": "淄博",
+      "rate": "2.29",
+      "num": "102",
+      "sort": "102",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "淄博"
+    },
+    {
+      "id": "24870",
+      "school_id": "2150",
+      "province": "潍坊",
+      "rate": "2.33",
+      "num": "104",
+      "sort": "104",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "潍坊"
+    },
+    {
+      "id": "24869",
+      "school_id": "2150",
+      "province": "济宁",
+      "rate": "2.38",
+      "num": "106",
+      "sort": "106",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "济宁"
+    },
+    {
+      "id": "24868",
+      "school_id": "2150",
+      "province": "青岛",
+      "rate": "2.40",
+      "num": "107",
+      "sort": "107",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "青岛"
+    },
+    {
+      "id": "24867",
+      "school_id": "2150",
+      "province": "泰安",
+      "rate": "3.41",
+      "num": "152",
+      "sort": "152",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "泰安"
+    },
+    {
+      "id": "24866",
+      "school_id": "2150",
+      "province": "滨州",
+      "rate": "3.84",
+      "num": "171",
+      "sort": "171",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "滨州"
+    },
+    {
+      "id": "24881",
+      "school_id": "2150",
+      "province": "外省",
+      "rate": "34.04",
+      "num": "1516",
+      "sort": "1516",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "外省"
+    },
+    {
+      "id": "24865",
+      "school_id": "2150",
+      "province": "济南",
+      "rate": "39.63",
+      "num": "1765",
+      "sort": "1765",
+      "update_id": "2096",
+      "update_time": "2025-01-06 18:07:09",
+      "year": "2019",
+      "province_name": "济南"
+    }
+  ],
+  "attr": {
+    "非国有企业": "71.80",
+    "事业单位": "22.23",
+    "其他": "3.39",
+    "国有企业": "1.91",
+    "机关": "0.67"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2164",
+      "school_id": "2150",
+      "female_num": "2898",
+      "men_num": "1916",
+      "men_rate": "39.80",
+      "female_rate": "60.20",
+      "update_id": "2096",
+      "update_time": "2025-01-06 17:59:07",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

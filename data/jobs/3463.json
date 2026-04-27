@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:15:15",
+  "school_id": "3463",
+  "school_name": "福建技术师范学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.04"
+    },
+    "postgraduate": {
+      "1": "4.57"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

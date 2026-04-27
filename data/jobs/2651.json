@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:10:15",
+  "school_id": "2651",
+  "school_name": "辽宁城市建设职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.63"
+    },
+    "postgraduate": {
+      "1": "11.98"
+    },
+    "abroad": {
+      "1": "0.05"
+    }
+  },
+  "province": [
+    {
+      "id": "30790",
+      "school_id": "2651",
+      "province": "辽宁省外",
+      "rate": "16.74",
+      "num": "0",
+      "sort": "1674",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:11:26",
+      "year": "2024",
+      "province_name": "辽宁省外"
+    },
+    {
+      "id": "30789",
+      "school_id": "2651",
+      "province": "辽宁省内",
+      "rate": "83.25",
+      "num": "1487",
+      "sort": "8325",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:11:34",
+      "year": "2024",
+      "province_name": "辽宁省内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2649",
+      "school_id": "2651",
+      "female_num": "360",
+      "men_num": "1426",
+      "men_rate": "79.84",
+      "female_rate": "20.16",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:09:03",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

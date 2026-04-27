@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:53:34",
+  "school_id": "878",
+  "school_name": "安阳师范学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "91.04"
+    },
+    "postgraduate": {
+      "1": "19.70"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "20801",
+      "school_id": "878",
+      "province": "北京",
+      "rate": "3.60",
+      "num": "0",
+      "sort": "93",
+      "update_id": "1988",
+      "update_time": "2024-09-13 09:58:37",
+      "year": "2022",
+      "province_name": "北京"
+    },
+    {
+      "id": "20800",
+      "school_id": "878",
+      "province": "上海",
+      "rate": "3.70",
+      "num": "0",
+      "sort": "94",
+      "update_id": "1988",
+      "update_time": "2024-09-13 09:58:37",
+      "year": "2022",
+      "province_name": "上海"
+    },
+    {
+      "id": "20799",
+      "school_id": "878",
+      "province": "江苏",
+      "rate": "3.70",
+      "num": "0",
+      "sort": "95",
+      "update_id": "1988",
+      "update_time": "2024-09-13 09:58:37",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "20798",
+      "school_id": "878",
+      "province": "浙江",
+      "rate": "5.10",
+      "num": "0",
+      "sort": "96",
+      "update_id": "1988",
+      "update_time": "2024-09-13 09:58:37",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "20797",
+      "school_id": "878",
+      "province": "河南",
+      "rate": "65.80",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2024-09-13 09:58:37",
+      "year": "2022",
+      "province_name": "河南"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "52.00",
+    "政府机构／科研或其他事业单位": "28.00",
+    "国有企业": "10.00",
+    "民办非企业单位（组织）": "8.00",
+    "中外合资／外资／独资": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "419",
+      "school_id": "878",
+      "female_num": "4087",
+      "men_num": "1763",
+      "men_rate": "30.14",
+      "female_rate": "69.86",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

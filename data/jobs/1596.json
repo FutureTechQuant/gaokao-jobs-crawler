@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:59:30",
+  "school_id": "1596",
+  "school_name": "六盘水师范学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "84.25"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "25616",
+      "school_id": "1596",
+      "province": "广西",
+      "rate": "1.91",
+      "num": "0",
+      "sort": "191",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:04:05",
+      "year": "2022",
+      "province_name": "广西"
+    },
+    {
+      "id": "25615",
+      "school_id": "1596",
+      "province": "四川",
+      "rate": "3.20",
+      "num": "0",
+      "sort": "320",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:04:05",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "25614",
+      "school_id": "1596",
+      "province": "江苏",
+      "rate": "3.68",
+      "num": "0",
+      "sort": "368",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:04:05",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "25613",
+      "school_id": "1596",
+      "province": "广东",
+      "rate": "8.37",
+      "num": "0",
+      "sort": "837",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:04:05",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "25612",
+      "school_id": "1596",
+      "province": "贵州",
+      "rate": "68.39",
+      "num": "0",
+      "sort": "6839",
+      "update_id": "2094",
+      "update_time": "2025-01-08 15:04:05",
+      "year": "2022",
+      "province_name": "贵州"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "45.18",
+    "政府机构/事业单位": "24.51",
+    "国有企业": "21.73",
+    "中外合资/外资/独资": "6.43",
+    "民办非企业/科研或其他单位（组织）": "2.14"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2206",
+      "school_id": "1596",
+      "female_num": "2249",
+      "men_num": "1179",
+      "men_rate": "34.39",
+      "female_rate": "65.61",
+      "update_id": "2094",
+      "update_time": "2025-01-08 14:42:22",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10100"
+  }
+}

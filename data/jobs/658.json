@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:51:30",
+  "school_id": "658",
+  "school_name": "河北女子职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.39"
+    },
+    "postgraduate": {
+      "1": "1.73"
+    },
+    "abroad": {
+      "1": "0.67"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1228",
+      "school_id": "658",
+      "female_num": "2513",
+      "men_num": "196",
+      "men_rate": "7.24",
+      "female_rate": "92.76",
+      "update_id": "929",
+      "update_time": "2021-04-02 14:52:23",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6800"
+  }
+}

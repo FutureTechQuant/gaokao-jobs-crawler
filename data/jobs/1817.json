@@ -1,0 +1,113 @@
+{
+  "update_time": "2026-04-27 16:01:48",
+  "school_id": "1817",
+  "school_name": "安徽工贸职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.24"
+    },
+    "postgraduate": {
+      "1": "3.62"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30845",
+      "school_id": "1817",
+      "province": "广东省",
+      "rate": "2.72",
+      "num": "98",
+      "sort": "98",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:35:14",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30842",
+      "school_id": "1817",
+      "province": "上海市",
+      "rate": "6.00",
+      "num": "216",
+      "sort": "216",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:35:14",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30844",
+      "school_id": "1817",
+      "province": "江苏省",
+      "rate": "7.80",
+      "num": "281",
+      "sort": "281",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:35:14",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "30843",
+      "school_id": "1817",
+      "province": "浙江省",
+      "rate": "8.72",
+      "num": "314",
+      "sort": "314",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:35:14",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30846",
+      "school_id": "1817",
+      "province": "其他地区",
+      "rate": "19.85",
+      "num": "715",
+      "sort": "715",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:35:14",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "30841",
+      "school_id": "1817",
+      "province": "安徽省",
+      "rate": "49.92",
+      "num": "1798",
+      "sort": "1798",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:35:14",
+      "year": "2024",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "企业单位": "93.13",
+    "党政机关和事业单位": "6.86"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2655",
+      "school_id": "1817",
+      "female_num": "1322",
+      "men_num": "2460",
+      "men_rate": "65.04",
+      "female_rate": "34.96",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:32:17",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

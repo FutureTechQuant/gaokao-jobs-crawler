@@ -1,0 +1,52 @@
+{
+  "update_time": "2026-04-27 16:14:48",
+  "school_id": "3401",
+  "school_name": "四川体育职业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "84.80"
+    },
+    "postgraduate": {
+      "1": "21.60"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27790",
+      "school_id": "3401",
+      "province": "四川省内",
+      "rate": "88.90",
+      "num": "0",
+      "sort": "889",
+      "update_id": "1988",
+      "update_time": "2025-07-08 18:24:51",
+      "year": "2021",
+      "province_name": "四川省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "86.00",
+    "政府机构/科研或其他事业单位": "8.00",
+    "国有企业": "6.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2369",
+      "school_id": "3401",
+      "female_num": "23",
+      "men_num": "102",
+      "men_rate": "81.60",
+      "female_rate": "18.40",
+      "update_id": "1988",
+      "update_time": "2025-07-08 18:20:13",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

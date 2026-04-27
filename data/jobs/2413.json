@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:08:04",
+  "school_id": "2413",
+  "school_name": "安徽信息工程学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "94.10"
+    },
+    "postgraduate": {
+      "1": "8.20"
+    },
+    "abroad": {
+      "1": "0.19"
+    }
+  },
+  "province": [
+    {
+      "id": "20472",
+      "school_id": "2413",
+      "province": "福建",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "107",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "福建"
+    },
+    {
+      "id": "20471",
+      "school_id": "2413",
+      "province": "广东",
+      "rate": "2.36",
+      "num": "0",
+      "sort": "236",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "20470",
+      "school_id": "2413",
+      "province": "上海",
+      "rate": "6.96",
+      "num": "0",
+      "sort": "696",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "20469",
+      "school_id": "2413",
+      "province": "浙江",
+      "rate": "10.39",
+      "num": "0",
+      "sort": "1039",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "20468",
+      "school_id": "2413",
+      "province": "江苏",
+      "rate": "14.67",
+      "num": "0",
+      "sort": "1467",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "20467",
+      "school_id": "2413",
+      "province": "安徽",
+      "rate": "61.46",
+      "num": "0",
+      "sort": "6146",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "安徽"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "78.28",
+    "国有企业": "10.75",
+    "中外合资/外资/独资": "5.54",
+    "政府机构/科研或其他事业单位": "5.21",
+    "民非组织": "0.22"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1853",
+      "school_id": "2413",
+      "female_num": "1192",
+      "men_num": "1892",
+      "men_rate": "61.35",
+      "female_rate": "38.65",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

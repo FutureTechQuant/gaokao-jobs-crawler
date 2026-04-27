@@ -1,0 +1,78 @@
+{
+  "update_time": "2026-04-27 15:52:52",
+  "school_id": "798",
+  "school_name": "四川文理学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.78"
+    },
+    "postgraduate": {
+      "1": "6.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28628",
+      "school_id": "798",
+      "province": "广东省",
+      "rate": "3.26",
+      "num": "0",
+      "sort": "326",
+      "update_id": "2314",
+      "update_time": "2025-11-12 11:30:27",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28627",
+      "school_id": "798",
+      "province": "重庆市",
+      "rate": "4.13",
+      "num": "0",
+      "sort": "413",
+      "update_id": "2314",
+      "update_time": "2025-11-12 11:30:15",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "28626",
+      "school_id": "798",
+      "province": "四川省",
+      "rate": "80.00",
+      "num": "0",
+      "sort": "8000",
+      "update_id": "2314",
+      "update_time": "2025-11-12 11:29:59",
+      "year": "2024",
+      "province_name": "四川省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "78.68",
+    "中初教育单位": "8.78",
+    "其他事业单位": "3.49"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1881",
+      "school_id": "798",
+      "female_num": "2503",
+      "men_num": "1542",
+      "men_rate": "38.12",
+      "female_rate": "61.88",
+      "update_id": "2096",
+      "update_time": "2024-09-13 11:25:20",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

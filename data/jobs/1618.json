@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:59:45",
+  "school_id": "1618",
+  "school_name": "吉林铁道职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.20"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2659",
+      "school_id": "1618",
+      "female_num": "339",
+      "men_num": "3971",
+      "men_rate": "92.10",
+      "female_rate": "7.90",
+      "update_id": "2096",
+      "update_time": "2025-11-26 18:10:56",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6400"
+  }
+}

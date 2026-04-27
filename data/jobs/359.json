@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:48:23",
+  "school_id": "359",
+  "school_name": "云南警官学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "96.59"
+    },
+    "postgraduate": {
+      "1": "0.51"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "22516",
+      "school_id": "359",
+      "province": "文山壮族苗族自治州",
+      "rate": "5.46",
+      "num": "0",
+      "sort": "546",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:57:39",
+      "year": "2021",
+      "province_name": "文山壮族苗族自治州"
+    },
+    {
+      "id": "22515",
+      "school_id": "359",
+      "province": "楚雄彝族自治州",
+      "rate": "5.80",
+      "num": "0",
+      "sort": "580",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:57:39",
+      "year": "2021",
+      "province_name": "楚雄彝族自治州"
+    },
+    {
+      "id": "22514",
+      "school_id": "359",
+      "province": "红河哈尼族彝族自治州",
+      "rate": "6.14",
+      "num": "0",
+      "sort": "614",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:57:39",
+      "year": "2021",
+      "province_name": "红河哈尼族彝族自治州"
+    },
+    {
+      "id": "22513",
+      "school_id": "359",
+      "province": "昭通",
+      "rate": "7.17",
+      "num": "0",
+      "sort": "717",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:57:39",
+      "year": "2021",
+      "province_name": "昭通"
+    },
+    {
+      "id": "22512",
+      "school_id": "359",
+      "province": "昆明",
+      "rate": "26.28",
+      "num": "0",
+      "sort": "2628",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:57:39",
+      "year": "2021",
+      "province_name": "昆明"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "85.99",
+    "民营企业/个体": "9.45",
+    "国有企业": "1.95",
+    "非政府或非营利组织（NGO等）": "1.30",
+    "中外合资/外资/独资": "1.30"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1978",
+      "school_id": "359",
+      "female_num": "383",
+      "men_num": "789",
+      "men_rate": "67.32",
+      "female_rate": "32.68",
+      "update_id": "2096",
+      "update_time": "2024-09-24 09:55:29",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

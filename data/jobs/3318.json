@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:13:59",
+  "school_id": "3318",
+  "school_name": "新疆生产建设兵团兴新职业技术学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "98.38"
+    },
+    "postgraduate": {
+      "1": "4.71"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "23085",
+      "school_id": "3318",
+      "province": "疆外",
+      "rate": "2.39",
+      "num": "72",
+      "sort": "72",
+      "update_id": "1988",
+      "update_time": "2024-09-27 14:40:17",
+      "year": "2023",
+      "province_name": "疆外"
+    },
+    {
+      "id": "23084",
+      "school_id": "3318",
+      "province": "疆内",
+      "rate": "97.61",
+      "num": "2946",
+      "sort": "2946",
+      "update_id": "1988",
+      "update_time": "2024-09-27 14:39:58",
+      "year": "2023",
+      "province_name": "疆内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2019",
+      "school_id": "3318",
+      "female_num": "1264",
+      "men_num": "1754",
+      "men_rate": "58.10",
+      "female_rate": "42.90",
+      "update_id": "1988",
+      "update_time": "2024-09-27 14:39:06",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7100"
+  }
+}

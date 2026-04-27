@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 15:46:54",
+  "school_id": "228",
+  "school_name": "沈阳农业大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "87.98"
+    },
+    "postgraduate": {
+      "1": "44.92"
+    },
+    "abroad": {
+      "1": "0.74"
+    }
+  },
+  "province": [
+    {
+      "id": "14948",
+      "school_id": "228",
+      "province": "东北地区",
+      "rate": "64.03",
+      "num": "2638",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "14949",
+      "school_id": "228",
+      "province": "华北地区",
+      "rate": "11.58",
+      "num": "477",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "14950",
+      "school_id": "228",
+      "province": "华东地区",
+      "rate": "12.31",
+      "num": "507",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "14951",
+      "school_id": "228",
+      "province": "华南地区",
+      "rate": "3.42",
+      "num": "141",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "14952",
+      "school_id": "228",
+      "province": "华中地区",
+      "rate": "2.48",
+      "num": "102",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "14953",
+      "school_id": "228",
+      "province": "西北地区",
+      "rate": "3.50",
+      "num": "144",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "14954",
+      "school_id": "228",
+      "province": "西南地区",
+      "rate": "2.69",
+      "num": "111",
+      "sort": "1",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:47:49",
+      "year": "2022",
+      "province_name": "西南地区"
+    }
+  ],
+  "attr": {
+    "科研助理": "10.72",
+    "国有企业": "8.78",
+    "党政机关": "1.34",
+    "地方基层项目": "0.77",
+    "部队单位": "0.51",
+    "自主创业": "0.48",
+    "医疔卫生单位": "0.32",
+    "三资企业": "0.29",
+    "中等、初等教育单位": "0.16",
+    "其他": "76.63"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1443",
+      "school_id": "228",
+      "female_num": "1777",
+      "men_num": "1434",
+      "men_rate": "44.66",
+      "female_rate": "55.34",
+      "update_id": "1721",
+      "update_time": "2024-05-29 10:29:13",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

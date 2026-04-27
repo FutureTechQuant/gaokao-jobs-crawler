@@ -1,0 +1,140 @@
+{
+  "update_time": "2026-04-27 15:51:06",
+  "school_id": "609",
+  "school_name": "邢台学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "80.80"
+    },
+    "postgraduate": {
+      "1": "4.16"
+    },
+    "abroad": {
+      "1": "0.14"
+    }
+  },
+  "province": [
+    {
+      "id": "22310",
+      "school_id": "609",
+      "province": "长三角地区",
+      "rate": "0.53",
+      "num": "0",
+      "sort": "53",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "22309",
+      "school_id": "609",
+      "province": "粤港澳大湾区",
+      "rate": "1.14",
+      "num": "0",
+      "sort": "114",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "粤港澳大湾区"
+    },
+    {
+      "id": "22308",
+      "school_id": "609",
+      "province": "珠三角地区",
+      "rate": "1.14",
+      "num": "0",
+      "sort": "114",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "22307",
+      "school_id": "609",
+      "province": "西部地区",
+      "rate": "4.39",
+      "num": "0",
+      "sort": "439",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "22306",
+      "school_id": "609",
+      "province": "新一线城市",
+      "rate": "7.46",
+      "num": "0",
+      "sort": "746",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "22305",
+      "school_id": "609",
+      "province": "长江经济带",
+      "rate": "8.33",
+      "num": "0",
+      "sort": "833",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "22304",
+      "school_id": "609",
+      "province": "一带一路",
+      "rate": "9.82",
+      "num": "0",
+      "sort": "982",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "一带一路"
+    },
+    {
+      "id": "22303",
+      "school_id": "609",
+      "province": "京津冀",
+      "rate": "81.58",
+      "num": "0",
+      "sort": "8158",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:58:57",
+      "year": "2021",
+      "province_name": "京津冀"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "54.71",
+    "政府机构/科研或其他事业单位": "27.67",
+    "国有企业": "12.42",
+    "中外合资/外资/独资": "3.61",
+    "非政府或非营利组织（NGO等）": "1.59"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1964",
+      "school_id": "609",
+      "female_num": "2796",
+      "men_num": "1455",
+      "men_rate": "34.23",
+      "female_rate": "65.77",
+      "update_id": "2096",
+      "update_time": "2024-09-23 15:57:23",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9900"
+  }
+}

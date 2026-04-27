@@ -1,0 +1,42 @@
+{
+  "update_time": "2026-04-27 15:53:06",
+  "school_id": "822",
+  "school_name": "吉利学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "95.63"
+    },
+    "postgraduate": {
+      "1": "9.03"
+    },
+    "abroad": {
+      "1": "0.11"
+    }
+  },
+  "province": [],
+  "attr": {
+    "事业单位": "0.99",
+    "央企": "2.70",
+    "国企": "2.24",
+    "其他企业": "93.26"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1906",
+      "school_id": "822",
+      "female_num": "508",
+      "men_num": "430",
+      "men_rate": "45.80",
+      "female_rate": "54.20",
+      "update_id": "2094",
+      "update_time": "2024-09-14 13:50:35",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11100"
+  }
+}

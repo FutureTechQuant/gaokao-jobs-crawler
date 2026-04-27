@@ -1,0 +1,168 @@
+{
+  "update_time": "2026-04-27 16:16:06",
+  "school_id": "3541",
+  "school_name": "梅河口康美职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "80.27"
+    },
+    "postgraduate": {
+      "1": "11.73"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27740",
+      "school_id": "3541",
+      "province": "四川省",
+      "rate": "0.55",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "27741",
+      "school_id": "3541",
+      "province": "广西壮族自治区",
+      "rate": "0.55",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "27737",
+      "school_id": "3541",
+      "province": "北京市",
+      "rate": "1.12",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "27738",
+      "school_id": "3541",
+      "province": "辽宁省",
+      "rate": "1.12",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "27739",
+      "school_id": "3541",
+      "province": "青海省",
+      "rate": "1.12",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "青海省"
+    },
+    {
+      "id": "27734",
+      "school_id": "3541",
+      "province": "山东省",
+      "rate": "1.68",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "27735",
+      "school_id": "3541",
+      "province": "天津市",
+      "rate": "1.68",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "天津市"
+    },
+    {
+      "id": "27736",
+      "school_id": "3541",
+      "province": "重庆市",
+      "rate": "1.68",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "27733",
+      "school_id": "3541",
+      "province": "河北省",
+      "rate": "8.94",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "27732",
+      "school_id": "3541",
+      "province": "黑龙江省",
+      "rate": "11.17",
+      "num": "20",
+      "sort": "20",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "黑龙江省"
+    },
+    {
+      "id": "27731",
+      "school_id": "3541",
+      "province": "吉林省",
+      "rate": "70.39",
+      "num": "126",
+      "sort": "126",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:34:16",
+      "year": "2024",
+      "province_name": "吉林省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2359",
+      "school_id": "3541",
+      "female_num": "146",
+      "men_num": "77",
+      "men_rate": "34.53",
+      "female_rate": "65.47",
+      "update_id": "2094",
+      "update_time": "2025-07-08 15:29:51",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

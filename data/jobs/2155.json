@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:05:27",
+  "school_id": "2155",
+  "school_name": "青岛黄海学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.18"
+    },
+    "postgraduate": {
+      "1": "2.64"
+    },
+    "abroad": {
+      "1": "0.52"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1207",
+      "school_id": "2155",
+      "female_num": "1922",
+      "men_num": "1866",
+      "men_rate": "49.26",
+      "female_rate": "50.74",
+      "update_id": "825",
+      "update_time": "2021-04-02 11:34:35",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

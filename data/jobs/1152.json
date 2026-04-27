@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 15:56:04",
+  "school_id": "1152",
+  "school_name": "山西医药学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "82.80"
+    },
+    "postgraduate": {
+      "1": "22.56"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "25619",
+      "school_id": "1152",
+      "province": "黑龙江",
+      "rate": "2.50",
+      "num": "56",
+      "sort": "56",
+      "update_id": "2096",
+      "update_time": "2025-01-08 15:05:30",
+      "year": "2021",
+      "province_name": "黑龙江"
+    },
+    {
+      "id": "25620",
+      "school_id": "1152",
+      "province": "辽宁",
+      "rate": "2.50",
+      "num": "57",
+      "sort": "57",
+      "update_id": "2096",
+      "update_time": "2025-01-08 15:05:30",
+      "year": "2021",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "25618",
+      "school_id": "1152",
+      "province": "河北",
+      "rate": "2.80",
+      "num": "62",
+      "sort": "62",
+      "update_id": "2096",
+      "update_time": "2025-01-08 15:05:30",
+      "year": "2021",
+      "province_name": "河北"
+    },
+    {
+      "id": "25617",
+      "school_id": "1152",
+      "province": "山西",
+      "rate": "65.80",
+      "num": "1482",
+      "sort": "1482",
+      "update_id": "2096",
+      "update_time": "2025-01-08 15:05:30",
+      "year": "2021",
+      "province_name": "山西"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "55.00",
+    "民营企业/个体": "25.00",
+    "国有企业": "16.00",
+    "非政府或非营利组织 (NGO等)": "3.00",
+    "中外合资/外资/独资": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1303",
+      "school_id": "1152",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "23.90",
+      "female_rate": "76.10",
+      "update_id": "1183",
+      "update_time": "2023-05-22 17:20:08",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

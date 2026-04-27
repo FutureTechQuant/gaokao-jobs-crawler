@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:15:41",
+  "school_id": "3507",
+  "school_name": "临沂科技职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.48"
+    },
+    "postgraduate": {
+      "1": "6.92"
+    },
+    "abroad": {
+      "1": "0.30"
+    }
+  },
+  "province": [
+    {
+      "id": "27685",
+      "school_id": "3507",
+      "province": "山东省外",
+      "rate": "5.99",
+      "num": "67",
+      "sort": "67",
+      "update_id": "2094",
+      "update_time": "2025-07-08 10:59:09",
+      "year": "2023",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "27684",
+      "school_id": "3507",
+      "province": "山东省内",
+      "rate": "91.33",
+      "num": "1022",
+      "sort": "1022",
+      "update_id": "2094",
+      "update_time": "2025-07-08 10:58:44",
+      "year": "2023",
+      "province_name": "山东省内"
+    }
+  ],
+  "attr": {
+    "非国有企业": "88.65",
+    "其他（包括部队、基层 项目、城镇社区等）": "7.24",
+    "国有企业": "1.43",
+    "事业单位": "1.25",
+    "自由职业": "0.80",
+    "机关": "0.63"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2350",
+      "school_id": "3507",
+      "female_num": "522",
+      "men_num": "822",
+      "men_rate": "61.16",
+      "female_rate": "38.84",
+      "update_id": "2094",
+      "update_time": "2025-07-08 10:55:24",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

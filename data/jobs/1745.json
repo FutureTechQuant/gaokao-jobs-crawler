@@ -1,0 +1,172 @@
+{
+  "update_time": "2026-04-27 16:01:00",
+  "school_id": "1745",
+  "school_name": "柳州铁道职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.62"
+    },
+    "postgraduate": {
+      "1": "12.14"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31507",
+      "school_id": "1745",
+      "province": "甘肃省",
+      "rate": "1.30",
+      "num": "0",
+      "sort": "130",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "31506",
+      "school_id": "1745",
+      "province": "青海省",
+      "rate": "1.33",
+      "num": "0",
+      "sort": "133",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "青海省"
+    },
+    {
+      "id": "31505",
+      "school_id": "1745",
+      "province": "浙江省",
+      "rate": "1.48",
+      "num": "0",
+      "sort": "148",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31504",
+      "school_id": "1745",
+      "province": "上海市",
+      "rate": "1.56",
+      "num": "0",
+      "sort": "156",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "31503",
+      "school_id": "1745",
+      "province": "江苏省",
+      "rate": "1.68",
+      "num": "0",
+      "sort": "168",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31502",
+      "school_id": "1745",
+      "province": "山西省",
+      "rate": "1.83",
+      "num": "0",
+      "sort": "183",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "山西省"
+    },
+    {
+      "id": "31501",
+      "school_id": "1745",
+      "province": "云南省",
+      "rate": "2.00",
+      "num": "0",
+      "sort": "200",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "31500",
+      "school_id": "1745",
+      "province": "江西省",
+      "rate": "5.01",
+      "num": "0",
+      "sort": "501",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "江西省"
+    },
+    {
+      "id": "31499",
+      "school_id": "1745",
+      "province": "广东省",
+      "rate": "29.38",
+      "num": "0",
+      "sort": "2938",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31498",
+      "school_id": "1745",
+      "province": "广西壮族自治区",
+      "rate": "45.70",
+      "num": "0",
+      "sort": "4570",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:10:06",
+      "year": "2024",
+      "province_name": "广西壮族自治区"
+    }
+  ],
+  "attr": {
+    "国有企业": "54.92",
+    "其他企业（含民营企业等）": "39.23",
+    "个体工商户": "3.62",
+    "其他（含社会组织等）": "0.65",
+    "外商投资企业": "0.62",
+    "其他事业单位": "0.36",
+    "机关": "0.18",
+    "农村建制村": "0.12",
+    "私营企业": "0.09",
+    "部队": "0.09",
+    "中小企业": "0.06",
+    "中初教育单位": "0.03",
+    "高等教育单位": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2704",
+      "school_id": "1745",
+      "female_num": "764",
+      "men_num": "4300",
+      "men_rate": "84.91",
+      "female_rate": "15.09",
+      "update_id": "1988",
+      "update_time": "2025-11-27 18:07:17",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

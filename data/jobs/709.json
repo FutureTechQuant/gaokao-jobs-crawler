@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:52:00",
+  "school_id": "709",
+  "school_name": "大兴安岭职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "85.61"
+    },
+    "postgraduate": {
+      "1": "1.75"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

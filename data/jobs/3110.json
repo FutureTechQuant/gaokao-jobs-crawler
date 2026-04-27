@@ -1,0 +1,209 @@
+{
+  "update_time": "2026-04-27 16:12:30",
+  "school_id": "3110",
+  "school_name": "湖南幼儿师范高等专科学校",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.08"
+    },
+    "postgraduate": {
+      "1": "11.66"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10915",
+      "school_id": "3110",
+      "province": "江西",
+      "rate": "0.07",
+      "num": "1",
+      "sort": "1",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "江西"
+    },
+    {
+      "id": "10916",
+      "school_id": "3110",
+      "province": "浙江",
+      "rate": "0.07",
+      "num": "1",
+      "sort": "1",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "浙江"
+    },
+    {
+      "id": "10914",
+      "school_id": "3110",
+      "province": "湖北",
+      "rate": "0.35",
+      "num": "5",
+      "sort": "5",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "湖北"
+    },
+    {
+      "id": "10913",
+      "school_id": "3110",
+      "province": "重庆",
+      "rate": "0.49",
+      "num": "7",
+      "sort": "7",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "重庆"
+    },
+    {
+      "id": "10912",
+      "school_id": "3110",
+      "province": "安徽",
+      "rate": "0.69",
+      "num": "10",
+      "sort": "10",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "安徽"
+    },
+    {
+      "id": "10911",
+      "school_id": "3110",
+      "province": "陕西",
+      "rate": "0.76",
+      "num": "11",
+      "sort": "11",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "陕西"
+    },
+    {
+      "id": "10910",
+      "school_id": "3110",
+      "province": "贵州",
+      "rate": "0.90",
+      "num": "13",
+      "sort": "13",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "贵州"
+    },
+    {
+      "id": "10909",
+      "school_id": "3110",
+      "province": "广东",
+      "rate": "0.97",
+      "num": "14",
+      "sort": "14",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "广东"
+    },
+    {
+      "id": "10907",
+      "school_id": "3110",
+      "province": "云南",
+      "rate": "1.81",
+      "num": "26",
+      "sort": "26",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "云南"
+    },
+    {
+      "id": "10908",
+      "school_id": "3110",
+      "province": "甘肃",
+      "rate": "1.81",
+      "num": "26",
+      "sort": "26",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "甘肃"
+    },
+    {
+      "id": "10906",
+      "school_id": "3110",
+      "province": "广西",
+      "rate": "1.95",
+      "num": "28",
+      "sort": "28",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "广西"
+    },
+    {
+      "id": "10904",
+      "school_id": "3110",
+      "province": "湖南",
+      "rate": "87.56",
+      "num": "1260",
+      "sort": "1260",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "湖南"
+    },
+    {
+      "id": "10905",
+      "school_id": "3110",
+      "province": "四川",
+      "rate": "2.57",
+      "num": "37",
+      "sort": "1260",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:40:51",
+      "year": "2019",
+      "province_name": "四川"
+    }
+  ],
+  "attr": {
+    "其他教学单位": "53.58",
+    "其他事业单位": "22.17",
+    "其他企业": "20.64",
+    "地方基层项目": "1.18",
+    "机关": "0.49",
+    "国家基层项目": "0.42",
+    "部队": "0.35",
+    "自主创业": "0.28",
+    "国有企业": "0.21",
+    "自由职业": "0.21",
+    "高等学校": "0.21",
+    "城镇社区": "0.14",
+    "三资企业": "0.07",
+    "科研设计单位": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1234",
+      "school_id": "3110",
+      "female_num": "1737",
+      "men_num": "98",
+      "men_rate": "5.34",
+      "female_rate": "94.66",
+      "update_id": "825",
+      "update_time": "2021-06-03 11:23:26",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7600"
+  }
+}

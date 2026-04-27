@@ -1,0 +1,82 @@
+{
+  "update_time": "2026-04-27 16:09:41",
+  "school_id": "2561",
+  "school_name": "西安工商学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "82.06"
+    },
+    "postgraduate": {
+      "1": "2.95"
+    },
+    "abroad": {
+      "1": "0.48"
+    }
+  },
+  "province": [
+    {
+      "id": "8068",
+      "school_id": "2561",
+      "province": "中部地区",
+      "rate": "4.27",
+      "num": "72",
+      "sort": "72",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "8070",
+      "school_id": "2561",
+      "province": "东部地区",
+      "rate": "21.02",
+      "num": "356",
+      "sort": "356",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "8069",
+      "school_id": "2561",
+      "province": "西部地区",
+      "rate": "74.71",
+      "num": "1268",
+      "sort": "1268",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {
+    "部队单位": "7.95",
+    "国有企业": "7.36",
+    "三资企业": "2.18",
+    "中、初教育单位": "0.71",
+    "机关": "0.71",
+    "高等教育单位": "0.06",
+    "其他": "81.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "736",
+      "school_id": "2561",
+      "female_num": "841",
+      "men_num": "1236",
+      "men_rate": "59.35",
+      "female_rate": "40.65",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

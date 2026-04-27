@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 16:01:23",
+  "school_id": "1782",
+  "school_name": "衢州职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.70"
+    },
+    "postgraduate": {
+      "1": "15.81"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30030",
+      "school_id": "1782",
+      "province": "湖州",
+      "rate": "2.45",
+      "num": "0",
+      "sort": "245",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "湖州"
+    },
+    {
+      "id": "30029",
+      "school_id": "1782",
+      "province": "丽水",
+      "rate": "3.19",
+      "num": "0",
+      "sort": "319",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "丽水"
+    },
+    {
+      "id": "30028",
+      "school_id": "1782",
+      "province": "嘉兴",
+      "rate": "3.68",
+      "num": "0",
+      "sort": "368",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "嘉兴"
+    },
+    {
+      "id": "30027",
+      "school_id": "1782",
+      "province": "绍兴",
+      "rate": "4.54",
+      "num": "0",
+      "sort": "454",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "绍兴"
+    },
+    {
+      "id": "30026",
+      "school_id": "1782",
+      "province": "宁波",
+      "rate": "6.26",
+      "num": "0",
+      "sort": "626",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "宁波"
+    },
+    {
+      "id": "30025",
+      "school_id": "1782",
+      "province": "台州",
+      "rate": "7.48",
+      "num": "0",
+      "sort": "748",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "台州"
+    },
+    {
+      "id": "30024",
+      "school_id": "1782",
+      "province": "金华",
+      "rate": "8.96",
+      "num": "0",
+      "sort": "896",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "金华"
+    },
+    {
+      "id": "30023",
+      "school_id": "1782",
+      "province": "温州",
+      "rate": "10.92",
+      "num": "0",
+      "sort": "1092",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "温州"
+    },
+    {
+      "id": "30022",
+      "school_id": "1782",
+      "province": "杭州",
+      "rate": "13.50",
+      "num": "0",
+      "sort": "1350",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "杭州"
+    },
+    {
+      "id": "30021",
+      "school_id": "1782",
+      "province": "衢州",
+      "rate": "30.92",
+      "num": "0",
+      "sort": "3092",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:25:54",
+      "year": "2024",
+      "province_name": "衢州"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "72.16",
+    "政府机构/科研或其他事业单位": "12.13",
+    "国有企业": "11.37",
+    "中外合资/外资/独资": "3.58",
+    "民营组织": "0.77"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2585",
+      "school_id": "1782",
+      "female_num": "1218",
+      "men_num": "1324",
+      "men_rate": "52.08",
+      "female_rate": "47.92",
+      "update_id": "2314",
+      "update_time": "2025-11-18 17:16:24",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

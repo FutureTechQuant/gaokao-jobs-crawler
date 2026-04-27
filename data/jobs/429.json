@@ -1,0 +1,148 @@
+{
+  "update_time": "2026-04-27 15:49:12",
+  "school_id": "429",
+  "school_name": "哈尔滨医科大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "74.01"
+    },
+    "postgraduate": {
+      "1": "62.29"
+    },
+    "abroad": {
+      "1": "0.36"
+    }
+  },
+  "province": [
+    {
+      "id": "16030",
+      "school_id": "429",
+      "province": "西部生态区",
+      "rate": "1.13",
+      "num": "2",
+      "sort": "2",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "西部生态区"
+    },
+    {
+      "id": "16029",
+      "school_id": "429",
+      "province": "中原区域",
+      "rate": "3.39",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "中原区域"
+    },
+    {
+      "id": "16028",
+      "school_id": "429",
+      "province": "西南区域",
+      "rate": "5.65",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "西南区域"
+    },
+    {
+      "id": "16027",
+      "school_id": "429",
+      "province": "陕甘宁区域",
+      "rate": "6.21",
+      "num": "11",
+      "sort": "11",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "陕甘宁区域"
+    },
+    {
+      "id": "16026",
+      "school_id": "429",
+      "province": "珠三角区域",
+      "rate": "10.73",
+      "num": "19",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "珠三角区域"
+    },
+    {
+      "id": "16025",
+      "school_id": "429",
+      "province": "渤海湾区域",
+      "rate": "15.25",
+      "num": "27",
+      "sort": "27",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "渤海湾区域"
+    },
+    {
+      "id": "16024",
+      "school_id": "429",
+      "province": "长三角区域",
+      "rate": "19.77",
+      "num": "35",
+      "sort": "35",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "长三角区域"
+    },
+    {
+      "id": "16023",
+      "school_id": "429",
+      "province": "东北区域",
+      "rate": "37.85",
+      "num": "67",
+      "sort": "67",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "东北区域"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "35.59",
+    "私营企业": "31.64",
+    "自由职业": "12.43",
+    "高等教育单位": "6.78",
+    "国有企业": "3.95",
+    "其他事业单位": "1.69",
+    "机关": "1.69",
+    "部队": "1.69",
+    "西部计划": "1.13",
+    "三资企业": "1.13",
+    "其他": "1.13",
+    "选调生": "0.56",
+    "科研设计单位": "0.56"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1515",
+      "school_id": "429",
+      "female_num": "1012",
+      "men_num": "635",
+      "men_rate": "38.55",
+      "female_rate": "61.45",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:56",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11100"
+  }
+}

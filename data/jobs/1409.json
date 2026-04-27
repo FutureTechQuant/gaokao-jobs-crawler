@@ -1,0 +1,192 @@
+{
+  "update_time": "2026-04-27 15:58:08",
+  "school_id": "1409",
+  "school_name": "长春建筑学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "80.36"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "8844",
+      "school_id": "1409",
+      "province": "其他省市",
+      "rate": "11.88",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "8834",
+      "school_id": "1409",
+      "province": "天津市",
+      "rate": "2.11",
+      "num": "57",
+      "sort": "57",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "天津市"
+    },
+    {
+      "id": "8835",
+      "school_id": "1409",
+      "province": "上海市",
+      "rate": "2.18",
+      "num": "59",
+      "sort": "59",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "8839",
+      "school_id": "1409",
+      "province": "江苏省",
+      "rate": "2.56",
+      "num": "69",
+      "sort": "69",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "8841",
+      "school_id": "1409",
+      "province": "河北省",
+      "rate": "2.72",
+      "num": "74",
+      "sort": "74",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "河北省"
+    },
+    {
+      "id": "8837",
+      "school_id": "1409",
+      "province": "内蒙古自治区",
+      "rate": "2.91",
+      "num": "79",
+      "sort": "79",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "8842",
+      "school_id": "1409",
+      "province": "广东省",
+      "rate": "3.37",
+      "num": "91",
+      "sort": "91",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "8838",
+      "school_id": "1409",
+      "province": "辽宁省",
+      "rate": "3.79",
+      "num": "103",
+      "sort": "103",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "8836",
+      "school_id": "1409",
+      "province": "山东省",
+      "rate": "4.06",
+      "num": "110",
+      "sort": "110",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "山东省"
+    },
+    {
+      "id": "8833",
+      "school_id": "1409",
+      "province": "浙江省",
+      "rate": "8.21",
+      "num": "223",
+      "sort": "223",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "8843",
+      "school_id": "1409",
+      "province": "北京市",
+      "rate": "11.08",
+      "num": "301",
+      "sort": "301",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "8840",
+      "school_id": "1409",
+      "province": "吉林省",
+      "rate": "45.13",
+      "num": "1177",
+      "sort": "1177",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "吉林省"
+    }
+  ],
+  "attr": {
+    "其他企业": "69.46",
+    "国有企业": "23.48",
+    "三资企业": "3.79",
+    "医疗卫生单位": "1.75",
+    "其他事业单位": "0.53",
+    "机关": "0.53",
+    "中初教育单位": "0.23",
+    "城镇社区": "0.15",
+    "高等教育单位": "0.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1658",
+      "school_id": "1409",
+      "female_num": "1580",
+      "men_num": "2126",
+      "men_rate": "57.37",
+      "female_rate": "42.63",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:16",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

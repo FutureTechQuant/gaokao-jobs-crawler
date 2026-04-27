@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:52:05",
+  "school_id": "716",
+  "school_name": "黑龙江职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.52"
+    },
+    "postgraduate": {
+      "1": "10.37"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8600"
+  }
+}

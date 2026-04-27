@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 15:50:30",
+  "school_id": "548",
+  "school_name": "山东体育学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.50"
+    },
+    "postgraduate": {
+      "1": "6.56"
+    },
+    "abroad": {
+      "1": "0.17"
+    }
+  },
+  "province": [
+    {
+      "id": "5995",
+      "school_id": "548",
+      "province": "其他省市",
+      "rate": "3.96",
+      "num": "60",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5992",
+      "school_id": "548",
+      "province": "潍坊市",
+      "rate": "3.42",
+      "num": "52",
+      "sort": "52",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "潍坊市"
+    },
+    {
+      "id": "5996",
+      "school_id": "548",
+      "province": "聊城市",
+      "rate": "6.10",
+      "num": "93",
+      "sort": "93",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "聊城市"
+    },
+    {
+      "id": "5993",
+      "school_id": "548",
+      "province": "威海市",
+      "rate": "6.52",
+      "num": "99",
+      "sort": "99",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "威海市"
+    },
+    {
+      "id": "5991",
+      "school_id": "548",
+      "province": "烟台市",
+      "rate": "7.10",
+      "num": "108",
+      "sort": "108",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "烟台市"
+    },
+    {
+      "id": "5994",
+      "school_id": "548",
+      "province": "青岛市",
+      "rate": "30.20",
+      "num": "460",
+      "sort": "460",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "青岛市"
+    },
+    {
+      "id": "5997",
+      "school_id": "548",
+      "province": "济南市",
+      "rate": "42.70",
+      "num": "651",
+      "sort": "651",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "济南市"
+    }
+  ],
+  "attr": {
+    "非国有企业": "70.02",
+    "国有企业": "12.12",
+    "事业单位": "8.16",
+    "党政机关": "2.80",
+    "其他": "6.90"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "802",
+      "school_id": "548",
+      "female_num": "514",
+      "men_num": "1118",
+      "men_rate": "68.50",
+      "female_rate": "31.50",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:01:29",
+  "school_id": "1790",
+  "school_name": "浙江体育职业技术学院",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "98.04"
+    },
+    "postgraduate": {
+      "1": "3.14"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "33364",
+      "school_id": "1790",
+      "province": "杭州",
+      "rate": "47.06",
+      "num": "120",
+      "sort": "4706",
+      "update_id": "2096",
+      "update_time": "2026-03-12 16:06:21",
+      "year": "2025",
+      "province_name": "杭州"
+    },
+    {
+      "id": "33365",
+      "school_id": "1790",
+      "province": "其他地区",
+      "rate": "52.94",
+      "num": "135",
+      "sort": "5294",
+      "update_id": "2096",
+      "update_time": "2026-03-12 16:06:50",
+      "year": "2025",
+      "province_name": "其他地区"
+    }
+  ],
+  "attr": {
+    "非国有企业": "63.77",
+    "其他事业单位": "20.29",
+    "高等教育单位": "11.59",
+    "个体工商户": "2.42",
+    "中初教育单位": "1.45",
+    "国有企业": "0.48"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2806",
+      "school_id": "1790",
+      "female_num": "73",
+      "men_num": "157",
+      "men_rate": "68.26",
+      "female_rate": "31.74",
+      "update_id": "2096",
+      "update_time": "2025-12-02 10:13:40",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

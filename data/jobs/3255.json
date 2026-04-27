@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:13:23",
+  "school_id": "3255",
+  "school_name": "哈尔滨工业大学（深圳）",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "40.09"
+    },
+    "postgraduate": {
+      "1": "44.81"
+    },
+    "abroad": {
+      "1": "13.90"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1216",
+      "school_id": "3255",
+      "female_num": "250",
+      "men_num": "614",
+      "men_rate": "71.06",
+      "female_rate": "28.94",
+      "update_id": "825",
+      "update_time": "2021-04-02 11:51:15",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "14100"
+  }
+}

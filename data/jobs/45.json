@@ -1,0 +1,84 @@
+{
+  "update_time": "2026-04-27 15:44:53",
+  "school_id": "45",
+  "school_name": "中央民族大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "92.01"
+    },
+    "postgraduate": {
+      "1": "26.89"
+    },
+    "abroad": {
+      "1": "11.86"
+    }
+  },
+  "province": [
+    {
+      "id": "9656",
+      "school_id": "45",
+      "province": "中部地区",
+      "rate": "14.01",
+      "num": "229",
+      "sort": "229",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "9658",
+      "school_id": "45",
+      "province": "东部地区",
+      "rate": "40.45",
+      "num": "661",
+      "sort": "661",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "9657",
+      "school_id": "45",
+      "province": "西部地区",
+      "rate": "45.54",
+      "num": "744",
+      "sort": "744",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {
+    "国有企业": "11.79",
+    "党政机关": "5.79",
+    "中等教育单位": "5.30",
+    "国家、地方基层项目": "2.93",
+    "农村建制村": "1.81",
+    "三资企业": "1.47",
+    "高等教育单位": "1.19",
+    "部队单位": "0.70",
+    "其他": "69.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "28",
+      "school_id": "45",
+      "female_num": "1966",
+      "men_num": "833",
+      "men_rate": "29.76",
+      "female_rate": "70.24",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "13000"
+  }
+}

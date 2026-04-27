@@ -1,0 +1,69 @@
+{
+  "update_time": "2026-04-27 15:56:54",
+  "school_id": "1241",
+  "school_name": "宁夏师范大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.45"
+    },
+    "postgraduate": {
+      "1": "5.23"
+    },
+    "abroad": {
+      "1": "0.19"
+    }
+  },
+  "province": [
+    {
+      "id": "5527",
+      "school_id": "1241",
+      "province": "其他省市",
+      "rate": "20.77",
+      "num": "226",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5528",
+      "school_id": "1241",
+      "province": "宁夏回族自治区",
+      "rate": "79.23",
+      "num": "1112",
+      "sort": "1112",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "宁夏回族自治区"
+    }
+  ],
+  "attr": {
+    "国家、地方基层项目": "27.19",
+    "中、初教育单位": "26.66",
+    "国企、私企、民办教育机构": "23.24",
+    "自由职业": "5.70",
+    "自主创业": "3.48",
+    "其他": "13.73"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "758",
+      "school_id": "1241",
+      "female_num": "1023",
+      "men_num": "448",
+      "men_rate": "30.46",
+      "female_rate": "69.54",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

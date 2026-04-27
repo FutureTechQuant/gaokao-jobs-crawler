@@ -1,0 +1,35 @@
+{
+  "update_time": "2026-04-27 16:17:31",
+  "school_id": "3701",
+  "school_name": "黔东南理工职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "91.45"
+    },
+    "postgraduate": {
+      "1": "71.95"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2022",
+      "school_id": "3701",
+      "female_num": "531",
+      "men_num": "1141",
+      "men_rate": "68.24",
+      "female_rate": "31.76",
+      "update_id": "2096",
+      "update_time": "2024-09-27 16:53:50",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

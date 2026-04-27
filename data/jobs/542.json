@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:50:25",
+  "school_id": "542",
+  "school_name": "山东农业大学",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "91.85"
+    },
+    "postgraduate": {
+      "1": "36.06"
+    },
+    "abroad": {
+      "1": "3.53"
+    }
+  },
+  "province": [
+    {
+      "id": "22142",
+      "school_id": "542",
+      "province": "山东省外",
+      "rate": "19.59",
+      "num": "970",
+      "sort": "970",
+      "update_id": "2094",
+      "update_time": "2024-09-20 14:47:50",
+      "year": "2020",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "22141",
+      "school_id": "542",
+      "province": "山东省内",
+      "rate": "79.74",
+      "num": "3948",
+      "sort": "3948",
+      "update_id": "2094",
+      "update_time": "2024-09-20 14:47:50",
+      "year": "2020",
+      "province_name": "山东省内"
+    }
+  ],
+  "attr": {
+    "非国有企业": "55.32",
+    "其他": "18.08",
+    "国有企业": "11.84",
+    "事业单位": "9.39",
+    "机关": "5.37"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1950",
+      "school_id": "542",
+      "female_num": "5062",
+      "men_num": "4459",
+      "men_rate": "46.83",
+      "female_rate": "53.17",
+      "update_id": "2094",
+      "update_time": "2024-09-20 14:31:14",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

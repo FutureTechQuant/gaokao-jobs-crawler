@@ -1,0 +1,115 @@
+{
+  "update_time": "2026-04-27 15:49:05",
+  "school_id": "420",
+  "school_name": "华中师范大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.16"
+    },
+    "postgraduate": {
+      "1": "20.63"
+    },
+    "abroad": {
+      "1": "5.48"
+    }
+  },
+  "province": [
+    {
+      "id": "3994",
+      "school_id": "420",
+      "province": "东北地区",
+      "rate": "1.08",
+      "num": "41",
+      "sort": "41",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "3991",
+      "school_id": "420",
+      "province": "西北地区",
+      "rate": "4.84",
+      "num": "184",
+      "sort": "184",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "3993",
+      "school_id": "420",
+      "province": "华北地区",
+      "rate": "6.90",
+      "num": "262",
+      "sort": "262",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "3990",
+      "school_id": "420",
+      "province": "西南地区",
+      "rate": "9.56",
+      "num": "363",
+      "sort": "363",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "3992",
+      "school_id": "420",
+      "province": "华东地区",
+      "rate": "19.29",
+      "num": "730",
+      "sort": "730",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "3989",
+      "school_id": "420",
+      "province": "中南地区",
+      "rate": "58.33",
+      "num": "2216",
+      "sort": "2216",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "中南地区"
+    }
+  ],
+  "attr": {
+    "事业单位": "67.99",
+    "企业单位": "26.01",
+    "党政机关": "5.37",
+    "其他": "0.63"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "456",
+      "school_id": "420",
+      "female_num": "3240",
+      "men_num": "1169",
+      "men_rate": "26.51",
+      "female_rate": "73.49",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11000"
+  }
+}

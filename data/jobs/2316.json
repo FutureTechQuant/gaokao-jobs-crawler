@@ -1,0 +1,76 @@
+{
+  "update_time": "2026-04-27 16:07:05",
+  "school_id": "2316",
+  "school_name": "呼和浩特民族学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.14"
+    },
+    "postgraduate": {
+      "1": "4.75"
+    },
+    "abroad": {
+      "1": "0.68"
+    }
+  },
+  "province": [
+    {
+      "id": "32322",
+      "school_id": "2316",
+      "province": "北京市",
+      "rate": "4.14",
+      "num": "97",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:31:29",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "32323",
+      "school_id": "2316",
+      "province": "其他区外省份",
+      "rate": "8.45",
+      "num": "198",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:31:29",
+      "year": "2024",
+      "province_name": "其他区外省份"
+    },
+    {
+      "id": "32321",
+      "school_id": "2316",
+      "province": "内蒙古自治区",
+      "rate": "87.41",
+      "num": "2048",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:31:29",
+      "year": "2024",
+      "province_name": "内蒙古自治区"
+    }
+  ],
+  "attr": {
+    "企业": "79.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2776",
+      "school_id": "2316",
+      "female_num": "1919",
+      "men_num": "1028",
+      "men_rate": "34.88",
+      "female_rate": "65.12",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:29:54",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

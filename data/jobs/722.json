@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:52:09",
+  "school_id": "722",
+  "school_name": "衡水职业技术学院",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "83.97"
+    },
+    "postgraduate": {
+      "1": "4.25"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27028",
+      "school_id": "722",
+      "province": "天津",
+      "rate": "2.40",
+      "num": "0",
+      "sort": "24",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:49:56",
+      "year": "2020",
+      "province_name": "天津"
+    },
+    {
+      "id": "27027",
+      "school_id": "722",
+      "province": "浙江",
+      "rate": "2.60",
+      "num": "0",
+      "sort": "26",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:49:39",
+      "year": "2020",
+      "province_name": "浙江"
+    },
+    {
+      "id": "27026",
+      "school_id": "722",
+      "province": "山西",
+      "rate": "5.70",
+      "num": "0",
+      "sort": "57",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:49:20",
+      "year": "2020",
+      "province_name": "山西"
+    },
+    {
+      "id": "27025",
+      "school_id": "722",
+      "province": "北京",
+      "rate": "32.90",
+      "num": "0",
+      "sort": "329",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:49:04",
+      "year": "2020",
+      "province_name": "北京"
+    },
+    {
+      "id": "27024",
+      "school_id": "722",
+      "province": "河北",
+      "rate": "43.70",
+      "num": "0",
+      "sort": "437",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:48:45",
+      "year": "2020",
+      "province_name": "河北"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "69.00",
+    "国有企业": "20.00",
+    "政府机构/科研 或其他事业单位": "6.00",
+    "中外合资/外资/ 独资": "4.00",
+    "非政府或非营利 组织（NGO等）": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2288",
+      "school_id": "722",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "57.60",
+      "female_rate": "42.40",
+      "update_id": "1988",
+      "update_time": "2025-02-06 09:48:14",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

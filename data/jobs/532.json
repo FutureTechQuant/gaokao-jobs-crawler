@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 15:50:17",
+  "school_id": "532",
+  "school_name": "桂林电子科技大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.00"
+    },
+    "postgraduate": {
+      "1": "25.50"
+    },
+    "abroad": {
+      "1": "1.30"
+    }
+  },
+  "province": [
+    {
+      "id": "28690",
+      "school_id": "532",
+      "province": "陕西",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "100",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "陕西"
+    },
+    {
+      "id": "28689",
+      "school_id": "532",
+      "province": "四川",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "100",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "四川"
+    },
+    {
+      "id": "28688",
+      "school_id": "532",
+      "province": "北京",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "110",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "28687",
+      "school_id": "532",
+      "province": "上海",
+      "rate": "1.20",
+      "num": "0",
+      "sort": "120",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "上海"
+    },
+    {
+      "id": "28686",
+      "school_id": "532",
+      "province": "江苏",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "160",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "28685",
+      "school_id": "532",
+      "province": "浙江",
+      "rate": "2.50",
+      "num": "0",
+      "sort": "250",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "28684",
+      "school_id": "532",
+      "province": "广西",
+      "rate": "33.50",
+      "num": "0",
+      "sort": "3350",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "广西"
+    },
+    {
+      "id": "28683",
+      "school_id": "532",
+      "province": "广东",
+      "rate": "50.20",
+      "num": "0",
+      "sort": "5020",
+      "update_id": "2314",
+      "update_time": "2025-11-12 14:03:25",
+      "year": "2024",
+      "province_name": "广东"
+    }
+  ],
+  "attr": {
+    "各类专业设计与咨询服务业": "2.50",
+    "交通运输设备制造业": "2.50",
+    "金融业": "4.40",
+    "教育业": "4.70",
+    "政府及公共管理": "5.50",
+    "建筑业": "5.70",
+    "机械设备制造业": "5.80"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2470",
+      "school_id": "532",
+      "female_num": "1539",
+      "men_num": "3626",
+      "men_rate": "70.20",
+      "female_rate": "29.80",
+      "update_id": "2314",
+      "update_time": "2025-11-12 13:59:02",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11400"
+  }
+}

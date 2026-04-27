@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 16:08:55",
+  "school_id": "2491",
+  "school_name": "成都大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "88.64"
+    },
+    "postgraduate": {
+      "1": "12.41"
+    },
+    "abroad": {
+      "1": "1.54"
+    }
+  },
+  "province": [
+    {
+      "id": "19875",
+      "school_id": "2491",
+      "province": "四川",
+      "rate": "77.66",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1639",
+      "update_time": "2024-06-18 14:26:50",
+      "year": "2022",
+      "province_name": "四川"
+    },
+    {
+      "id": "19876",
+      "school_id": "2491",
+      "province": "广东",
+      "rate": "4.32",
+      "num": "0",
+      "sort": "5",
+      "update_id": "1639",
+      "update_time": "2024-06-18 14:26:50",
+      "year": "2022",
+      "province_name": "广东"
+    },
+    {
+      "id": "19877",
+      "school_id": "2491",
+      "province": "浙江",
+      "rate": "2.53",
+      "num": "0",
+      "sort": "6",
+      "update_id": "1639",
+      "update_time": "2024-06-18 14:26:50",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "19878",
+      "school_id": "2491",
+      "province": "重庆",
+      "rate": "2.05",
+      "num": "0",
+      "sort": "7",
+      "update_id": "1639",
+      "update_time": "2024-06-18 14:26:50",
+      "year": "2022",
+      "province_name": "重庆"
+    },
+    {
+      "id": "19879",
+      "school_id": "2491",
+      "province": "北京",
+      "rate": "2.07",
+      "num": "0",
+      "sort": "8",
+      "update_id": "1639",
+      "update_time": "2024-06-18 14:26:50",
+      "year": "2022",
+      "province_name": "北京"
+    }
+  ],
+  "attr": {
+    "民办非企业组织（组织）": "3.04",
+    "中外合资／外资／独资": "3.74",
+    "政府机构／科研或其他事业单位": "19.94",
+    "国有企业": "24.80",
+    "民营企业／个体": "48.48"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1795",
+      "school_id": "2491",
+      "female_num": "3260",
+      "men_num": "2592",
+      "men_rate": "44.30",
+      "female_rate": "55.70",
+      "update_id": "1639",
+      "update_time": "2024-06-18 14:20:35",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

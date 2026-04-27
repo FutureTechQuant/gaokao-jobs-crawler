@@ -1,0 +1,70 @@
+{
+  "update_time": "2026-04-27 15:47:29",
+  "school_id": "280",
+  "school_name": "忻州师范学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "81.76"
+    },
+    "postgraduate": {
+      "1": "9.15"
+    },
+    "abroad": {
+      "1": "0.20"
+    }
+  },
+  "province": [
+    {
+      "id": "31260",
+      "school_id": "280",
+      "province": "省外",
+      "rate": "37.04",
+      "num": "0",
+      "sort": "3704",
+      "update_id": "2096",
+      "update_time": "2025-11-27 14:52:45",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "31259",
+      "school_id": "280",
+      "province": "山西省",
+      "rate": "62.96",
+      "num": "0",
+      "sort": "6296",
+      "update_id": "2096",
+      "update_time": "2025-11-27 14:52:28",
+      "year": "2024",
+      "province_name": "山西省"
+    }
+  ],
+  "attr": {
+    "西部计划": "2.38",
+    "其它地方基层": "0.22",
+    "科研助理": "0.20",
+    "国家特岗教师": "0.18",
+    "地方特岗教师": "0.13",
+    "选调生": "0.09",
+    "三支一扶": "0.02"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2682",
+      "school_id": "280",
+      "female_num": "4450",
+      "men_num": "1274",
+      "men_rate": "22.23",
+      "female_rate": "77.77",
+      "update_id": "2096",
+      "update_time": "2025-11-27 14:47:30",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8600"
+  }
+}

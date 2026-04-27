@@ -1,0 +1,241 @@
+{
+  "update_time": "2026-04-27 16:07:21",
+  "school_id": "2347",
+  "school_name": "锦州医科大学医疗学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.01"
+    },
+    "postgraduate": {
+      "1": "5.22"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "4503",
+      "school_id": "2347",
+      "province": "本溪市",
+      "rate": "1.97",
+      "num": "26",
+      "sort": "26",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "本溪市"
+    },
+    {
+      "id": "4500",
+      "school_id": "2347",
+      "province": "丹东市",
+      "rate": "3.03",
+      "num": "40",
+      "sort": "40",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "丹东市"
+    },
+    {
+      "id": "4494",
+      "school_id": "2347",
+      "province": "盘锦市",
+      "rate": "3.26",
+      "num": "43",
+      "sort": "43",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "盘锦市"
+    },
+    {
+      "id": "4499",
+      "school_id": "2347",
+      "province": "抚顺市",
+      "rate": "3.34",
+      "num": "44",
+      "sort": "44",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "抚顺市"
+    },
+    {
+      "id": "4497",
+      "school_id": "2347",
+      "province": "葫芦岛市",
+      "rate": "3.71",
+      "num": "49",
+      "sort": "49",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "葫芦岛市"
+    },
+    {
+      "id": "4502",
+      "school_id": "2347",
+      "province": "朝阳市",
+      "rate": "4.01",
+      "num": "53",
+      "sort": "53",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "朝阳市"
+    },
+    {
+      "id": "4501",
+      "school_id": "2347",
+      "province": "大连市",
+      "rate": "4.17",
+      "num": "55",
+      "sort": "55",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "大连市"
+    },
+    {
+      "id": "4491",
+      "school_id": "2347",
+      "province": "铁岭市",
+      "rate": "4.25",
+      "num": "56",
+      "sort": "56",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "铁岭市"
+    },
+    {
+      "id": "4490",
+      "school_id": "2347",
+      "province": "营口市",
+      "rate": "4.40",
+      "num": "58",
+      "sort": "58",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "营口市"
+    },
+    {
+      "id": "4504",
+      "school_id": "2347",
+      "province": "鞍山市",
+      "rate": "4.40",
+      "num": "58",
+      "sort": "58",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "鞍山市"
+    },
+    {
+      "id": "4495",
+      "school_id": "2347",
+      "province": "辽阳市",
+      "rate": "4.93",
+      "num": "65",
+      "sort": "65",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "辽阳市"
+    },
+    {
+      "id": "4496",
+      "school_id": "2347",
+      "province": "锦州市",
+      "rate": "5.01",
+      "num": "66",
+      "sort": "66",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "锦州市"
+    },
+    {
+      "id": "4498",
+      "school_id": "2347",
+      "province": "阜新市",
+      "rate": "5.00",
+      "num": "66",
+      "sort": "66",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "阜新市"
+    },
+    {
+      "id": "4493",
+      "school_id": "2347",
+      "province": "沈阳市",
+      "rate": "8.72",
+      "num": "115",
+      "sort": "115",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "沈阳市"
+    },
+    {
+      "id": "4492",
+      "school_id": "2347",
+      "province": "辽宁省外",
+      "rate": "39.80",
+      "num": "525",
+      "sort": "525",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "辽宁省外"
+    }
+  ],
+  "attr": {
+    "医疔卫生单位": "78.26",
+    "其他": "11.58",
+    "党政机关、事业单位": "6.71",
+    "国有企业": "2.14",
+    "部队单位": "1.31"
+  },
+  "company": {
+    "中国航天科工集团七三一医院": "0",
+    "中国人民解放军第210医院": "0",
+    "中国人民解放军第406医院": "0",
+    "中国人民解放军第230医院": "0",
+    "中国人民解放军第202医院": "0",
+    "中国人民解放军第211医院": "0",
+    "中国人民解放军第205医院": "0",
+    "中国人民解放军第201医院": "0",
+    "葫芦岛市中心医院": "0",
+    "营口市中心医院": "0",
+    "辽河油田中心医院": "0",
+    "葫芦岛永康医疗器械有限公司": "0",
+    "锦州市象牙齿科": "0",
+    "锦州丰乐口腔": "0",
+    "沈阳于洪冠齿口腔医院": "0",
+    "同济大学附属同济医院": "0"
+  },
+  "gradute": [
+    {
+      "id": "280",
+      "school_id": "2347",
+      "female_num": "993",
+      "men_num": "425",
+      "men_rate": "29.97",
+      "female_rate": "70.03",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6700"
+  }
+}

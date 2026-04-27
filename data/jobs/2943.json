@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:11:37",
+  "school_id": "2943",
+  "school_name": "广东艺术职业学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.10"
+    },
+    "postgraduate": {
+      "1": "15.91"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2370",
+      "school_id": "2943",
+      "female_num": "763",
+      "men_num": "299",
+      "men_rate": "28.15",
+      "female_rate": "71.85",
+      "update_id": "2096",
+      "update_time": "2025-07-08 18:20:14",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

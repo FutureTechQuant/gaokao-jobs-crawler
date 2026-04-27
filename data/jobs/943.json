@@ -1,0 +1,175 @@
+{
+  "update_time": "2026-04-27 15:54:12",
+  "school_id": "943",
+  "school_name": "江西机电职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.93"
+    },
+    "postgraduate": {
+      "1": "8.46"
+    },
+    "abroad": {
+      "1": "0.03"
+    }
+  },
+  "province": [
+    {
+      "id": "33310",
+      "school_id": "943",
+      "province": "北京市",
+      "rate": "0.41",
+      "num": "24",
+      "sort": "41",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "33309",
+      "school_id": "943",
+      "province": "山东省",
+      "rate": "0.43",
+      "num": "25",
+      "sort": "43",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "33308",
+      "school_id": "943",
+      "province": "湖北省",
+      "rate": "0.57",
+      "num": "33",
+      "sort": "57",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "33307",
+      "school_id": "943",
+      "province": "上海市",
+      "rate": "1.60",
+      "num": "93",
+      "sort": "160",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "33306",
+      "school_id": "943",
+      "province": "安徽省",
+      "rate": "1.62",
+      "num": "95",
+      "sort": "162",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "33311",
+      "school_id": "943",
+      "province": "其他所有省份",
+      "rate": "2.59",
+      "num": "151",
+      "sort": "259",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "其他所有省份"
+    },
+    {
+      "id": "33305",
+      "school_id": "943",
+      "province": "福建省",
+      "rate": "2.64",
+      "num": "154",
+      "sort": "264",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "33304",
+      "school_id": "943",
+      "province": "江苏省",
+      "rate": "4.18",
+      "num": "244",
+      "sort": "418",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "33303",
+      "school_id": "943",
+      "province": "广东省",
+      "rate": "9.08",
+      "num": "530",
+      "sort": "908",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "33302",
+      "school_id": "943",
+      "province": "浙江省",
+      "rate": "16.72",
+      "num": "977",
+      "sort": "1672",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "33301",
+      "school_id": "943",
+      "province": "江西省",
+      "rate": "60.16",
+      "num": "3513",
+      "sort": "6016",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:17:10",
+      "year": "2024",
+      "province_name": "江西省"
+    }
+  ],
+  "attr": {
+    "民营企业/个体/其他企业": "96.78",
+    "政府机构/科研/事业单位": "1.33",
+    "国有企业": "1.09",
+    "其他（含社会组织等）": "0.80"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2852",
+      "school_id": "943",
+      "female_num": "667",
+      "men_num": "5172",
+      "men_rate": "88.58",
+      "female_rate": "11.42",
+      "update_id": "2234",
+      "update_time": "2025-12-03 18:09:42",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

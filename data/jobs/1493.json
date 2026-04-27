@@ -1,0 +1,38 @@
+{
+  "update_time": "2026-04-27 15:58:43",
+  "school_id": "1493",
+  "school_name": "重庆警察学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "99.75"
+    },
+    "postgraduate": {
+      "1": "0.25"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {
+    "政法机关": "98.74",
+    "其他党政机关": "0.75"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2718",
+      "school_id": "1493",
+      "female_num": "40",
+      "men_num": "358",
+      "men_rate": "89.90",
+      "female_rate": "10.10",
+      "update_id": "1988",
+      "update_time": "2025-11-28 10:59:31",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

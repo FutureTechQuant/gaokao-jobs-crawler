@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:00:53",
+  "school_id": "1735",
+  "school_name": "广西机电职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.09"
+    },
+    "postgraduate": {
+      "1": "24.63"
+    },
+    "abroad": {
+      "1": "0.83"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

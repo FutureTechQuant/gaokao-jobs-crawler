@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:05:00",
+  "school_id": "2111",
+  "school_name": "山东交通职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "91.80"
+    },
+    "postgraduate": {
+      "1": "17.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

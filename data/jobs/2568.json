@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:09:46",
+  "school_id": "2568",
+  "school_name": "毕节职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "79.66"
+    },
+    "postgraduate": {
+      "1": "9.31"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1245",
+      "school_id": "2568",
+      "female_num": "2847",
+      "men_num": "1018",
+      "men_rate": "26.34",
+      "female_rate": "73.66",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:19:03",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

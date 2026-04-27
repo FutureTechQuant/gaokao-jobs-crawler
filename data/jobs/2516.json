@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:09:12",
+  "school_id": "2516",
+  "school_name": "青岛农业大学海都学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.57"
+    },
+    "postgraduate": {
+      "1": "8.25"
+    },
+    "abroad": {
+      "1": "0.56"
+    }
+  },
+  "province": [
+    {
+      "id": "5682",
+      "school_id": "2516",
+      "province": "其他省市",
+      "rate": "32.55",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5680",
+      "school_id": "2516",
+      "province": "山东省外",
+      "rate": "3.46",
+      "num": "35",
+      "sort": "35",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "5681",
+      "school_id": "2516",
+      "province": "青岛市",
+      "rate": "63.99",
+      "num": "656",
+      "sort": "656",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "青岛市"
+    }
+  ],
+  "attr": {
+    "非国有企业": "77.33",
+    "国有企业": "3.77",
+    "事业单位": "2.29",
+    "党政机关": "0.31",
+    "其他": "16.30"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "402",
+      "school_id": "2516",
+      "female_num": "1003",
+      "men_num": "1145",
+      "men_rate": "53.50",
+      "female_rate": "46.50",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

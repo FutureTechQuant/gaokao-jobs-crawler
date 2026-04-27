@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-04-27 16:07:44",
+  "school_id": "2381",
+  "school_name": "浙江工业大学之江学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.04"
+    },
+    "postgraduate": {
+      "1": "12.88"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28504",
+      "school_id": "2381",
+      "province": "杭州",
+      "rate": "30.29",
+      "num": "0",
+      "sort": "3029",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:35:14",
+      "year": "2024",
+      "province_name": "杭州"
+    },
+    {
+      "id": "28505",
+      "school_id": "2381",
+      "province": "其他地区",
+      "rate": "69.71",
+      "num": "0",
+      "sort": "6971",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:35:47",
+      "year": "2024",
+      "province_name": "其他地区"
+    }
+  ],
+  "attr": {
+    "其他企业（以民营企业为主）": "91.27",
+    "机关、教育单位、事业单位、国有企业及三资企业等优质岗位": "8.73"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2454",
+      "school_id": "2381",
+      "female_num": "1702",
+      "men_num": "1590",
+      "men_rate": "48.30",
+      "female_rate": "51.70",
+      "update_id": "1988",
+      "update_time": "2025-11-12 10:34:22",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9200"
+  }
+}

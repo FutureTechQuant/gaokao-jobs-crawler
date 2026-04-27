@@ -1,0 +1,194 @@
+{
+  "update_time": "2026-04-27 16:14:18",
+  "school_id": "3350",
+  "school_name": "浙江舟山群岛新区旅游与健康职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.46"
+    },
+    "postgraduate": {
+      "1": "8.54"
+    },
+    "abroad": {
+      "1": "0.38"
+    }
+  },
+  "province": [
+    {
+      "id": "27585",
+      "school_id": "3350",
+      "province": "北上广",
+      "rate": "1.16",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "北上广"
+    },
+    {
+      "id": "27584",
+      "school_id": "3350",
+      "province": "衢州",
+      "rate": "1.78",
+      "num": "20",
+      "sort": "20",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "衢州"
+    },
+    {
+      "id": "27586",
+      "school_id": "3350",
+      "province": "省外其他城市",
+      "rate": "2.14",
+      "num": "24",
+      "sort": "24",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "省外其他城市"
+    },
+    {
+      "id": "27583",
+      "school_id": "3350",
+      "province": "湖州",
+      "rate": "3.39",
+      "num": "38",
+      "sort": "38",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "湖州"
+    },
+    {
+      "id": "27582",
+      "school_id": "3350",
+      "province": "丽水",
+      "rate": "3.48",
+      "num": "39",
+      "sort": "39",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "丽水"
+    },
+    {
+      "id": "27581",
+      "school_id": "3350",
+      "province": "绍兴",
+      "rate": "4.19",
+      "num": "47",
+      "sort": "47",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "绍兴"
+    },
+    {
+      "id": "27580",
+      "school_id": "3350",
+      "province": "嘉兴",
+      "rate": "4.64",
+      "num": "52",
+      "sort": "52",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "嘉兴"
+    },
+    {
+      "id": "27579",
+      "school_id": "3350",
+      "province": "台州",
+      "rate": "5.26",
+      "num": "59",
+      "sort": "59",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "台州"
+    },
+    {
+      "id": "27578",
+      "school_id": "3350",
+      "province": "温州",
+      "rate": "8.30",
+      "num": "93",
+      "sort": "93",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "温州"
+    },
+    {
+      "id": "27577",
+      "school_id": "3350",
+      "province": "宁波",
+      "rate": "12.04",
+      "num": "135",
+      "sort": "135",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "宁波"
+    },
+    {
+      "id": "27576",
+      "school_id": "3350",
+      "province": "杭州",
+      "rate": "12.76",
+      "num": "143",
+      "sort": "143",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "杭州"
+    },
+    {
+      "id": "27575",
+      "school_id": "3350",
+      "province": "金华",
+      "rate": "13.83",
+      "num": "155",
+      "sort": "155",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "金华"
+    },
+    {
+      "id": "27574",
+      "school_id": "3350",
+      "province": "舟山",
+      "rate": "27.03",
+      "num": "303",
+      "sort": "303",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:43:14",
+      "year": "2024",
+      "province_name": "舟山"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2337",
+      "school_id": "3350",
+      "female_num": "1031",
+      "men_num": "292",
+      "men_rate": "22.00",
+      "female_rate": "78.00",
+      "update_id": "1988",
+      "update_time": "2025-07-07 17:39:46",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7200"
+  }
+}

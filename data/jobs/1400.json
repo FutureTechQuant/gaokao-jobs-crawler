@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 15:58:02",
+  "school_id": "1400",
+  "school_name": "青岛城市学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "5677",
+      "school_id": "1400",
+      "province": "其他省市",
+      "rate": "6.92",
+      "num": "28",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5671",
+      "school_id": "1400",
+      "province": "西南地区",
+      "rate": "1.27",
+      "num": "40",
+      "sort": "40",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "5674",
+      "school_id": "1400",
+      "province": "华南地区",
+      "rate": "1.51",
+      "num": "47",
+      "sort": "47",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "5673",
+      "school_id": "1400",
+      "province": "华中地区",
+      "rate": "3.01",
+      "num": "95",
+      "sort": "95",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "5676",
+      "school_id": "1400",
+      "province": "华北地区",
+      "rate": "3.57",
+      "num": "112",
+      "sort": "112",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "5672",
+      "school_id": "1400",
+      "province": "西北地区",
+      "rate": "13.73",
+      "num": "432",
+      "sort": "432",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "5675",
+      "school_id": "1400",
+      "province": "华东地区",
+      "rate": "69.99",
+      "num": "2204",
+      "sort": "2204",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "华东地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "79.68",
+    "国有企业": "11.11",
+    "其他事业单位": "2.20",
+    "三资企业": "2.11",
+    "中等、初等教育单位": "1.19",
+    "机关": "0.78"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

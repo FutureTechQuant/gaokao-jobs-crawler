@@ -1,0 +1,94 @@
+{
+  "update_time": "2026-04-27 15:46:53",
+  "school_id": "226",
+  "school_name": "沈阳药科大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "85.76"
+    },
+    "postgraduate": {
+      "1": "45.52"
+    },
+    "abroad": {
+      "1": "1.96"
+    }
+  },
+  "province": [
+    {
+      "id": "16313",
+      "school_id": "226",
+      "province": "中部地区",
+      "rate": "5.12",
+      "num": "79",
+      "sort": "79",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "16314",
+      "school_id": "226",
+      "province": "西部地区",
+      "rate": "7.71",
+      "num": "119",
+      "sort": "119",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "16311",
+      "school_id": "226",
+      "province": "东北地区",
+      "rate": "41.61",
+      "num": "642",
+      "sort": "642",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "16312",
+      "school_id": "226",
+      "province": "东部地区",
+      "rate": "45.56",
+      "num": "703",
+      "sort": "703",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:48:21",
+      "year": "2022",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "其他企业（民营企业为主）": "77.02",
+    "科研助理": "4.54",
+    "国有企业": "2.98",
+    "三资企业": "13.90",
+    "其他事业单位": "1.13",
+    "党政机关": "0.14",
+    "自由职业": "0.14"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1551",
+      "school_id": "226",
+      "female_num": "1251",
+      "men_num": "590",
+      "men_rate": "32.05",
+      "female_rate": "67.95",
+      "update_id": "2004",
+      "update_time": "2024-06-06 17:49:01",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

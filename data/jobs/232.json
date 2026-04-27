@@ -1,0 +1,123 @@
+{
+  "update_time": "2026-04-27 15:46:57",
+  "school_id": "232",
+  "school_name": "成都理工大学",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "92.41"
+    },
+    "postgraduate": {
+      "1": "16.85"
+    },
+    "abroad": {
+      "1": "4.53"
+    }
+  },
+  "province": [
+    {
+      "id": "21341",
+      "school_id": "232",
+      "province": "湖北省",
+      "rate": "1.93",
+      "num": "0",
+      "sort": "92",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:12:41",
+      "year": "2021",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "21340",
+      "school_id": "232",
+      "province": "北京市",
+      "rate": "2.58",
+      "num": "0",
+      "sort": "93",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:12:41",
+      "year": "2021",
+      "province_name": "北京市"
+    },
+    {
+      "id": "21339",
+      "school_id": "232",
+      "province": "重庆市",
+      "rate": "3.09",
+      "num": "0",
+      "sort": "94",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:12:41",
+      "year": "2021",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "21338",
+      "school_id": "232",
+      "province": "广东省",
+      "rate": "6.82",
+      "num": "0",
+      "sort": "95",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:12:41",
+      "year": "2021",
+      "province_name": "广东省"
+    },
+    {
+      "id": "21337",
+      "school_id": "232",
+      "province": "其他地区",
+      "rate": "20.68",
+      "num": "0",
+      "sort": "96",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:12:41",
+      "year": "2021",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "21336",
+      "school_id": "232",
+      "province": "四川省",
+      "rate": "64.90",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:12:41",
+      "year": "2021",
+      "province_name": "四川省"
+    }
+  ],
+  "attr": {
+    "其他企业": "58.52",
+    "国有企业": "27.73",
+    "其他事业单位": "4.41",
+    "三资企业": "2.52",
+    "高等教育单位": "2.36",
+    "机关": "1.46",
+    "中初教育单位": "1.36",
+    "科研设计单位": "1.22",
+    "医疗卫生单位": "0.21",
+    "部队": "0.13",
+    "城镇社区": "0.05",
+    "农村建制村": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1912",
+      "school_id": "232",
+      "female_num": "4246",
+      "men_num": "5100",
+      "men_rate": "54.57",
+      "female_rate": "45.43",
+      "update_id": "1988",
+      "update_time": "2024-09-14 17:07:43",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10200"
+  }
+}

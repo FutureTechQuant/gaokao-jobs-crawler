@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 16:03:26",
+  "school_id": "1966",
+  "school_name": "湖北商贸学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "87.50"
+    },
+    "postgraduate": {
+      "1": "1.94"
+    },
+    "abroad": {
+      "1": "0.59"
+    }
+  },
+  "province": [
+    {
+      "id": "26443",
+      "school_id": "1966",
+      "province": "浙江",
+      "rate": "2.67",
+      "num": "0",
+      "sort": "267",
+      "update_id": "1988",
+      "update_time": "2025-01-10 09:55:27",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "26442",
+      "school_id": "1966",
+      "province": "山东",
+      "rate": "2.79",
+      "num": "0",
+      "sort": "279",
+      "update_id": "1988",
+      "update_time": "2025-01-10 09:55:10",
+      "year": "2023",
+      "province_name": "山东"
+    },
+    {
+      "id": "26441",
+      "school_id": "1966",
+      "province": "北京",
+      "rate": "3.86",
+      "num": "0",
+      "sort": "386",
+      "update_id": "1988",
+      "update_time": "2025-01-10 09:54:55",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "26440",
+      "school_id": "1966",
+      "province": "广东",
+      "rate": "8.42",
+      "num": "0",
+      "sort": "842",
+      "update_id": "1988",
+      "update_time": "2025-01-10 09:54:39",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "26439",
+      "school_id": "1966",
+      "province": "湖北",
+      "rate": "58.13",
+      "num": "0",
+      "sort": "5813",
+      "update_id": "1988",
+      "update_time": "2025-01-10 09:54:22",
+      "year": "2023",
+      "province_name": "湖北"
+    }
+  ],
+  "attr": {
+    "民营企业/ 个体": "76.41",
+    "国有企业": "14.58",
+    "政府机构/ 科研或其他 事业单位": "4.82",
+    "中外合资/ 外资/独资": "3.63",
+    "民非组织": "0.56"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2254",
+      "school_id": "1966",
+      "female_num": "1387",
+      "men_num": "1501",
+      "men_rate": "51.97",
+      "female_rate": "48.03",
+      "update_id": "1988",
+      "update_time": "2025-01-10 09:53:17",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

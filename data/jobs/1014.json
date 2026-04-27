@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 15:54:56",
+  "school_id": "1014",
+  "school_name": "吉林农业科技学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.60"
+    },
+    "postgraduate": {
+      "1": "24.57"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31101",
+      "school_id": "1014",
+      "province": "吉林省外",
+      "rate": "45.24",
+      "num": "0",
+      "sort": "4524",
+      "update_id": "2314",
+      "update_time": "2025-11-27 11:40:05",
+      "year": "2024",
+      "province_name": "吉林省外"
+    },
+    {
+      "id": "31100",
+      "school_id": "1014",
+      "province": "吉林省内",
+      "rate": "54.76",
+      "num": "0",
+      "sort": "5476",
+      "update_id": "2314",
+      "update_time": "2025-11-27 11:39:45",
+      "year": "2024",
+      "province_name": "吉林省内"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "62.95",
+    "其他（含社会组织等）": "17.22",
+    "国有企业": "8.63"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1911",
+      "school_id": "1014",
+      "female_num": "1877",
+      "men_num": "1534",
+      "men_rate": "44.97",
+      "female_rate": "55.03",
+      "update_id": "2094",
+      "update_time": "2024-09-14 16:10:40",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

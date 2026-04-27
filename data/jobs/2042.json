@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-04-27 16:04:17",
+  "school_id": "2042",
+  "school_name": "湖南软件职业技术大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.99"
+    },
+    "postgraduate": {
+      "1": "12.51"
+    },
+    "abroad": {
+      "1": "0.06"
+    }
+  },
+  "province": [
+    {
+      "id": "31071",
+      "school_id": "2042",
+      "province": "湖南省外",
+      "rate": "40.32",
+      "num": "0",
+      "sort": "4032",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:24:18",
+      "year": "2024",
+      "province_name": "湖南省外"
+    },
+    {
+      "id": "31070",
+      "school_id": "2042",
+      "province": "湖南省",
+      "rate": "59.68",
+      "num": "0",
+      "sort": "5968",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:24:00",
+      "year": "2024",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "82.56",
+    "个体工商户": "9.89",
+    "其他（含社会组织等）": "2.78",
+    "外商投资企业": "2.35"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2667",
+      "school_id": "2042",
+      "female_num": "1239",
+      "men_num": "2295",
+      "men_rate": "64.94",
+      "female_rate": "35.06",
+      "update_id": "1988",
+      "update_time": "2025-11-27 11:21:12",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

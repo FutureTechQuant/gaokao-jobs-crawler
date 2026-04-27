@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 15:49:38",
+  "school_id": "466",
+  "school_name": "河南工业大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "82.05"
+    },
+    "postgraduate": {
+      "1": "27.30"
+    },
+    "abroad": {
+      "1": "7.24"
+    }
+  },
+  "province": [
+    {
+      "id": "16035",
+      "school_id": "466",
+      "province": "河南",
+      "rate": "28.39",
+      "num": "0",
+      "sort": "54",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "河南"
+    },
+    {
+      "id": "16036",
+      "school_id": "466",
+      "province": "广东",
+      "rate": "9.99",
+      "num": "0",
+      "sort": "55",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "16037",
+      "school_id": "466",
+      "province": "江苏",
+      "rate": "8.71",
+      "num": "0",
+      "sort": "56",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "16038",
+      "school_id": "466",
+      "province": "浙江",
+      "rate": "8.18",
+      "num": "0",
+      "sort": "57",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "16039",
+      "school_id": "466",
+      "province": "上海",
+      "rate": "6.13",
+      "num": "0",
+      "sort": "58",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "16040",
+      "school_id": "466",
+      "province": "北京",
+      "rate": "5.00",
+      "num": "0",
+      "sort": "59",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "16041",
+      "school_id": "466",
+      "province": "山东",
+      "rate": "3.41",
+      "num": "0",
+      "sort": "60",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "山东"
+    },
+    {
+      "id": "16042",
+      "school_id": "466",
+      "province": "湖北",
+      "rate": "3.56",
+      "num": "0",
+      "sort": "61",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "湖北"
+    },
+    {
+      "id": "16043",
+      "school_id": "466",
+      "province": "安徽",
+      "rate": "3.48",
+      "num": "0",
+      "sort": "62",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "安徽"
+    },
+    {
+      "id": "16044",
+      "school_id": "466",
+      "province": "福建",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "63",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:58:17",
+      "year": "2023",
+      "province_name": "福建"
+    }
+  ],
+  "attr": {
+    "民办非企业单位": "0.68",
+    "中外合资/外资/独资": "4.41",
+    "政府机构/科研或其他事业单位": "8.37",
+    "国有企业": "31.35",
+    "民营企业/个体": "55.18"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1513",
+      "school_id": "466",
+      "female_num": "678",
+      "men_num": "1227",
+      "men_rate": "64.41",
+      "female_rate": "35.59",
+      "update_id": "1721",
+      "update_time": "2024-06-05 14:16:31",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

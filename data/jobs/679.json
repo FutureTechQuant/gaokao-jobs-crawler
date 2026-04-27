@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 15:51:41",
+  "school_id": "679",
+  "school_name": "上海科学技术职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.19"
+    },
+    "postgraduate": {
+      "1": "3.86"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

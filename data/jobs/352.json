@@ -1,0 +1,103 @@
+{
+  "update_time": "2026-04-27 15:48:19",
+  "school_id": "352",
+  "school_name": "西安科技大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "78.61"
+    },
+    "postgraduate": {
+      "1": "31.29"
+    },
+    "abroad": {
+      "1": "0.96"
+    }
+  },
+  "province": [
+    {
+      "id": "17861",
+      "school_id": "352",
+      "province": "京津冀地区",
+      "rate": "6.40",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "京津冀地区"
+    },
+    {
+      "id": "17860",
+      "school_id": "352",
+      "province": "长三角地区",
+      "rate": "15.10",
+      "num": "0",
+      "sort": "15",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "17859",
+      "school_id": "352",
+      "province": "长江经济带",
+      "rate": "22.70",
+      "num": "0",
+      "sort": "23",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "17858",
+      "school_id": "352",
+      "province": "西部地区",
+      "rate": "56.10",
+      "num": "0",
+      "sort": "56",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "17857",
+      "school_id": "352",
+      "province": "一带一路地区",
+      "rate": "78.00",
+      "num": "0",
+      "sort": "78",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "一带一路地区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "46.00",
+    "国有企业": "44.00",
+    "中外合资/外资/独资": "5.00",
+    "政府机构/科研或其他事业": "5.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1649",
+      "school_id": "352",
+      "female_num": "1874",
+      "men_num": "2802",
+      "men_rate": "59.92",
+      "female_rate": "40.08",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:50",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10600"
+  }
+}

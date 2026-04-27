@@ -1,0 +1,146 @@
+{
+  "update_time": "2026-04-27 16:03:43",
+  "school_id": "1992",
+  "school_name": "长沙民政职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "92.50"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30602",
+      "school_id": "1992",
+      "province": "山西省",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "375",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "山西省"
+    },
+    {
+      "id": "30601",
+      "school_id": "1992",
+      "province": "河北省",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "376",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "30600",
+      "school_id": "1992",
+      "province": "云南省",
+      "rate": "1.27",
+      "num": "0",
+      "sort": "377",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "30599",
+      "school_id": "1992",
+      "province": "新疆维吾尔自治区",
+      "rate": "1.81",
+      "num": "0",
+      "sort": "378",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "30598",
+      "school_id": "1992",
+      "province": "上海市",
+      "rate": "2.01",
+      "num": "0",
+      "sort": "379",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30597",
+      "school_id": "1992",
+      "province": "四川省",
+      "rate": "2.97",
+      "num": "0",
+      "sort": "380",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "30596",
+      "school_id": "1992",
+      "province": "江苏省",
+      "rate": "3.02",
+      "num": "0",
+      "sort": "381",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "30595",
+      "school_id": "1992",
+      "province": "浙江省",
+      "rate": "4.52",
+      "num": "0",
+      "sort": "382",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30594",
+      "school_id": "1992",
+      "province": "广东省",
+      "rate": "12.83",
+      "num": "0",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30593",
+      "school_id": "1992",
+      "province": "湖南省",
+      "rate": "56.64",
+      "num": "0",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-11-26 14:15:17",
+      "year": "2024",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

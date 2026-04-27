@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 15:49:00",
+  "school_id": "412",
+  "school_name": "吉林财经大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.98"
+    },
+    "postgraduate": {
+      "1": "13.06"
+    },
+    "abroad": {
+      "1": "3.71"
+    }
+  },
+  "province": [
+    {
+      "id": "29840",
+      "school_id": "412",
+      "province": "长江经济带",
+      "rate": "13.68",
+      "num": "0",
+      "sort": "1368",
+      "update_id": "2234",
+      "update_time": "2025-11-14 17:17:51",
+      "year": "2024",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "29839",
+      "school_id": "412",
+      "province": "东三省",
+      "rate": "63.39",
+      "num": "0",
+      "sort": "6339",
+      "update_id": "2234",
+      "update_time": "2025-11-14 17:17:26",
+      "year": "2024",
+      "province_name": "东三省"
+    },
+    {
+      "id": "29838",
+      "school_id": "412",
+      "province": "一带一路地区",
+      "rate": "85.44",
+      "num": "0",
+      "sort": "8544",
+      "update_id": "2234",
+      "update_time": "2025-11-14 17:16:55",
+      "year": "2024",
+      "province_name": "一带一路地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "45.95",
+    "国有企业": "28.26",
+    "机关": "16.80",
+    "事业单位": "7.76",
+    "外商投资企业": "1.23"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2265",
+      "school_id": "412",
+      "female_num": "0",
+      "men_num": "0",
+      "men_rate": "26.58",
+      "female_rate": "73.42",
+      "update_id": "1988",
+      "update_time": "2025-01-10 14:53:50",
+      "year": "2020"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

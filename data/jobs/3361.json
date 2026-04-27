@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:14:25",
+  "school_id": "3361",
+  "school_name": "河南林业职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "80.13"
+    },
+    "postgraduate": {
+      "1": "13.89"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31422",
+      "school_id": "3361",
+      "province": "浙江省",
+      "rate": "7.04",
+      "num": "0",
+      "sort": "704",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:20:51",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31421",
+      "school_id": "3361",
+      "province": "江苏省",
+      "rate": "8.68",
+      "num": "0",
+      "sort": "868",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:20:37",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31423",
+      "school_id": "3361",
+      "province": "其他地区",
+      "rate": "26.42",
+      "num": "0",
+      "sort": "2642",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:21:39",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "31420",
+      "school_id": "3361",
+      "province": "河南省",
+      "rate": "57.86",
+      "num": "0",
+      "sort": "5786",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:20:16",
+      "year": "2024",
+      "province_name": "河南省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营 企业等）": "36.07",
+    "个体工商户": "20.93",
+    "其他事业单位": "13.40",
+    "其他": "29.60"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2697",
+      "school_id": "3361",
+      "female_num": "1322",
+      "men_num": "1788",
+      "men_rate": "42.51",
+      "female_rate": "57.49",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:19:47",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6100"
+  }
+}

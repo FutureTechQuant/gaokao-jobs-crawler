@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 16:06:53",
+  "school_id": "2297",
+  "school_name": "天津传媒学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "94.05"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "18865",
+      "school_id": "2297",
+      "province": "东部地区",
+      "rate": "48.01",
+      "num": "903",
+      "sort": "36",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "18866",
+      "school_id": "2297",
+      "province": "中部地区",
+      "rate": "17.65",
+      "num": "332",
+      "sort": "37",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "18867",
+      "school_id": "2297",
+      "province": "西部地区",
+      "rate": "19.72",
+      "num": "371",
+      "sort": "38",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "18868",
+      "school_id": "2297",
+      "province": "东北地区",
+      "rate": "0.90",
+      "num": "17",
+      "sort": "39",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:01",
+      "year": "2023",
+      "province_name": "东北地区"
+    }
+  ],
+  "attr": {
+    "民营企业": "30.94",
+    "其他企业": "26.69",
+    "事业单位": "1.33",
+    "国有企业单位": "0.90",
+    "党政机关": "0.74"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1725",
+      "school_id": "2297",
+      "female_num": "1174",
+      "men_num": "707",
+      "men_rate": "37.59",
+      "female_rate": "62.41",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:24",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

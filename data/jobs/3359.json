@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 16:14:23",
+  "school_id": "3359",
+  "school_name": "山东特殊教育职业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "79.11"
+    },
+    "postgraduate": {
+      "1": "11.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27598",
+      "school_id": "3359",
+      "province": "山东",
+      "rate": "78.93",
+      "num": "0",
+      "sort": "7893",
+      "update_id": "1988",
+      "update_time": "2025-07-07 18:29:44",
+      "year": "2021",
+      "province_name": "山东"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2339",
+      "school_id": "3359",
+      "female_num": "250",
+      "men_num": "176",
+      "men_rate": "41.30",
+      "female_rate": "58.70",
+      "update_id": "1988",
+      "update_time": "2025-07-07 18:27:56",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7800"
+  }
+}

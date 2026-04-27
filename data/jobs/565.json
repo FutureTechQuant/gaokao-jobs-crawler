@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:50:40",
+  "school_id": "565",
+  "school_name": "北京电子科技学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.91"
+    },
+    "postgraduate": {
+      "1": "40.29"
+    },
+    "abroad": {
+      "1": "14.19"
+    }
+  },
+  "province": [
+    {
+      "id": "414",
+      "school_id": "565",
+      "province": "广州市",
+      "rate": "0.74",
+      "num": "8",
+      "sort": "8",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "广州市"
+    },
+    {
+      "id": "412",
+      "school_id": "565",
+      "province": "深圳市",
+      "rate": "0.98",
+      "num": "13",
+      "sort": "13",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "413",
+      "school_id": "565",
+      "province": "上海市",
+      "rate": "1.26",
+      "num": "17",
+      "sort": "17",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "411",
+      "school_id": "565",
+      "province": "省会城市",
+      "rate": "17.52",
+      "num": "231",
+      "sort": "231",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "省会城市"
+    },
+    {
+      "id": "415",
+      "school_id": "565",
+      "province": "非省会城市",
+      "rate": "35.37",
+      "num": "467",
+      "sort": "467",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "非省会城市"
+    },
+    {
+      "id": "416",
+      "school_id": "565",
+      "province": "北京市",
+      "rate": "44.13",
+      "num": "583",
+      "sort": "583",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "北京市"
+    }
+  ],
+  "attr": {
+    "国有企业": "65.56",
+    "民营企业": "22.59",
+    "党政机关、事业单位": "8.82",
+    "三资企业": "1.93",
+    "其他": "1.10"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "12800"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 15:57:53",
+  "school_id": "1375",
+  "school_name": "四川音乐学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "86.18"
+    },
+    "postgraduate": {
+      "1": "5.80"
+    },
+    "abroad": {
+      "1": "4.70"
+    }
+  },
+  "province": [
+    {
+      "id": "31791",
+      "school_id": "1375",
+      "province": "东北地区",
+      "rate": "0.20",
+      "num": "0",
+      "sort": "20",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "31790",
+      "school_id": "1375",
+      "province": "西北地区",
+      "rate": "2.00",
+      "num": "0",
+      "sort": "200",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "31789",
+      "school_id": "1375",
+      "province": "华北地区",
+      "rate": "4.40",
+      "num": "0",
+      "sort": "440",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "31788",
+      "school_id": "1375",
+      "province": "华中地区",
+      "rate": "5.90",
+      "num": "0",
+      "sort": "590",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "31787",
+      "school_id": "1375",
+      "province": "华南地区",
+      "rate": "10.30",
+      "num": "0",
+      "sort": "1030",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "31786",
+      "school_id": "1375",
+      "province": "华东地区",
+      "rate": "15.90",
+      "num": "0",
+      "sort": "1590",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "31785",
+      "school_id": "1375",
+      "province": "西南地区",
+      "rate": "61.10",
+      "num": "0",
+      "sort": "6110",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:43:31",
+      "year": "2024",
+      "province_name": "西南地区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "72.00",
+    "政府机构/科研或其他事业单位": "13.00",
+    "国有企业": "10.00",
+    "中外合资/外资/独资": "3.00",
+    "民非组织": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2729",
+      "school_id": "1375",
+      "female_num": "1953",
+      "men_num": "1072",
+      "men_rate": "35.40",
+      "female_rate": "64.60",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:36:48",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10400"
+  }
+}

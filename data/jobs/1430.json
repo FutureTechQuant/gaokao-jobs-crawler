@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:58:15",
+  "school_id": "1430",
+  "school_name": "河南警察学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "94.15"
+    },
+    "postgraduate": {
+      "1": "5.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1096",
+      "school_id": "1430",
+      "female_num": "346",
+      "men_num": "1087",
+      "men_rate": "75.85",
+      "female_rate": "24.15",
+      "update_id": "929",
+      "update_time": "2021-04-01 11:32:23",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10100"
+  }
+}

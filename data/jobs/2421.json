@@ -1,0 +1,169 @@
+{
+  "update_time": "2026-04-27 16:08:11",
+  "school_id": "2421",
+  "school_name": "厦门工学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.05"
+    },
+    "postgraduate": {
+      "1": "1.09"
+    },
+    "abroad": {
+      "1": "1.71"
+    }
+  },
+  "province": [
+    {
+      "id": "5852",
+      "school_id": "2421",
+      "province": "其他省市",
+      "rate": "22.20",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5849",
+      "school_id": "2421",
+      "province": "南平市",
+      "rate": "1.00",
+      "num": "25",
+      "sort": "25",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "南平市"
+    },
+    {
+      "id": "5845",
+      "school_id": "2421",
+      "province": "三明市",
+      "rate": "1.08",
+      "num": "27",
+      "sort": "27",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "三明市"
+    },
+    {
+      "id": "5850",
+      "school_id": "2421",
+      "province": "龙岩市",
+      "rate": "1.32",
+      "num": "33",
+      "sort": "33",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "龙岩市"
+    },
+    {
+      "id": "5847",
+      "school_id": "2421",
+      "province": "莆田市",
+      "rate": "1.76",
+      "num": "44",
+      "sort": "44",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "莆田市"
+    },
+    {
+      "id": "5848",
+      "school_id": "2421",
+      "province": "宁德市",
+      "rate": "1.84",
+      "num": "46",
+      "sort": "46",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "宁德市"
+    },
+    {
+      "id": "5843",
+      "school_id": "2421",
+      "province": "漳州市",
+      "rate": "2.02",
+      "num": "55",
+      "sort": "55",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "漳州市"
+    },
+    {
+      "id": "5851",
+      "school_id": "2421",
+      "province": "福州市",
+      "rate": "9.29",
+      "num": "232",
+      "sort": "232",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "福州市"
+    },
+    {
+      "id": "5846",
+      "school_id": "2421",
+      "province": "泉州市",
+      "rate": "11.85",
+      "num": "296",
+      "sort": "296",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "泉州市"
+    },
+    {
+      "id": "5844",
+      "school_id": "2421",
+      "province": "厦门市",
+      "rate": "47.64",
+      "num": "1190",
+      "sort": "1190",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "厦门市"
+    }
+  ],
+  "attr": {
+    "国有企业": "5.72",
+    "三资企业": "2.76",
+    "机关": "0.56",
+    "医疔卫生单位": "0.36",
+    "中、初教育单位": "0.28",
+    "高等教育单位": "0.20",
+    "部队单位": "0.08",
+    "城镇社区": "0.08",
+    "科研单位": "0.08",
+    "其他": "89.88"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "349",
+      "school_id": "2421",
+      "female_num": "1168",
+      "men_num": "1406",
+      "men_rate": "55.00",
+      "female_rate": "45.00",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9900"
+  }
+}

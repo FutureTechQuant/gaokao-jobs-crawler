@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 15:58:22",
+  "school_id": "1446",
+  "school_name": "烟台理工学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.12"
+    },
+    "postgraduate": {
+      "1": "11.48"
+    },
+    "abroad": {
+      "1": "0.68"
+    }
+  },
+  "province": [
+    {
+      "id": "8482",
+      "school_id": "1446",
+      "province": "山东省外",
+      "rate": "14.14",
+      "num": "325",
+      "sort": "325",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "8483",
+      "school_id": "1446",
+      "province": "山东省",
+      "rate": "85.86",
+      "num": "1980",
+      "sort": "1980",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:18",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "民营企业、个体经营": "62.97",
+    "国有企业": "13.96",
+    "中外合资/外资/独资": "8.98",
+    "非营利组织": "1.00",
+    "党政机关、事业单位": "12.97",
+    "其他": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "809",
+      "school_id": "1446",
+      "female_num": "1649",
+      "men_num": "912",
+      "men_rate": "35.60",
+      "female_rate": "64.40",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:49:01",
+  "school_id": "413",
+  "school_name": "吉林体育学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "76.79"
+    },
+    "postgraduate": {
+      "1": "4.06"
+    },
+    "abroad": {
+      "1": "0.84"
+    }
+  },
+  "province": [
+    {
+      "id": "17392",
+      "school_id": "413",
+      "province": "江苏",
+      "rate": "8.14",
+      "num": "0",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "江苏"
+    },
+    {
+      "id": "17391",
+      "school_id": "413",
+      "province": "山东",
+      "rate": "9.95",
+      "num": "0",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "山东"
+    },
+    {
+      "id": "17393",
+      "school_id": "413",
+      "province": "浙江",
+      "rate": "9.73",
+      "num": "0",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "浙江"
+    },
+    {
+      "id": "17390",
+      "school_id": "413",
+      "province": "河北",
+      "rate": "16.06",
+      "num": "0",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "河北"
+    },
+    {
+      "id": "17389",
+      "school_id": "413",
+      "province": "吉林",
+      "rate": "16.97",
+      "num": "0",
+      "sort": "17",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:41",
+      "year": "2022",
+      "province_name": "吉林"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "56.83",
+    "政府机构/科研或其他事业单位": "31.41",
+    "国有企业": "8.15",
+    "中外合资/外资/独资": "1.92",
+    "民办非企业单位（组织）": "1.68"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1608",
+      "school_id": "413",
+      "female_num": "641",
+      "men_num": "910",
+      "men_rate": "58.67",
+      "female_rate": "41.33",
+      "update_id": "2004",
+      "update_time": "2024-06-10 17:06:56",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

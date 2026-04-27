@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 15:48:27",
+  "school_id": "365",
+  "school_name": "陕西中医药大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "70.03"
+    },
+    "postgraduate": {
+      "1": "28.25"
+    },
+    "abroad": {
+      "1": "0.15"
+    }
+  },
+  "province": [
+    {
+      "id": "17747",
+      "school_id": "365",
+      "province": "成都",
+      "rate": "0.97",
+      "num": "0",
+      "sort": "97",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "成都"
+    },
+    {
+      "id": "17746",
+      "school_id": "365",
+      "province": "延安",
+      "rate": "3.56",
+      "num": "0",
+      "sort": "356",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "延安"
+    },
+    {
+      "id": "17743",
+      "school_id": "365",
+      "province": "榆林",
+      "rate": "4.21",
+      "num": "0",
+      "sort": "421",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "榆林"
+    },
+    {
+      "id": "17745",
+      "school_id": "365",
+      "province": "商洛",
+      "rate": "4.37",
+      "num": "0",
+      "sort": "437",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "商洛"
+    },
+    {
+      "id": "17741",
+      "school_id": "365",
+      "province": "安康",
+      "rate": "4.53",
+      "num": "0",
+      "sort": "453",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "安康"
+    },
+    {
+      "id": "17744",
+      "school_id": "365",
+      "province": "汉中",
+      "rate": "5.02",
+      "num": "0",
+      "sort": "502",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "汉中"
+    },
+    {
+      "id": "17740",
+      "school_id": "365",
+      "province": "渭南",
+      "rate": "5.02",
+      "num": "0",
+      "sort": "502",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "渭南"
+    },
+    {
+      "id": "17742",
+      "school_id": "365",
+      "province": "宝鸡",
+      "rate": "5.18",
+      "num": "0",
+      "sort": "518",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "宝鸡"
+    },
+    {
+      "id": "17739",
+      "school_id": "365",
+      "province": "咸阳",
+      "rate": "11.33",
+      "num": "0",
+      "sort": "1133",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "咸阳"
+    },
+    {
+      "id": "17738",
+      "school_id": "365",
+      "province": "西安",
+      "rate": "31.72",
+      "num": "0",
+      "sort": "3172",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "西安"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "41.04",
+    "民营企业/个体": "36.81",
+    "国有企业": "16.94",
+    "中外合资/外资/独资": "3.09",
+    "民非组织": "2.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1637",
+      "school_id": "365",
+      "female_num": "1806",
+      "men_num": "870",
+      "men_rate": "32.51",
+      "female_rate": "67.49",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:41",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

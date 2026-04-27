@@ -1,0 +1,72 @@
+{
+  "update_time": "2026-04-27 16:18:40",
+  "school_id": "3881",
+  "school_name": "海南热带海洋学院国际学院",
+  "jobrateyear": "2025",
+  "jobrate": {
+    "job": {
+      "1": "90.00"
+    },
+    "postgraduate": {
+      "1": "5.56"
+    },
+    "abroad": {
+      "1": "20.63"
+    }
+  },
+  "province": [
+    {
+      "id": "33370",
+      "school_id": "3881",
+      "province": "二线城市",
+      "rate": "10.00",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2026-04-01 11:32:28",
+      "year": "2025",
+      "province_name": "二线城市"
+    },
+    {
+      "id": "33369",
+      "school_id": "3881",
+      "province": "一线城市 含新一线",
+      "rate": "23.00",
+      "num": "29",
+      "sort": "29",
+      "update_id": "1988",
+      "update_time": "2026-04-01 11:32:10",
+      "year": "2025",
+      "province_name": "一线城市 含新一线"
+    },
+    {
+      "id": "33371",
+      "school_id": "3881",
+      "province": "其他城市",
+      "rate": "40.00",
+      "num": "51",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2026-04-01 11:32:43",
+      "year": "2025",
+      "province_name": "其他城市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2859",
+      "school_id": "3881",
+      "female_num": "94",
+      "men_num": "46",
+      "men_rate": "32.86",
+      "female_rate": "67.14",
+      "update_id": "1988",
+      "update_time": "2026-04-01 11:31:12",
+      "year": "2025"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

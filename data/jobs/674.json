@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:51:38",
+  "school_id": "674",
+  "school_name": "上海济光职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "94.95"
+    },
+    "postgraduate": {
+      "1": "16.62"
+    },
+    "abroad": {
+      "1": "0.56"
+    }
+  },
+  "province": [
+    {
+      "id": "28457",
+      "school_id": "674",
+      "province": "其他地区",
+      "rate": "13.21",
+      "num": "0",
+      "sort": "1321",
+      "update_id": "2314",
+      "update_time": "2025-11-12 09:49:22",
+      "year": "2024",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "28456",
+      "school_id": "674",
+      "province": "江浙沪地区",
+      "rate": "86.79",
+      "num": "0",
+      "sort": "8679",
+      "update_id": "2314",
+      "update_time": "2025-11-12 09:48:58",
+      "year": "2024",
+      "province_name": "江浙沪地区"
+    }
+  ],
+  "attr": {
+    "中小企业": "64.00",
+    "医疗卫生单位": "10.00",
+    "国有企业": "8.00",
+    "其他事业单位": "2.00",
+    "三资企业": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2444",
+      "school_id": "674",
+      "female_num": "1049",
+      "men_num": "1111",
+      "men_rate": "51.44",
+      "female_rate": "48.56",
+      "update_id": "2314",
+      "update_time": "2025-11-12 09:30:53",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

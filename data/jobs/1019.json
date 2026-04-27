@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 15:54:59",
+  "school_id": "1019",
+  "school_name": "武汉警官职业学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "80.00"
+    },
+    "postgraduate": {
+      "1": "4.53"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "10394",
+      "school_id": "1019",
+      "province": "广东省",
+      "rate": "2.79",
+      "num": "32",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-12 13:52:58",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "10391",
+      "school_id": "1019",
+      "province": "湖北省",
+      "rate": "66.72",
+      "num": "766",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-12 13:52:58",
+      "year": "2019",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "10392",
+      "school_id": "1019",
+      "province": "安徽省",
+      "rate": "5.66",
+      "num": "65",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-12 13:52:58",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "10393",
+      "school_id": "1019",
+      "province": "新疆",
+      "rate": "3.31",
+      "num": "38",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-12 13:52:58",
+      "year": "2019",
+      "province_name": "新疆"
+    },
+    {
+      "id": "10395",
+      "school_id": "1019",
+      "province": "其他",
+      "rate": "21.52",
+      "num": "247",
+      "sort": "0",
+      "update_id": "929",
+      "update_time": "2020-06-12 13:52:58",
+      "year": "2019",
+      "province_name": "其他"
+    }
+  ],
+  "attr": {
+    "高等教育单位": "0.44",
+    "农村建制村": "0.09",
+    "城镇社区": "0.26",
+    "科研设计单位": "0.52",
+    "三资企业": "1.13",
+    "医疗卫生单位": "1.39",
+    "国有企业": "1.66",
+    "中初教育单位": "2.18",
+    "其他事业单位": "11.30",
+    "机关": "14.63",
+    "其他企业": "66.38"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "920",
+      "school_id": "1019",
+      "female_num": "635",
+      "men_num": "989",
+      "men_rate": "60.90",
+      "female_rate": "39.10",
+      "update_id": "929",
+      "update_time": "2020-06-12 13:40:39",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

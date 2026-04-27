@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 16:14:39",
+  "school_id": "3385",
+  "school_name": "湖南劳动人事职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "88.09"
+    },
+    "postgraduate": {
+      "1": "6.04"
+    },
+    "abroad": {
+      "1": "0.03"
+    }
+  },
+  "province": [
+    {
+      "id": "27127",
+      "school_id": "3385",
+      "province": "湖南省外",
+      "rate": "28.74",
+      "num": "730",
+      "sort": "730",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:17:15",
+      "year": "2023",
+      "province_name": "湖南省外"
+    },
+    {
+      "id": "27126",
+      "school_id": "3385",
+      "province": "湖南省",
+      "rate": "71.26",
+      "num": "1810",
+      "sort": "1810",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:17:15",
+      "year": "2023",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2301",
+      "school_id": "3385",
+      "female_num": "1786",
+      "men_num": "1446",
+      "men_rate": "44.74",
+      "female_rate": "55.26",
+      "update_id": "2094",
+      "update_time": "2025-02-10 11:09:17",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7700"
+  }
+}

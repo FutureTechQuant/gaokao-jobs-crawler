@@ -1,0 +1,284 @@
+{
+  "update_time": "2026-04-27 15:47:42",
+  "school_id": "300",
+  "school_name": "惠州学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "93.57"
+    },
+    "postgraduate": {
+      "1": "8.76"
+    },
+    "abroad": {
+      "1": "0.92"
+    }
+  },
+  "province": [
+    {
+      "id": "14358",
+      "school_id": "300",
+      "province": "东莞市",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "东莞市"
+    },
+    {
+      "id": "16952",
+      "school_id": "300",
+      "province": "东莞",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "4",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "东莞"
+    },
+    {
+      "id": "14366",
+      "school_id": "300",
+      "province": "佛山市",
+      "rate": "3.10",
+      "num": "0",
+      "sort": "10",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "佛山市"
+    },
+    {
+      "id": "14375",
+      "school_id": "300",
+      "province": "广州市",
+      "rate": "11.30",
+      "num": "0",
+      "sort": "15",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "广州市"
+    },
+    {
+      "id": "16957",
+      "school_id": "300",
+      "province": "中山",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "中山"
+    },
+    {
+      "id": "16949",
+      "school_id": "300",
+      "province": "深圳",
+      "rate": "16.00",
+      "num": "0",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "深圳"
+    },
+    {
+      "id": "16956",
+      "school_id": "300",
+      "province": "揭阳",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "揭阳"
+    },
+    {
+      "id": "16955",
+      "school_id": "300",
+      "province": "梅州",
+      "rate": "1.90",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "梅州"
+    },
+    {
+      "id": "14382",
+      "school_id": "300",
+      "province": "河源市",
+      "rate": "4.80",
+      "num": "0",
+      "sort": "20",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "河源市"
+    },
+    {
+      "id": "16954",
+      "school_id": "300",
+      "province": "汕头",
+      "rate": "2.40",
+      "num": "0",
+      "sort": "24",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "汕头"
+    },
+    {
+      "id": "14386",
+      "school_id": "300",
+      "province": "惠州市",
+      "rate": "37.40",
+      "num": "0",
+      "sort": "24",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "惠州市"
+    },
+    {
+      "id": "16953",
+      "school_id": "300",
+      "province": "佛山",
+      "rate": "3.10",
+      "num": "0",
+      "sort": "31",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "佛山"
+    },
+    {
+      "id": "14395",
+      "school_id": "300",
+      "province": "揭阳市",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "31",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "揭阳市"
+    },
+    {
+      "id": "14403",
+      "school_id": "300",
+      "province": "梅州市",
+      "rate": "1.90",
+      "num": "0",
+      "sort": "37",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "梅州市"
+    },
+    {
+      "id": "14411",
+      "school_id": "300",
+      "province": "汕头市",
+      "rate": "2.40",
+      "num": "0",
+      "sort": "43",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "汕头市"
+    },
+    {
+      "id": "16951",
+      "school_id": "300",
+      "province": "河源",
+      "rate": "4.80",
+      "num": "0",
+      "sort": "48",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "河源"
+    },
+    {
+      "id": "14422",
+      "school_id": "300",
+      "province": "深圳市",
+      "rate": "16.00",
+      "num": "0",
+      "sort": "51",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "14449",
+      "school_id": "300",
+      "province": "中山市",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "67",
+      "update_id": "1639",
+      "update_time": "2024-05-22 11:03:54",
+      "year": "2023",
+      "province_name": "中山市"
+    },
+    {
+      "id": "16950",
+      "school_id": "300",
+      "province": "广州",
+      "rate": "11.30",
+      "num": "0",
+      "sort": "113",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "广州"
+    },
+    {
+      "id": "16948",
+      "school_id": "300",
+      "province": "惠州",
+      "rate": "37.40",
+      "num": "0",
+      "sort": "374",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:28",
+      "year": "2023",
+      "province_name": "惠州"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "44.00",
+    "政府机构/科研或其他事业单位": "42.00",
+    "国有企业": "10.00",
+    "中外合资/外资/独资": "3.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1390",
+      "school_id": "300",
+      "female_num": "3135",
+      "men_num": "2278",
+      "men_rate": "42.10",
+      "female_rate": "57.90",
+      "update_id": "2004",
+      "update_time": "2024-06-08 18:00:44",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10700"
+  }
+}

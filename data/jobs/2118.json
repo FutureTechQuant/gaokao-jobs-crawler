@@ -1,0 +1,25 @@
+{
+  "update_time": "2026-04-27 16:05:05",
+  "school_id": "2118",
+  "school_name": "山东工业职业学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "98.18"
+    },
+    "postgraduate": {
+      "1": "9.80"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "6300"
+  }
+}

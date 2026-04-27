@@ -1,0 +1,23 @@
+{
+  "update_time": "2026-04-27 16:15:07",
+  "school_id": "3436",
+  "school_name": "资阳环境科技职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "90.13"
+    },
+    "postgraduate": {
+      "1": "14.40"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

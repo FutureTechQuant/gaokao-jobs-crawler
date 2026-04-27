@@ -1,0 +1,108 @@
+{
+  "update_time": "2026-04-27 16:02:36",
+  "school_id": "1894",
+  "school_name": "福建农林大学金山学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.26"
+    },
+    "postgraduate": {
+      "1": "2.04"
+    },
+    "abroad": {
+      "1": "0.25"
+    }
+  },
+  "province": [
+    {
+      "id": "1480",
+      "school_id": "1894",
+      "province": "其他省市",
+      "rate": "19.46",
+      "num": "265",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "1476",
+      "school_id": "1894",
+      "province": "珠三角地区",
+      "rate": "4.21",
+      "num": "97",
+      "sort": "97",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "1477",
+      "school_id": "1894",
+      "province": "长三角地区",
+      "rate": "9.09",
+      "num": "210",
+      "sort": "210",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "1479",
+      "school_id": "1894",
+      "province": "山区片",
+      "rate": "20.07",
+      "num": "464",
+      "sort": "464",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "山区片"
+    },
+    {
+      "id": "1478",
+      "school_id": "1894",
+      "province": "沿海地区",
+      "rate": "47.17",
+      "num": "1091",
+      "sort": "1091",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "沿海地区"
+    }
+  ],
+  "attr": {
+    "非国有企业": "80.60",
+    "国有企业": "9.14",
+    "事业单位": "3.09",
+    "国家、地方基层项目": "1.63",
+    "党政机关": "1.03",
+    "自主创业": "0.64",
+    "部队单位": "0.39",
+    "科研单位": "0.26",
+    "其他": "3.22"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "353",
+      "school_id": "1894",
+      "female_num": "1109",
+      "men_num": "1337",
+      "men_rate": "54.66",
+      "female_rate": "45.34",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

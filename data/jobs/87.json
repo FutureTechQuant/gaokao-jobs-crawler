@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 15:45:20",
+  "school_id": "87",
+  "school_name": "天津外国语大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "86.10"
+    },
+    "postgraduate": {
+      "1": "21.60"
+    },
+    "abroad": {
+      "1": "8.90"
+    }
+  },
+  "province": [
+    {
+      "id": "17248",
+      "school_id": "87",
+      "province": "新一线城市",
+      "rate": "47.80",
+      "num": "0",
+      "sort": "79",
+      "update_id": "1639",
+      "update_time": "2024-06-10 10:20:18",
+      "year": "2023",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "17249",
+      "school_id": "87",
+      "province": "京津冀",
+      "rate": "45.00",
+      "num": "0",
+      "sort": "80",
+      "update_id": "1639",
+      "update_time": "2024-06-10 10:20:18",
+      "year": "2023",
+      "province_name": "京津冀"
+    },
+    {
+      "id": "17250",
+      "school_id": "87",
+      "province": "一带一路",
+      "rate": "37.20",
+      "num": "0",
+      "sort": "81",
+      "update_id": "1639",
+      "update_time": "2024-06-10 10:20:18",
+      "year": "2023",
+      "province_name": "一带一路"
+    },
+    {
+      "id": "17251",
+      "school_id": "87",
+      "province": "长江经济带",
+      "rate": "25.90",
+      "num": "0",
+      "sort": "82",
+      "update_id": "1639",
+      "update_time": "2024-06-10 10:20:18",
+      "year": "2023",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "民非组织": "0.00",
+    "中外合资/外资/独资": "12.00",
+    "国有企业": "17.00",
+    "政府机构/科研或其他事业单位": "14.00",
+    "民营企业/个体": "57.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1598",
+      "school_id": "87",
+      "female_num": "1929",
+      "men_num": "449",
+      "men_rate": "18.90",
+      "female_rate": "81.10",
+      "update_id": "1639",
+      "update_time": "2024-06-10 09:57:35",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11000"
+  }
+}

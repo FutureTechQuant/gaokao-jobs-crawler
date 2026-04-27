@@ -1,0 +1,138 @@
+{
+  "update_time": "2026-04-27 15:51:00",
+  "school_id": "600",
+  "school_name": "承德医学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "85.73"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30373",
+      "school_id": "600",
+      "province": "零售业",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "107",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:11:04",
+      "year": "2024",
+      "province_name": "零售业"
+    },
+    {
+      "id": "30372",
+      "school_id": "600",
+      "province": "文化、体育和娱乐业",
+      "rate": "1.07",
+      "num": "0",
+      "sort": "107",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:11:04",
+      "year": "2024",
+      "province_name": "文化、体育和娱乐业"
+    },
+    {
+      "id": "30371",
+      "school_id": "600",
+      "province": "政府及公共管理",
+      "rate": "2.13",
+      "num": "0",
+      "sort": "213",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:11:04",
+      "year": "2024",
+      "province_name": "政府及公共管理"
+    },
+    {
+      "id": "30370",
+      "school_id": "600",
+      "province": "教育业",
+      "rate": "4.00",
+      "num": "0",
+      "sort": "400",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:11:04",
+      "year": "2024",
+      "province_name": "教育业"
+    },
+    {
+      "id": "30369",
+      "school_id": "600",
+      "province": "医药及设备制造业",
+      "rate": "6.40",
+      "num": "0",
+      "sort": "640",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:11:04",
+      "year": "2024",
+      "province_name": "医药及设备制造业"
+    },
+    {
+      "id": "30405",
+      "school_id": "600",
+      "province": "河北省外",
+      "rate": "37.84",
+      "num": "0",
+      "sort": "3784",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:13:42",
+      "year": "2024",
+      "province_name": "河北省外"
+    },
+    {
+      "id": "30374",
+      "school_id": "600",
+      "province": "河北省内",
+      "rate": "62.16",
+      "num": "0",
+      "sort": "6216",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:13:17",
+      "year": "2024",
+      "province_name": "河北省内"
+    },
+    {
+      "id": "30368",
+      "school_id": "600",
+      "province": "医疗和社会护理服务业",
+      "rate": "81.87",
+      "num": "0",
+      "sort": "8187",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:11:04",
+      "year": "2024",
+      "province_name": "医疗和社会护理服务业"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "46.53",
+    "民营企业/个体": "25.45",
+    "国有企业": "24.42"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2613",
+      "school_id": "600",
+      "female_num": "1346",
+      "men_num": "756",
+      "men_rate": "35.96",
+      "female_rate": "64.04",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:09:30",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "update_time": "2026-04-27 15:55:21",
+  "school_id": "1062",
+  "school_name": "哈尔滨师范大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "61.40"
+    },
+    "postgraduate": {
+      "1": "13.59"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "2172",
+      "school_id": "1062",
+      "province": "其他省市",
+      "rate": "1.05",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "2171",
+      "school_id": "1062",
+      "province": "大兴安岭",
+      "rate": "0.71",
+      "num": "46",
+      "sort": "46",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "大兴安岭"
+    },
+    {
+      "id": "2164",
+      "school_id": "1062",
+      "province": "七台河市",
+      "rate": "0.80",
+      "num": "52",
+      "sort": "52",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "七台河市"
+    },
+    {
+      "id": "2169",
+      "school_id": "1062",
+      "province": "鹤岗市",
+      "rate": "0.84",
+      "num": "55",
+      "sort": "55",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "鹤岗市"
+    },
+    {
+      "id": "2168",
+      "school_id": "1062",
+      "province": "黑河市",
+      "rate": "1.80",
+      "num": "117",
+      "sort": "117",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "黑河市"
+    },
+    {
+      "id": "2160",
+      "school_id": "1062",
+      "province": "伊春市",
+      "rate": "1.97",
+      "num": "128",
+      "sort": "128",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "伊春市"
+    },
+    {
+      "id": "2167",
+      "school_id": "1062",
+      "province": "鸡西市",
+      "rate": "2.26",
+      "num": "147",
+      "sort": "147",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "鸡西市"
+    },
+    {
+      "id": "2162",
+      "school_id": "1062",
+      "province": "双鸭山市",
+      "rate": "2.35",
+      "num": "153",
+      "sort": "153",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "双鸭山市"
+    },
+    {
+      "id": "2165",
+      "school_id": "1062",
+      "province": "牡丹江市",
+      "rate": "3.94",
+      "num": "257",
+      "sort": "257",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "牡丹江市"
+    },
+    {
+      "id": "2173",
+      "school_id": "1062",
+      "province": "大庆市",
+      "rate": "4.15",
+      "num": "271",
+      "sort": "271",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "大庆市"
+    },
+    {
+      "id": "2166",
+      "school_id": "1062",
+      "province": "佳木斯市",
+      "rate": "5.20",
+      "num": "339",
+      "sort": "339",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "佳木斯市"
+    },
+    {
+      "id": "2163",
+      "school_id": "1062",
+      "province": "齐齐哈尔市",
+      "rate": "5.24",
+      "num": "342",
+      "sort": "342",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "齐齐哈尔市"
+    },
+    {
+      "id": "2161",
+      "school_id": "1062",
+      "province": "绥化市",
+      "rate": "7.30",
+      "num": "477",
+      "sort": "477",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "绥化市"
+    },
+    {
+      "id": "2170",
+      "school_id": "1062",
+      "province": "哈尔滨市",
+      "rate": "62.39",
+      "num": "4078",
+      "sort": "4078",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:14",
+      "year": "2019",
+      "province_name": "哈尔滨市"
+    }
+  ],
+  "attr": {
+    "基础教育": "10.48",
+    "国有企业": "1.31",
+    "基层单位": "0.59",
+    "自主创业": "0.36",
+    "事业单位": "0.15",
+    "党政机关": "0.14",
+    "高等教育单位": "0.10",
+    "部队单位": "0.05",
+    "其他": "86.82"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1572",
+      "school_id": "1062",
+      "female_num": "5931",
+      "men_num": "2084",
+      "men_rate": "26.00",
+      "female_rate": "74.00",
+      "update_id": "1721",
+      "update_time": "2024-06-07 18:24:04",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

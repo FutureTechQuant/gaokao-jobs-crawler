@@ -1,0 +1,278 @@
+{
+  "update_time": "2026-04-27 15:56:38",
+  "school_id": "1212",
+  "school_name": "辽宁警察学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.63"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "4770",
+      "school_id": "1212",
+      "province": "上海市",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "4777",
+      "school_id": "1212",
+      "province": "海南省",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "海南省"
+    },
+    {
+      "id": "4778",
+      "school_id": "1212",
+      "province": "广西壮族自治区",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "广西壮族自治区"
+    },
+    {
+      "id": "4775",
+      "school_id": "1212",
+      "province": "吉林省",
+      "rate": "0.27",
+      "num": "3",
+      "sort": "3",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "4786",
+      "school_id": "1212",
+      "province": "北京市",
+      "rate": "0.45",
+      "num": "5",
+      "sort": "5",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "4772",
+      "school_id": "1212",
+      "province": "宁夏回族自治区",
+      "rate": "0.45",
+      "num": "5",
+      "sort": "5",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "宁夏回族自治区"
+    },
+    {
+      "id": "4779",
+      "school_id": "1212",
+      "province": "广东省",
+      "rate": "0.54",
+      "num": "6",
+      "sort": "6",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "4776",
+      "school_id": "1212",
+      "province": "葫芦岛市",
+      "rate": "2.43",
+      "num": "27",
+      "sort": "27",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "葫芦岛市"
+    },
+    {
+      "id": "4773",
+      "school_id": "1212",
+      "province": "辽阳市",
+      "rate": "3.16",
+      "num": "35",
+      "sort": "35",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "辽阳市"
+    },
+    {
+      "id": "4782",
+      "school_id": "1212",
+      "province": "丹东市",
+      "rate": "3.25",
+      "num": "36",
+      "sort": "36",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "丹东市"
+    },
+    {
+      "id": "4784",
+      "school_id": "1212",
+      "province": "朝阳市",
+      "rate": "4.15",
+      "num": "46",
+      "sort": "46",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "朝阳市"
+    },
+    {
+      "id": "4771",
+      "school_id": "1212",
+      "province": "盘锦市",
+      "rate": "4.42",
+      "num": "49",
+      "sort": "49",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "盘锦市"
+    },
+    {
+      "id": "4780",
+      "school_id": "1212",
+      "province": "阜新市",
+      "rate": "4.68",
+      "num": "51",
+      "sort": "51",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "阜新市"
+    },
+    {
+      "id": "4774",
+      "school_id": "1212",
+      "province": "锦州市",
+      "rate": "4.87",
+      "num": "54",
+      "sort": "54",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "锦州市"
+    },
+    {
+      "id": "4767",
+      "school_id": "1212",
+      "province": "营口市",
+      "rate": "5.14",
+      "num": "57",
+      "sort": "57",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "营口市"
+    },
+    {
+      "id": "4768",
+      "school_id": "1212",
+      "province": "铁岭市",
+      "rate": "5.78",
+      "num": "64",
+      "sort": "64",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "铁岭市"
+    },
+    {
+      "id": "4787",
+      "school_id": "1212",
+      "province": "鞍山市",
+      "rate": "6.41",
+      "num": "71",
+      "sort": "71",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "鞍山市"
+    },
+    {
+      "id": "4781",
+      "school_id": "1212",
+      "province": "抚顺市",
+      "rate": "9.12",
+      "num": "101",
+      "sort": "101",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "抚顺市"
+    },
+    {
+      "id": "4785",
+      "school_id": "1212",
+      "province": "本溪市",
+      "rate": "9.12",
+      "num": "101",
+      "sort": "101",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "本溪市"
+    },
+    {
+      "id": "4783",
+      "school_id": "1212",
+      "province": "大连市",
+      "rate": "17.43",
+      "num": "193",
+      "sort": "193",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "大连市"
+    },
+    {
+      "id": "4769",
+      "school_id": "1212",
+      "province": "沈阳市",
+      "rate": "18.06",
+      "num": "200",
+      "sort": "200",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:15",
+      "year": "2019",
+      "province_name": "沈阳市"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

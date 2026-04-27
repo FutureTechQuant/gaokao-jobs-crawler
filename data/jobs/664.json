@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:51:34",
+  "school_id": "664",
+  "school_name": "上海出版印刷高等专科学校",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "99.03"
+    },
+    "postgraduate": {
+      "1": "9.71"
+    },
+    "abroad": {
+      "1": "2.04"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1229",
+      "school_id": "664",
+      "female_num": "985",
+      "men_num": "776",
+      "men_rate": "44.07",
+      "female_rate": "55.93",
+      "update_id": "929",
+      "update_time": "2021-04-02 15:00:33",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

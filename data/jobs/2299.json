@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:06:54",
+  "school_id": "2299",
+  "school_name": "天津医科大学临床医学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "80.26"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "7332",
+      "school_id": "2299",
+      "province": "其他省市",
+      "rate": "32.07",
+      "num": "398",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "7334",
+      "school_id": "2299",
+      "province": "河北省",
+      "rate": "3.63",
+      "num": "45",
+      "sort": "45",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "河北省"
+    },
+    {
+      "id": "7331",
+      "school_id": "2299",
+      "province": "青海省",
+      "rate": "3.95",
+      "num": "49",
+      "sort": "49",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "青海省"
+    },
+    {
+      "id": "7329",
+      "school_id": "2299",
+      "province": "浙江省",
+      "rate": "4.67",
+      "num": "58",
+      "sort": "58",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "7335",
+      "school_id": "2299",
+      "province": "甘肃省",
+      "rate": "5.07",
+      "num": "63",
+      "sort": "63",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "7333",
+      "school_id": "2299",
+      "province": "河南省",
+      "rate": "5.16",
+      "num": "64",
+      "sort": "64",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "河南省"
+    },
+    {
+      "id": "7336",
+      "school_id": "2299",
+      "province": "北京市",
+      "rate": "7.74",
+      "num": "96",
+      "sort": "96",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "7330",
+      "school_id": "2299",
+      "province": "天津市",
+      "rate": "37.71",
+      "num": "468",
+      "sort": "468",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:17",
+      "year": "2019",
+      "province_name": "天津市"
+    }
+  ],
+  "attr": {
+    "企业、公司": "38.26",
+    "三级医院": "35.69",
+    "二级医院": "15.68",
+    "一级医院": "4.18",
+    "党政机关": "3.86",
+    "事业单位": "2.01",
+    "教育科研": "0.32"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1727",
+      "school_id": "2299",
+      "female_num": "1020",
+      "men_num": "677",
+      "men_rate": "39.89",
+      "female_rate": "60.11",
+      "update_id": "2004",
+      "update_time": "2024-06-15 15:47:24",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7300"
+  }
+}

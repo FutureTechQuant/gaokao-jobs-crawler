@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 16:06:40",
+  "school_id": "2277",
+  "school_name": "贵州城市职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.12"
+    },
+    "postgraduate": {
+      "1": "9.08"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31705",
+      "school_id": "2277",
+      "province": "贵州省外",
+      "rate": "24.08",
+      "num": "0",
+      "sort": "2408",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:15:22",
+      "year": "2024",
+      "province_name": "贵州省外"
+    },
+    {
+      "id": "31704",
+      "school_id": "2277",
+      "province": "贵州省",
+      "rate": "75.92",
+      "num": "0",
+      "sort": "7592",
+      "update_id": "1988",
+      "update_time": "2025-11-28 11:14:57",
+      "year": "2024",
+      "province_name": "贵州省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

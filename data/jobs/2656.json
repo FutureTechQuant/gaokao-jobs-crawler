@@ -1,0 +1,169 @@
+{
+  "update_time": "2026-04-27 16:10:18",
+  "school_id": "2656",
+  "school_name": "铁岭卫生职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "87.11"
+    },
+    "postgraduate": {
+      "1": "17.52"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "28029",
+      "school_id": "2656",
+      "province": "山东省",
+      "rate": "0.70",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "28030",
+      "school_id": "2656",
+      "province": "四川省",
+      "rate": "0.70",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "28028",
+      "school_id": "2656",
+      "province": "江苏省",
+      "rate": "0.83",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "28027",
+      "school_id": "2656",
+      "province": "云南省",
+      "rate": "0.90",
+      "num": "11",
+      "sort": "11",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "28026",
+      "school_id": "2656",
+      "province": "黑龙江省",
+      "rate": "1.22",
+      "num": "15",
+      "sort": "15",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "黑龙江省"
+    },
+    {
+      "id": "28025",
+      "school_id": "2656",
+      "province": "内蒙古自治区",
+      "rate": "1.35",
+      "num": "17",
+      "sort": "17",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "内蒙古自治区"
+    },
+    {
+      "id": "28024",
+      "school_id": "2656",
+      "province": "吉林省",
+      "rate": "1.41",
+      "num": "18",
+      "sort": "18",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "28023",
+      "school_id": "2656",
+      "province": "广东省",
+      "rate": "2.63",
+      "num": "33",
+      "sort": "33",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "28022",
+      "school_id": "2656",
+      "province": "北京市",
+      "rate": "5.25",
+      "num": "65",
+      "sort": "65",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "28021",
+      "school_id": "2656",
+      "province": "辽宁省",
+      "rate": "82.96",
+      "num": "1033",
+      "sort": "1033",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:45:39",
+      "year": "2024",
+      "province_name": "辽宁省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "53.57",
+    "个体工商户": "26.74",
+    "医疗卫生单位": "19.04",
+    "部队": "0.16",
+    "城镇社区": "0.08",
+    "农村建制村": "0.08",
+    "高等教育单位": "0.08",
+    "机关": "0.08",
+    "其他事业单位": "0.08",
+    "社会组织、国际组织等": "0.08"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2396",
+      "school_id": "2656",
+      "female_num": "1275",
+      "men_num": "517",
+      "men_rate": "28.85",
+      "female_rate": "71.15",
+      "update_id": "2096",
+      "update_time": "2025-11-11 10:39:29",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6200"
+  }
+}

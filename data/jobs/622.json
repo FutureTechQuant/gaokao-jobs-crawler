@@ -1,0 +1,109 @@
+{
+  "update_time": "2026-04-27 15:51:12",
+  "school_id": "622",
+  "school_name": "山东师范大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "93.01"
+    },
+    "postgraduate": {
+      "1": "26.02"
+    },
+    "abroad": {
+      "1": "2.42"
+    }
+  },
+  "province": [
+    {
+      "id": "5990",
+      "school_id": "622",
+      "province": "其他省市",
+      "rate": "11.32",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5988",
+      "school_id": "622",
+      "province": "广东省",
+      "rate": "1.04",
+      "num": "74",
+      "sort": "74",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "5987",
+      "school_id": "622",
+      "province": "上海市",
+      "rate": "2.04",
+      "num": "145",
+      "sort": "145",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "5989",
+      "school_id": "622",
+      "province": "北京市",
+      "rate": "5.24",
+      "num": "372",
+      "sort": "372",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "5986",
+      "school_id": "622",
+      "province": "山东省",
+      "rate": "80.36",
+      "num": "5710",
+      "sort": "5710",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "中、初教育单位": "21.95",
+    "国有企业": "6.90",
+    "机关": "6.66",
+    "三资企业": "0.76",
+    "高等教育单位": "0.49",
+    "医疔卫生单位": "0.30",
+    "城镇社区": "0.21",
+    "部队单位": "0.17",
+    "农村建制村": "0.17",
+    "其他": "62.39"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "395",
+      "school_id": "622",
+      "female_num": "5610",
+      "men_num": "2029",
+      "men_rate": "26.56",
+      "female_rate": "73.44",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

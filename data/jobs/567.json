@@ -1,0 +1,117 @@
+{
+  "update_time": "2026-04-27 15:50:41",
+  "school_id": "567",
+  "school_name": "北京服装学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "91.68"
+    },
+    "postgraduate": {
+      "1": "7.83"
+    },
+    "abroad": {
+      "1": "6.02"
+    }
+  },
+  "province": [
+    {
+      "id": "21050",
+      "school_id": "567",
+      "province": "东北地区",
+      "rate": "1.12",
+      "num": "0",
+      "sort": "92",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:35:09",
+      "year": "2023",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "21049",
+      "school_id": "567",
+      "province": "华中地区",
+      "rate": "1.54",
+      "num": "0",
+      "sort": "93",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:35:09",
+      "year": "2023",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "21048",
+      "school_id": "567",
+      "province": "西部地区",
+      "rate": "1.96",
+      "num": "0",
+      "sort": "94",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:35:09",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "21047",
+      "school_id": "567",
+      "province": "华南地区",
+      "rate": "12.62",
+      "num": "0",
+      "sort": "95",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:35:09",
+      "year": "2023",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "21046",
+      "school_id": "567",
+      "province": "华东地区",
+      "rate": "25.95",
+      "num": "0",
+      "sort": "96",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:35:09",
+      "year": "2023",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "21045",
+      "school_id": "567",
+      "province": "华北地区",
+      "rate": "56.80",
+      "num": "0",
+      "sort": "97",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:35:09",
+      "year": "2023",
+      "province_name": "华北地区"
+    }
+  ],
+  "attr": {
+    "民营企业": "71.43",
+    "三资企业": "9.01",
+    "国有企业": "6.04",
+    "机关及其他事业单位": "4.99",
+    "科研及教育单位": "4.89",
+    "其他": "3.64"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1890",
+      "school_id": "567",
+      "female_num": "1617",
+      "men_num": "427",
+      "men_rate": "20.89",
+      "female_rate": "79.10",
+      "update_id": "1988",
+      "update_time": "2024-09-13 16:31:36",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "13100"
+  }
+}

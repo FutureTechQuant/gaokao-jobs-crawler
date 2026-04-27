@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 15:59:52",
+  "school_id": "1628",
+  "school_name": "锡林郭勒职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "95.00"
+    },
+    "postgraduate": {
+      "1": "14.87"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31169",
+      "school_id": "1628",
+      "province": "区外",
+      "rate": "11.44",
+      "num": "334",
+      "sort": "1144",
+      "update_id": "2096",
+      "update_time": "2025-11-27 14:17:59",
+      "year": "2024",
+      "province_name": "区外"
+    },
+    {
+      "id": "31168",
+      "school_id": "1628",
+      "province": "自治区内",
+      "rate": "88.56",
+      "num": "2585",
+      "sort": "8856",
+      "update_id": "2096",
+      "update_time": "2025-11-27 14:17:36",
+      "year": "2024",
+      "province_name": "自治区内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

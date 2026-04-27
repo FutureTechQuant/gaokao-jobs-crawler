@@ -1,0 +1,79 @@
+{
+  "update_time": "2026-04-27 15:48:25",
+  "school_id": "362",
+  "school_name": "大理大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "79.30"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "17727",
+      "school_id": "362",
+      "province": "西部地区",
+      "rate": "80.60",
+      "num": "0",
+      "sort": "81",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "17725",
+      "school_id": "362",
+      "province": "一带一路地区",
+      "rate": "88.70",
+      "num": "0",
+      "sort": "89",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "一带一路地区"
+    },
+    {
+      "id": "17726",
+      "school_id": "362",
+      "province": "长江经济带",
+      "rate": "88.50",
+      "num": "0",
+      "sort": "89",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2023",
+      "province_name": "长江经济带"
+    }
+  ],
+  "attr": {
+    "其他企业": "46.80",
+    "医疗卫生单位": "29.90",
+    "国有企业": "6.20",
+    "高等教育单位": "3.60"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1635",
+      "school_id": "362",
+      "female_num": "3272",
+      "men_num": "1669",
+      "men_rate": "33.80",
+      "female_rate": "66.20",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:41",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

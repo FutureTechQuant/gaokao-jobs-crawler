@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:00:27",
+  "school_id": "1693",
+  "school_name": "渤海船舶职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "96.51"
+    },
+    "postgraduate": {
+      "1": "9.61"
+    },
+    "abroad": {
+      "1": "0.06"
+    }
+  },
+  "province": [
+    {
+      "id": "30407",
+      "school_id": "1693",
+      "province": "辽宁省外",
+      "rate": "25.19",
+      "num": "0",
+      "sort": "2519",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:32:32",
+      "year": "2024",
+      "province_name": "辽宁省外"
+    },
+    {
+      "id": "30406",
+      "school_id": "1693",
+      "province": "辽宁省内",
+      "rate": "74.81",
+      "num": "0",
+      "sort": "7481",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:32:19",
+      "year": "2024",
+      "province_name": "辽宁省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "55.00",
+    "国有企业": "19.00",
+    "政府机构/科研或其它事业单位": "17.00",
+    "中外合资/外资/独资": "9.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2615",
+      "school_id": "1693",
+      "female_num": "638",
+      "men_num": "2484",
+      "men_rate": "89.40",
+      "female_rate": "10.60",
+      "update_id": "2314",
+      "update_time": "2025-11-26 10:26:05",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7400"
+  }
+}

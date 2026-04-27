@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:13:21",
+  "school_id": "3252",
+  "school_name": "江西洪州职业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "77.50"
+    },
+    "postgraduate": {
+      "1": "1.74"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27054",
+      "school_id": "3252",
+      "province": "江西省外",
+      "rate": "44.38",
+      "num": "237",
+      "sort": "237",
+      "update_id": "1988",
+      "update_time": "2025-02-08 11:44:55",
+      "year": "2021",
+      "province_name": "江西省外"
+    },
+    {
+      "id": "27053",
+      "school_id": "3252",
+      "province": "江西省内",
+      "rate": "55.62",
+      "num": "297",
+      "sort": "297",
+      "update_id": "1988",
+      "update_time": "2025-02-08 11:45:01",
+      "year": "2021",
+      "province_name": "江西省内"
+    }
+  ],
+  "attr": {
+    "其他企业": "75.91",
+    "医疗卫生单位": "5.08",
+    "参军": "3.19"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2291",
+      "school_id": "3252",
+      "female_num": "301",
+      "men_num": "388",
+      "men_rate": "56.30",
+      "female_rate": "43.70",
+      "update_id": "1988",
+      "update_time": "2025-02-08 11:42:52",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

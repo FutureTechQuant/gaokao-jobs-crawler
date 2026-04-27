@@ -1,0 +1,122 @@
+{
+  "update_time": "2026-04-27 15:58:04",
+  "school_id": "1402",
+  "school_name": "河北地质大学华信学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "94.43"
+    },
+    "postgraduate": {
+      "1": "2.03"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "25455",
+      "school_id": "1402",
+      "province": "上海",
+      "rate": "0.41",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "上海"
+    },
+    {
+      "id": "25456",
+      "school_id": "1402",
+      "province": "重庆",
+      "rate": "0.53",
+      "num": "14",
+      "sort": "14",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "重庆"
+    },
+    {
+      "id": "25454",
+      "school_id": "1402",
+      "province": "天津",
+      "rate": "3.39",
+      "num": "90",
+      "sort": "90",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "天津"
+    },
+    {
+      "id": "25453",
+      "school_id": "1402",
+      "province": "北京",
+      "rate": "10.89",
+      "num": "289",
+      "sort": "289",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "25459",
+      "school_id": "1402",
+      "province": "其他省份",
+      "rate": "17.21",
+      "num": "457",
+      "sort": "457",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "其他省份"
+    },
+    {
+      "id": "25457",
+      "school_id": "1402",
+      "province": "石家庄（省级城市）",
+      "rate": "22.41",
+      "num": "595",
+      "sort": "595",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "石家庄（省级城市）"
+    },
+    {
+      "id": "25458",
+      "school_id": "1402",
+      "province": "河北省内地级市及以下",
+      "rate": "37.29",
+      "num": "990",
+      "sort": "990",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:48:57",
+      "year": "2021",
+      "province_name": "河北省内地级市及以下"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2194",
+      "school_id": "1402",
+      "female_num": "1767",
+      "men_num": "888",
+      "men_rate": "33.44",
+      "female_rate": "66.56",
+      "update_id": "1988",
+      "update_time": "2025-01-08 10:45:12",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "update_time": "2026-04-27 16:15:03",
+  "school_id": "3430",
+  "school_name": "萍乡卫生职业学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "89.63"
+    },
+    "postgraduate": {
+      "1": "6.64"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "27827",
+      "school_id": "3430",
+      "province": "鹰潭市",
+      "rate": "0.51",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "鹰潭市"
+    },
+    {
+      "id": "27837",
+      "school_id": "3430",
+      "province": "北京",
+      "rate": "0.51",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "北京"
+    },
+    {
+      "id": "27835",
+      "school_id": "3430",
+      "province": "湖北",
+      "rate": "0.51",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "湖北"
+    },
+    {
+      "id": "27834",
+      "school_id": "3430",
+      "province": "吉林",
+      "rate": "0.51",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "吉林"
+    },
+    {
+      "id": "27831",
+      "school_id": "3430",
+      "province": "福建",
+      "rate": "0.51",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "福建"
+    },
+    {
+      "id": "27833",
+      "school_id": "3430",
+      "province": "江苏",
+      "rate": "1.03",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "江苏"
+    },
+    {
+      "id": "27836",
+      "school_id": "3430",
+      "province": "湖南",
+      "rate": "1.03",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "湖南"
+    },
+    {
+      "id": "27825",
+      "school_id": "3430",
+      "province": "景德镇市",
+      "rate": "2.05",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "景德镇市"
+    },
+    {
+      "id": "27832",
+      "school_id": "3430",
+      "province": "上海",
+      "rate": "2.10",
+      "num": "5",
+      "sort": "5",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "上海"
+    },
+    {
+      "id": "27823",
+      "school_id": "3430",
+      "province": "抚州市",
+      "rate": "3.59",
+      "num": "7",
+      "sort": "7",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "抚州市"
+    },
+    {
+      "id": "27819",
+      "school_id": "3430",
+      "province": "吉安市",
+      "rate": "4.62",
+      "num": "9",
+      "sort": "9",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "吉安市"
+    },
+    {
+      "id": "27820",
+      "school_id": "3430",
+      "province": "宜春市",
+      "rate": "5.64",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "宜春市"
+    },
+    {
+      "id": "27829",
+      "school_id": "3430",
+      "province": "广东",
+      "rate": "6.15",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "广东"
+    },
+    {
+      "id": "27830",
+      "school_id": "3430",
+      "province": "浙江",
+      "rate": "6.15",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "浙江"
+    },
+    {
+      "id": "27821",
+      "school_id": "3430",
+      "province": "九江市",
+      "rate": "6.15",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "九江市"
+    },
+    {
+      "id": "27824",
+      "school_id": "3430",
+      "province": "新余市",
+      "rate": "6.02",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "新余市"
+    },
+    {
+      "id": "27817",
+      "school_id": "3430",
+      "province": "赣州市",
+      "rate": "6.48",
+      "num": "14",
+      "sort": "14",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "赣州市"
+    },
+    {
+      "id": "27822",
+      "school_id": "3430",
+      "province": "上饶市",
+      "rate": "8.72",
+      "num": "17",
+      "sort": "17",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "上饶市"
+    },
+    {
+      "id": "27818",
+      "school_id": "3430",
+      "province": "南昌市",
+      "rate": "14.36",
+      "num": "28",
+      "sort": "28",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "南昌市"
+    },
+    {
+      "id": "27826",
+      "school_id": "3430",
+      "province": "萍乡市",
+      "rate": "29.17",
+      "num": "63",
+      "sort": "63",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "萍乡市"
+    },
+    {
+      "id": "27828",
+      "school_id": "3430",
+      "province": "小计",
+      "rate": "82.87",
+      "num": "179",
+      "sort": "179",
+      "update_id": "1988",
+      "update_time": "2025-07-09 14:05:21",
+      "year": "2021",
+      "province_name": "小计"
+    }
+  ],
+  "attr": {
+    "医疗卫生单位": "55.31",
+    "其他企业": "40.22",
+    "部队": "4.47"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2373",
+      "school_id": "3430",
+      "female_num": "146",
+      "men_num": "95",
+      "men_rate": "39.42",
+      "female_rate": "60.58",
+      "update_id": "1988",
+      "update_time": "2025-07-09 13:39:01",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

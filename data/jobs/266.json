@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:47:18",
+  "school_id": "266",
+  "school_name": "西华师范大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "85.50"
+    },
+    "postgraduate": {
+      "1": "25.40"
+    },
+    "abroad": {
+      "1": "0.40"
+    }
+  },
+  "province": [
+    {
+      "id": "24787",
+      "school_id": "266",
+      "province": "四川省外",
+      "rate": "19.30",
+      "num": "0",
+      "sort": "193",
+      "update_id": "2094",
+      "update_time": "2025-01-06 17:35:22",
+      "year": "2022",
+      "province_name": "四川省外"
+    },
+    {
+      "id": "24786",
+      "school_id": "266",
+      "province": "四川省内",
+      "rate": "80.70",
+      "num": "0",
+      "sort": "807",
+      "update_id": "2094",
+      "update_time": "2025-01-06 17:34:57",
+      "year": "2022",
+      "province_name": "四川省内"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "43.00",
+    "政府机构/科研或其他事业单位": "41.00",
+    "国有企业": "12.00",
+    "中外合资/外资/独资": "2.00",
+    "非政府或非营利组织（NGO等）": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2160",
+      "school_id": "266",
+      "female_num": "5479",
+      "men_num": "1878",
+      "men_rate": "25.50",
+      "female_rate": "74.50",
+      "update_id": "2094",
+      "update_time": "2025-01-06 17:30:37",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

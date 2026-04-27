@@ -1,0 +1,77 @@
+{
+  "update_time": "2026-04-27 15:51:07",
+  "school_id": "611",
+  "school_name": "中央司法警官学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "0.97"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "9659",
+      "school_id": "611",
+      "province": "中部地区",
+      "rate": "17.00",
+      "num": "198",
+      "sort": "198",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "9660",
+      "school_id": "611",
+      "province": "西部地区",
+      "rate": "35.00",
+      "num": "409",
+      "sort": "409",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "9661",
+      "school_id": "611",
+      "province": "东部地区",
+      "rate": "48.00",
+      "num": "560",
+      "sort": "560",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "东部地区"
+    }
+  ],
+  "attr": {
+    "机关": "83.00",
+    "其他": "17.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2013",
+      "school_id": "611",
+      "female_num": "309",
+      "men_num": "1447",
+      "men_rate": "82.40",
+      "female_rate": "17.60",
+      "update_id": "2096",
+      "update_time": "2024-09-26 13:45:01",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

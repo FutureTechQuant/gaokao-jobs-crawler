@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:07:34",
+  "school_id": "2368",
+  "school_name": "柳州工学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "86.50"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "18276",
+      "school_id": "2368",
+      "province": "珠三角地区",
+      "rate": "34.50",
+      "num": "0",
+      "sort": "345",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "18275",
+      "school_id": "2368",
+      "province": "西部地区",
+      "rate": "35.20",
+      "num": "0",
+      "sort": "352",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "西部地区"
+    },
+    {
+      "id": "18274",
+      "school_id": "2368",
+      "province": "一带一路",
+      "rate": "80.90",
+      "num": "0",
+      "sort": "809",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:39:07",
+      "year": "2022",
+      "province_name": "一带一路"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "62.00",
+    "国有企业": "22.00",
+    "政府机构/科研或其他事业单位": "7.00",
+    "中外合资/外资/独资": "6.00",
+    "民办非企业单位（组织）": "3.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1713",
+      "school_id": "2368",
+      "female_num": "1194",
+      "men_num": "1899",
+      "men_rate": "61.40",
+      "female_rate": "38.60",
+      "update_id": "2004",
+      "update_time": "2024-06-15 10:40:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9400"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "update_time": "2026-04-27 16:00:43",
+  "school_id": "1720",
+  "school_name": "兰州资源环境职业技术大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "99.12"
+    },
+    "postgraduate": {
+      "1": "32.40"
+    },
+    "abroad": {
+      "1": "0.05"
+    }
+  },
+  "province": [
+    {
+      "id": "27711",
+      "school_id": "1720",
+      "province": "安徽",
+      "rate": "1.96",
+      "num": "0",
+      "sort": "196",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "安徽"
+    },
+    {
+      "id": "27710",
+      "school_id": "1720",
+      "province": "广东",
+      "rate": "2.27",
+      "num": "0",
+      "sort": "227",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "27709",
+      "school_id": "1720",
+      "province": "内蒙古",
+      "rate": "2.94",
+      "num": "0",
+      "sort": "294",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "27708",
+      "school_id": "1720",
+      "province": "陕西",
+      "rate": "3.30",
+      "num": "0",
+      "sort": "330",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "陕西"
+    },
+    {
+      "id": "27707",
+      "school_id": "1720",
+      "province": "重庆",
+      "rate": "3.41",
+      "num": "0",
+      "sort": "341",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "重庆"
+    },
+    {
+      "id": "27706",
+      "school_id": "1720",
+      "province": "浙江",
+      "rate": "3.77",
+      "num": "0",
+      "sort": "377",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "27705",
+      "school_id": "1720",
+      "province": "江苏",
+      "rate": "4.08",
+      "num": "0",
+      "sort": "408",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "27704",
+      "school_id": "1720",
+      "province": "新疆",
+      "rate": "14.09",
+      "num": "0",
+      "sort": "1409",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "新疆"
+    },
+    {
+      "id": "27703",
+      "school_id": "1720",
+      "province": "甘肃",
+      "rate": "49.12",
+      "num": "0",
+      "sort": "4912",
+      "update_id": "2096",
+      "update_time": "2025-07-08 13:59:36",
+      "year": "2023",
+      "province_name": "甘肃"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "58.27",
+    "国有企业": "33.85",
+    "政府机构/科研或其他事业单位": "3.80",
+    "中外合资/外资/独资": "3.36",
+    "民非组织": "0.72"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2354",
+      "school_id": "1720",
+      "female_num": "1455",
+      "men_num": "4703",
+      "men_rate": "76.37",
+      "female_rate": "23.63",
+      "update_id": "2096",
+      "update_time": "2025-07-08 11:58:02",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

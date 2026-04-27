@@ -1,0 +1,53 @@
+{
+  "update_time": "2026-04-27 15:51:53",
+  "school_id": "697",
+  "school_name": "河北科技工程职业技术大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "98.89"
+    },
+    "postgraduate": {
+      "1": "4.30"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "9928",
+      "school_id": "697",
+      "province": "省内",
+      "rate": "58.20",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "省内"
+    },
+    {
+      "id": "9929",
+      "school_id": "697",
+      "province": "省外",
+      "rate": "41.80",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:19",
+      "year": "2019",
+      "province_name": "省外"
+    }
+  ],
+  "attr": {
+    "民营企业": "65.00",
+    "国有企业": "19.00",
+    "中外合资/外资/独资": "12.00",
+    "党政机关、事业单位": "4.00"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 16:15:25",
+  "school_id": "3478",
+  "school_name": "辽宁师范高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "89.83"
+    },
+    "postgraduate": {
+      "1": "19.38"
+    },
+    "abroad": {
+      "1": "0.47"
+    }
+  },
+  "province": [
+    {
+      "id": "27867",
+      "school_id": "3478",
+      "province": "浙江省",
+      "rate": "0.67",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:34:15",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "27868",
+      "school_id": "3478",
+      "province": "吉林省",
+      "rate": "0.67",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:34:29",
+      "year": "2024",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "27866",
+      "school_id": "3478",
+      "province": "北京市",
+      "rate": "1.02",
+      "num": "3",
+      "sort": "3",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:33:57",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "27865",
+      "school_id": "3478",
+      "province": "辽宁省",
+      "rate": "96.27",
+      "num": "284",
+      "sort": "284",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:33:35",
+      "year": "2024",
+      "province_name": "辽宁省"
+    }
+  ],
+  "attr": {
+    "其他企业": "68.93",
+    "其他事业单位": "6.51",
+    "中初教育单位": "2.36",
+    "国有企业": "0.29",
+    "社会组织": "0.29"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2378",
+      "school_id": "3478",
+      "female_num": "375",
+      "men_num": "48",
+      "men_rate": "11.35",
+      "female_rate": "88.65",
+      "update_id": "1988",
+      "update_time": "2025-07-09 17:36:21",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

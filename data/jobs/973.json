@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 15:54:31",
+  "school_id": "973",
+  "school_name": "广东新安职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.45"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31805",
+      "school_id": "973",
+      "province": "广东省外",
+      "rate": "4.45",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:57:09",
+      "year": "2024",
+      "province_name": "广东省外"
+    },
+    {
+      "id": "31804",
+      "school_id": "973",
+      "province": "广东省",
+      "rate": "95.55",
+      "num": "1932",
+      "sort": "1932",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:56:45",
+      "year": "2024",
+      "province_name": "广东省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2730",
+      "school_id": "973",
+      "female_num": "666",
+      "men_num": "1545",
+      "men_rate": "69.80",
+      "female_rate": "30.20",
+      "update_id": "1988",
+      "update_time": "2025-11-28 14:56:14",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

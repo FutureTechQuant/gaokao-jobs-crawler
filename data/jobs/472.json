@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 15:49:41",
+  "school_id": "472",
+  "school_name": "仰恩大学",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "95.62"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "24332",
+      "school_id": "472",
+      "province": "福建省外",
+      "rate": "9.33",
+      "num": "0",
+      "sort": "933",
+      "update_id": "2094",
+      "update_time": "2025-01-03 18:06:26",
+      "year": "2022",
+      "province_name": "福建省外"
+    },
+    {
+      "id": "24331",
+      "school_id": "472",
+      "province": "福建省",
+      "rate": "90.67",
+      "num": "0",
+      "sort": "9067",
+      "update_id": "2094",
+      "update_time": "2025-01-03 18:06:04",
+      "year": "2022",
+      "province_name": "福建省"
+    }
+  ],
+  "attr": {
+    "民营企业": "55.15",
+    "国有企业": "11.80",
+    "机关及事业单位": "6.45",
+    "三资企业": "5.35",
+    "自主创业": "0.52"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2131",
+      "school_id": "472",
+      "female_num": "1112",
+      "men_num": "793",
+      "men_rate": "41.63",
+      "female_rate": "58.37",
+      "update_id": "2094",
+      "update_time": "2025-01-03 18:02:43",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10500"
+  }
+}

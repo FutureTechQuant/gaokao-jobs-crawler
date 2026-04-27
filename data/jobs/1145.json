@@ -1,0 +1,170 @@
+{
+  "update_time": "2026-04-27 15:56:01",
+  "school_id": "1145",
+  "school_name": "东南大学成贤学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "97.18"
+    },
+    "postgraduate": {
+      "1": "7.66"
+    },
+    "abroad": {
+      "1": "2.50"
+    }
+  },
+  "province": [
+    {
+      "id": "1417",
+      "school_id": "1145",
+      "province": "其他省市",
+      "rate": "3.60",
+      "num": "91",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "1422",
+      "school_id": "1145",
+      "province": "北京市",
+      "rate": "0.61",
+      "num": "15",
+      "sort": "15",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "1416",
+      "school_id": "1145",
+      "province": "陕西省",
+      "rate": "0.66",
+      "num": "17",
+      "sort": "17",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "1414",
+      "school_id": "1145",
+      "province": "四川省",
+      "rate": "0.75",
+      "num": "19",
+      "sort": "19",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "四川省"
+    },
+    {
+      "id": "1418",
+      "school_id": "1145",
+      "province": "江西省",
+      "rate": "0.99",
+      "num": "25",
+      "sort": "25",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "江西省"
+    },
+    {
+      "id": "1421",
+      "school_id": "1145",
+      "province": "福建省",
+      "rate": "1.27",
+      "num": "32",
+      "sort": "32",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "1420",
+      "school_id": "1145",
+      "province": "广东省",
+      "rate": "1.31",
+      "num": "33",
+      "sort": "33",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "1423",
+      "school_id": "1145",
+      "province": "安徽省",
+      "rate": "2.54",
+      "num": "64",
+      "sort": "64",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "1413",
+      "school_id": "1145",
+      "province": "浙江省",
+      "rate": "4.65",
+      "num": "117",
+      "sort": "117",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "1415",
+      "school_id": "1145",
+      "province": "上海市",
+      "rate": "6.06",
+      "num": "153",
+      "sort": "153",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "1419",
+      "school_id": "1145",
+      "province": "江苏省",
+      "rate": "77.56",
+      "num": "1959",
+      "sort": "1959",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "246",
+      "school_id": "1145",
+      "female_num": "1014",
+      "men_num": "1585",
+      "men_rate": "60.98",
+      "female_rate": "39.02",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9500"
+  }
+}

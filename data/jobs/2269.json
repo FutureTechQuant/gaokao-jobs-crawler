@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 16:06:35",
+  "school_id": "2269",
+  "school_name": "贵州电子信息职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "86.10"
+    },
+    "postgraduate": {
+      "1": "11.70"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "1247",
+      "school_id": "2269",
+      "female_num": "1220",
+      "men_num": "2870",
+      "men_rate": "70.17",
+      "female_rate": "29.83",
+      "update_id": "825",
+      "update_time": "2021-06-04 16:23:12",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

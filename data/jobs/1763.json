@@ -1,0 +1,184 @@
+{
+  "update_time": "2026-04-27 16:01:10",
+  "school_id": "1763",
+  "school_name": "浙江警察学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "98.29"
+    },
+    "postgraduate": {
+      "1": "0.42"
+    },
+    "abroad": {
+      "1": "0.11"
+    }
+  },
+  "province": [
+    {
+      "id": "30871",
+      "school_id": "1763",
+      "province": "河北省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "30872",
+      "school_id": "1763",
+      "province": "安徽省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "30873",
+      "school_id": "1763",
+      "province": "云南省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "云南省"
+    },
+    {
+      "id": "30874",
+      "school_id": "1763",
+      "province": "青海省",
+      "rate": "0.11",
+      "num": "1",
+      "sort": "1",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "青海省"
+    },
+    {
+      "id": "30868",
+      "school_id": "1763",
+      "province": "广东省",
+      "rate": "0.22",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30869",
+      "school_id": "1763",
+      "province": "海南省",
+      "rate": "0.22",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "海南省"
+    },
+    {
+      "id": "30870",
+      "school_id": "1763",
+      "province": "陕西省",
+      "rate": "0.22",
+      "num": "2",
+      "sort": "2",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "30867",
+      "school_id": "1763",
+      "province": "上海市",
+      "rate": "0.44",
+      "num": "4",
+      "sort": "4",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30865",
+      "school_id": "1763",
+      "province": "北京市",
+      "rate": "0.87",
+      "num": "8",
+      "sort": "8",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "30866",
+      "school_id": "1763",
+      "province": "辽宁省",
+      "rate": "0.87",
+      "num": "8",
+      "sort": "8",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "辽宁省"
+    },
+    {
+      "id": "30864",
+      "school_id": "1763",
+      "province": "西藏自治区",
+      "rate": "3.17",
+      "num": "29",
+      "sort": "29",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "西藏自治区"
+    },
+    {
+      "id": "30863",
+      "school_id": "1763",
+      "province": "浙江省",
+      "rate": "93.55",
+      "num": "856",
+      "sort": "856",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:42:52",
+      "year": "2024",
+      "province_name": "浙江省"
+    }
+  ],
+  "attr": {
+    "机关": "99.05",
+    "高等教育单位": "0.83",
+    "国有企业": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2656",
+      "school_id": "1763",
+      "female_num": "145",
+      "men_num": "791",
+      "men_rate": "84.51",
+      "female_rate": "15.49",
+      "update_id": "1988",
+      "update_time": "2025-11-26 17:40:48",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

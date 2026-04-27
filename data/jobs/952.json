@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 15:54:18",
+  "school_id": "952",
+  "school_name": "江西飞行学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "89.25"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "12887",
+      "school_id": "952",
+      "province": "长江经济带",
+      "rate": "80.20",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1579",
+      "update_time": "2022-05-23 15:42:46",
+      "year": "2019",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "12888",
+      "school_id": "952",
+      "province": "一带一路",
+      "rate": "31.60",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1579",
+      "update_time": "2022-05-23 15:42:46",
+      "year": "2019",
+      "province_name": "一带一路"
+    },
+    {
+      "id": "12889",
+      "school_id": "952",
+      "province": "珠三角地区",
+      "rate": "17.10",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1579",
+      "update_time": "2022-05-23 15:42:46",
+      "year": "2019",
+      "province_name": "珠三角地区"
+    },
+    {
+      "id": "12890",
+      "school_id": "952",
+      "province": "粤港澳大湾区",
+      "rate": "17.10",
+      "num": "0",
+      "sort": "0",
+      "update_id": "1579",
+      "update_time": "2022-05-23 15:42:46",
+      "year": "2019",
+      "province_name": "粤港澳大湾区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "82.00",
+    "国有企业": "10.00",
+    "中外合资/外资/独资": "5.00",
+    "政府机构/科研或其他/事业单位": "2.00",
+    "非政府或非营利组织（NGO）等": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1280",
+      "school_id": "952",
+      "female_num": "982",
+      "men_num": "786",
+      "men_rate": "44.50",
+      "female_rate": "55.50",
+      "update_id": "1579",
+      "update_time": "2022-05-23 15:41:01",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

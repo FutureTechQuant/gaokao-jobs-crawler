@@ -1,0 +1,97 @@
+{
+  "update_time": "2026-04-27 16:02:15",
+  "school_id": "1861",
+  "school_name": "福建商学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "95.48"
+    },
+    "postgraduate": {
+      "1": "16.78"
+    },
+    "abroad": {
+      "1": "0.32"
+    }
+  },
+  "province": [
+    {
+      "id": "1483",
+      "school_id": "1861",
+      "province": "其他省市",
+      "rate": "3.27",
+      "num": "186",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "1481",
+      "school_id": "1861",
+      "province": "浙江省",
+      "rate": "0.86",
+      "num": "49",
+      "sort": "49",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "1484",
+      "school_id": "1861",
+      "province": "广东省",
+      "rate": "0.88",
+      "num": "50",
+      "sort": "50",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "1482",
+      "school_id": "1861",
+      "province": "福建省",
+      "rate": "94.99",
+      "num": "5362",
+      "sort": "5362",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "福建省"
+    }
+  ],
+  "attr": {
+    "民营企业": "50.14",
+    "国有企业": "6.49",
+    "三资企业": "4.14",
+    "党政机关": "1.13",
+    "医疔卫生单位": "0.75",
+    "中、初教育单位": "0.56",
+    "科研单位": "0.28",
+    "农村建制村": "0.09",
+    "城镇社区": "0.09",
+    "其他": "36.33"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "345",
+      "school_id": "1861",
+      "female_num": "3466",
+      "men_num": "2466",
+      "men_rate": "41.71",
+      "female_rate": "58.29",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7900"
+  }
+}

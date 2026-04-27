@@ -1,0 +1,95 @@
+{
+  "update_time": "2026-04-27 16:13:01",
+  "school_id": "3215",
+  "school_name": "内蒙古艺术学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "75.34"
+    },
+    "postgraduate": {
+      "1": "2.73"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "20493",
+      "school_id": "3215",
+      "province": "东北地区",
+      "rate": "0.43",
+      "num": "4",
+      "sort": "4",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "20495",
+      "school_id": "3215",
+      "province": "中部地区",
+      "rate": "4.80",
+      "num": "45",
+      "sort": "45",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "中部地区"
+    },
+    {
+      "id": "20494",
+      "school_id": "3215",
+      "province": "东部地区",
+      "rate": "12.37",
+      "num": "116",
+      "sort": "116",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "东部地区"
+    },
+    {
+      "id": "20496",
+      "school_id": "3215",
+      "province": "西部地区",
+      "rate": "82.41",
+      "num": "773",
+      "sort": "773",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "西部地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "62.57",
+    "其他": "21.23",
+    "机关": "6.15",
+    "国有企业": "3.91",
+    "其他事业单位": "2.51",
+    "中初教育单位": "1.68",
+    "高等教育单位": "1.68",
+    "科研设计单位": "0.28"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1857",
+      "school_id": "3215",
+      "female_num": "779",
+      "men_num": "466",
+      "men_rate": "37.43",
+      "female_rate": "62.57",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "update_time": "2026-04-27 15:46:22",
+  "school_id": "179",
+  "school_name": "重庆师范大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.60"
+    },
+    "postgraduate": {
+      "1": "21.58"
+    },
+    "abroad": {
+      "1": "1.75"
+    }
+  },
+  "province": [
+    {
+      "id": "27925",
+      "school_id": "179",
+      "province": "其它（应征义务兵）",
+      "rate": "0.17",
+      "num": "10",
+      "sort": "17",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "其它（应征义务兵）"
+    },
+    {
+      "id": "27922",
+      "school_id": "179",
+      "province": "西藏",
+      "rate": "0.46",
+      "num": "27",
+      "sort": "46",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "西藏"
+    },
+    {
+      "id": "27923",
+      "school_id": "179",
+      "province": "新疆",
+      "rate": "1.29",
+      "num": "76",
+      "sort": "129",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "新疆"
+    },
+    {
+      "id": "27924",
+      "school_id": "179",
+      "province": "港澳台及国外",
+      "rate": "1.90",
+      "num": "112",
+      "sort": "190",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "港澳台及国外"
+    },
+    {
+      "id": "27918",
+      "school_id": "179",
+      "province": "中部",
+      "rate": "5.79",
+      "num": "341",
+      "sort": "579",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "中部"
+    },
+    {
+      "id": "27921",
+      "school_id": "179",
+      "province": "西部其他",
+      "rate": "6.38",
+      "num": "376",
+      "sort": "638",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "西部其他"
+    },
+    {
+      "id": "27920",
+      "school_id": "179",
+      "province": "四川",
+      "rate": "8.52",
+      "num": "502",
+      "sort": "852",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "四川"
+    },
+    {
+      "id": "27917",
+      "school_id": "179",
+      "province": "东部",
+      "rate": "18.10",
+      "num": "1066",
+      "sort": "1810",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "东部"
+    },
+    {
+      "id": "27919",
+      "school_id": "179",
+      "province": "重庆",
+      "rate": "57.39",
+      "num": "3380",
+      "sort": "5739",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:22:25",
+      "year": "2024",
+      "province_name": "重庆"
+    }
+  ],
+  "attr": {
+    "企业": "30.87",
+    "事业单位": "28.32",
+    "升学（内地）": "21.58",
+    "自由职业": "10.25",
+    "基层项目": "4.14",
+    "机关": "1.99",
+    "出国出境": "1.75",
+    "自主创业": "0.93",
+    "部队": "0.17"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2386",
+      "school_id": "179",
+      "female_num": "4748",
+      "men_num": "1753",
+      "men_rate": "26.97",
+      "female_rate": "73.03",
+      "update_id": "2096",
+      "update_time": "2025-09-09 17:18:54",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

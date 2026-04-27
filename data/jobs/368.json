@@ -1,0 +1,132 @@
+{
+  "update_time": "2026-04-27 15:48:29",
+  "school_id": "368",
+  "school_name": "渭南师范学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "78.37"
+    },
+    "postgraduate": {
+      "1": "5.63"
+    },
+    "abroad": {
+      "1": "2.46"
+    }
+  },
+  "province": [
+    {
+      "id": "17787",
+      "school_id": "368",
+      "province": "东北地区",
+      "rate": "0.24",
+      "num": "0",
+      "sort": "24",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "17792",
+      "school_id": "368",
+      "province": "华中地区",
+      "rate": "2.17",
+      "num": "0",
+      "sort": "217",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "17788",
+      "school_id": "368",
+      "province": "华南地区",
+      "rate": "2.22",
+      "num": "0",
+      "sort": "222",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "17790",
+      "school_id": "368",
+      "province": "西南地区",
+      "rate": "2.63",
+      "num": "0",
+      "sort": "263",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "17786",
+      "school_id": "368",
+      "province": "华北地区",
+      "rate": "4.02",
+      "num": "0",
+      "sort": "402",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "17789",
+      "school_id": "368",
+      "province": "华东地区",
+      "rate": "5.57",
+      "num": "0",
+      "sort": "557",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "17791",
+      "school_id": "368",
+      "province": "西北地区",
+      "rate": "71.76",
+      "num": "0",
+      "sort": "7176",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:05",
+      "year": "2022",
+      "province_name": "西北地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "67.76",
+    "中初教育单位": "7.94",
+    "其他": "5.95",
+    "国有企业": "3.22",
+    "其他事业单位": "1.51",
+    "机关": "0.58",
+    "城镇社区": "0.07",
+    "高等教育单位": "0.05",
+    "医疗卫生单位": "0.05"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1645",
+      "school_id": "368",
+      "female_num": "3610",
+      "men_num": "1627",
+      "men_rate": "31.07",
+      "female_rate": "68.93",
+      "update_id": "2004",
+      "update_time": "2024-06-13 16:10:50",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8800"
+  }
+}

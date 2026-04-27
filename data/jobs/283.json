@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 15:47:31",
+  "school_id": "283",
+  "school_name": "汕头大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "30.42"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30268",
+      "school_id": "283",
+      "province": "北京、天津、重庆、上海",
+      "rate": "1.57",
+      "num": "0",
+      "sort": "157",
+      "update_id": "2314",
+      "update_time": "2025-11-25 16:20:15",
+      "year": "2024",
+      "province_name": "北京、天津、重庆、上海"
+    },
+    {
+      "id": "30270",
+      "school_id": "283",
+      "province": "广东省内其他城市",
+      "rate": "6.05",
+      "num": "0",
+      "sort": "605",
+      "update_id": "2314",
+      "update_time": "2025-11-25 16:20:15",
+      "year": "2024",
+      "province_name": "广东省内其他城市"
+    },
+    {
+      "id": "30271",
+      "school_id": "283",
+      "province": "省外其他地区",
+      "rate": "12.60",
+      "num": "0",
+      "sort": "1260",
+      "update_id": "2314",
+      "update_time": "2025-11-25 16:20:15",
+      "year": "2024",
+      "province_name": "省外其他地区"
+    },
+    {
+      "id": "30269",
+      "school_id": "283",
+      "province": "潮汕地区",
+      "rate": "23.35",
+      "num": "0",
+      "sort": "2335",
+      "update_id": "2314",
+      "update_time": "2025-11-25 16:20:15",
+      "year": "2024",
+      "province_name": "潮汕地区"
+    },
+    {
+      "id": "30272",
+      "school_id": "283",
+      "province": "珠三角地区",
+      "rate": "56.44",
+      "num": "0",
+      "sort": "5644",
+      "update_id": "2314",
+      "update_time": "2025-11-25 16:20:15",
+      "year": "2024",
+      "province_name": "珠三角地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2603",
+      "school_id": "283",
+      "female_num": "1484",
+      "men_num": "1478",
+      "men_rate": "49.90",
+      "female_rate": "50.10",
+      "update_id": "2314",
+      "update_time": "2025-11-25 16:18:00",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11700"
+  }
+}

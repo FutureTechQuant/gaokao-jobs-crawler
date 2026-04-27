@@ -1,0 +1,65 @@
+{
+  "update_time": "2026-04-27 16:13:11",
+  "school_id": "3231",
+  "school_name": "贵州工贸职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "88.10"
+    },
+    "postgraduate": {
+      "1": "8.31"
+    },
+    "abroad": {
+      "1": "0.11"
+    }
+  },
+  "province": [
+    {
+      "id": "32238",
+      "school_id": "3231",
+      "province": "省外",
+      "rate": "50.15",
+      "num": "1012",
+      "sort": "383",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:05:23",
+      "year": "2024",
+      "province_name": "省外"
+    },
+    {
+      "id": "32237",
+      "school_id": "3231",
+      "province": "贵州省",
+      "rate": "49.85",
+      "num": "1006",
+      "sort": "384",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:05:23",
+      "year": "2024",
+      "province_name": "贵州省"
+    }
+  ],
+  "attr": {
+    "其他企业": "46.78",
+    "其他": "45.49"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2771",
+      "school_id": "3231",
+      "female_num": "1096",
+      "men_num": "1611",
+      "men_rate": "59.51",
+      "female_rate": "40.49",
+      "update_id": "2156",
+      "update_time": "2025-12-01 15:03:41",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8000"
+  }
+}

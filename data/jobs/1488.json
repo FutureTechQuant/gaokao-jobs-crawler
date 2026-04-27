@@ -1,0 +1,187 @@
+{
+  "update_time": "2026-04-27 15:58:40",
+  "school_id": "1488",
+  "school_name": "重庆电子科技职业大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "93.50"
+    },
+    "postgraduate": {
+      "1": "44.24"
+    },
+    "abroad": {
+      "1": "0.03"
+    }
+  },
+  "province": [
+    {
+      "id": "27271",
+      "school_id": "1488",
+      "province": "其他",
+      "rate": "0.03",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "27272",
+      "school_id": "1488",
+      "province": "福建省",
+      "rate": "0.33",
+      "num": "0",
+      "sort": "33",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "27273",
+      "school_id": "1488",
+      "province": "湖北省",
+      "rate": "0.37",
+      "num": "0",
+      "sort": "37",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "27274",
+      "school_id": "1488",
+      "province": "上海市",
+      "rate": "0.47",
+      "num": "0",
+      "sort": "47",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "27275",
+      "school_id": "1488",
+      "province": "贵州省",
+      "rate": "0.50",
+      "num": "0",
+      "sort": "50",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "贵州省"
+    },
+    {
+      "id": "27276",
+      "school_id": "1488",
+      "province": "山东省",
+      "rate": "0.69",
+      "num": "0",
+      "sort": "69",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "27277",
+      "school_id": "1488",
+      "province": "江苏省",
+      "rate": "1.18",
+      "num": "0",
+      "sort": "118",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "27278",
+      "school_id": "1488",
+      "province": "浙江省",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "27279",
+      "school_id": "1488",
+      "province": "广东省",
+      "rate": "2.72",
+      "num": "0",
+      "sort": "272",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "27280",
+      "school_id": "1488",
+      "province": "四川省",
+      "rate": "3.35",
+      "num": "0",
+      "sort": "335",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "27281",
+      "school_id": "1488",
+      "province": "重庆市",
+      "rate": "85.67",
+      "num": "0",
+      "sort": "8567",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:54:28",
+      "year": "2024",
+      "province_name": "重庆市"
+    }
+  ],
+  "attr": {
+    "其他企业": "80.43",
+    "国有企业": "6.29",
+    "自主创业（未注册）": "4.26",
+    "部队": "3.36",
+    "自由职业": "2.57",
+    "个体工商户": "1.51",
+    "三资企业": "0.42",
+    "机关": "0.32",
+    "其他事业单位": "0.29",
+    "农村建制村": "0.29",
+    "中初教育": "0.11",
+    "地方基层项目": "0.05",
+    "科研设计单位": "0.03",
+    "医疗卫生单位": "0.03",
+    "城镇社区": "0.03",
+    "国家基层项目": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2316",
+      "school_id": "1488",
+      "female_num": "2824",
+      "men_num": "4856",
+      "men_rate": "60.00",
+      "female_rate": "40.00",
+      "update_id": "2094",
+      "update_time": "2025-05-21 09:49:10",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8300"
+  }
+}

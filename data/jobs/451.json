@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 15:49:28",
+  "school_id": "451",
+  "school_name": "湖北美术学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "88.32"
+    },
+    "postgraduate": {
+      "1": "9.59"
+    },
+    "abroad": {
+      "1": "3.74"
+    }
+  },
+  "province": [
+    {
+      "id": "16971",
+      "school_id": "451",
+      "province": "东北地区",
+      "rate": "0.31",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "16970",
+      "school_id": "451",
+      "province": "西南地区",
+      "rate": "1.84",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "16969",
+      "school_id": "451",
+      "province": "华北地区",
+      "rate": "5.83",
+      "num": "19",
+      "sort": "19",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "华北地区"
+    },
+    {
+      "id": "16968",
+      "school_id": "451",
+      "province": "华东地区",
+      "rate": "18.71",
+      "num": "61",
+      "sort": "61",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "16967",
+      "school_id": "451",
+      "province": "华南地区",
+      "rate": "20.25",
+      "num": "66",
+      "sort": "66",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "16966",
+      "school_id": "451",
+      "province": "华中地区",
+      "rate": "53.07",
+      "num": "173",
+      "sort": "173",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:31:40",
+      "year": "2022",
+      "province_name": "华中地区"
+    }
+  ],
+  "attr": {
+    "其他企业": "73.01",
+    "国有企业": "7.98",
+    "三资企业": "5.52",
+    "高等教育单位": "5.21",
+    "中初教育单位": "3.68",
+    "其他事业单位": "2.76",
+    "部队": "0.61",
+    "机关": "0.61",
+    "地方基层项目": "0.61"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1589",
+      "school_id": "451",
+      "female_num": "1458",
+      "men_num": "545",
+      "men_rate": "27.21",
+      "female_rate": "72.79",
+      "update_id": "2004",
+      "update_time": "2024-06-09 17:32:05",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "11100"
+  }
+}

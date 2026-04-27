@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 15:57:22",
+  "school_id": "1291",
+  "school_name": "吉林艺术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.05"
+    },
+    "postgraduate": {
+      "1": "12.00"
+    },
+    "abroad": {
+      "1": "1.65"
+    }
+  },
+  "province": [
+    {
+      "id": "31820",
+      "school_id": "1291",
+      "province": "长三角地区",
+      "rate": "7.12",
+      "num": "0",
+      "sort": "712",
+      "update_id": "2096",
+      "update_time": "2025-11-28 15:44:35",
+      "year": "2024",
+      "province_name": "长三角地区"
+    },
+    {
+      "id": "31819",
+      "school_id": "1291",
+      "province": "长江经济带",
+      "rate": "10.68",
+      "num": "0",
+      "sort": "1068",
+      "update_id": "2096",
+      "update_time": "2025-11-28 15:44:35",
+      "year": "2024",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "31818",
+      "school_id": "1291",
+      "province": "“一带一路”地区",
+      "rate": "81.44",
+      "num": "0",
+      "sort": "8144",
+      "update_id": "2096",
+      "update_time": "2025-11-28 15:44:35",
+      "year": "2024",
+      "province_name": "“一带一路”地区"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "76.79",
+    "政府机构/科研或其他事业单位": "10.36",
+    "国有企业": "8.57",
+    "中外合资/外资/独资": "3.21",
+    "民非组织": "1.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2731",
+      "school_id": "1291",
+      "female_num": "1212",
+      "men_num": "729",
+      "men_rate": "37.56",
+      "female_rate": "62.44",
+      "update_id": "2096",
+      "update_time": "2025-11-28 14:58:40",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10900"
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "update_time": "2026-04-27 15:51:04",
+  "school_id": "606",
+  "school_name": "河北地质大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "82.28"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "19234",
+      "school_id": "606",
+      "province": "河北省",
+      "rate": "45.92",
+      "num": "0",
+      "sort": "139",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "河北省"
+    },
+    {
+      "id": "19235",
+      "school_id": "606",
+      "province": "北京市",
+      "rate": "7.65",
+      "num": "0",
+      "sort": "140",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "19236",
+      "school_id": "606",
+      "province": "天津市",
+      "rate": "4.22",
+      "num": "0",
+      "sort": "141",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "天津市"
+    },
+    {
+      "id": "19237",
+      "school_id": "606",
+      "province": "广东省",
+      "rate": "3.20",
+      "num": "0",
+      "sort": "142",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "19238",
+      "school_id": "606",
+      "province": "湖北省",
+      "rate": "3.02",
+      "num": "0",
+      "sort": "143",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "19239",
+      "school_id": "606",
+      "province": "浙江省",
+      "rate": "2.73",
+      "num": "0",
+      "sort": "144",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "19240",
+      "school_id": "606",
+      "province": "山西省",
+      "rate": "2.62",
+      "num": "0",
+      "sort": "145",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "山西省"
+    },
+    {
+      "id": "19241",
+      "school_id": "606",
+      "province": "陕西省",
+      "rate": "2.62",
+      "num": "0",
+      "sort": "146",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "陕西省"
+    },
+    {
+      "id": "19242",
+      "school_id": "606",
+      "province": "江苏省",
+      "rate": "2.55",
+      "num": "0",
+      "sort": "147",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "19243",
+      "school_id": "606",
+      "province": "安徽省",
+      "rate": "2.22",
+      "num": "0",
+      "sort": "148",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "19244",
+      "school_id": "606",
+      "province": "石家庄市",
+      "rate": "40.68",
+      "num": "0",
+      "sort": "149",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "石家庄市"
+    },
+    {
+      "id": "19245",
+      "school_id": "606",
+      "province": "保定市",
+      "rate": "12.69",
+      "num": "0",
+      "sort": "150",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "保定市"
+    },
+    {
+      "id": "19246",
+      "school_id": "606",
+      "province": "邯郸市",
+      "rate": "8.49",
+      "num": "0",
+      "sort": "151",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "邯郸市"
+    },
+    {
+      "id": "19247",
+      "school_id": "606",
+      "province": "邢台市",
+      "rate": "7.69",
+      "num": "0",
+      "sort": "152",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "邢台市"
+    },
+    {
+      "id": "19248",
+      "school_id": "606",
+      "province": "沧州市",
+      "rate": "7.14",
+      "num": "0",
+      "sort": "153",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "沧州市"
+    },
+    {
+      "id": "19249",
+      "school_id": "606",
+      "province": "唐山市",
+      "rate": "6.26",
+      "num": "0",
+      "sort": "154",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "唐山市"
+    },
+    {
+      "id": "19250",
+      "school_id": "606",
+      "province": "衡水市",
+      "rate": "4.68",
+      "num": "0",
+      "sort": "155",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "衡水市"
+    },
+    {
+      "id": "19251",
+      "school_id": "606",
+      "province": "廊坊市",
+      "rate": "4.04",
+      "num": "0",
+      "sort": "156",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "廊坊市"
+    },
+    {
+      "id": "19252",
+      "school_id": "606",
+      "province": "承德市",
+      "rate": "3.33",
+      "num": "0",
+      "sort": "157",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "承德市"
+    },
+    {
+      "id": "19253",
+      "school_id": "606",
+      "province": "张家口市",
+      "rate": "2.62",
+      "num": "0",
+      "sort": "158",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "张家口市"
+    },
+    {
+      "id": "19254",
+      "school_id": "606",
+      "province": "秦皇岛市",
+      "rate": "2.38",
+      "num": "0",
+      "sort": "159",
+      "update_id": "1639",
+      "update_time": "2024-06-17 16:22:45",
+      "year": "2023",
+      "province_name": "秦皇岛市"
+    }
+  ],
+  "attr": {
+    "其他企业": "50.57",
+    "国有企业": "23.65",
+    "其他": "9.07",
+    "其他事业单位": "6.52",
+    "三资企业": "4.18",
+    "机关": "3.05",
+    "中初教育单位": "2.12",
+    "部队": "0.21",
+    "医疗卫生单位": "0.21",
+    "科研设计单位": "0.14",
+    "城镇社区": "0.14",
+    "高等教育单位": "0.07",
+    "农村建制村": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1749",
+      "school_id": "606",
+      "female_num": "2256",
+      "men_num": "1795",
+      "men_rate": "44.31",
+      "female_rate": "55.69",
+      "update_id": "1639",
+      "update_time": "2024-06-17 14:13:18",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10900"
+  }
+}

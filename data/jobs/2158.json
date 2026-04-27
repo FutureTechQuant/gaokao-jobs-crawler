@@ -1,0 +1,68 @@
+{
+  "update_time": "2026-04-27 16:05:29",
+  "school_id": "2158",
+  "school_name": "普洱学院",
+  "jobrateyear": "2021",
+  "jobrate": {
+    "job": {
+      "1": "81.82"
+    },
+    "postgraduate": {
+      "1": "33.28"
+    },
+    "abroad": {
+      "1": "2.20"
+    }
+  },
+  "province": [
+    {
+      "id": "25723",
+      "school_id": "2158",
+      "province": "省外",
+      "rate": "16.80",
+      "num": "0",
+      "sort": "168",
+      "update_id": "2096",
+      "update_time": "2025-01-08 18:22:38",
+      "year": "2021",
+      "province_name": "省外"
+    },
+    {
+      "id": "25690",
+      "school_id": "2158",
+      "province": "云南省",
+      "rate": "83.20",
+      "num": "0",
+      "sort": "832",
+      "update_id": "2096",
+      "update_time": "2025-01-08 18:21:51",
+      "year": "2021",
+      "province_name": "云南省"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "53.00",
+    "政府机构/科研或其他事业单位": "32.00",
+    "国有企业": "10.00",
+    "中外合资/外资/独资": "3.00",
+    "非政府或非营利组织 (NGO等)": "2.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2220",
+      "school_id": "2158",
+      "female_num": "2795",
+      "men_num": "1249",
+      "men_rate": "30.90",
+      "female_rate": "69.10",
+      "update_id": "2096",
+      "update_time": "2025-01-08 18:08:20",
+      "year": "2021"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6900"
+  }
+}

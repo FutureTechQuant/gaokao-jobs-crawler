@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 15:58:45",
+  "school_id": "1496",
+  "school_name": "重庆工商职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "91.25"
+    },
+    "postgraduate": {
+      "1": "31.45"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31338",
+      "school_id": "1496",
+      "province": "福建省",
+      "rate": "1.30",
+      "num": "67",
+      "sort": "130",
+      "update_id": "2234",
+      "update_time": "2025-11-27 15:53:39",
+      "year": "2024",
+      "province_name": "福建省"
+    },
+    {
+      "id": "31337",
+      "school_id": "1496",
+      "province": "江苏省",
+      "rate": "1.87",
+      "num": "97",
+      "sort": "187",
+      "update_id": "2234",
+      "update_time": "2025-11-27 15:53:39",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "31336",
+      "school_id": "1496",
+      "province": "浙江省",
+      "rate": "4.16",
+      "num": "214",
+      "sort": "416",
+      "update_id": "2234",
+      "update_time": "2025-11-27 15:53:39",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "31335",
+      "school_id": "1496",
+      "province": "广东省",
+      "rate": "5.38",
+      "num": "278",
+      "sort": "538",
+      "update_id": "2234",
+      "update_time": "2025-11-27 15:53:39",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "31334",
+      "school_id": "1496",
+      "province": "四川省",
+      "rate": "6.14",
+      "num": "317",
+      "sort": "614",
+      "update_id": "2234",
+      "update_time": "2025-11-27 15:53:39",
+      "year": "2024",
+      "province_name": "四川省"
+    },
+    {
+      "id": "31333",
+      "school_id": "1496",
+      "province": "重庆市",
+      "rate": "72.66",
+      "num": "3749",
+      "sort": "7266",
+      "update_id": "2234",
+      "update_time": "2025-11-27 15:53:39",
+      "year": "2024",
+      "province_name": "重庆市"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个人单位": "73.77",
+    "事业单位": "11.40",
+    "国企": "7.70",
+    "合资": "3.24",
+    "外资": "1.52",
+    "非营利组织": "1.26",
+    "政府机关": "1.11"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

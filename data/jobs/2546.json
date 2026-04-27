@@ -1,0 +1,174 @@
+{
+  "update_time": "2026-04-27 16:09:32",
+  "school_id": "2546",
+  "school_name": "南京医科大学康达学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "72.91"
+    },
+    "postgraduate": {
+      "1": "4.70"
+    },
+    "abroad": {
+      "1": "0.60"
+    }
+  },
+  "province": [
+    {
+      "id": "5183",
+      "school_id": "2546",
+      "province": "其他省市",
+      "rate": "2.03",
+      "num": "20",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "5179",
+      "school_id": "2546",
+      "province": "重庆市",
+      "rate": "0.45",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "重庆市"
+    },
+    {
+      "id": "5186",
+      "school_id": "2546",
+      "province": "甘肃省",
+      "rate": "0.45",
+      "num": "4",
+      "sort": "4",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "甘肃省"
+    },
+    {
+      "id": "5182",
+      "school_id": "2546",
+      "province": "山西省",
+      "rate": "0.57",
+      "num": "6",
+      "sort": "6",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "山西省"
+    },
+    {
+      "id": "5180",
+      "school_id": "2546",
+      "province": "浙江省",
+      "rate": "0.68",
+      "num": "7",
+      "sort": "7",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "5187",
+      "school_id": "2546",
+      "province": "福建省",
+      "rate": "0.79",
+      "num": "8",
+      "sort": "8",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "福建省"
+    },
+    {
+      "id": "5189",
+      "school_id": "2546",
+      "province": "安徽省",
+      "rate": "0.91",
+      "num": "9",
+      "sort": "9",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "5185",
+      "school_id": "2546",
+      "province": "广东省",
+      "rate": "1.13",
+      "num": "11",
+      "sort": "11",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "广东省"
+    },
+    {
+      "id": "5188",
+      "school_id": "2546",
+      "province": "北京市",
+      "rate": "1.59",
+      "num": "16",
+      "sort": "16",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "北京市"
+    },
+    {
+      "id": "5181",
+      "school_id": "2546",
+      "province": "上海市",
+      "rate": "4.08",
+      "num": "40",
+      "sort": "40",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "上海市"
+    },
+    {
+      "id": "5184",
+      "school_id": "2546",
+      "province": "江苏省",
+      "rate": "87.32",
+      "num": "853",
+      "sort": "853",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:16",
+      "year": "2019",
+      "province_name": "江苏省"
+    }
+  ],
+  "attr": {
+    "医疔卫生单位": "69.09",
+    "高等教育单位": "0.66",
+    "其他": "30.25"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "266",
+      "school_id": "2546",
+      "female_num": "1042",
+      "men_num": "298",
+      "men_rate": "22.24",
+      "female_rate": "77.76",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "7500"
+  }
+}

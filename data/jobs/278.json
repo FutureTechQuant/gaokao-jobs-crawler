@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 15:47:27",
+  "school_id": "278",
+  "school_name": "太原科技大学",
+  "jobrateyear": "2020",
+  "jobrate": {
+    "job": {
+      "1": "80.59"
+    },
+    "postgraduate": {
+      "1": "17.33"
+    },
+    "abroad": {
+      "1": "0.45"
+    }
+  },
+  "province": [
+    {
+      "id": "20911",
+      "school_id": "278",
+      "province": "东北地区",
+      "rate": "3.28",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "东北地区"
+    },
+    {
+      "id": "20917",
+      "school_id": "278",
+      "province": "西南地区",
+      "rate": "4.04",
+      "num": "0",
+      "sort": "4",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "西南地区"
+    },
+    {
+      "id": "20914",
+      "school_id": "278",
+      "province": "华南地区",
+      "rate": "5.46",
+      "num": "0",
+      "sort": "5",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "华南地区"
+    },
+    {
+      "id": "20915",
+      "school_id": "278",
+      "province": "华中地区",
+      "rate": "6.36",
+      "num": "0",
+      "sort": "6",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "华中地区"
+    },
+    {
+      "id": "20916",
+      "school_id": "278",
+      "province": "西北地区",
+      "rate": "7.78",
+      "num": "0",
+      "sort": "7",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "西北地区"
+    },
+    {
+      "id": "20913",
+      "school_id": "278",
+      "province": "华东地区",
+      "rate": "19.16",
+      "num": "0",
+      "sort": "19",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "华东地区"
+    },
+    {
+      "id": "20912",
+      "school_id": "278",
+      "province": "华北地区",
+      "rate": "53.91",
+      "num": "0",
+      "sort": "53",
+      "update_id": "2096",
+      "update_time": "2024-09-13 13:53:19",
+      "year": "2020",
+      "province_name": "华北地区"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "10300"
+  }
+}

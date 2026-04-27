@@ -1,0 +1,69 @@
+{
+  "update_time": "2026-04-27 15:54:24",
+  "school_id": "961",
+  "school_name": "肇庆学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "86.88"
+    },
+    "postgraduate": {
+      "1": "5.15"
+    },
+    "abroad": {
+      "1": "1.07"
+    }
+  },
+  "province": [
+    {
+      "id": "24084",
+      "school_id": "961",
+      "province": "广东省外",
+      "rate": "7.90",
+      "num": "434",
+      "sort": "434",
+      "update_id": "2094",
+      "update_time": "2024-12-30 11:41:47",
+      "year": "2023",
+      "province_name": "广东省外"
+    },
+    {
+      "id": "24083",
+      "school_id": "961",
+      "province": "广东省内",
+      "rate": "92.10",
+      "num": "5062",
+      "sort": "5062",
+      "update_id": "2094",
+      "update_time": "2024-12-30 11:40:21",
+      "year": "2023",
+      "province_name": "广东省内"
+    }
+  ],
+  "attr": {
+    "教育单位": "29.82",
+    "党政机关、党群系统、政法系统": "2.87",
+    "事业单位、科研单位": "1.91",
+    "创业": "1.27",
+    "国有企业": "0.84",
+    "其他": "63.29"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2108",
+      "school_id": "961",
+      "female_num": "3832",
+      "men_num": "2122",
+      "men_rate": "35.64",
+      "female_rate": "64.36",
+      "update_id": "2094",
+      "update_time": "2024-12-30 11:29:53",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9800"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:00:52",
+  "school_id": "1734",
+  "school_name": "广西警察学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.84"
+    },
+    "postgraduate": {
+      "1": "6.32"
+    },
+    "abroad": {
+      "1": "0.04"
+    }
+  },
+  "province": [
+    {
+      "id": "20244",
+      "school_id": "1734",
+      "province": "广西区外",
+      "rate": "12.42",
+      "num": "533",
+      "sort": "533",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "广西区外"
+    },
+    {
+      "id": "20245",
+      "school_id": "1734",
+      "province": "广西区内",
+      "rate": "87.58",
+      "num": "3760",
+      "sort": "3760",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:52:54",
+      "year": "2023",
+      "province_name": "广西区内"
+    }
+  ],
+  "attr": {
+    "党政机关": "24.86",
+    "事业单位": "2.03",
+    "国有企业": "1.99",
+    "非国有企业": "36.26",
+    "部队": "2.50",
+    "其他": "4.22"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1837",
+      "school_id": "1734",
+      "female_num": "2541",
+      "men_num": "2460",
+      "men_rate": "49.20",
+      "female_rate": "50.80",
+      "update_id": "2004",
+      "update_time": "2024-06-20 10:59:58",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

@@ -1,0 +1,147 @@
+{
+  "update_time": "2026-04-27 15:59:41",
+  "school_id": "1612",
+  "school_name": "吉林司法警官职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "80.31"
+    },
+    "postgraduate": {
+      "1": "22.32"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "31417",
+      "school_id": "1612",
+      "province": "内蒙古",
+      "rate": "1.24",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "内蒙古"
+    },
+    {
+      "id": "31418",
+      "school_id": "1612",
+      "province": "辽宁",
+      "rate": "1.24",
+      "num": "11",
+      "sort": "11",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "31416",
+      "school_id": "1612",
+      "province": "山东",
+      "rate": "1.35",
+      "num": "12",
+      "sort": "12",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "31415",
+      "school_id": "1612",
+      "province": "广东",
+      "rate": "1.46",
+      "num": "13",
+      "sort": "13",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "31414",
+      "school_id": "1612",
+      "province": "北京",
+      "rate": "1.57",
+      "num": "14",
+      "sort": "14",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "31413",
+      "school_id": "1612",
+      "province": "新疆",
+      "rate": "6.63",
+      "num": "59",
+      "sort": "59",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "新疆"
+    },
+    {
+      "id": "31419",
+      "school_id": "1612",
+      "province": "其他",
+      "rate": "10.45",
+      "num": "93",
+      "sort": "93",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "31412",
+      "school_id": "1612",
+      "province": "吉林",
+      "rate": "76.07",
+      "num": "677",
+      "sort": "677",
+      "update_id": "1988",
+      "update_time": "2025-11-27 17:17:27",
+      "year": "2024",
+      "province_name": "吉林"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "41.86",
+    "机关": "26.16",
+    "个体工商户": "15.58",
+    "其他（含社会组织等）": "12.44",
+    "国有企业": "1.63",
+    "其他事业单位": "0.70",
+    "城镇社区": "0.35",
+    "外商投资企业": "0.35",
+    "医疗卫生单位": "0.35",
+    "中初教育单位": "0.35",
+    "高等教育单位": "0.12",
+    "农村建制村": "0.12"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2694",
+      "school_id": "1612",
+      "female_num": "564",
+      "men_num": "1188",
+      "men_rate": "67.81",
+      "female_rate": "32.19",
+      "update_id": "1988",
+      "update_time": "2025-11-27 16:20:21",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6900"
+  }
+}

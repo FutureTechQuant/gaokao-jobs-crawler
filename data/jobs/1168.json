@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 15:56:18",
+  "school_id": "1168",
+  "school_name": "青岛酒店管理职业技术学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "99.01"
+    },
+    "postgraduate": {
+      "1": "9.44"
+    },
+    "abroad": {
+      "1": "0.70"
+    }
+  },
+  "province": [
+    {
+      "id": "10919",
+      "school_id": "1168",
+      "province": "外省",
+      "rate": "11.48",
+      "num": "506",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-03 18:00:48",
+      "year": "2019",
+      "province_name": "外省"
+    },
+    {
+      "id": "10918",
+      "school_id": "1168",
+      "province": "山东（青岛）",
+      "rate": "56.43",
+      "num": "2487",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-03 18:00:48",
+      "year": "2019",
+      "province_name": "山东（青岛）"
+    },
+    {
+      "id": "10917",
+      "school_id": "1168",
+      "province": "山东省",
+      "rate": "86.07",
+      "num": "3793",
+      "sort": "0",
+      "update_id": "825",
+      "update_time": "2021-06-03 18:00:48",
+      "year": "2019",
+      "province_name": "山东省"
+    }
+  ],
+  "attr": {
+    "非国有企业": "78.67",
+    "国有企业": "4.36",
+    "机关": "0.79",
+    "事业单位": "5.47",
+    "其他（包括部队、基层、城镇社区等）": "10.71"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1235",
+      "school_id": "1168",
+      "female_num": "3008",
+      "men_num": "2022",
+      "men_rate": "40.20",
+      "female_rate": "59.80",
+      "update_id": "825",
+      "update_time": "2021-06-03 17:52:40",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8600"
+  }
+}

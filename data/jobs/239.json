@@ -1,0 +1,251 @@
+{
+  "update_time": "2026-04-27 15:47:01",
+  "school_id": "239",
+  "school_name": "昌吉学院",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "90.06"
+    },
+    "postgraduate": {
+      "1": "4.36"
+    },
+    "abroad": {
+      "1": "0.74"
+    }
+  },
+  "province": [
+    {
+      "id": "739",
+      "school_id": "239",
+      "province": "其他省市",
+      "rate": "1.53",
+      "num": "0",
+      "sort": "0",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "其他省市"
+    },
+    {
+      "id": "734",
+      "school_id": "239",
+      "province": "博州",
+      "rate": "0.65",
+      "num": "7",
+      "sort": "7",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "博州"
+    },
+    {
+      "id": "728",
+      "school_id": "239",
+      "province": "克拉玛依市",
+      "rate": "0.65",
+      "num": "7",
+      "sort": "7",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "克拉玛依市"
+    },
+    {
+      "id": "732",
+      "school_id": "239",
+      "province": "哈密市",
+      "rate": "1.58",
+      "num": "17",
+      "sort": "17",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "哈密市"
+    },
+    {
+      "id": "725",
+      "school_id": "239",
+      "province": "吐鲁番地区",
+      "rate": "1.95",
+      "num": "21",
+      "sort": "21",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "吐鲁番地区"
+    },
+    {
+      "id": "737",
+      "school_id": "239",
+      "province": "阿勒泰地区",
+      "rate": "2.69",
+      "num": "29",
+      "sort": "29",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "阿勒泰地区"
+    },
+    {
+      "id": "727",
+      "school_id": "239",
+      "province": "克州",
+      "rate": "3.25",
+      "num": "35",
+      "sort": "35",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "克州"
+    },
+    {
+      "id": "735",
+      "school_id": "239",
+      "province": "兵团",
+      "rate": "3.25",
+      "num": "35",
+      "sort": "35",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "兵团"
+    },
+    {
+      "id": "736",
+      "school_id": "239",
+      "province": "巴州",
+      "rate": "3.53",
+      "num": "38",
+      "sort": "38",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "巴州"
+    },
+    {
+      "id": "726",
+      "school_id": "239",
+      "province": "塔城地区",
+      "rate": "4.92",
+      "num": "53",
+      "sort": "53",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "塔城地区"
+    },
+    {
+      "id": "730",
+      "school_id": "239",
+      "province": "新疆维吾尔自治区外",
+      "rate": "5.10",
+      "num": "55",
+      "sort": "55",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "新疆维吾尔自治区外"
+    },
+    {
+      "id": "738",
+      "school_id": "239",
+      "province": "阿克苏地区",
+      "rate": "5.84",
+      "num": "63",
+      "sort": "63",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "阿克苏地区"
+    },
+    {
+      "id": "731",
+      "school_id": "239",
+      "province": "和田地区",
+      "rate": "7.14",
+      "num": "77",
+      "sort": "77",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "和田地区"
+    },
+    {
+      "id": "723",
+      "school_id": "239",
+      "province": "伊犁州",
+      "rate": "7.42",
+      "num": "80",
+      "sort": "80",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "伊犁州"
+    },
+    {
+      "id": "729",
+      "school_id": "239",
+      "province": "喀什地区",
+      "rate": "8.35",
+      "num": "90",
+      "sort": "90",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "喀什地区"
+    },
+    {
+      "id": "733",
+      "school_id": "239",
+      "province": "昌吉州",
+      "rate": "21.06",
+      "num": "227",
+      "sort": "227",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "昌吉州"
+    },
+    {
+      "id": "724",
+      "school_id": "239",
+      "province": "乌鲁木齐市",
+      "rate": "21.09",
+      "num": "237",
+      "sort": "237",
+      "update_id": "0",
+      "update_time": "2018-12-18 15:40:13",
+      "year": "2019",
+      "province_name": "乌鲁木齐市"
+    }
+  ],
+  "attr": {
+    "中、初教育单位": "42.12",
+    "民营企业": "42.02",
+    "事业单位": "6.40",
+    "国有企业": "3.25",
+    "党政机关": "2.23",
+    "自主创业": "0.19",
+    "部队单位": "0.09",
+    "其他": "3.70"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "774",
+      "school_id": "239",
+      "female_num": "826",
+      "men_num": "371",
+      "men_rate": "30.99",
+      "female_rate": "69.01",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

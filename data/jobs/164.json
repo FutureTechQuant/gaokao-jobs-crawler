@@ -1,0 +1,37 @@
+{
+  "update_time": "2026-04-27 15:46:12",
+  "school_id": "164",
+  "school_name": "南京财经大学",
+  "jobrateyear": "2019",
+  "jobrate": {
+    "job": {
+      "1": "96.86"
+    },
+    "postgraduate": {
+      "1": "13.51"
+    },
+    "abroad": {
+      "1": "11.33"
+    }
+  },
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "267",
+      "school_id": "164",
+      "female_num": "2415",
+      "men_num": "1452",
+      "men_rate": "37.55",
+      "female_rate": "62.45",
+      "update_id": null,
+      "update_time": null,
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10000"
+  }
+}

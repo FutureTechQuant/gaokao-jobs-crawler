@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 16:06:58",
+  "school_id": "2307",
+  "school_name": "沧州幼儿师范高等专科学校",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "83.00"
+    },
+    "postgraduate": {
+      "1": "22.90"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "29404",
+      "school_id": "2307",
+      "province": "浙江",
+      "rate": "1.00",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "浙江"
+    },
+    {
+      "id": "29405",
+      "school_id": "2307",
+      "province": "广东",
+      "rate": "0.40",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "29406",
+      "school_id": "2307",
+      "province": "江苏",
+      "rate": "0.40",
+      "num": "0",
+      "sort": "1",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "29403",
+      "school_id": "2307",
+      "province": "天津",
+      "rate": "1.10",
+      "num": "0",
+      "sort": "2",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "天津"
+    },
+    {
+      "id": "29402",
+      "school_id": "2307",
+      "province": "山东",
+      "rate": "1.20",
+      "num": "0",
+      "sort": "3",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "29401",
+      "school_id": "2307",
+      "province": "北京",
+      "rate": "10.00",
+      "num": "0",
+      "sort": "10",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "29400",
+      "school_id": "2307",
+      "province": "河北",
+      "rate": "84.00",
+      "num": "0",
+      "sort": "84",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:08:28",
+      "year": "2024",
+      "province_name": "河北"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个体": "78.00",
+    "国有企业": "10.00",
+    "政府机构 / 科研或其他事业单位": "9.00",
+    "中外合资 / 外资 / 独资": "2.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2540",
+      "school_id": "2307",
+      "female_num": "4011",
+      "men_num": "894",
+      "men_rate": "18.20",
+      "female_rate": "81.80",
+      "update_id": "2156",
+      "update_time": "2025-11-13 17:01:21",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8900"
+  }
+}

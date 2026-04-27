@@ -1,0 +1,364 @@
+{
+  "update_time": "2026-04-27 16:08:46",
+  "school_id": "2475",
+  "school_name": "岳阳学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "76.64"
+    },
+    "postgraduate": {
+      "1": "8.82"
+    },
+    "abroad": {
+      "1": "0.18"
+    }
+  },
+  "province": [
+    {
+      "id": "19858",
+      "school_id": "2475",
+      "province": "宁夏",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "宁夏"
+    },
+    {
+      "id": "19857",
+      "school_id": "2475",
+      "province": "甘肃",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "甘肃"
+    },
+    {
+      "id": "19836",
+      "school_id": "2475",
+      "province": "广西",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "广西"
+    },
+    {
+      "id": "19837",
+      "school_id": "2475",
+      "province": "海南",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "海南"
+    },
+    {
+      "id": "19847",
+      "school_id": "2475",
+      "province": "天津",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "天津"
+    },
+    {
+      "id": "19852",
+      "school_id": "2475",
+      "province": "重庆",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "重庆"
+    },
+    {
+      "id": "19851",
+      "school_id": "2475",
+      "province": "西藏",
+      "rate": "0.09",
+      "num": "1",
+      "sort": "1",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "西藏"
+    },
+    {
+      "id": "19846",
+      "school_id": "2475",
+      "province": "山西",
+      "rate": "0.27",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "山西"
+    },
+    {
+      "id": "19850",
+      "school_id": "2475",
+      "province": "云南",
+      "rate": "0.27",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "云南"
+    },
+    {
+      "id": "19856",
+      "school_id": "2475",
+      "province": "陕西",
+      "rate": "0.27",
+      "num": "3",
+      "sort": "3",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "陕西"
+    },
+    {
+      "id": "19842",
+      "school_id": "2475",
+      "province": "安徽",
+      "rate": "0.54",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "安徽"
+    },
+    {
+      "id": "19854",
+      "school_id": "2475",
+      "province": "河南",
+      "rate": "0.54",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "河南"
+    },
+    {
+      "id": "19845",
+      "school_id": "2475",
+      "province": "河北",
+      "rate": "0.54",
+      "num": "6",
+      "sort": "6",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "河北"
+    },
+    {
+      "id": "19849",
+      "school_id": "2475",
+      "province": "贵州",
+      "rate": "0.63",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "贵州"
+    },
+    {
+      "id": "19844",
+      "school_id": "2475",
+      "province": "山东",
+      "rate": "0.63",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "山东"
+    },
+    {
+      "id": "19848",
+      "school_id": "2475",
+      "province": "四川",
+      "rate": "0.72",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "四川"
+    },
+    {
+      "id": "19841",
+      "school_id": "2475",
+      "province": "江西",
+      "rate": "0.72",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "江西"
+    },
+    {
+      "id": "19855",
+      "school_id": "2475",
+      "province": "新疆",
+      "rate": "0.72",
+      "num": "8",
+      "sort": "8",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "新疆"
+    },
+    {
+      "id": "19853",
+      "school_id": "2475",
+      "province": "湖北",
+      "rate": "0.81",
+      "num": "9",
+      "sort": "9",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "湖北"
+    },
+    {
+      "id": "19835",
+      "school_id": "2475",
+      "province": "福建",
+      "rate": "0.90",
+      "num": "10",
+      "sort": "10",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "福建"
+    },
+    {
+      "id": "19843",
+      "school_id": "2475",
+      "province": "北京",
+      "rate": "1.44",
+      "num": "16",
+      "sort": "16",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "北京"
+    },
+    {
+      "id": "19840",
+      "school_id": "2475",
+      "province": "上海",
+      "rate": "2.34",
+      "num": "26",
+      "sort": "26",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "上海"
+    },
+    {
+      "id": "19839",
+      "school_id": "2475",
+      "province": "江苏",
+      "rate": "3.33",
+      "num": "37",
+      "sort": "37",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "江苏"
+    },
+    {
+      "id": "19838",
+      "school_id": "2475",
+      "province": "浙江",
+      "rate": "4.05",
+      "num": "45",
+      "sort": "45",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "浙江"
+    },
+    {
+      "id": "19834",
+      "school_id": "2475",
+      "province": "广东",
+      "rate": "24.55",
+      "num": "273",
+      "sort": "273",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "广东"
+    },
+    {
+      "id": "19833",
+      "school_id": "2475",
+      "province": "湖南",
+      "rate": "55.94",
+      "num": "622",
+      "sort": "622",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:05:08",
+      "year": "2023",
+      "province_name": "湖南"
+    }
+  ],
+  "attr": {
+    "其他企业": "60.70",
+    "三资企业": "21.58",
+    "国有企业": "5.94",
+    "其他事业单位": "3.24",
+    "其他教学单位": "3.15",
+    "部队": "2.43",
+    "机关": "1.53",
+    "自主创业": "0.54",
+    "国家基层项目": "0.45",
+    "城镇社区": "0.27"
+  },
+  "company": {
+    "中国化学工程股份有限公司": "6",
+    "中国农业银行股份有限公司": "4"
+  },
+  "gradute": [
+    {
+      "id": "1791",
+      "school_id": "2475",
+      "female_num": "959",
+      "men_num": "685",
+      "men_rate": "41.67",
+      "female_rate": "58.33",
+      "update_id": "2004",
+      "update_time": "2024-06-18 14:06:12",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8100"
+  }
+}

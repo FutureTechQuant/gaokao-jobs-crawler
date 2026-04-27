@@ -1,0 +1,27 @@
+{
+  "update_time": "2026-04-27 15:54:11",
+  "school_id": "942",
+  "school_name": "江西青年职业学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "928",
+      "school_id": "942",
+      "female_num": "712",
+      "men_num": "641",
+      "men_rate": "47.38",
+      "female_rate": "52.62",
+      "update_id": "929",
+      "update_time": "2020-07-11 11:48:47",
+      "year": "2019"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8700"
+  }
+}

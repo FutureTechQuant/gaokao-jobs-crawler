@@ -1,0 +1,52 @@
+{
+  "update_time": "2026-04-27 16:00:55",
+  "school_id": "1737",
+  "school_name": "广西水利电力职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.05"
+    },
+    "postgraduate": {
+      "1": "23.80"
+    },
+    "abroad": {
+      "1": "0.01"
+    }
+  },
+  "province": [
+    {
+      "id": "29529",
+      "school_id": "1737",
+      "province": "一带一路沿线省市",
+      "rate": "95.70",
+      "num": "0",
+      "sort": "3269",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:10:37",
+      "year": "2024",
+      "province_name": "一带一路沿线省市"
+    }
+  ],
+  "attr": {
+    "民营企业 / 个体": "70.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2554",
+      "school_id": "1737",
+      "female_num": "1635",
+      "men_num": "6314",
+      "men_rate": "79.40",
+      "female_rate": "20.60",
+      "update_id": "2156",
+      "update_time": "2025-11-13 18:07:02",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "6900"
+  }
+}

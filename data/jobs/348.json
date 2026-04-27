@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-04-27 15:48:16",
+  "school_id": "348",
+  "school_name": "云南中医药大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.55"
+    },
+    "postgraduate": {
+      "1": "15.62"
+    },
+    "abroad": {
+      "1": "0.07"
+    }
+  },
+  "province": [
+    {
+      "id": "31317",
+      "school_id": "348",
+      "province": "江苏",
+      "rate": "1.43",
+      "num": "0",
+      "sort": "143",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:14:45",
+      "year": "2024",
+      "province_name": "江苏"
+    },
+    {
+      "id": "31315",
+      "school_id": "348",
+      "province": "广东",
+      "rate": "1.69",
+      "num": "0",
+      "sort": "169",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:14:19",
+      "year": "2024",
+      "province_name": "广东"
+    },
+    {
+      "id": "31316",
+      "school_id": "348",
+      "province": "新疆",
+      "rate": "1.69",
+      "num": "0",
+      "sort": "169",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:14:33",
+      "year": "2024",
+      "province_name": "新疆"
+    },
+    {
+      "id": "31314",
+      "school_id": "348",
+      "province": "四川",
+      "rate": "2.33",
+      "num": "0",
+      "sort": "233",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:14:01",
+      "year": "2024",
+      "province_name": "四川"
+    },
+    {
+      "id": "31313",
+      "school_id": "348",
+      "province": "云南",
+      "rate": "84.43",
+      "num": "0",
+      "sort": "8443",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:13:43",
+      "year": "2024",
+      "province_name": "云南"
+    }
+  ],
+  "attr": {
+    "政府机构/科研或其他事业单位": "58.00",
+    "民营企业/个体": "26.00",
+    "国有企业": "12.00",
+    "民非组织": "3.00",
+    "中外合资/外资/港澳台": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2687",
+      "school_id": "348",
+      "female_num": "2005",
+      "men_num": "838",
+      "men_rate": "29.48",
+      "female_rate": "70.52",
+      "update_id": "1988",
+      "update_time": "2025-11-27 15:13:05",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8200"
+  }
+}

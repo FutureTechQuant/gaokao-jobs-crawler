@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 15:57:56",
+  "school_id": "1387",
+  "school_name": "河北传媒学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.59"
+    },
+    "postgraduate": {
+      "1": "1.86"
+    },
+    "abroad": {
+      "1": "0.54"
+    }
+  },
+  "province": [
+    {
+      "id": "23510",
+      "school_id": "1387",
+      "province": "新一线城市",
+      "rate": "13.09",
+      "num": "0",
+      "sort": "1309",
+      "update_id": "1988",
+      "update_time": "2024-10-31 15:40:22",
+      "year": "2023",
+      "province_name": "新一线城市"
+    },
+    {
+      "id": "23509",
+      "school_id": "1387",
+      "province": "带一路",
+      "rate": "13.89",
+      "num": "0",
+      "sort": "1389",
+      "update_id": "1988",
+      "update_time": "2024-10-31 15:40:04",
+      "year": "2023",
+      "province_name": "带一路"
+    },
+    {
+      "id": "23508",
+      "school_id": "1387",
+      "province": "长江经济带",
+      "rate": "14.64",
+      "num": "0",
+      "sort": "1464",
+      "update_id": "1988",
+      "update_time": "2024-10-31 15:39:48",
+      "year": "2023",
+      "province_name": "长江经济带"
+    },
+    {
+      "id": "23507",
+      "school_id": "1387",
+      "province": "京津冀",
+      "rate": "67.32",
+      "num": "0",
+      "sort": "6732",
+      "update_id": "1988",
+      "update_time": "2024-10-31 15:39:31",
+      "year": "2023",
+      "province_name": "京津冀"
+    }
+  ],
+  "attr": {
+    "民营企业/ 个体": "73.31",
+    "政府机构/ 科研或其他 事业单位": "14.33",
+    "国有企业": "9.71",
+    "中外合资/ 外资/独资": "1.68",
+    "民非组织": "0.98"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2061",
+      "school_id": "1387",
+      "female_num": "3844",
+      "men_num": "2084",
+      "men_rate": "35.16",
+      "female_rate": "64.84",
+      "update_id": "1988",
+      "update_time": "2024-10-31 15:39:01",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9100"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 15:47:57",
+  "school_id": "322",
+  "school_name": "安徽建筑大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "91.13"
+    },
+    "postgraduate": {
+      "1": "21.41"
+    },
+    "abroad": {
+      "1": "1.25"
+    }
+  },
+  "province": [
+    {
+      "id": "15946",
+      "school_id": "322",
+      "province": "东北三省",
+      "rate": "0.19",
+      "num": "7",
+      "sort": "7",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "东北三省"
+    },
+    {
+      "id": "15945",
+      "school_id": "322",
+      "province": "西部城市",
+      "rate": "2.36",
+      "num": "86",
+      "sort": "86",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "西部城市"
+    },
+    {
+      "id": "15944",
+      "school_id": "322",
+      "province": "珠三角（广东）",
+      "rate": "2.36",
+      "num": "86",
+      "sort": "86",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "珠三角（广东）"
+    },
+    {
+      "id": "15943",
+      "school_id": "322",
+      "province": "其他地区",
+      "rate": "3.56",
+      "num": "130",
+      "sort": "130",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "其他地区"
+    },
+    {
+      "id": "15942",
+      "school_id": "322",
+      "province": "中原地区",
+      "rate": "3.84",
+      "num": "140",
+      "sort": "140",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "中原地区"
+    },
+    {
+      "id": "15941",
+      "school_id": "322",
+      "province": "环渤海经济圈",
+      "rate": "3.89",
+      "num": "142",
+      "sort": "142",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "环渤海经济圈"
+    },
+    {
+      "id": "15940",
+      "school_id": "322",
+      "province": "江浙沪",
+      "rate": "17.79",
+      "num": "649",
+      "sort": "649",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "江浙沪"
+    },
+    {
+      "id": "15939",
+      "school_id": "322",
+      "province": "安徽省",
+      "rate": "66.02",
+      "num": "2409",
+      "sort": "2409",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:10",
+      "year": "2023",
+      "province_name": "安徽省"
+    }
+  ],
+  "attr": {
+    "其他企业": "68.67",
+    "国有企业": "26.81",
+    "三资企业": "2.36",
+    "机关事业单位": "1.45",
+    "教育单位": "0.47",
+    "医疗卫生单位": "0.17",
+    "科研设计单位": "0.07"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1520",
+      "school_id": "322",
+      "female_num": "1571",
+      "men_num": "2895",
+      "men_rate": "64.82",
+      "female_rate": "35.18",
+      "update_id": "2004",
+      "update_time": "2024-06-05 14:58:44",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10600"
+  }
+}

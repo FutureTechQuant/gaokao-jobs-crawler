@@ -1,0 +1,99 @@
+{
+  "update_time": "2026-04-27 15:56:05",
+  "school_id": "1153",
+  "school_name": "内蒙古交通职业技术学院",
+  "jobrateyear": "",
+  "jobrate": {},
+  "province": [
+    {
+      "id": "29335",
+      "school_id": "1153",
+      "province": "山东",
+      "rate": "2.85",
+      "num": "0",
+      "sort": "285",
+      "update_id": "2096",
+      "update_time": "2025-11-13 15:40:43",
+      "year": "2024",
+      "province_name": "山东"
+    },
+    {
+      "id": "29334",
+      "school_id": "1153",
+      "province": "北京",
+      "rate": "5.47",
+      "num": "0",
+      "sort": "547",
+      "update_id": "2096",
+      "update_time": "2025-11-13 15:40:23",
+      "year": "2024",
+      "province_name": "北京"
+    },
+    {
+      "id": "29333",
+      "school_id": "1153",
+      "province": "辽宁",
+      "rate": "9.13",
+      "num": "0",
+      "sort": "913",
+      "update_id": "2096",
+      "update_time": "2025-11-13 15:40:08",
+      "year": "2024",
+      "province_name": "辽宁"
+    },
+    {
+      "id": "29336",
+      "school_id": "1153",
+      "province": "其他",
+      "rate": "15.88",
+      "num": "0",
+      "sort": "1588",
+      "update_id": "2096",
+      "update_time": "2025-11-13 15:41:31",
+      "year": "2024",
+      "province_name": "其他"
+    },
+    {
+      "id": "29332",
+      "school_id": "1153",
+      "province": "内蒙古",
+      "rate": "66.67",
+      "num": "0",
+      "sort": "6667",
+      "update_id": "2096",
+      "update_time": "2025-11-13 15:39:52",
+      "year": "2024",
+      "province_name": "内蒙古"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "65.33",
+    "个体工商户": "17.10",
+    "国有企业": "14.54",
+    "外商投资企业": "0.99",
+    "其他事业单位": "0.76",
+    "其他（含社会组织等）": "0.64",
+    "机关": "0.35",
+    "中初教育单位": "0.12",
+    "医疗卫生单位": "0.12",
+    "科研设计单位": "0.06"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2534",
+      "school_id": "1153",
+      "female_num": "378",
+      "men_num": "1726",
+      "men_rate": "82.03",
+      "female_rate": "17.97",
+      "update_id": "2096",
+      "update_time": "2025-11-13 15:36:48",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8600"
+  }
+}

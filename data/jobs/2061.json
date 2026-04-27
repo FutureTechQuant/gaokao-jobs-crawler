@@ -1,0 +1,143 @@
+{
+  "update_time": "2026-04-27 16:04:29",
+  "school_id": "2061",
+  "school_name": "广东外语外贸大学南国商学院",
+  "jobrateyear": "2022",
+  "jobrate": {
+    "job": {
+      "1": "87.78"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "17980",
+      "school_id": "2061",
+      "province": "广东省广州市",
+      "rate": "37.26",
+      "num": "0",
+      "sort": "1",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省广州市"
+    },
+    {
+      "id": "17981",
+      "school_id": "2061",
+      "province": "广东省深圳市",
+      "rate": "16.45",
+      "num": "0",
+      "sort": "2",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省深圳市"
+    },
+    {
+      "id": "17982",
+      "school_id": "2061",
+      "province": "广东省佛山市",
+      "rate": "8.72",
+      "num": "0",
+      "sort": "3",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省佛山市"
+    },
+    {
+      "id": "17983",
+      "school_id": "2061",
+      "province": "广东省东莞市",
+      "rate": "5.90",
+      "num": "0",
+      "sort": "4",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省东莞市"
+    },
+    {
+      "id": "17984",
+      "school_id": "2061",
+      "province": "广东省惠州市",
+      "rate": "2.63",
+      "num": "0",
+      "sort": "5",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省惠州市"
+    },
+    {
+      "id": "17985",
+      "school_id": "2061",
+      "province": "广东省中山市",
+      "rate": "2.48",
+      "num": "0",
+      "sort": "6",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省中山市"
+    },
+    {
+      "id": "17986",
+      "school_id": "2061",
+      "province": "广东省珠海市",
+      "rate": "1.93",
+      "num": "0",
+      "sort": "7",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省珠海市"
+    },
+    {
+      "id": "17987",
+      "school_id": "2061",
+      "province": "广东省江门市",
+      "rate": "1.49",
+      "num": "0",
+      "sort": "8",
+      "update_id": "1639",
+      "update_time": "2024-06-14 18:25:20",
+      "year": "2022",
+      "province_name": "广东省江门市"
+    }
+  ],
+  "attr": {
+    "其他": "11.00",
+    "征兵入伍": "0.20",
+    "国家项目": "0.50",
+    "机关单位": "1.34",
+    "外资或合资企业": "3.32",
+    "事业单位": "4.81",
+    "国有企业": "6.49",
+    "民营及私营企业": "62.98"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1655",
+      "school_id": "2061",
+      "female_num": "1594",
+      "men_num": "705",
+      "men_rate": "30.67",
+      "female_rate": "69.33",
+      "update_id": "1639",
+      "update_time": "2024-06-14 14:10:02",
+      "year": "2022"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9300"
+  }
+}

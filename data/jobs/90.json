@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 15:45:22",
+  "school_id": "90",
+  "school_name": "天津职业技术师范大学",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "85.80"
+    },
+    "postgraduate": {
+      "1": "5.20"
+    },
+    "abroad": {
+      "1": "0.90"
+    }
+  },
+  "province": [
+    {
+      "id": "24325",
+      "school_id": "90",
+      "province": "苏州市",
+      "rate": "0.80",
+      "num": "0",
+      "sort": "80",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "苏州市"
+    },
+    {
+      "id": "24324",
+      "school_id": "90",
+      "province": "鄂尔多斯市",
+      "rate": "1.50",
+      "num": "0",
+      "sort": "150",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "鄂尔多斯市"
+    },
+    {
+      "id": "24323",
+      "school_id": "90",
+      "province": "深圳市",
+      "rate": "1.50",
+      "num": "0",
+      "sort": "150",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "深圳市"
+    },
+    {
+      "id": "24322",
+      "school_id": "90",
+      "province": "宁波市",
+      "rate": "1.50",
+      "num": "0",
+      "sort": "150",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "宁波市"
+    },
+    {
+      "id": "24321",
+      "school_id": "90",
+      "province": "广州市",
+      "rate": "1.50",
+      "num": "0",
+      "sort": "150",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "广州市"
+    },
+    {
+      "id": "24319",
+      "school_id": "90",
+      "province": "杭州市",
+      "rate": "2.10",
+      "num": "0",
+      "sort": "210",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "杭州市"
+    },
+    {
+      "id": "24320",
+      "school_id": "90",
+      "province": "上海市",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "24318",
+      "school_id": "90",
+      "province": "青岛市",
+      "rate": "2.20",
+      "num": "0",
+      "sort": "220",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "青岛市"
+    },
+    {
+      "id": "24317",
+      "school_id": "90",
+      "province": "北京市",
+      "rate": "3.50",
+      "num": "0",
+      "sort": "350",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "24316",
+      "school_id": "90",
+      "province": "天津市",
+      "rate": "15.80",
+      "num": "0",
+      "sort": "1580",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:19:04",
+      "year": "2023",
+      "province_name": "天津市"
+    }
+  ],
+  "attr": {
+    "民营企业/个体": "41.00",
+    "政府机构/科研或其他事业单位": "33.00",
+    "国有企业": "20.00",
+    "中外合资/外资/独资": "5.00",
+    "民非组织": "1.00"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2129",
+      "school_id": "90",
+      "female_num": "1779",
+      "men_num": "2067",
+      "men_rate": "53.70",
+      "female_rate": "46.30",
+      "update_id": "1211",
+      "update_time": "2025-01-03 17:08:00",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "9700"
+  }
+}

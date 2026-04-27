@@ -1,0 +1,162 @@
+{
+  "update_time": "2026-04-27 15:55:55",
+  "school_id": "1133",
+  "school_name": "中南林业科技大学涉外学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "74.28"
+    },
+    "postgraduate": {
+      "1": "3.01"
+    },
+    "abroad": {
+      "1": "0.71"
+    }
+  },
+  "province": [
+    {
+      "id": "23960",
+      "school_id": "1133",
+      "province": "湖北省",
+      "rate": "0.51",
+      "num": "0",
+      "sort": "51",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "湖北省"
+    },
+    {
+      "id": "23959",
+      "school_id": "1133",
+      "province": "安徽省",
+      "rate": "0.63",
+      "num": "0",
+      "sort": "63",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "安徽省"
+    },
+    {
+      "id": "23958",
+      "school_id": "1133",
+      "province": "江西省",
+      "rate": "0.96",
+      "num": "0",
+      "sort": "96",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "江西省"
+    },
+    {
+      "id": "23957",
+      "school_id": "1133",
+      "province": "北京市",
+      "rate": "0.99",
+      "num": "0",
+      "sort": "99",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "北京市"
+    },
+    {
+      "id": "23956",
+      "school_id": "1133",
+      "province": "江苏省",
+      "rate": "1.01",
+      "num": "0",
+      "sort": "101",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "23955",
+      "school_id": "1133",
+      "province": "上海市",
+      "rate": "1.06",
+      "num": "0",
+      "sort": "106",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "上海市"
+    },
+    {
+      "id": "23954",
+      "school_id": "1133",
+      "province": "浙江省",
+      "rate": "1.60",
+      "num": "0",
+      "sort": "160",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "23953",
+      "school_id": "1133",
+      "province": "广东省",
+      "rate": "13.00",
+      "num": "0",
+      "sort": "1300",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "广东省"
+    },
+    {
+      "id": "23952",
+      "school_id": "1133",
+      "province": "湖南省",
+      "rate": "49.56",
+      "num": "0",
+      "sort": "4956",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:39:22",
+      "year": "2023",
+      "province_name": "湖南省"
+    }
+  ],
+  "attr": {
+    "其他企业": "60.93",
+    "国有企业": "3.39",
+    "升学": "3.01",
+    "自由职业": "2.15",
+    "部队": "0.96",
+    "机关": "0.86",
+    "自主创业": "0.84",
+    "出国、出境深造": "0.71",
+    "国家基层项目": "0.51",
+    "其他教学单位": "0.38",
+    "其他事业单位": "0.33",
+    "三资企业": "0.08",
+    "医疗卫生单位": "0.08",
+    "城镇社区": "0.03",
+    "农村建制村": "0.03"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2094",
+      "school_id": "1133",
+      "female_num": "2296",
+      "men_num": "1624",
+      "men_rate": "41.15",
+      "female_rate": "58.17",
+      "update_id": "2094",
+      "update_time": "2024-12-25 17:25:41",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8500"
+  }
+}

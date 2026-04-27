@@ -1,0 +1,62 @@
+{
+  "update_time": "2026-04-27 15:59:53",
+  "school_id": "1630",
+  "school_name": "科尔沁艺术职业学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "0.00"
+    },
+    "postgraduate": {
+      "1": "23.18"
+    },
+    "abroad": {
+      "1": "0.43"
+    }
+  },
+  "province": [
+    {
+      "id": "32784",
+      "school_id": "1630",
+      "province": "区外",
+      "rate": "16.56",
+      "num": "0",
+      "sort": "1656",
+      "update_id": "2096",
+      "update_time": "2025-12-02 11:28:44",
+      "year": "2024",
+      "province_name": "区外"
+    },
+    {
+      "id": "32783",
+      "school_id": "1630",
+      "province": "区内",
+      "rate": "83.44",
+      "num": "0",
+      "sort": "8344",
+      "update_id": "2096",
+      "update_time": "2025-12-02 11:28:18",
+      "year": "2024",
+      "province_name": "区内"
+    }
+  ],
+  "attr": {},
+  "company": {},
+  "gradute": [
+    {
+      "id": "2815",
+      "school_id": "1630",
+      "female_num": "242",
+      "men_num": "224",
+      "men_rate": "48.07",
+      "female_rate": "51.93",
+      "update_id": "2096",
+      "update_time": "2025-12-02 11:26:31",
+      "year": "2024"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "8400"
+  }
+}

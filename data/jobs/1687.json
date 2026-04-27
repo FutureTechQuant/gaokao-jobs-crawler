@@ -1,0 +1,157 @@
+{
+  "update_time": "2026-04-27 16:00:24",
+  "school_id": "1687",
+  "school_name": "沈阳职业技术学院",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "90.95"
+    },
+    "postgraduate": {
+      "1": "0.00"
+    },
+    "abroad": {
+      "1": "0.00"
+    }
+  },
+  "province": [
+    {
+      "id": "30962",
+      "school_id": "1687",
+      "province": "吉林省",
+      "rate": "0.51",
+      "num": "0",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "吉林省"
+    },
+    {
+      "id": "30963",
+      "school_id": "1687",
+      "province": "上海市",
+      "rate": "0.51",
+      "num": "0",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "上海市"
+    },
+    {
+      "id": "30964",
+      "school_id": "1687",
+      "province": "河北省",
+      "rate": "0.51",
+      "num": "0",
+      "sort": "51",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "河北省"
+    },
+    {
+      "id": "30961",
+      "school_id": "1687",
+      "province": "新疆维吾尔自治区",
+      "rate": "0.54",
+      "num": "0",
+      "sort": "54",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "新疆维吾尔自治区"
+    },
+    {
+      "id": "30960",
+      "school_id": "1687",
+      "province": "山东省",
+      "rate": "0.59",
+      "num": "0",
+      "sort": "59",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "山东省"
+    },
+    {
+      "id": "30959",
+      "school_id": "1687",
+      "province": "广东省",
+      "rate": "0.75",
+      "num": "0",
+      "sort": "75",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "广东省"
+    },
+    {
+      "id": "30958",
+      "school_id": "1687",
+      "province": "北京市",
+      "rate": "0.80",
+      "num": "0",
+      "sort": "80",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "北京市"
+    },
+    {
+      "id": "30957",
+      "school_id": "1687",
+      "province": "浙江省",
+      "rate": "0.90",
+      "num": "0",
+      "sort": "90",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "浙江省"
+    },
+    {
+      "id": "30956",
+      "school_id": "1687",
+      "province": "江苏省",
+      "rate": "1.03",
+      "num": "0",
+      "sort": "103",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "江苏省"
+    },
+    {
+      "id": "30955",
+      "school_id": "1687",
+      "province": "辽宁省",
+      "rate": "90.51",
+      "num": "0",
+      "sort": "9051",
+      "update_id": "1988",
+      "update_time": "2025-11-26 18:06:18",
+      "year": "2024",
+      "province_name": "辽宁省"
+    }
+  ],
+  "attr": {
+    "其他企业（含民营企业等）": "79.19",
+    "个体工商户": "9.62",
+    "社会组织、国际组织等": "4.65",
+    "国有企业": "3.82",
+    "外商投资企业": "1.69",
+    "其他事业单位": "0.45",
+    "机关": "0.25",
+    "城镇社区": "0.25",
+    "农村建制村": "0.03",
+    "部队": "0.03"
+  },
+  "company": {},
+  "gradute": [],
+  "remark": "",
+  "salary": {
+    "6": "6000"
+  }
+}

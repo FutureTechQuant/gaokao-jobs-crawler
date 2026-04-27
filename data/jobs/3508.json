@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:15:41",
+  "school_id": "3508",
+  "school_name": "青岛航空科技职业学院",
+  "jobrateyear": "2023",
+  "jobrate": {
+    "job": {
+      "1": "81.23"
+    },
+    "postgraduate": {
+      "1": "4.85"
+    },
+    "abroad": {
+      "1": "0.65"
+    }
+  },
+  "province": [
+    {
+      "id": "27602",
+      "school_id": "3508",
+      "province": "山东省外",
+      "rate": "34.19",
+      "num": "80",
+      "sort": "80",
+      "update_id": "2094",
+      "update_time": "2025-07-07 18:43:44",
+      "year": "2023",
+      "province_name": "山东省外"
+    },
+    {
+      "id": "27601",
+      "school_id": "3508",
+      "province": "山东省内",
+      "rate": "65.81",
+      "num": "154",
+      "sort": "154",
+      "update_id": "2094",
+      "update_time": "2025-07-07 18:42:58",
+      "year": "2023",
+      "province_name": "山东省内"
+    }
+  ],
+  "attr": {
+    "非国有企业": "81.62",
+    "国有企业": "9.40",
+    "其他": "7.26",
+    "机关": "0.85",
+    "事业单位": "0.43",
+    "自由职业": "0.43"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "2341",
+      "school_id": "3508",
+      "female_num": "123",
+      "men_num": "186",
+      "men_rate": "60.19",
+      "female_rate": "39.81",
+      "update_id": "2094",
+      "update_time": "2025-07-07 18:40:12",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {}
+}

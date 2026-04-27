@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 15:45:15",
+  "school_id": "78",
+  "school_name": "天津医科大学",
+  "jobrateyear": "2024",
+  "jobrate": {
+    "job": {
+      "1": "82.63"
+    },
+    "postgraduate": {
+      "1": "58.82"
+    },
+    "abroad": {
+      "1": "0.98"
+    }
+  },
+  "province": [
+    {
+      "id": "27950",
+      "school_id": "78",
+      "province": "天津市外",
+      "rate": "33.20",
+      "num": "0",
+      "sort": "3320",
+      "update_id": "2314",
+      "update_time": "2025-11-10 18:19:27",
+      "year": "2024",
+      "province_name": "天津市外"
+    },
+    {
+      "id": "27939",
+      "school_id": "78",
+      "province": "天津市内",
+      "rate": "66.80",
+      "num": "0",
+      "sort": "6680",
+      "update_id": "2314",
+      "update_time": "2025-11-10 18:18:55",
+      "year": "2024",
+      "province_name": "天津市内"
+    }
+  ],
+  "attr": {
+    "其他事业单位": "37.89",
+    "医院": "32.41",
+    "企业、公司": "29.69"
+  },
+  "company": {},
+  "gradute": [
+    {
+      "id": "1392",
+      "school_id": "78",
+      "female_num": "801",
+      "men_num": "416",
+      "men_rate": "34.18",
+      "female_rate": "65.82",
+      "update_id": "1721",
+      "update_time": "2024-05-22 10:41:27",
+      "year": "2023"
+    }
+  ],
+  "remark": "",
+  "salary": {
+    "6": "10700"
+  }
+}
