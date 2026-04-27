@@ -209,9 +209,7 @@ class JobCrawler(BaseCrawler):
                 continue
 
             if not self._first_logged:
-                print(f'
-
-   📡 [就业接口] school_id={school_id}')
+                print(f'   📡 [就业接口] school_id={school_id}')
                 print(f'      URL: https://static-data.gaokao.cn/www/2.0/school/{school_id}/pc_jobdetail.json?a=www.gaokao.cn')
                 print('      ' + '─' * 50)
                 print(f"      data包含键: {list(data.keys())}")
@@ -236,9 +234,7 @@ class JobCrawler(BaseCrawler):
                     last_error=None,
                     status='running',
                 )
-                print(f'
-   ↻ 已阶段性保存：学校进度 {school_index + 1}/{len(schools)}，已写入 {saved_count} 个文件
-')
+                print(f'   ↻ 已阶段性保存：学校进度 {school_index + 1}/{len(schools)}，已写入 {saved_count} 个文件')
 
             self.polite_sleep(0.2, 0.6)
 
