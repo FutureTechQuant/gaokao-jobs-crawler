@@ -177,14 +177,10 @@ class JobCrawler(BaseCrawler):
         started_at = time.time()
         saved_count = 0
 
-        print("
-" + "=" * 60)
         print('启动就业数据爬虫')
         print(f'学校数: {len(schools)}')
         print(f'软截止: {self.format_duration(self.run_deadline_seconds)}')
         print(f'学校起始索引: {start_index + 1}/{len(schools)}')
-        print("=" * 60 + "
-")
 
         for school_index in range(start_index, len(schools)):
             if self.should_stop(started_at):
@@ -249,13 +245,10 @@ class JobCrawler(BaseCrawler):
         self.clear_progress()
         total_files = len(list(self.data_dir.glob('*.json')))
 
-        print("
-" + "=" * 60)
+
         print('✅ 就业数据爬取完成！')
         print(f'   本轮写入: {saved_count} 个文件')
         print(f'   累计文件: {total_files} 个')
-        print("=" * 60 + "
-")
         return {
             'status': 'done',
             'saved_documents': total_files,
